@@ -1,0 +1,670 @@
+Attaching SeuratObject
+Warning message:
+package ‘Seurat’ was built under R version 4.1.2 
+Setting default number of Parallel threads to 8.
+Setting default genome to Mm10.
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+ArchR logging to : ArchRLogs/ArchR-createArrows-feb94a2bacf3-Date-2022-05-24_Time-10-53-55.log
+If there is an issue, please report to github with logFile!
+2022-05-24 10:53:56 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2022-05-24 10:53:56 : (H_14_M_2 : 1 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.003 mins elapsed.
+2022-05-24 10:53:56 : (C_14_M_1 : 3 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.004 mins elapsed.
+2022-05-24 10:53:56 : (H_14_F_2 : 4 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.004 mins elapsed.
+2022-05-24 10:53:56 : (H_14_F_1 : 2 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.004 mins elapsed.
+2022-05-24 10:53:56 : (C_14_M_2 : 5 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.005 mins elapsed.
+2022-05-24 10:53:56 : (HC_14_M_1 : 6 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.005 mins elapsed.
+2022-05-24 10:53:56 : (C_14_F_1 : 7 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.006 mins elapsed.
+2022-05-24 10:53:56 : (C_2m_M_1 : 8 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.006 mins elapsed.
+2022-05-24 10:53:56 : (C_2m_M_2 : 9 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.007 mins elapsed.
+2022-05-24 10:53:56 : (C_14_F_2 : 10 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.007 mins elapsed.
+2022-05-24 10:53:56 : (A_14_F_2 : 11 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.008 mins elapsed.
+2022-05-24 10:53:56 : (C_2m_F_1 : 12 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.008 mins elapsed.
+2022-05-24 10:53:56 : (A_14_F_1 : 13 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.008 mins elapsed.
+2022-05-24 10:53:57 : (H_14_M_1 : 14 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.009 mins elapsed.
+2022-05-24 10:53:57 : (HC_14_F_1 : 15 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.01 mins elapsed.
+2022-05-24 10:53:57 : (A_2m_F_1 : 16 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.01 mins elapsed.
+2022-05-24 10:53:57 : (A_14_M_1 : 17 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.01 mins elapsed.
+2022-05-24 10:53:57 : (HC_2m_F_2 : 18 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.011 mins elapsed.
+2022-05-24 10:53:57 : (A_2m_M_2 : 21 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.011 mins elapsed.
+2022-05-24 10:53:57 : (H_2m_F_1 : 20 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.012 mins elapsed.
+2022-05-24 10:53:57 : (G_2m_F_2 : 19 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.012 mins elapsed.
+2022-05-24 10:53:57 : (G_2m_M_2 : 22 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.012 mins elapsed.
+2022-05-24 10:53:57 : (HC_14_F_2 : 23 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.013 mins elapsed.
+2022-05-24 10:53:57 : (A_14_M_2 : 24 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.013 mins elapsed.
+2022-05-24 10:53:57 : (H_2m_F_2 : 26 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.014 mins elapsed.
+2022-05-24 10:53:57 : (A_2m_M_1 : 25 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.014 mins elapsed.
+2022-05-24 10:53:57 : (G_14_M_1 : 28 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.014 mins elapsed.
+2022-05-24 10:53:57 : (G_2m_M_1 : 27 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.015 mins elapsed.
+2022-05-24 10:53:57 : (C_2m_F_2 : 30 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.016 mins elapsed.
+2022-05-24 10:53:57 : (HC_14_M_2 : 29 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.016 mins elapsed.
+2022-05-24 10:53:57 : (HC_2m_F_1 : 31 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.016 mins elapsed.
+2022-05-24 10:53:57 : (H_2m_M_2 : 32 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.016 mins elapsed.
+2022-05-24 10:53:57 : (H_2m_M_1 : 33 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.017 mins elapsed.
+2022-05-24 10:53:57 : (G_14_F_1 : 34 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.018 mins elapsed.
+2022-05-24 10:53:57 : (A_2m_F_2 : 35 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.018 mins elapsed.
+2022-05-24 10:53:57 : (G_14_F_2 : 36 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.018 mins elapsed.
+2022-05-24 10:53:57 : (G_2m_F_1 : 38 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.019 mins elapsed.
+2022-05-24 10:53:57 : (G_14_M_2 : 37 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.019 mins elapsed.
+2022-05-24 10:53:57 : (HC_2m_M_2 : 40 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.02 mins elapsed.
+2022-05-24 10:53:57 : (HC_2m_M_1 : 39 of 40) Arrow Exists! Marking as completed since force = FALSE!, 0.02 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-feb94a2bacf3-Date-2022-05-24_Time-10-53-55.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 
+Copying ArrowFiles to Ouptut Directory! If you want to save disk space set copyArrows = FALSE
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 
+Getting Cell Metadata...
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 
+Merging Cell Metadata...
+Initializing ArchRProject...
+
+                                                   / |
+                                                 /    \
+            .                                  /      |.
+            \\\                              /        |.
+              \\\                          /           `|.
+                \\\                      /              |.
+                  \                    /                |\
+                  \\#####\           /                  ||
+                ==###########>      /                   ||
+                 \\##==......\    /                     ||
+            ______ =       =|__ /__                     ||      \\\
+        ,--' ,----`-,__ ___/'  --,-`-===================##========>
+       \               '        ##_______ _____ ,--,__,=##,__   ///
+        ,    __==    ___,-,__,--'#'  ==='      `-'    | ##,-/
+        -,____,---'       \\####\\________________,--\\_##,/
+           ___      .______        ______  __    __  .______      
+          /   \     |   _  \      /      ||  |  |  | |   _  \     
+         /  ^  \    |  |_)  |    |  ,----'|  |__|  | |  |_)  |    
+        /  /_\  \   |      /     |  |     |   __   | |      /     
+       /  _____  \  |  |\  \\___ |  `----.|  |  |  | |  |\  \\___.
+      /__/     \__\ | _| `._____| \______||__|  |__| | _| `._____|
+    
+Joining by: sample
+Copying ArchRProject to new outputDirectory : /share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/ArchRSubset
+Copying Arrow Files...
+Getting ImputeWeights
+No imputeWeights found, returning NULL
+Copying Other Files...
+Copying Other Files (1 of 3): atac_all_tissue_celltype_umaps.pdf
+Copying Other Files (2 of 3): atac_all_tissue_qc_umaps.pdf
+Copying Other Files (3 of 3): atac_all_tissue_sample_cluster_umaps.pdf
+Saving ArchRProject...
+Loading ArchRProject...
+Successfully loaded ArchRProject!
+
+                                                   / |
+                                                 /    \
+            .                                  /      |.
+            \\\                              /        |.
+              \\\                          /           `|.
+                \\\                      /              |.
+                  \                    /                |\
+                  \\#####\           /                  ||
+                ==###########>      /                   ||
+                 \\##==......\    /                     ||
+            ______ =       =|__ /__                     ||      \\\
+        ,--' ,----`-,__ ___/'  --,-`-===================##========>
+       \               '        ##_______ _____ ,--,__,=##,__   ///
+        ,    __==    ___,-,__,--'#'  ==='      `-'    | ##,-/
+        -,____,---'       \\####\\________________,--\\_##,/
+           ___      .______        ______  __    __  .______      
+          /   \     |   _  \      /      ||  |  |  | |   _  \     
+         /  ^  \    |  |_)  |    |  ,----'|  |__|  | |  |_)  |    
+        /  /_\  \   |      /     |  |     |   __   | |      /     
+       /  _____  \  |  |\  \\___ |  `----.|  |  |  | |  |\  \\___.
+      /__/     \__\ | _| `._____| \______||__|  |__| | _| `._____|
+    
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-feb97a5d6c9-Date-2022-05-24_Time-11-47-52.log
+If there is an issue, please report to github with logFile!
+2022-05-24 11:47:53 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2022-05-24 11:47:53 : H_14_M_2 (1 of 40) :  Computing Doublet Statistics, 0.001 mins elapsed.
+H_14_M_2 (1 of 40) : UMAP Projection R^2 = 0.99707
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 11:52:40 : H_14_F_1 (2 of 40) :  Computing Doublet Statistics, 4.77 mins elapsed.
+H_14_F_1 (2 of 40) : UMAP Projection R^2 = 0.99781
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 11:57:35 : H_14_F_2 (3 of 40) :  Computing Doublet Statistics, 9.687 mins elapsed.
+Biased Clusters : Cluster2 
+H_14_F_2 (3 of 40) : UMAP Projection R^2 = 0.99518
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:02:23 : HC_14_M_1 (4 of 40) :  Computing Doublet Statistics, 14.493 mins elapsed.
+HC_14_M_1 (4 of 40) : UMAP Projection R^2 = 0.99136
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:06:55 : C_14_M_1 (5 of 40) :  Computing Doublet Statistics, 19.032 mins elapsed.
+C_14_M_1 (5 of 40) : UMAP Projection R^2 = 0.9782
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:11:19 : A_14_F_2 (6 of 40) :  Computing Doublet Statistics, 23.425 mins elapsed.
+A_14_F_2 (6 of 40) : UMAP Projection R^2 = 0.99805
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:14:53 : H_14_M_1 (7 of 40) :  Computing Doublet Statistics, 26.997 mins elapsed.
+Biased Clusters : Cluster12 
+H_14_M_1 (7 of 40) : UMAP Projection R^2 = 0.99647
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:19:39 : HC_14_F_1 (8 of 40) :  Computing Doublet Statistics, 31.759 mins elapsed.
+HC_14_F_1 (8 of 40) : UMAP Projection R^2 = 0.99562
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:23:28 : C_14_F_2 (9 of 40) :  Computing Doublet Statistics, 35.586 mins elapsed.
+C_14_F_2 (9 of 40) : UMAP Projection R^2 = 0.98387
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:27:53 : A_14_F_1 (10 of 40) :  Computing Doublet Statistics, 39.991 mins elapsed.
+A_14_F_1 (10 of 40) : UMAP Projection R^2 = 0.99665
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:31:53 : G_2m_M_2 (11 of 40) :  Computing Doublet Statistics, 43.996 mins elapsed.
+G_2m_M_2 (11 of 40) : UMAP Projection R^2 = 0.99574
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:36:25 : HC_2m_F_2 (12 of 40) :  Computing Doublet Statistics, 48.536 mins elapsed.
+HC_2m_F_2 (12 of 40) : UMAP Projection R^2 = 0.99082
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:39:53 : C_2m_M_1 (13 of 40) :  Computing Doublet Statistics, 52.002 mins elapsed.
+C_2m_M_1 (13 of 40) : UMAP Projection R^2 = 0.9884
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:43:34 : A_2m_F_1 (14 of 40) :  Computing Doublet Statistics, 55.676 mins elapsed.
+A_2m_F_1 (14 of 40) : UMAP Projection R^2 = 0.99486
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:47:28 : G_2m_M_1 (15 of 40) :  Computing Doublet Statistics, 59.571 mins elapsed.
+G_2m_M_1 (15 of 40) : UMAP Projection R^2 = 0.99578
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:51:35 : HC_14_F_2 (16 of 40) :  Computing Doublet Statistics, 63.694 mins elapsed.
+HC_14_F_2 (16 of 40) : UMAP Projection R^2 = 0.91381
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 12:55:37 : C_14_F_1 (17 of 40) :  Computing Doublet Statistics, 67.736 mins elapsed.
+C_14_F_1 (17 of 40) : UMAP Projection R^2 = 0.94976
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:00:08 : G_2m_F_2 (18 of 40) :  Computing Doublet Statistics, 72.24 mins elapsed.
+G_2m_F_2 (18 of 40) : UMAP Projection R^2 = 0.99776
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:03:55 : A_14_M_2 (19 of 40) :  Computing Doublet Statistics, 76.029 mins elapsed.
+A_14_M_2 (19 of 40) : UMAP Projection R^2 = 0.99886
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:07:28 : C_14_M_2 (20 of 40) :  Computing Doublet Statistics, 79.575 mins elapsed.
+C_14_M_2 (20 of 40) : UMAP Projection R^2 = 0.97895
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:11:45 : A_14_M_1 (21 of 40) :  Computing Doublet Statistics, 83.857 mins elapsed.
+A_14_M_1 (21 of 40) : UMAP Projection R^2 = 0.99784
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:15:12 : HC_2m_F_1 (22 of 40) :  Computing Doublet Statistics, 87.318 mins elapsed.
+HC_2m_F_1 (22 of 40) : UMAP Projection R^2 = 0.99755
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:18:21 : HC_14_M_2 (23 of 40) :  Computing Doublet Statistics, 90.469 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+HC_14_M_2 (23 of 40) : UMAP Projection R^2 = 0.99075
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:22:17 : H_2m_F_1 (24 of 40) :  Computing Doublet Statistics, 94.397 mins elapsed.
+H_2m_F_1 (24 of 40) : UMAP Projection R^2 = 0.99742
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:26:08 : C_2m_F_1 (25 of 40) :  Computing Doublet Statistics, 98.245 mins elapsed.
+C_2m_F_1 (25 of 40) : UMAP Projection R^2 = 0.99188
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:29:56 : A_2m_M_2 (26 of 40) :  Computing Doublet Statistics, 102.051 mins elapsed.
+A_2m_M_2 (26 of 40) : UMAP Projection R^2 = 0.99514
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:33:37 : H_2m_M_2 (27 of 40) :  Computing Doublet Statistics, 105.73 mins elapsed.
+H_2m_M_2 (27 of 40) : UMAP Projection R^2 = 0.99808
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:37:58 : H_2m_M_1 (28 of 40) :  Computing Doublet Statistics, 110.074 mins elapsed.
+H_2m_M_1 (28 of 40) : UMAP Projection R^2 = 0.99819
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:41:42 : H_2m_F_2 (29 of 40) :  Computing Doublet Statistics, 113.812 mins elapsed.
+Biased Clusters : Cluster13 
+H_2m_F_2 (29 of 40) : UMAP Projection R^2 = 0.99694
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:45:26 : C_2m_M_2 (30 of 40) :  Computing Doublet Statistics, 117.539 mins elapsed.
+C_2m_M_2 (30 of 40) : UMAP Projection R^2 = 0.99586
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:48:19 : A_2m_F_2 (31 of 40) :  Computing Doublet Statistics, 120.43 mins elapsed.
+A_2m_F_2 (31 of 40) : UMAP Projection R^2 = 0.99604
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:51:38 : G_14_F_1 (32 of 40) :  Computing Doublet Statistics, 123.745 mins elapsed.
+G_14_F_1 (32 of 40) : UMAP Projection R^2 = 0.99767
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:55:06 : A_2m_M_1 (33 of 40) :  Computing Doublet Statistics, 127.211 mins elapsed.
+A_2m_M_1 (33 of 40) : UMAP Projection R^2 = 0.99796
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 13:58:08 : C_2m_F_2 (34 of 40) :  Computing Doublet Statistics, 130.252 mins elapsed.
+C_2m_F_2 (34 of 40) : UMAP Projection R^2 = 0.96636
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 14:01:34 : G_14_M_1 (35 of 40) :  Computing Doublet Statistics, 133.677 mins elapsed.
+G_14_M_1 (35 of 40) : UMAP Projection R^2 = 0.99314
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 14:05:18 : G_14_F_2 (36 of 40) :  Computing Doublet Statistics, 137.407 mins elapsed.
+G_14_F_2 (36 of 40) : UMAP Projection R^2 = 0.99554
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 14:08:22 : G_14_M_2 (37 of 40) :  Computing Doublet Statistics, 140.479 mins elapsed.
+G_14_M_2 (37 of 40) : UMAP Projection R^2 = 0.98415
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 14:10:58 : HC_2m_M_1 (38 of 40) :  Computing Doublet Statistics, 143.071 mins elapsed.
+HC_2m_M_1 (38 of 40) : UMAP Projection R^2 = 0.98524
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 14:13:14 : G_2m_F_1 (39 of 40) :  Computing Doublet Statistics, 145.338 mins elapsed.
+G_2m_F_1 (39 of 40) : UMAP Projection R^2 = 0.99884
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 14:15:11 : HC_2m_M_2 (40 of 40) :  Computing Doublet Statistics, 147.289 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+HC_2m_M_2 (40 of 40) : UMAP Projection R^2 = 0.94958
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-feb97a5d6c9-Date-2022-05-24_Time-11-47-52.log
+There were 40 warnings (use warnings() to see them)
+Filtering 16711 cells from ArchRProject!
+	H_14_M_2 : 1404 of 11853 (11.8%)
+	H_14_F_1 : 1540 of 12810 (12%)
+	C_14_M_1 : 587 of 7662 (7.7%)
+	H_14_F_2 : 1615 of 12712 (12.7%)
+	C_14_M_2 : 561 of 7494 (7.5%)
+	HC_14_M_1 : 559 of 7481 (7.5%)
+	C_14_F_1 : 754 of 8688 (8.7%)
+	C_2m_M_1 : 268 of 5179 (5.2%)
+	C_2m_M_2 : 134 of 3670 (3.7%)
+	C_14_F_2 : 632 of 7954 (7.9%)
+	A_14_F_2 : 222 of 4716 (4.7%)
+	C_2m_F_1 : 335 of 5789 (5.8%)
+	A_14_F_1 : 295 of 5433 (5.4%)
+	H_14_M_1 : 929 of 9641 (9.6%)
+	HC_14_F_1 : 353 of 5947 (5.9%)
+	A_2m_F_1 : 329 of 5739 (5.7%)
+	A_14_M_1 : 179 of 4239 (4.2%)
+	HC_2m_F_2 : 159 of 3998 (4%)
+	G_2m_F_2 : 330 of 5751 (5.7%)
+	H_2m_F_1 : 278 of 5274 (5.3%)
+	A_2m_M_2 : 224 of 4735 (4.7%)
+	G_2m_M_2 : 546 of 7392 (7.4%)
+	HC_14_F_2 : 365 of 6044 (6%)
+	A_14_M_2 : 228 of 4783 (4.8%)
+	A_2m_M_1 : 113 of 3373 (3.4%)
+	H_2m_F_2 : 443 of 6661 (6.7%)
+	G_2m_M_1 : 478 of 6914 (6.9%)
+	G_14_M_1 : 393 of 6271 (6.3%)
+	HC_14_M_2 : 280 of 5300 (5.3%)
+	C_2m_F_2 : 331 of 5759 (5.7%)
+	HC_2m_F_1 : 113 of 3365 (3.4%)
+	H_2m_M_2 : 515 of 7183 (7.2%)
+	H_2m_M_1 : 245 of 4958 (4.9%)
+	G_14_F_1 : 314 of 5606 (5.6%)
+	A_2m_F_2 : 171 of 4141 (4.1%)
+	G_14_F_2 : 248 of 4985 (5%)
+	G_14_M_2 : 149 of 3861 (3.9%)
+	G_2m_F_1 : 34 of 1861 (1.8%)
+	HC_2m_M_1 : 51 of 2266 (2.3%)
+	HC_2m_M_2 : 7 of 892 (0.8%)
+Checking Inputs...
+ArchR logging to : ArchRLogs/ArchR-addIterativeLSI-feb9705a8bd-Date-2022-05-24_Time-14-16-55.log
+If there is an issue, please report to github with logFile!
+2022-05-24 14:17:29 : Computing Total Across All Features, 0.477 mins elapsed.
+2022-05-24 14:18:06 : Computing Top Features, 1.1 mins elapsed.
+###########
+2022-05-24 14:18:09 : Running LSI (1 of 2) on Top Features, 1.146 mins elapsed.
+###########
+2022-05-24 14:18:09 : Sampling Cells (N = 40021) for Estimated LSI, 1.152 mins elapsed.
+2022-05-24 14:18:09 : Creating Sampled Partial Matrix, 1.152 mins elapsed.
+2022-05-24 14:21:20 : Computing Estimated LSI (projectAll = FALSE), 4.327 mins elapsed.
+2022-05-24 14:23:12 : Identifying Clusters, 6.199 mins elapsed.
+2022-05-24 14:23:33 : Identified 6 Clusters, 6.55 mins elapsed.
+2022-05-24 14:23:33 : Saving LSI Iteration, 6.55 mins elapsed.
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+Length of unique values greater than palette, interpolating..
+WARNING: Error found with Cairo installation. Continuing without rasterization.
+2022-05-24 14:24:07 : Creating Cluster Matrix on the total Group Features, 7.12 mins elapsed.
+2022-05-24 14:26:50 : Computing Variable Features, 9.831 mins elapsed.
+###########
+2022-05-24 14:26:50 : Running LSI (2 of 2) on Variable Features, 9.835 mins elapsed.
+###########
+2022-05-24 14:26:50 : Creating Partial Matrix, 9.837 mins elapsed.
+2022-05-24 14:33:05 : Computing LSI, 16.078 mins elapsed.
+2022-05-24 14:41:21 : Finished Running IterativeLSI, 24.351 mins elapsed.
+ArchR logging to : ArchRLogs/ArchR-addClusters-feb9144c8008-Date-2022-05-24_Time-14-41-21.log
+If there is an issue, please report to github with logFile!
+2022-05-24 14:41:24 : Running Seurats FindClusters (Stuart et al. Cell 2019), 0.016 mins elapsed.
+Computing nearest neighbor graph
+Computing SNN
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+1 singletons identified. 47 final clusters.
+2022-05-24 14:50:02 : Testing Biased Clusters, 8.644 mins elapsed.
+2022-05-24 14:50:04 : Testing Outlier Clusters, 8.686 mins elapsed.
+2022-05-24 14:50:04 : Identified more clusters than maxClusters allowed (n = 0). Merging clusters to maxClusters (n = 40).
+If this is not desired set maxClusters = NULL!, 8.687 mins elapsed.
+2022-05-24 14:50:05 : Assigning Cluster Names to 40 Clusters, 8.692 mins elapsed.
+2022-05-24 14:50:05 : Finished addClusters, 8.7 mins elapsed.
+14:50:05 UMAP embedding parameters a = 0.7669 b = 1.223
+14:50:06 Read 221669 rows and found 30 numeric columns
+14:50:06 Using Annoy for neighbor search, n_neighbors = 40
+14:50:06 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+14:50:35 Writing NN index file to temp file /tmp/RtmpaXa0HA/filefeb9687d8e3f
+14:50:35 Searching Annoy index using 32 threads, search_k = 4000
+14:50:43 Annoy recall = 100%
+14:50:46 Commencing smooth kNN distance calibration using 32 threads
+14:50:56 Initializing from normalized Laplacian + noise
+14:53:25 Commencing optimization for 200 epochs, with 13673170 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+14:58:20 Optimization finished
+14:58:20 Creating temp model dir /tmp/RtmpaXa0HA/dirfeb938c21822
+14:58:20 Creating dir /tmp/RtmpaXa0HA/dirfeb938c21822
+14:58:39 Changing to /tmp/RtmpaXa0HA/dirfeb938c21822
+14:58:39 Creating /share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/ArchRSubset/Embeddings/Save-Uwot-UMAP-Params-IterativeLSI-feb99c63ca7-Date-2022-05-24_Time-14-58-20.tar
+Warning messages:
+1: In sprintf(gettext(fmt, domain = domain), ...) :
+  one argument not used by format 'invalid uid value replaced by that for user 'nobody''
+2: invalid uid value replaced by that for user 'nobody' 
+3: In sprintf(gettext(fmt, domain = domain), ...) :
+  one argument not used by format 'invalid gid value replaced by that for user 'nobody''
+4: invalid gid value replaced by that for user 'nobody' 
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb9420733b2-Date-2022-05-24_Time-14-58-48.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 WARNING: Error found with Cairo installation. Continuing without rasterization.
+Length of unique values greater than palette, interpolating..
+
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb9420733b2-Date-2022-05-24_Time-14-58-48.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb969d2e1e2-Date-2022-05-24_Time-14-58-54.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 WARNING: Error found with Cairo installation. Continuing without rasterization.
+
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb969d2e1e2-Date-2022-05-24_Time-14-58-54.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb9dec2bb3-Date-2022-05-24_Time-14-59-00.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 WARNING: Error found with Cairo installation. Continuing without rasterization.
+
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb9dec2bb3-Date-2022-05-24_Time-14-59-00.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb92f72caa-Date-2022-05-24_Time-14-59-04.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 WARNING: Error found with Cairo installation. Continuing without rasterization.
+Length of unique values greater than palette, interpolating..
+
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb92f72caa-Date-2022-05-24_Time-14-59-04.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb93d15e347-Date-2022-05-24_Time-14-59-08.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 WARNING: Error found with Cairo installation. Continuing without rasterization.
+Length of unique values greater than palette, interpolating..
+
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb93d15e347-Date-2022-05-24_Time-14-59-08.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb91c36c686-Date-2022-05-24_Time-14-59-13.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 WARNING: Error found with Cairo installation. Continuing without rasterization.
+Length of unique values greater than palette, interpolating..
+
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb91c36c686-Date-2022-05-24_Time-14-59-13.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb9430220cb-Date-2022-05-24_Time-14-59-17.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 WARNING: Error found with Cairo installation. Continuing without rasterization.
+Length of unique values greater than palette, interpolating..
+
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb9430220cb-Date-2022-05-24_Time-14-59-17.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb91e577591-Date-2022-05-24_Time-15-00-13.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb91e577591-Date-2022-05-24_Time-15-00-13.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb93886dbab-Date-2022-05-24_Time-15-00-18.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb93886dbab-Date-2022-05-24_Time-15-00-18.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb92a2f9218-Date-2022-05-24_Time-15-00-22.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb92a2f9218-Date-2022-05-24_Time-15-00-22.log
+ArchR logging to : ArchRLogs/ArchR-plotEmbedding-feb972d33169-Date-2022-05-24_Time-15-00-27.log
+If there is an issue, please report to github with logFile!
+Plotting Embedding
+1 
+ArchR logging successful to : ArchRLogs/ArchR-plotEmbedding-feb972d33169-Date-2022-05-24_Time-15-00-27.log
+Copying ArchRProject to new outputDirectory : /share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/ENC4_Mouse
+Copying Arrow Files...
+Copying Arrow Files (1 of 40)
+Copying Arrow Files (2 of 40)
+Copying Arrow Files (3 of 40)
+Copying Arrow Files (4 of 40)
+Copying Arrow Files (5 of 40)
+Copying Arrow Files (6 of 40)
+Copying Arrow Files (7 of 40)
+Copying Arrow Files (8 of 40)
+Copying Arrow Files (9 of 40)
+Copying Arrow Files (10 of 40)
+Copying Arrow Files (11 of 40)
+Copying Arrow Files (12 of 40)
+Copying Arrow Files (13 of 40)
+Copying Arrow Files (14 of 40)
+Copying Arrow Files (15 of 40)
+Copying Arrow Files (16 of 40)
+Copying Arrow Files (17 of 40)
+Copying Arrow Files (18 of 40)
+Copying Arrow Files (19 of 40)
+Copying Arrow Files (20 of 40)
+Copying Arrow Files (21 of 40)
+Copying Arrow Files (22 of 40)
+Copying Arrow Files (23 of 40)
+Copying Arrow Files (24 of 40)
+Copying Arrow Files (25 of 40)
+Copying Arrow Files (26 of 40)
+Copying Arrow Files (27 of 40)
+Copying Arrow Files (28 of 40)
+Copying Arrow Files (29 of 40)
+Copying Arrow Files (30 of 40)
+Copying Arrow Files (31 of 40)
+Copying Arrow Files (32 of 40)
+Copying Arrow Files (33 of 40)
+Copying Arrow Files (34 of 40)
+Copying Arrow Files (35 of 40)
+Copying Arrow Files (36 of 40)
+Copying Arrow Files (37 of 40)
+Copying Arrow Files (38 of 40)
+Copying Arrow Files (39 of 40)
+Copying Arrow Files (40 of 40)
+Getting ImputeWeights
+No imputeWeights found, returning NULL
+Copying Other Files...
+Copying Other Files (1 of 45): A_14_F_1
+Copying Other Files (2 of 45): A_14_F_2
+Copying Other Files (3 of 45): A_14_M_1
+Copying Other Files (4 of 45): A_14_M_2
+Copying Other Files (5 of 45): A_2m_F_1
+Copying Other Files (6 of 45): A_2m_F_2
+Copying Other Files (7 of 45): A_2m_M_1
+Copying Other Files (8 of 45): A_2m_M_2
+Copying Other Files (9 of 45): atac_all_tissue_celltype_umaps.pdf
+Copying Other Files (10 of 45): atac_all_tissue_qc_umaps.pdf
+Copying Other Files (11 of 45): atac_all_tissue_sample_cluster_umaps.pdf
+Copying Other Files (12 of 45): C_14_F_1
+Copying Other Files (13 of 45): C_14_F_2
+Copying Other Files (14 of 45): C_14_M_1
+Copying Other Files (15 of 45): C_14_M_2
+Copying Other Files (16 of 45): C_2m_F_1
+Copying Other Files (17 of 45): C_2m_F_2
+Copying Other Files (18 of 45): C_2m_M_1
+Copying Other Files (19 of 45): C_2m_M_2
+Copying Other Files (20 of 45): Embeddings
+Copying Other Files (21 of 45): G_14_F_1
+Copying Other Files (22 of 45): G_14_F_2
+Copying Other Files (23 of 45): G_14_M_1
+Copying Other Files (24 of 45): G_14_M_2
+Copying Other Files (25 of 45): G_2m_F_1
+Copying Other Files (26 of 45): G_2m_F_2
+Copying Other Files (27 of 45): G_2m_M_1
+Copying Other Files (28 of 45): G_2m_M_2
+Copying Other Files (29 of 45): H_14_F_1
+Copying Other Files (30 of 45): H_14_F_2
+Copying Other Files (31 of 45): H_14_M_1
+Copying Other Files (32 of 45): H_14_M_2
+Copying Other Files (33 of 45): H_2m_F_1
+Copying Other Files (34 of 45): H_2m_F_2
+Copying Other Files (35 of 45): H_2m_M_1
+Copying Other Files (36 of 45): H_2m_M_2
+Copying Other Files (37 of 45): HC_14_F_1
+Copying Other Files (38 of 45): HC_14_F_2
+Copying Other Files (39 of 45): HC_14_M_1
+Copying Other Files (40 of 45): HC_14_M_2
+Copying Other Files (41 of 45): HC_2m_F_1
+Copying Other Files (42 of 45): HC_2m_F_2
+Copying Other Files (43 of 45): HC_2m_M_1
+Copying Other Files (44 of 45): HC_2m_M_2
+Copying Other Files (45 of 45): IterativeLSI
+Saving ArchRProject...
+Loading ArchRProject...
+Successfully loaded ArchRProject!
+
+                                                   / |
+                                                 /    \
+            .                                  /      |.
+            \\\                              /        |.
+              \\\                          /           `|.
+                \\\                      /              |.
+                  \                    /                |\
+                  \\#####\           /                  ||
+                ==###########>      /                   ||
+                 \\##==......\    /                     ||
+            ______ =       =|__ /__                     ||      \\\
+        ,--' ,----`-,__ ___/'  --,-`-===================##========>
+       \               '        ##_______ _____ ,--,__,=##,__   ///
+        ,    __==    ___,-,__,--'#'  ==='      `-'    | ##,-/
+        -,____,---'       \\####\\________________,--\\_##,/
+           ___      .______        ______  __    __  .______      
+          /   \     |   _  \      /      ||  |  |  | |   _  \     
+         /  ^  \    |  |_)  |    |  ,----'|  |__|  | |  |_)  |    
+        /  /_\  \   |      /     |  |     |   __   | |      /     
+       /  _____  \  |  |\  \\___ |  `----.|  |  |  | |  |\  \\___.
+      /__/     \__\ | _| `._____| \______||__|  |__| | _| `._____|
+    
+
+           ___      .______        ______  __    __  .______      
+          /   \     |   _  \      /      ||  |  |  | |   _  \     
+         /  ^  \    |  |_)  |    |  ,----'|  |__|  | |  |_)  |    
+        /  /_\  \   |      /     |  |     |   __   | |      /     
+       /  _____  \  |  |\  \\___ |  `----.|  |  |  | |  |\  \\___.
+      /__/     \__\ | _| `._____| \______||__|  |__| | _| `._____|
+    

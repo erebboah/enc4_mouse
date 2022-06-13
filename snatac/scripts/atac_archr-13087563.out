@@ -1,0 +1,27 @@
+
+  TRUE 
+238380 
+Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 221669
+Number of edges: 7987825
+
+Running Louvain algorithm...
+Maximum modularity in 10 random starts: 0.9547
+Number of communities: 48
+Elapsed time: 199 seconds
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+class: ArchRProject 
+outputDirectory: /share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/ENC4_Mouse 
+samples(40): H_14_M_2 H_14_F_1 ... G_2m_F_1 HC_2m_M_2
+sampleColData names(1): ArrowFiles
+cellColData names(33): Sample TSSEnrichment ... DoubletEnrichment
+  Clusters
+numberOfCells(1): 221669
+medianTSS(1): 13.889
+medianFrags(1): 9581
