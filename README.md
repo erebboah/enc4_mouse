@@ -1,4 +1,5 @@
 # ENC4_Mouse_SingleCell
+``/share/crsp/lab/seyedam/share/enc4_mouse``
 Scripts to import ENCODE processed data for snRNA-seq experiments and snATAC-seq experiments to Seurat and ArchR objects, respectively.
 
 ## snRNA-seq
@@ -8,6 +9,6 @@ Scripts to import ENCODE processed data for snRNA-seq experiments and snATAC-seq
 
 ## Mouse snATAC-seq
 ``scripts/step1_atac_archr.sh`` does the following:
-1. Downloads the fragment files from this [cart](https://www.encodeproject.org/carts/enc4_mouse_snatac/) for all 5 tissues using bash syntax
+1. Downloads the fragment files from this [cart](https://www.encodeproject.org/carts/enc4_mouse_snatac/) for all 5 tissues using bash syntax.
 2. Calls ``scripts/make_archr_proj.R`` which makes ArchR Arrow files, initializes ArchR Project, adds metadata, and filters cells. Cells must be present in filtered RNA object as well as passing ArchR filters (minTSS = 4, minFrags = 1000, filterDoublets).
 4. Continue ArchR processing by dimensionality reduction, clustering, and plotting resulting UMAPs.
