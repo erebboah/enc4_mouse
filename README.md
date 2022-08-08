@@ -4,9 +4,15 @@
 Scripts to import ENCODE processed data for snRNA-seq experiments and snATAC-seq experiments to Seurat and ArchR objects, respectively.
 
 ## snRNA-seq
-1. ``scripts/step1_get_data.sh`` and ``scripts/merge_counts.R`` download the STARSolo unfiltered sparse gene count matrices of all reads from this [cart](https://www.encodeproject.org/carts/enc4_mouse_snrna), format with gene IDs and unique cell barcodes, merge by tissue, and **filter** by gene biotype and > 500 UMIs per nucleus.
-2. ``scripts/step2_scrublet_cellbender.sh`` runs Scrublet on > 500 UMI counts matrices, split up appropriately by tissue/experiment. **Cellbender in progress**, need to integrate it within this pipeline.
-3. ``scripts/step3_seurat_process.sh`` and ``scripts/seurat_process.R`` carries out final cell filtering and integrates Parse + 10x data for each tissue separately. 
+### Previous steps for Parse Biosciences data
+1 - `step1_get_parse_data.sh` fetches Parse data from the ENCODE portal using [this cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/) and calls `get_counts_parse.R` to merge Parse data by experimental batch for doublet detection.
+2 - `run_scrublet.sh` runs python script `run_scrublet.py` to detect doublets.
+
+## Previous steps for 10x data
+1 - `step1_get_10x_data.sh` fetches 10x data from the ENCODE portal using [this cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/) and calls `get_counts_10x.R` to output cellbender options.
+2 - `step2_cellbender_10x.sh` runs Cellbender to remove ambient RNA. Also runs followup script `format_cellbender_output.R` to output sparse matrices from h5.
+3 - `run_scrublet.sh` runs python script `run_scrublet.py` to detect doublets.
+
 
 ## snATAC-seq
 ``scripts/step1_atac_archr.sh`` does the following:
