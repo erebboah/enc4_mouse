@@ -1,5 +1,0 @@
-Attaching SeuratObject
-Error in rbind(deparse.level, ...) : 
-  numbers of columns of arguments do not match
-Calls: rbind -> rbind
-Execution halted
