@@ -9,19 +9,19 @@
 #SBATCH --error=atac_archr-%J.err ## error log file
 #SBATCH --mem=128G
 
-#mkdir ../fragments/
-#cd ../fragments/
+mkdir ../fragments/
+cd ../fragments/
 
-#xargs -L 1 curl -O -J -L < ../ref/files.txt
+xargs -L 1 curl -O -J -L < ../ref/files.txt
 
-#for f in *.tar.gz
-#do
-#	mkdir "${f%.tar.gz}"
-#	tar xf "$f" -C "${f%.tar.gz}"
-#	rm "$f"
-#done
+for f in *.tar.gz
+do
+	mkdir "${f%.tar.gz}"
+	tar xf "$f" -C "${f%.tar.gz}"
+	rm "$f"
+done
 
 source ~/miniconda3/bin/activate hpc3sc
 
-#mkdir ../archr
+mkdir ../archr
 Rscript ../scripts/make_archr_proj.R
