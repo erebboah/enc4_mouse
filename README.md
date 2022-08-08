@@ -13,7 +13,7 @@ Scripts to import ENCODE processed data for snRNA-seq experiments and snATAC-seq
 2. `step2_cellbender_10x.sh` runs Cellbender to remove ambient RNA. Also runs followup script `format_cellbender_output.R` to output sparse matrices from h5.
 3. `run_scrublet.sh` runs python script `run_scrublet.py` to detect doublets.
 
-Then each tissue is merged across technologies and annotated individually in Jupyter notebooks using Seurat. For example `HC_snRNA_share.ipynb` for hippocampus tissue.
+Then each tissue is merged across technologies and annotated individually in Jupyter notebooks using Seurat. For example `HC_snRNA.ipynb` for hippocampus tissue.
 
 ## snATAC-seq
 ``scripts/step1_atac_archr.sh`` does the following:
