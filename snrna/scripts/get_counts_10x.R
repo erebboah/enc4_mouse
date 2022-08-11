@@ -57,23 +57,7 @@ files = metadata$file_accession
 for (i in 1:length(files)){
         counts = get_counts(files[i])
 
-	obj = CreateSeuratObject(counts = counts, min.cells = 1, min.features = 50)
-	obj <- PercentageFeatureSet(obj, pattern = "^mt-", col.name = "percent.mt")
-
-	metadata_sample = metadata[metadata$file_accession == files[i],]
-	print(files[i])
-	
-	obj_filt=subset(obj, 
-                        subset = nCount_RNA > metadata_sample$lower_nCount_RNA & 
-                        nCount_RNA < metadata_sample$upper_nCount_RNA & 
-                        nFeature_RNA > metadata_sample$nFeature_RNA &  
-                        percent.mt < metadata_sample$percent.mt)
-	write.table(cbind(dim(obj)[2],dim(obj_filt)[2]),
-		file=paste0("/share/crsp/lab/seyedam/share/enc4_mouse/snrna/counts_10x/",
-			files[i],
-			"/cellbender_options.csv"),quote=F,row.names=F,col.names=F,sep=",")
-       
-	writeMM(obj@assays$RNA@counts,file=paste0("counts_10x/",files[i],"/matrix.mtx"))
-        write.table(colnames(obj),file=paste0("counts_10x/",files[i],"/barcodes.tsv"),quote=F,row.names=F,col.names=F,sep="\t")
-        write.table(rownames(obj),file=paste0("counts_10x/",files[i],"/genes.tsv"),quote=F,row.names=F,col.names=F,sep="\t")
+	writeMM(counts,file=paste0("counts_10x/",files[i],"/matrix.mtx"))
+        write.table(colnames(counts),file=paste0("counts_10x/",files[i],"/barcodes.tsv"),quote=F,row.names=F,col.names=F,sep="\t")
+        write.table(rownames(counts),file=paste0("counts_10x/",files[i],"/genes.tsv"),quote=F,row.names=F,col.names=F,sep="\t")
 }
