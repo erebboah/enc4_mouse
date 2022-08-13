@@ -15,7 +15,7 @@
 1. Use an [external 10x brain atlas](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) to predict celltype labels. The 1.1M cell dataset was subsetted by 1,000 cells in each celltype for a ~250,000 cell dataset (code coming soon).
 2. Score nuclei by cell cycle using these [mouse cell cycle genes](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/mouse_cellcycle_genes.rda) to aid in manual celltype annotation.
 
-In this notebook:
+**In this notebook**:
 Manual celltype annotation by assigning each cluster to the celltype predicted for the majority of cells in the cluster, then adjusting the labels as we see fit.
 
 
