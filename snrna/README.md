@@ -20,5 +20,5 @@ Manual celltype annotation by assigning each cluster to the celltype predicted f
 
 ### Results
 - Seurat CCA works pretty well for integrating the 3 types of experiments: Parse standard, Parse deep, and 10x multiome. 
-- We decided on 3 levels of annotation: `gen_celltypes` or general celltypes (e.g. "Neuron"), `celltypes` for higher resolution (e.g. "Inhibitory"), and finally `subtypes` for the highest resolution of celltype annotations (e.g. "Pvalb"). 
+- We decided on 3 levels of annotation: `gen_celltype` or general celltype (e.g. "Neuron"), `celltypes` for higher resolution (e.g. "Inhibitory"), and finally `subtypes` for the highest resolution of celltype annotations (e.g. "Pvalb"). 
 - The external atlas did not separate their oligodendrocytes into OPCs, MFOLs, and MOLs, but we use our expertise with the brain to check marker genes and assign cell type labels.
