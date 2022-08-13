@@ -32,9 +32,11 @@ Each tissue is integrated across technologies and annotated in Jupyter notebooks
 
 **A:** Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real cells ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
 
+
 **Q:** Why are there so many Parse experiments?
 
 **A:** We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were also sequenced deeply. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms. See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
+
 
 **Q:** Why do you need to integrate 2 Parse Seurat objects with 1 10x Parse object?
 
