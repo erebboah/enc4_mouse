@@ -19,7 +19,7 @@ Note: All Parse experiments were done at the Mortazavi lab while all 10x multiom
 
 ### Celltype Annotation
 Each tissue is integrated across technologies and annotated in Jupyter notebooks using Seurat. 
-- Hippocampus: `HC_snRNA.ipynb`
+- Hippocampus: [HC_snRNA.ipynb](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/HC_snRNA.ipynb)
 - Adrenal: In progress
 - Cortex: In progress
 - Heart: In progress
