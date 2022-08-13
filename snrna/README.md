@@ -1,10 +1,9 @@
 # Mouse Hippocampus snRNA Integrative Analysis Overview
 ## Data
-- ENCODE carts: [Parse](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/), [10x](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/)
 - [Hippocampus data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/hippocampus_minimal_metadata.tsv)
 
 ## Aims
-1. Reads in pre-processed Parse and 10x data and merge counts matrices across experiments (within the same technology) for hippocampus tissue.
+1. Reads in pre-processed Parse and 10x data and merge counts matrices across experiments (within the same technology) for each tissue.
 2. Combine Parse standard, Parse deep, and 10x data by CCA integration.
 3. Use an [external 10x brain atlas](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) to predict celltype labels.
 4. Manual celltype annotation by assigning each cluster to the celltype predicted for the majority of cells in the cluster, then adjusting the labels as we see fit.
