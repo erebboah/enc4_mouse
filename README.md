@@ -39,17 +39,17 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 3. With [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R), continue processing ArchR project by dimensionality reduction, clustering, and plotting resulting UMAPs.
 
 ## FAQ
-**Q:** Why are there differences in pre-processing between Parse and 10x?
+**Q:** Why are there differences in pre-processing between Parse and 10x snRNA?
 
 **A:** Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real cells ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
 
 
-**Q:** Why are there so many Parse experiments?
+**Q:** Why are there so many Parse snRNA experiments?
 
 **A:** We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were also sequenced deeply. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms. See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
 
 
-**Q:** Why do you need to integrate 2 Parse Seurat objects with 1 10x Parse object?
+**Q:** Why do you need to integrate 2 Parse Seurat RNA objects with 1 10x Parse RNA object?
 
 **A:** See above, but basically the difference in sequencing depth between Parse "standard" and Parse "deep" is a batch effect best fixed with the same integration strategy for combining the Parse and 10x experiments. The raw counts matrices can be merged within technology, depth, and tissue (i.e. across timepoints and sexes) with no batch effects, but differences in Parse and 10x experiments (including differences in nuclei preparation) required a heavy hand at the integration step.
 
