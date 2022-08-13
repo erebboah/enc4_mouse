@@ -4,6 +4,7 @@ set.seed(1234)
 library(parallel)
 addArchRThreads(8)
 addArchRGenome("mm10")
+library(tidyverse)
 
 setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/")
 metadata = read.delim("../ref/enc4_mouse_snatac_metadata.tsv")
@@ -68,6 +69,8 @@ print("how many ATAC cells passed RNA filters?")
 table(proj_meta$cellID %in% all_tissues_10x_rna_metadata$cellID)
 
 # add RNA metadata to ATAC
+proj$rna_bc = proj_meta$rna_bc
+proj$cellID = proj_meta$cellID
 proj$technology= proj_meta$technology
 proj$species= proj_meta$species
 proj$timepoint= proj_meta$timepoint
@@ -97,6 +100,16 @@ proj = addClusters(proj, maxClusters = 40,
                    force = TRUE)
 
 proj = addUMAP(proj, reducedDims = "IterativeLSI", force = T)
+
+p1 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "sample", embedding = "UMAP")
+p2 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "tissue", embedding = "UMAP")
+p3 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "timepoint", embedding = "UMAP")
+p4 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "gen_celltype", embedding = "UMAP")
+p5 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "celltypes", embedding = "UMAP")
+p6 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "subtypes", embedding = "UMAP")
+
+plotPDF(p1,p2,p3,p4,p5,p6 name = "Plot-UMAP-Sample-Clusters.pdf", 
+        ArchRProj = topic_proj, addDOC = FALSE, width = 5, height = 5)
 
 saveArchRProject(
   ArchRProj = proj,
