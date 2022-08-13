@@ -5,7 +5,7 @@
 
 ### Aims
 [integrate_hippocampus.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_hippocampus.R):
-1. Reads in pre-processed Parse and 10x data and merges counts matrices across experiments (within the same technology) for each tissue.
+1. Read in pre-processed Parse and 10x data and merge counts matrices across experiments (within the same technology) for each tissue.
 2. Filter nuclei by # genes, # UMIs, percent mitochondrial gene expression, and doublet score. See [detailed metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_metadata.tsv) for filter cutoffs.
 3. Run SCT on the 3 objects to regress `percent.mt` and `nFeature_RNA`. Use  `method = "glmGamPoi"` to speed up this step, and save pre-integrated data in `seurat` folder.
 4. Combine Parse standard, Parse deep, and 10x data by CCA integration. Use Parse standard Seurat object as reference dataset because it contains all timepoints, while 10x data only contains 2 timepoints. 
