@@ -18,12 +18,13 @@ Note: All Parse experiments were done at the Mortazavi lab while all 10x multiom
 3. `step3_run_scrublet.sh` runs followup script `format_cellbender_output.R` to output >500 UMI sparse matrices to the `scrublet` folder from the 10x cellbender.h5 files, matching the status of the Parse data. The python script `run_scrublet.py` detects doublets and outputs a modified barcodes tsv (`_barcodes_scrublet.tsv`) file in the `scrublet` folder with additonal columns for doublet score and doublet True/False.
 
 ### Celltype Annotation
-Each tissue is integrated across technologies and annotated using Seurat. 
+Each tissue is integrated across technologies and annotated using Seurat. The final annotations have 3 levels of granularity: `gen_celltypes`, `celltypes`, and `subtypes`. See [celltype metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_celltypes_c2c12.csv) to see how these levels relate to each other.
+
 - Hippocampus
-1. `integrate_hippocampus.R` merges counts across technologies and makes 3 Seurat objects for Parse standard, Parse deep, and 10x. Nuclei are filtered by # UMIs and # genes detected per nucleus as well as doublet scores and percent mitochondrial gene expression (see [detailed metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_metadata.tsv) for filter cutoffs). SCT regresses # genes per nucleus and percent mito and CCA integrates the 3 objects with the Parse standard as the reference dataset. The `combined.sct` object is processed with PCA, UMAP, SNN graph construction, and high-resolution clustering to separate smaller subtypes.
+1. `integrate_hippocampus.R` merges counts across technologies and makes 3 Seurat objects for Parse standard, Parse deep, and 10x. Nuclei are filtered (see [detailed metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_metadata.tsv) for filter cutoffs). CCA integrates the 3 objects. The `combined.sct` object is processed with PCA, UMAP, SNN graph construction, and high-resolution clustering.
 2. Check integration results and clustering resolution in `HC_snRNA.ipynb`.
 3. `predict_hippocampus_celltypes.R` uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex subsetted by 1,000 nuclei in each annotated subtype (code coming soon) to predict celltypes. The resulting predicted.id is saved in `atlas_predictions` in the object metadata. The cells are also scored by cell cycle using these [mouse cell cycle genes](link) to aid in manual celltype annotation.
-4. Check prediction results in `HC_snRNA.ipynb` and make adjustments as necessary. Save final annotated celltypes at 3 levels of granularity: `gen_celltypes`, `celltypes`, and `subtypes`. See [celltype metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_celltypes_c2c12.csv) to see how these levels relate to each other.
+4. Check prediction results in `HC_snRNA.ipynb` and make adjustments.
 
 - Adrenal: In progress
 - Cortex: In progress
