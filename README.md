@@ -36,7 +36,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 [step1_atac_archr.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/step1_atac_archr.sh) does the following:
 1. Downloads the 10x multiome fragment [files](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/ref/encode_10x_fragment_files.txt) from the ENCODE portal using the batch download script `xargs -L 1 curl -O -J -L < files.txt` from this [cart](https://www.encodeproject.org/carts/enc4_mouse_snatac/) for the 5 tissues. The tar folders are unzipped in the `fragments` folder with the ENCODE "ENCFF" filename ID as the folder name. There are 40 folders. **Unzipping the data requires 93G of space.** 
 2. Calls [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R) which makes ArchR Arrow files, initializes ArchR Project, adds metadata, and filters nuclei. Nuclei must be present in filtered RNA object as well as passing ArchR filters (minTSS = 4, minFrags = 1000, filterDoublets). All Archr outputs, Arrow files, and project folders are in `archr`.
-3. With [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R), process ArchR project by dimensionality reduction, clustering, and plotting resulting UMAPs.
+3. With [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R), continue processing ArchR project by dimensionality reduction, clustering, and plotting resulting UMAPs.
 
 ## FAQ
 **Q:** Why are there differences in pre-processing between Parse and 10x?
