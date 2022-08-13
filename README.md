@@ -39,7 +39,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 3. With [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R), continue processing ArchR project by dimensionality reduction, clustering, and plotting resulting UMAPs.
 
 ## Directory structure
-![enc4_mouse](https://github.com/erebboah/enc4_mouse/blob/master/directory_struct.png =250x250)
+<img src="[https://your-image-url.type](https://github.com/erebboah/enc4_mouse/blob/master/directory_struct.png)" width="100" height="100">
 
 ## FAQ
 **Q:** Why are there differences in pre-processing between Parse and 10x snRNA?
