@@ -4,6 +4,7 @@
 ### Data
 - ENCODE carts: [Parse](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/), [10x](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/)
 - [Hippocampus data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/hippocampus_minimal_metadata.tsv)
+
 Note: All Parse experiments were done at the Mortazavi lab while all 10x multiome experiments were done at the Snyder labs, from nuclei isolation to sequencing
 
 ### Pre-processing
