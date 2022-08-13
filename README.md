@@ -38,6 +38,9 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 2. Calls [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R) which makes ArchR Arrow files, initializes ArchR Project, adds metadata, and filters nuclei. Nuclei must be present in filtered RNA object as well as passing ArchR filters (minTSS = 4, minFrags = 1000, filterDoublets). All Archr outputs, Arrow files, and project folders are in the `archr` folder.
 3. With [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R), continue processing ArchR project by dimensionality reduction, clustering, and plotting resulting UMAPs.
 
+## Directory structure
+![enc4_mouse](https://github.com/erebboah/enc4_mouse/blob/master/enc4_mouse_directory_structure.png)
+
 ## FAQ
 **Q:** Why are there differences in pre-processing between Parse and 10x snRNA?
 
