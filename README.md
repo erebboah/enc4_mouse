@@ -51,5 +51,5 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 
 **Q:** Why do you need to integrate 2 Parse Seurat objects with 1 10x Parse object?
 
-**A:** See above, but basically the difference in sequencing depth between Parse "standard" and Parse "deep" is a batch effect best fixed with the same integration strategy for combining the Parse and 10x experiments. The raw counts matrices can be merged within technology, depth, and tissue (i.e. across timepoints and sexes) with no batch effects, but differences in Parse and 10 experiments (including differences in nuclei preparation) required a heavy hand at the integration step.
+**A:** See above, but basically the difference in sequencing depth between Parse "standard" and Parse "deep" is a batch effect best fixed with the same integration strategy for combining the Parse and 10x experiments. The raw counts matrices can be merged within technology, depth, and tissue (i.e. across timepoints and sexes) with no batch effects, but differences in Parse and 10x experiments (including differences in nuclei preparation) required a heavy hand at the integration step.
 
