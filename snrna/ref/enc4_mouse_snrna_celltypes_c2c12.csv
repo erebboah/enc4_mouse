@@ -1,0 +1,122 @@
+﻿tissue,gen_celltype,celltypes,subtypes,n_Nuclei,gen_celltype_color,celltype_color,subtype_color
+Adrenal,Adipocytes,Adipocytes,Adipocytes,7199,#FFA60F,#FFA60F,#FFA60F
+Adrenal,Capsule,Capsule,Capsule,429,#236d88,#236d88,#236d88
+Adrenal,Cortex,Cortex,Cortex_ZF,22507,#f0c130,#f0c130,#f0c130
+Adrenal,Cortex,Cortex,Cortex_ZG,10447,#f0c130,#f0c130,#b23739
+Adrenal,Cortex,Cortex,X_zone,5785,#f0c130,#f0c130,#86b84d
+Adrenal,Cortex,Cortex,Y_zone,7922,#f0c130,#f0c130,#e37381
+Adrenal,Cycling,Cycling,Cortex_cycling,2522,#73c6f0,#73c6f0,#52a6d1
+Adrenal,Endothelial,Endothelial,Endothelial,10147,#799c57,#799c57,#799c57
+Adrenal,Cortex,Cortex,Cortex_ZF,1903,#f0c130,#f0c130,#f0c130
+Adrenal,Hepatocyte,Hepatocyte,Hepatocyte,544,#ad7797,#ad7797,#ad7797
+Adrenal,Medulla,Medulla,Medulla_NE,3302,#339470,#339470,#97578a
+Adrenal,Medulla,Medulla,Medulla_EPI,4740,#339470,#339470,#339470
+Adrenal,Myeloid,Macrophages,Macrophages,2206,#ed83bf,#ed83bf,#ed83bf
+Adrenal,Other,Adrenal_other,Adrenal_other,1890,#a4a7ab,#a4a7ab,#a4a7ab
+Adrenal,Smooth_muscle,Smooth_muscle,Smooth_muscle,364,#202074,#202074,#202074
+Adrenal,Sox10+,Sox10+,Sox10+,720,#753b74,#753b74,#753b74
+Adrenal,Stromal,Stromal,Stromal,6444,#c13673,#e2969b,#e2969b
+Gastrocnemius,Adipocytes,Adipocytes,Adipocytes,410,#FFA60F,#FFA60F,#FFA60F
+Gastrocnemius,Endothelial,Endothelial,Endothelial,6021,#799c57,#799c57,#799c57
+Gastrocnemius,Myeloid,Macrophages,Macrophages,1597,#ed83bf,#ed83bf,#ed83bf
+Gastrocnemius,Myonuclei,Type1,Type1,1938,#4472c4,#E41A1C,#E41A1C
+Gastrocnemius,Myonuclei,Type2A,Type2A,3510,#4472c4,#a725a5,#a725a5
+Gastrocnemius,Myonuclei,Type2B,Type2B,15485,#4472c4,#4472c4,#4472c4
+Gastrocnemius,Myonuclei,Type2B,Type2B_Ar,5198,#4472c4,#4472c4,#45c496
+Gastrocnemius,Myonuclei,Type2B,Type2B_late,6642,#4472c4,#4472c4,#c49644
+Gastrocnemius,Myonuclei,Type2B,Type2B_Myh4,15371,#4472c4,#4472c4,#2e26dc
+Gastrocnemius,Myonuclei,Type2X,Type2X,2990,#4472c4,#c199f8,#c199f8
+Gastrocnemius,Myonuclei,Perinatal,Perinatal,3746,#4472c4,#909090,#909090
+Gastrocnemius,Myonuclei,NMJ,NMJ,1102,#4472c4,#02ffff,#02ffff
+Gastrocnemius,Myonuclei,MTJ,MTJ,1076,#4472c4,#FFF52F,#FFF52F
+Gastrocnemius,Myonuclei,Satellite,Satellite,1959,#4472c4,#68d700,#68d700
+Gastrocnemius,Schwann_cells,Schwann_cells,Schwann_cells,795,#284e13,#284e13,#284e13
+Gastrocnemius,Smooth_muscle,Smooth_muscle,Smooth_muscle,2884,#202074,#202074,#202074
+Gastrocnemius,Stromal,FAP,FAP,14726,#c13673,#c13673,#c13673
+Gastrocnemius,Tenocytes,Tenocytes,Tenocytes,2653,#c8c079,#c8c079,#c8c079
+Heart,Adipocytes,Adipocytes,Adipocytes,314,#FFA60F,#FFA60F,#FFA60F
+Heart,Cardiac_fibroblast,CF,CF_late,5241,#f0e92b,#f0e92b,#fda717
+Heart,Cardiac_fibroblast,CF,CF,16098,#f0e92b,#f0e92b,#f0e92b
+Heart,Cardiomyocyte,CM_atrial,CM_atrial,3793,#cf8494,#c63924,#c63924
+Heart,Cardiomyocyte,CM,CM_early,6805,#cf8494,#cf8494,#E1C62F
+Heart,Cardiomyocyte,CM,CM_int,16715,#cf8494,#cf8494,#cf8494
+Heart,Cardiomyocyte,CM,CM_late,8634,#cf8494,#cf8494,#FF7F00
+Heart,Cardiomyocyte,CM,CM_ribo,9152,#cf8494,#cf8494,#596A98
+Heart,Cycling,Cycling,CF_cycling,555,#73c6f0,#73c6f0,#3faf86
+Heart,Cycling,Cycling,CM_cycling,595,#73c6f0,#73c6f0,#449B75
+Heart,Cycling,Cycling,CE_cycling,906,#73c6f0,#73c6f0,#73c6f0
+Heart,Cycling,Cycling,Pericytes_cycling,331,#73c6f0,#73c6f0,#56A255
+Heart,Endothelial,CE,CM_CE,3455,#799c57,#799c57,#AC5782
+Heart,Endothelial,CE,CE_late,4344,#799c57,#799c57,#B292A3
+Heart,Endothelial,CE,CE,17479,#799c57,#799c57,#799c57
+Heart,Endothelial,Lymphatic_ECs,Lymphatic_ECs,1196,#799c57,#F9F332,#F9F332
+Heart,Lymphoid,T_cells,T_cells,1002,#962996,#962996,#962996
+Heart,Lymphoid,B_cells,B_cells,619,#962996,#B53445,#B53445
+Heart,Myeloid,Macrophages,Macrophages,5832,#ed83bf,#ed83bf,#ed83bf
+Heart,Other,Heart_other,Heart_other,592,#a4a7ab,#a4a7ab,#a4a7ab
+Heart,Pericytes,Pericytes,Pericytes,6198,#e41a1c,#e41a1c,#e41a1c
+Heart,Schwann_cells,Schwann_cells,Schwann_cells,825,#284e13,#284e13,#284e13
+Heart,Smooth_muscle,Smooth_muscle,Smooth_muscle1,996,#202074,#202074,#3333cc
+Heart,Smooth_muscle,Smooth_muscle,Smooth_muscle2,1333,#202074,#202074,#202074
+Heart,Stromal,Epicardial,Epicardial,1387,#c13673,#3981b0,#3981b0
+Heart,Stromal,Endocardial,Endocardial,5603,#c13673,#c27842,#c27842
+Cortex,Cycling,Cycling,Astrocyte_cycling,1585,#73c6f0,#73c6f0,#73c6f0
+Cortex,Endothelial,Endothelial,Endothelial,2873,#799c57,#799c57,#799c57
+Cortex,Smooth_muscle,Smooth_muscle,SMC-Peri,596,#202074,#202074,#202074
+Cortex,Glial,Astrocyte,Astrocyte,7060,#FF7F00,#FF7F00,#FF7F00
+Cortex,Glial,OPC,OPC,4705,#FF7F00,#49a35f,#49a35f
+Cortex,Glial,Oligodendrocyte,MFOL,1526,#FF7F00,#E1C62F,#c0e12f
+Cortex,Glial,Oligodendrocyte,MOL,2128,#FF7F00,#E1C62F,#E1C62F
+Cortex,Myeloid,Microglia,Micro-PVM,1309,#ed83bf,#ed83bf,#ed83bf
+Cortex,VLMC,VLMC,VLMC,1045,#3db3be,#3db3be,#3db3be
+Cortex,Neuron,Excitatory,Car3,822,#AFD32C,#e41a1b,#5c7a5c
+Cortex,Neuron,Excitatory,CR,346,#AFD32C,#e41a1b,#eba4e8
+Cortex,Neuron,Excitatory,L2 IT ENTl,1260,#AFD32C,#e41a1b,#e41a1b
+Cortex,Neuron,Excitatory,L2/3 IT CTX,15597,#AFD32C,#e41a1b,#E2761D
+Cortex,Neuron,Excitatory,L2/3 IT ENTl,4621,#AFD32C,#e41a1b,#E6A919
+Cortex,Neuron,Excitatory,L2/3 IT PPP,3499,#AFD32C,#e41a1b,#EED111
+Cortex,Neuron,Excitatory,L2/3 IT RHP,1410,#AFD32C,#e41a1b,#E8EA15
+Cortex,Neuron,Excitatory,L3 IT ENT,1122,#AFD32C,#e41a1b,#C8DA25
+Cortex,Neuron,Excitatory,L4/5 IT CTX,17477,#AFD32C,#e41a1b,#AFD32C
+Cortex,Neuron,Excitatory,L5 IT CTX,3193,#AFD32C,#e41a1b,#6CAE51
+Cortex,Neuron,Excitatory,L5 PT CTX,3252,#AFD32C,#e41a1b,#4DB27D
+Cortex,Neuron,Excitatory,L5/6 NP CTX,1412,#AFD32C,#e41a1b,#47B5B8
+Cortex,Neuron,Excitatory,L6 CT CTX,7303,#AFD32C,#e41a1b,#3E72C1
+Cortex,Neuron,Excitatory,L6 IT CTX,3906,#AFD32C,#e41a1b,#3B30CF
+Cortex,Neuron,Excitatory,L6b/CT ENT,2286,#AFD32C,#e41a1b,#F83BC2
+Cortex,Neuron,Inhibitory,Lamp5,4819,#AFD32C,#535353,#535353
+Cortex,Neuron,Inhibitory,Pvalb,4419,#AFD32C,#535353,#BC4E43
+Cortex,Neuron,Inhibitory,Sst,3469,#AFD32C,#535353,#8100FF
+Cortex,Neuron,Inhibitory,Vip,2651,#AFD32C,#535353,#7D4D46
+Hippocampus,Endothelial,Endothelial,Endothelial,1523,#799c57,#799c57,#799c57
+Hippocampus,Glial,Astrocyte,Astrocyte,9530,#FF7F00,#FF7F00,#FF7F00
+Hippocampus,Glial,OPC,OPC,4585,#FF7F00,#49a35f,#49a35f
+Hippocampus,Glial,Oligodendrocyte,MFOL,1426,#FF7F00,#E1C62F,#c0e12f
+Hippocampus,Glial,Oligodendrocyte,MOL,2900,#FF7F00,#E1C62F,#E1C62F
+Hippocampus,Myeloid,Microglia,Micro-PVM,1455,#ed83bf,#ed83bf,#ed83bf
+Hippocampus,Smooth_muscle,Smooth_muscle,SMC-Peri,364,#202074,#202074,#202074
+Hippocampus,Stromal,Ependymal,Ependymal,296,#c13673,#c13673,#c13673
+Hippocampus,VLMC,VLMC,VLMC,623,#3db3be,#3db3be,#3db3be
+Hippocampus,Neuron,Excitatory,CA1-ProS,12946,#AFD32C,#e41a1b,#D76087
+Hippocampus,Neuron,Excitatory,CA3,6748,#AFD32C,#e41a1b,#99438A
+Hippocampus,Neuron,Excitatory,CR,458,#AFD32C,#e41a1b,#eba4e8
+Hippocampus,Neuron,Excitatory,CT SUB,1827,#AFD32C,#e41a1b,#939A65
+Hippocampus,Neuron,Excitatory,DG,18575,#AFD32C,#e41a1b,#44BB8D
+Hippocampus,Neuron,Excitatory,DG_early,9365,#AFD32C,#e41a1b,#7dd5d4
+Hippocampus,Neuron,Excitatory,L2/3 IT PPP,2165,#AFD32C,#e41a1b,#EED111
+Hippocampus,Neuron,Excitatory,L2/3 IT RHP,386,#AFD32C,#e41a1b,#E8EA15
+Hippocampus,Neuron,Excitatory,L4/5 IT CTX,274,#AFD32C,#e41a1b,#AFD32C
+Hippocampus,Neuron,Excitatory,L5 PT CTX,1266,#AFD32C,#e41a1b,#4DB27D
+Hippocampus,Neuron,Excitatory,L6 CT CTX,701,#AFD32C,#e41a1b,#3E72C1
+Hippocampus,Neuron,Excitatory,NP SUB,654,#AFD32C,#e41a1b,#6C659A
+Hippocampus,Other,Hippocampus_other,Hippocampus_other,699,#a4a7ab,#a4a7ab,#a4a7ab
+Hippocampus,Neuron,Excitatory,SUB-ProS,1730,#AFD32C,#e41a1b,#94926B
+Hippocampus,Neuron,Inhibitory,Lamp5,1182,#AFD32C,#535353,#535353
+Hippocampus,Neuron,Inhibitory,Pvalb,1407,#AFD32C,#535353,#BC4E43
+Hippocampus,Neuron,Inhibitory,Sncg,1087,#AFD32C,#535353,#9c7e59
+Hippocampus,Neuron,Inhibitory,Sst,1999,#AFD32C,#535353,#8100FF
+Hippocampus,Neuron,Inhibitory,Vip,644,#AFD32C,#535353,#7D4D46
+C2C12,Myoblast,MB_cells,MB_cells,5124,#ca79a7,#ca79a7,#ca79a7
+C2C12,Myoblast,MB_nuclei,MB_nuclei,9568,#ca79a7,#53b5e8,#53b5e8
+C2C12,Myotube,MT_nuclei,Pax7hi_nuclei,4481,#009c73,#009c73,#009c73
+C2C12,Myotube,MT_nuclei,Myoghi_nuclei,3026,#009c73,#009c73,#07694b
