@@ -10,7 +10,7 @@ Note: All Parse experiments were done at the Mortazavi lab while all 10x multiom
 ### Pre-processing
 1. `step1_get_data.sh` fetches **unfiltered sparse gene count matrix of all reads** tar.gz files from the ENCODE portal using the batch download script `xargs -L 1 curl -O -J -L < files.txt` for Parse and 10x separately. The tar folders are unzipped in `counts_parse` or `counts_10x` with the ENCODE "ENCFF" filename ID as the folder name. There are 40 10x folders and 436 Parse folders. **Unzipping the data requires 39G of space for Parse, 32G for 10x.** Next `get_counts_parse.R` is called to merge Parse data by experimental batch across file IDs and filter the resulting counts matrices by gene biotypes and for nuclei > 500 UMI, which are saved as sparse matrices and tsv files for genes and barcodes in the `scrublet` folder.  Finally `get_counts_10x.R` reads in 10x data by file ID and filters the counts matrices by gene biotypes and for nuclei > 0 UMI for ambient RNA removal. The sparse matrices and tsv files for genes and barcodes are saved in the same file ID folder in `counts_10x`.  
 2. `step2_cellbender.sh` runs Cellbender as an array job to remove ambient RNA from the 40 10x datasets using these Cellbender settings, where the first column is path to the file ID folder, second column is expected cells, and third column is total droplets included. The unfiltered Cellbender output is saved as cellbender.h5 in the same file ID folder in `counts_10x`. **The cellbender output requires an additional 56G of space.**
-3. `step3_run_scrublet.sh` runs followup script `format_cellbender_output.R` to output >500 UMI sparse matrices to the `scrublet` folder from the 10x cellbender.h5 files, matching the status of the Parse data. The python script `run_scrublet.py` detects doublets and outputs a modified barcodes tsv (`_barcodes_scrublet.tsv`) file with additonal columns for doublet score and doublet True/False.
+3. `step3_run_scrublet.sh` runs followup script `format_cellbender_output.R` to output >500 UMI sparse matrices to the `scrublet` folder from the 10x cellbender.h5 files, matching the status of the Parse data. The python script `run_scrublet.py` detects doublets and outputs a modified barcodes tsv (`_barcodes_scrublet.tsv`) file in the `scrublet` folder with additonal columns for doublet score and doublet True/False.
 
 ### Celltype Annotation
 Each tissue is integrated across technologies and annotated in Jupyter notebooks using Seurat. 
@@ -28,12 +28,15 @@ Each tissue is integrated across technologies and annotated in Jupyter notebooks
 4. Continue ArchR processing by dimensionality reduction, clustering, and plotting resulting UMAPs.
 
 ## FAQ
-Q: Why are there differences in pre-processing between Parse and 10x?
-A: Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real cells ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
+**Q:** Why are there differences in pre-processing between Parse and 10x?
 
-Q: Why are there so many Parse experiments?
-A: We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were also sequenced deeply. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms. See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
+**A:** Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real cells ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
 
-Q: Why do you need to integrate 2 Parse Seurat objects with 1 10x Parse object?
-A: See above, but basically the difference in sequencing depth between Parse "standard" and Parse "deep" is a batch effect best fixed with the same integration strategy for combining the Parse and 10x experiments. The raw counts matrices can be merged within technology, depth, and tissue (i.e. across timepoints and sexes) with no batch effects, but differences in Parse and 10 experiments (including differences in nuclei preparation) required a heavy hand at the integration step.
+**Q:** Why are there so many Parse experiments?
+
+**A:** We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were also sequenced deeply. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms. See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
+
+**Q:** Why do you need to integrate 2 Parse Seurat objects with 1 10x Parse object?
+
+**A:** See above, but basically the difference in sequencing depth between Parse "standard" and Parse "deep" is a batch effect best fixed with the same integration strategy for combining the Parse and 10x experiments. The raw counts matrices can be merged within technology, depth, and tissue (i.e. across timepoints and sexes) with no batch effects, but differences in Parse and 10 experiments (including differences in nuclei preparation) required a heavy hand at the integration step.
 
