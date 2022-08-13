@@ -3,7 +3,6 @@
 #SBATCH -A SEYEDAM_LAB            ## account to charge 
 #SBATCH -p standard               ## partition/queue name
 #SBATCH --nodes=1                 ## (-N) number of nodes to use
-#SBATCH --ntasks=8
 #SBATCH --cpus-per-task=8         ## number of cores the job needs
 #SBATCH --output=atac_archr-%J.out ## output log file
 #SBATCH --error=atac_archr-%J.err ## error log file
@@ -12,7 +11,7 @@
 mkdir ../fragments/
 cd ../fragments/
 
-xargs -L 1 curl -O -J -L < ../ref/files.txt
+xargs -L 1 curl -O -J -L < ../ref/encode_10x_fragment_files.txt
 
 for f in *.tar.gz
 do
