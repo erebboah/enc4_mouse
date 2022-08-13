@@ -33,9 +33,9 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 #### C2C12: In progress
 
 ## snATAC-seq
-(step1_atac_archr.sh)[https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/step1_atac_archr.sh] does the following:
+[step1_atac_archr.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/step1_atac_archr.sh) does the following:
 1. Downloads the 10x multiome fragment [files](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/ref/encode_10x_fragment_files.txt) from the ENCODE portal using the batch download script `xargs -L 1 curl -O -J -L < files.txt` from this [cart](https://www.encodeproject.org/carts/enc4_mouse_snatac/) for the 5 tissues. The tar folders are unzipped in the `fragments` folder with the ENCODE "ENCFF" filename ID as the folder name. There are 40 folders. **Unzipping the data requires 93G of space.** 
-2. Calls (make_archr_proj.R)[https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R] which makes ArchR Arrow files, initializes ArchR Project, adds metadata, and filters cells. Cells must be present in filtered RNA object as well as passing ArchR filters (minTSS = 4, minFrags = 1000, filterDoublets). All Archr outputs, Arrow files, and project folders are in `archr`.
+2. Calls [make_archr_proj.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/make_archr_proj.R) which makes ArchR Arrow files, initializes ArchR Project, adds metadata, and filters cells. Cells must be present in filtered RNA object as well as passing ArchR filters (minTSS = 4, minFrags = 1000, filterDoublets). All Archr outputs, Arrow files, and project folders are in `archr`.
 3. Continue ArchR processing by dimensionality reduction, clustering, and plotting resulting UMAPs.
 
 ## FAQ
