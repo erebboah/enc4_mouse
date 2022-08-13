@@ -4,9 +4,8 @@ suppressPackageStartupMessages(library(tidyverse))
 suppressPackageStartupMessages(library(viridis))
 library(glmGamPoi)
 library(RColorBrewer)
-set.seed("1234")
-
-setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snrna/")
+options(future.globals.maxSize = 10000 * 1024^2)
+setwd("../../snrna/")
 
 # Predict cell types from references
 

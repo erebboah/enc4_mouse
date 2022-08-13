@@ -1,7 +1,7 @@
 library(Matrix)
 library(Seurat)
 
-setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snrna/")
+setwd("../../snrna/")
 metadata = read.delim("ref/enc4_mouse_snrna_metadata.tsv")
 metadata = metadata[metadata$technology == "10x",]
 

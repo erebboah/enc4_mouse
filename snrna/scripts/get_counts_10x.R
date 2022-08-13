@@ -4,7 +4,7 @@ library(stringr)
 library(Seurat)
 
 #Read in gene reference and filter by biotypes of interst
-setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snrna/")
+setwd("../../snrna/")
 metadata = read.delim("ref/enc4_mouse_snrna_metadata.tsv")
 metadata = metadata[metadata$technology == "10x",]
 
