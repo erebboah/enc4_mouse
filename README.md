@@ -1,5 +1,5 @@
 # ENC4 Mouse snRNA-seq and snATAC-seq Analysis
-Postnatal timecourse of Bl6/Cast F1 hybrid mouse development at 7 timepoints, PND04, PND10, PND14, PND25, PND36, PNM02, and PNM18-20, 2 males and 2 females per timepoint.
+Postnatal timecourse of Bl6/Cast F1 hybrid mouse development in 5 core tissues: cortex, hippocampus, heart, adrenal gland, and gastrocnemius, at 7 timepoints: PND04, PND10, PND14, PND25, PND36, PNM02, and PNM18-20, with 2 males and 2 females per timepoint. Also added C2C12 mouse myoblast cell line data at 0hr and 72hr differentiation timepoints.
 
 ## snRNA-seq
 ### Data
