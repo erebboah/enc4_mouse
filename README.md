@@ -26,7 +26,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 #### Hippocampus
 1. Run integration R script with [integrate_hippocampus.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_hippocampus.sh).
 2. Check integration results and clustering resolution in `HC_snRNA.ipynb`.
-3. [predict_hippocampus_celltypes.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/predict_hippocampus_celltypes.R) uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex subsetted by 1,000 nuclei in each annotated subtype (code coming soon) to predict celltypes. The resulting predicted.id is saved in `atlas_predictions` in the object metadata. 
+3. [predict_hippocampus_celltypes.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/predict_hippocampus_celltypes.R) uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex subsetted by 1,000 nuclei in each annotated subtype (code coming soon) to predict celltypes.
 4. Check prediction results in `HC_snRNA.ipynb` and make adjustments.
 
 #### Cortex: In progress
