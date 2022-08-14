@@ -6,7 +6,7 @@ library(glmGamPoi)
 library(RColorBrewer)
 library(optparse)
 library(stringr)
-options(future.globals.maxSize = 10000 * 1024^2)
+options(future.globals.maxSize = 16000 * 1024^2)
 
 
 option_list = list(
@@ -193,16 +193,15 @@ combined.sct <- FindNeighbors(combined.sct, reduction = "pca", dims = 1:30,verbo
 combined.sct <- FindClusters(combined.sct,resolution=1.6,verbose = F)
 
 ## Call cluster marker genes 
-DefaultAssay(combined.sct)= "SCT"
+DefaultAssay(combined.sct)= "integrated"
 Idents(combined.sct) = "seurat_clusters"
 markers <- FindAllMarkers(combined.sct, 
-                             test.use = "MAST",
                              only.pos = TRUE, 
                              min.pct = 0.25, 
                              logfc.threshold = 0.25, 
                              verbose = T)
 
-write.table(markers,file=paste0("seurat/",str_to_lower(tissue),"_cluster_marker_genes_mast_only.pos_min.pct0.25_logfc.threshold0.25.tsv",
+write.table(markers,file=paste0("seurat/",str_to_lower(tissue),"_cluster_marker_genes_only.pos_min.pct0.25_logfc.threshold0.25.tsv",
             sep="\t",
             quote=F)
 

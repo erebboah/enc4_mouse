@@ -181,6 +181,21 @@ combined.sct <- RunUMAP(combined.sct, reduction = "pca", dims = 1:30,verbose = F
 combined.sct <- FindNeighbors(combined.sct, reduction = "pca", dims = 1:30,verbose = F)
 combined.sct <- FindClusters(combined.sct,resolution=1.6,verbose = F)
 
+## Call cluster marker genes 
+DefaultAssay(combined.sct)= "SCT"
+Idents(combined.sct) = "seurat_clusters"
+hc.markers <- FindAllMarkers(combined.sct, 
+                             test.use = "MAST",
+                             only.pos = TRUE, 
+                             min.pct = 0.25, 
+                             logfc.threshold = 0.25, 
+                             verbose = T)
+
+write.table(hc.markers,file="../seurat/hippocampus_cluster_marker_genes_mast_only.pos_min.pct0.25_logfc.threshold0.25.tsv",
+            sep="\t",
+            quote=F)
+
+
 # SAVE
 saveRDS(combined.sct,file="seurat/hippocampus_Parse_10x_integrated.rds")
 
