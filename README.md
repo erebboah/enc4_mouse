@@ -21,14 +21,17 @@ Note: All Parse experiments were done at the Mortazavi lab while all 10x multiom
 ### Celltype Annotation
 Each tissue is integrated across technologies and annotated using Seurat. The final annotations have 3 levels of granularity: `gen_celltype`, `celltypes`, and `subtypes`. See [celltype metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_celltypes_c2c12.csv) to see how these levels relate to each other.
 
+[integrate_parse_10x.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_parse_10x.R) merges counts across technologies and makes 3 Seurat objects for Parse standard, Parse deep, and 10x. Nuclei are filtered (see [detailed metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_metadata.tsv) for filter cutoffs). CCA integrates the 3 objects. The `combined.sct` object is processed with PCA, UMAP, SNN graph construction, and high-resolution clustering.
+
 #### Hippocampus
-1. [integrate_hippocampus.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_hippocampus.R) merges counts across technologies and makes 3 Seurat objects for Parse standard, Parse deep, and 10x. Nuclei are filtered (see [detailed metadata](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/enc4_mouse_snrna_metadata.tsv) for filter cutoffs). CCA integrates the 3 objects. The `combined.sct` object is processed with PCA, UMAP, SNN graph construction, and high-resolution clustering.
+1. Run integration R script with [integrate_hippocampus.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_hippocampus.sh) with option `--tissue hippocampus`. 
 2. Check integration results and clustering resolution in `HC_snRNA.ipynb`.
 3. [predict_hippocampus_celltypes.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/predict_hippocampus_celltypes.R) uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex subsetted by 1,000 nuclei in each annotated subtype (code coming soon) to predict celltypes. The resulting predicted.id is saved in `atlas_predictions` in the object metadata. 
 4. Check prediction results in `HC_snRNA.ipynb` and make adjustments.
 
-#### Adrenal: In progress
 #### Cortex: In progress
+1. Run integration R script with [integrate_cortex.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_hippocampus.sh) with option `--tissue cortex`. 
+#### Adrenal: In progress
 #### Heart: In progress
 #### Gastrocnemius: In progress
 #### C2C12: In progress
