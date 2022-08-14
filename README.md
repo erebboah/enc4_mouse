@@ -50,7 +50,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 
 **Q:** Why are there differences in pre-processing between Parse and 10x snRNA?
 
-**A:** The snRNA comes from 2 different single-cell sequencing platforms, [Parse Biosciences](https://www.parsebiosciences.com/) which uses combinatorial barcoding, and [10x Genomics](https://www.10xgenomics.com/), which uses droplet-based barcoding. Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real nuclei ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
+**A:** The snRNA comes from [Parse Biosciences](https://www.parsebiosciences.com/) which uses combinatorial barcoding, and [10x Genomics](https://www.10xgenomics.com/), which uses droplet-based barcoding. Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real nuclei ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
 
 
 **Q:** Why are there so many Parse snRNA experiments?
