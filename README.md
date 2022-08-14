@@ -1,4 +1,5 @@
 # ENC4 Mouse snRNA-seq and snATAC-seq Analysis
+Postnatal timecourse of Bl6/Cast F1 hybrid mouse development at 7 timepoints, PND04, PND10, PND14, PND25, PND36, PNM02, and PNM18-20, 2 males and 2 females per timepoint.
 
 ## snRNA-seq
 ### Data
@@ -42,17 +43,25 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 <img src="https://github.com/erebboah/enc4_mouse/blob/master/directory_struct.png" width="355" height="590">
 
 ## FAQ
+**Q:** Why is the snRNA analysis so much longer than the snATAC analysis?
+
+**A:** The snRNA comes from 2 different single cell platforms and must be integrated, then celltypes must be manually annotated. The ATAC comes from the [10x multiome](https://www.10xgenomics.com/products/single-cell-multiome-atac-plus-gene-expression) where chromatin accessibility and gene expression are detected simultaneously from the same nucleus. Therefore the same nuclei that were annotated in the snRNA analysis are in the snATAC data, so the celltype annotations were simply transferred to the ATAC Archr metadata.
+
+
 **Q:** Why are there differences in pre-processing between Parse and 10x snRNA?
 
-**A:** Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real nuclei ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
+**A:** The snRNA comes from 2 different single-cell sequencing platforms, [Parse Biosciences](https://www.parsebiosciences.com/) which uses combinatorial barcoding, and [10x Genomics](https://www.10xgenomics.com/), which uses droplet-based barcoding. Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real nuclei ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
 
 
 **Q:** Why are there so many Parse snRNA experiments?
 
-**A:** We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were also sequenced deeply. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms. See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
+**A:** 1. We conducted Parse snRNA-seq for all 7 postnatal timepoints, while 10x snRNA-seq was done for PND14 and PNM2. 2. We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were also sequenced deeply. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms. See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
 
 
 **Q:** Why do you need to integrate 2 Parse Seurat RNA objects with 1 10x Parse RNA object?
 
 **A:** See above, but basically the difference in sequencing depth between Parse "standard" and Parse "deep" is a batch effect best fixed with the same integration strategy for combining the Parse and 10x experiments. The raw counts matrices can be merged within technology, depth, and tissue (i.e. across timepoints and sexes) with no batch effects, but differences in Parse and 10x experiments (including differences in nuclei preparation) required a heavy hand at the integration step.
+
+
+
 
