@@ -10,7 +10,7 @@
 - [Gastrocnemius data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/gastrocnemius_minimal_metadata.tsv)
 - [C2C12 data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/c2c12_minimal_metadata.tsv)
 
-Note: All Parse experiments were done at the Mortazavi lab while all 10x multiome experiments were done at the Snyder lab, from nuclei isolation to sequencing
+Note: All Parse experiments were done at the Mortazavi lab while all 10x multiome experiments were done at the Snyder lab, from nuclei isolation to sequencing.
 
 ### Pre-processing
 1. [step1_get_data.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/step1_get_data.sh) fetches **unfiltered sparse gene count matrix of all reads** tar.gz files from the ENCODE portal using the batch download script `xargs -L 1 curl -O -J -L < files.txt` for [Parse](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/encode_parse_scrna_files.txt) and [10x](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/encode_10x_scrna_files.txt) separately. The tar folders are unzipped in `counts_parse` or `counts_10x` with the ENCODE "ENCFF" filename ID as the folder name. There are 40 10x folders and 436 Parse folders. **Unzipping the data requires 39G of space for Parse, 32G for 10x.** Next [get_counts_parse.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/get_counts_parse.R) is called to merge Parse data by experimental batch across file IDs and filter the resulting counts matrices by gene biotypes and for nuclei > 500 UMI, which are saved as sparse matrices and tsv files for genes and barcodes in the `scrublet` folder.  Finally [get_counts_10x.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/get_counts_10x.R) reads in 10x data by file ID and filters the counts matrices by gene biotypes and for nuclei > 0 UMI for ambient RNA removal. The sparse matrices and tsv files for genes and barcodes are saved in the same file ID folder in `counts_10x`.  
@@ -44,7 +44,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 ## FAQ
 **Q:** Why are there differences in pre-processing between Parse and 10x snRNA?
 
-**A:** Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real cells ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
+**A:** Droplet-based barcoding introduces the possibility of RNA outside of the nucleus ending up in a droplet and getting barcoded along with real nuclei ("empty droplets"). Combinatorial barcoding requires each RNA molecule to be fixed inside the nuclei across every round of barcoding until lysis, so we feel that the empty droplets filter is unnecessary. Other than ambient RNA removal, the processing for Parse and 10x data is the same.
 
 
 **Q:** Why are there so many Parse snRNA experiments?
