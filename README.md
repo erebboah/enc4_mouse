@@ -63,7 +63,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 
 **Q:** Why are there so many Parse snRNA experiments?
 
-**A:** 1. We conducted Parse snRNA-seq for all 7 postnatal timepoints, while 10x snRNA-seq was done for PND14 and PNM2. 2. We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were deeply sequenced. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms. See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
+**A:** 1. We conducted Parse snRNA-seq for all 7 postnatal timepoints, while 10x snRNA-seq was done for PND14 and PNM2. 2. We sequenced every short-read Parse experiment at a standard depth, but a subset of 1,000-2,000 nuclei were deeply sequenced. These deeply sequenced nuclei were also sequenced with either PacBio or ONT long read platforms (single-nucleus LR analysis code coming soon). See our [LR-Split-seq paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02505-w) for more details. 
 
 
 **Q:** Why do you need to integrate 2 Parse Seurat RNA objects with 1 10x Parse RNA object?
