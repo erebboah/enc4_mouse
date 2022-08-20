@@ -29,14 +29,14 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 2. Check integration results and clustering resolution in [HC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HC_snRNA.ipynb).
 3. [predict_hippocampus_celltypes.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/predict_hippocampus_celltypes.R) uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex subsetted by 1,000 nuclei in each annotated subtype (code coming soon) to predict celltypes.
 4. Check prediction results in [HC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HC_snRNA.ipynb) and make adjustments.
-5. Call marker genes for 3 levels of celltype annotations.
+5. Call marker genes for gen_celltype, celltypes, and subtypes.
 
 #### Cortex
 1. Run integration R script with [integrate_cortex.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_cortex.sh). 
 2. Check integration results and clustering resolution in [CX_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/CX_snRNA.ipynb).
 3. [predict_cortex_celltypes.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/predict_cortex_celltypes.R) uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex subsetted by 1,000 nuclei in each annotated subtype (code coming soon) to predict celltypes.
 4. Check prediction results in [CX_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/CX_snRNA.ipynb) and make adjustments.
-5. Call marker genes for 3 levels of celltype annotations.
+5. Call marker genes for gen_celltype, celltypes, and subtypes.
 
 #### Adrenal: In progress
 #### Heart: In progress
