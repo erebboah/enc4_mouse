@@ -1,6 +1,6 @@
 # ENC4 Mouse snRNA-seq and snATAC-seq Analysis
 ## Overview
-Analysis of postnatal timecourse of Bl6/Cast F1 hybrid mouse development in 5 core tissues: cortex, hippocampus, heart, adrenal gland, and gastrocnemius, at 7 timepoints for snRNA-seq: PND04, PND10, PND14, PND25, PND36, PNM02, and PNM18-20 and 2 timepoints for 10x multiome snRNA-seq+snATAC-seq: PND14 and PNM02, with 2 males and 2 females per timepoint. Also added C2C12 mouse myoblast cell line data at 0hr and 72hr differentiation timepoints.
+Analysis of postnatal timecourse of Bl6/Cast F1 hybrid mouse development in 5 core tissues: cortex, hippocampus, heart, adrenal gland, and gastrocnemius, at 7 timepoints for snRNA-seq: PND04, PND10, PND14, PND25, PND36, PNM02, and PNM18-20 and 2 timepoints for multiome snRNA-seq+snATAC-seq: PND14 and PNM02, with 2 males and 2 females per timepoint. Also added C2C12 mouse myoblast cell line data at 0hr and 72hr differentiation timepoints.
 
 ## snRNA-seq
 ### Data
@@ -12,7 +12,7 @@ Analysis of postnatal timecourse of Bl6/Cast F1 hybrid mouse development in 5 co
 - [Gastrocnemius data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/gastrocnemius_minimal_metadata.tsv)
 - [C2C12 data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/c2c12_minimal_metadata.tsv)
 
-Note: All Parse experiments were done at the Mortazavi lab while all 10x multiome experiments were done at the Snyder lab, from nuclei isolation to sequencing.
+Note: All Parse snRNA-seq experiments were done at the Mortazavi lab while all 10x multiome experiments were done at the Snyder lab, from nuclei isolation to sequencing.
 
 ### Pre-processing
 1. [step1_get_data.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/step1_get_data.sh) fetches **unfiltered sparse gene count matrix of all reads** tar.gz files from the ENCODE portal using the batch download script `xargs -L 1 curl -O -J -L < files.txt` for [Parse](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/encode_parse_scrna_files.txt) and [10x](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/encode_10x_scrna_files.txt) separately. The tar folders are unzipped in `counts_parse` or `counts_10x` with the ENCODE "ENCFF" filename ID as the folder name. There are 40 10x folders and 436 Parse folders. **Unzipping the data requires 39G of space for Parse, 32G for 10x.** Next [get_counts_parse.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/get_counts_parse.R) is called to merge Parse data by experimental batch across file IDs and filter the resulting counts matrices by gene biotypes and for nuclei > 500 UMI, which are saved as sparse matrices and tsv files for genes and barcodes in the `scrublet` folder.  Finally [get_counts_10x.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/get_counts_10x.R) reads in 10x data by file ID and filters the counts matrices by gene biotypes and for nuclei > 0 UMI for ambient RNA removal. The sparse matrices and tsv files for genes and barcodes are saved in the same file ID folder in `counts_10x`.  
