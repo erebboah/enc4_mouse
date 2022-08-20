@@ -192,6 +192,14 @@ combined.sct <- RunUMAP(combined.sct, reduction = "pca", dims = 1:30,verbose = F
 combined.sct <- FindNeighbors(combined.sct, reduction = "pca", dims = 1:30,verbose = F)
 combined.sct <- FindClusters(combined.sct,resolution=1.6,verbose = F)
 
+# Add cell cycle scores 
+load("ref/mouse_cellcycle_genes.rda")
+DefaultAssay(combined.sct) = "SCT"
+combined.sct<- CellCycleScoring(combined.sct, s.features = m.s.genes, g2m.features = m.g2m.genes)
+
+# SAVE
+saveRDS(combined.sct,file=paste0("seurat/",str_to_lower(tissue),"_Parse_10x_integrated.rds"))
+
 ## Call cluster marker genes 
 DefaultAssay(combined.sct)= "integrated"
 Idents(combined.sct) = "seurat_clusters"
@@ -201,12 +209,9 @@ markers <- FindAllMarkers(combined.sct,
                              logfc.threshold = 0.25, 
                              verbose = T)
 
-write.table(markers,file=paste0("seurat/",str_to_lower(tissue),"_cluster_marker_genes_only.pos_min.pct0.25_logfc.threshold0.25.tsv",
+write.table(markers,file=paste0("seurat/",str_to_lower(tissue),"_cluster_marker_genes_only.pos_min.pct0.25_logfc.threshold0.25.tsv"),
             sep="\t",
-            quote=F)
-
-
-# SAVE
-saveRDS(combined.sct,file=paste0("seurat/",str_to_lower(tissue),"_Parse_10x_integrated.rds"))
+            quote=F,
+            row.names = F)
 
 sessionInfo()
