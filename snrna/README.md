@@ -32,9 +32,10 @@ Manual celltype annotation. Find marker genes for `gen_celltype`, `celltypes`, a
 
 ### Results 
 - `gen_celltype` and `celltypes` are basically the same, such as "Cortex" and "Medulla" (with the exception of "Myeloid" vs. "Macrophages" and "Myonuclei" vs. "Skeletal_muscle")
-- `subtypes` breaks down the cortical cells into groups such as "Cortex_ZG" (zona glomerulosa), "Cortex_ZF" (zona fasciculata), "X_zone", and "Y_zone". "Medulla" breaks down into "Medulla_NE" (norepinephrine-producing) and "Medulla_EPI" (epinephrine-producing).
+- `subtypes` breaks down the cortical cells into "Cortex_ZG" (zona glomerulosa) and "Cortex_ZF" (zona fasciculata) using ZG marker gene Cyp11b2. Cyp11a1 and Cyp11b1 are expressed in both layers.
+- "Medulla" breaks down into "Medulla_NE" (norepinephrine-producing) and "Medulla_EPI" (epinephrine-producing) using expression of Pnmt, the enzyme responsible for concerting norepinephrine to epinephrine, which is expressed only in the epinephrine-producing cells.
 - Cross-referenced [cell type marker genes](https://panglaodb.se/markers.html) with [cluster markers](https://github.com/erebboah/enc4_mouse/blob/master/snrna/seurat/markers/adrenal_cluster_marker_genes_only.pos_min.pct0.25_logfc.threshold0.25.tsv) to figure out clusters such as hepatocytes and fibroblasts.
 - Cell cycle scoring helps assign cycling clusters.
-- We noticed predominantly male and female cortex that we labeled Y_zone and X_zone, respectively, with the X-zone already described in literature
+- We noticed predominantly female and male cortex that we labeled "X_zone" and "Y_zone", respectively, with the X-zone already described in literature.
 
 
