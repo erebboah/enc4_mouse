@@ -7,7 +7,7 @@ Adrenal,Cortex,Cortex,X_zone,#f0c130,#f0c130,#86b84d
 Adrenal,Cortex,Cortex,Y_zone,#f0c130,#f0c130,#e37381
 Adrenal,Cycling,Cycling,Cortex_cycling,#73c6f0,#73c6f0,#52a6d1
 Adrenal,Cycling,Cycling,Endothelial_cycling,#73c6f0,#73c6f0,#aaed66
-Adrenal,Endothelial,Endothelial,Endothelial,#73c6f0,#73c6f0,#799c57
+Adrenal,Endothelial,Endothelial,Endothelial,#799c57,#799c57,#799c57
 Adrenal,Fibroblast,Fibroblast,Fibroblast1,#f0e92b,#f0e92b,#ffc803
 Adrenal,Fibroblast,Fibroblast,Fibroblast2,#f0e92b,#f0e92b,#aebe09
 Adrenal,Cycling,Cycling,Fibroblast_cycling,#73c6f0,#73c6f0,#c8ff01
