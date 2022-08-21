@@ -18,7 +18,6 @@
 
 [HC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HC_snRNA.ipynb), [CX_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/CX_snRNA.ipynb): Manual celltype annotation by assigning each cluster to the celltype predicted for the majority of cells in the cluster, then adjusting the labels as we see fit. Find marker genes for gen_celltype, celltypes, and subtypes and save in seurat/markers
 
-
 ### Results
 - We decided on 3 levels of annotation: `gen_celltype` or general celltype (e.g. "Neuron"), `celltypes` for higher resolution (e.g. "Inhibitory"), and finally `subtypes` for the highest resolution of celltype annotations (e.g. "Pvalb"). 
 - The external atlas did not separate their oligodendrocytes into OPCs, MFOLs, and MOLs, but we use marker genes reported in literature and on [mousebrain.org](http://www.mousebrain.org/adolescent/celltypes.html) to check marker genes and assign cell type labels.
