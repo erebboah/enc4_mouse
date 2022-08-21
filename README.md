@@ -60,7 +60,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 ## FAQ
 **Q:** Why is the snRNA analysis so much longer than the snATAC analysis?
 
-**A:** The snRNA comes from 2 different single cell platforms and must be integrated, then celltypes must be manually annotated. The ATAC comes from the [10x multiome](https://www.10xgenomics.com/products/single-cell-multiome-atac-plus-gene-expression) where chromatin accessibility and gene expression are detected simultaneously from the same nucleus. Therefore the same nuclei that were annotated in the snRNA analysis are in the snATAC data, so the celltype annotations were simply transferred to the ATAC Archr metadata. I also don't go very far in the snATAC analysis posted here (i.e. differential peak analysis, motif calling...code coming soon).
+**A:** The snRNA comes from 2 different single cell platforms and must be integrated, then celltypes must be manually annotated. The ATAC comes from the [10x multiome](https://www.10xgenomics.com/products/single-cell-multiome-atac-plus-gene-expression) where chromatin accessibility and gene expression are detected simultaneously from the same nucleus. Therefore the same nuclei that were annotated in the snRNA analysis are in the snATAC data, so the celltype annotations were simply transferred to the ATAC Archr metadata. I also don't go very far in the snATAC analysis posted here (i.e. no differential accessibility analysis, motif calling...code coming soon).
 
 
 **Q:** Why are there differences in pre-processing between Parse and 10x snRNA?
