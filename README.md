@@ -6,8 +6,8 @@ Analysis of postnatal timecourse of Bl6/Cast F1 hybrid mouse development in 5 co
 ### Data
 - ENCODE carts: [Parse](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/), [10x](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/)
 - [Hippocampus data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/hippocampus_minimal_metadata.tsv)
-- [Adrenal data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/adrenal_minimal_metadata.tsv)
 - [Cortex data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/cortex_minimal_metadata.tsv)
+- [Adrenal data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/adrenal_minimal_metadata.tsv)
 - [Heart data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/heart_minimal_metadata.tsv)
 - [Gastrocnemius data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/gastrocnemius_minimal_metadata.tsv)
 - [C2C12 data table](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/ref/c2c12_minimal_metadata.tsv)
