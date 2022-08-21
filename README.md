@@ -48,7 +48,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 1. Run integration R script with [integrate_heart.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_heart.sh). 
 2. Check integration results and clustering resolution in [HT_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HT_snRNA.ipynb).
 3. [predict_heart_celltypes.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/predict_heart_celltypes.R) uses 2 external datasets to predict celltypes:
-    - [Stressed mouse ventricles](https://www.omicsdi.org/dataset/arrayexpress-repository/E-MTAB-8810) and associated [paper](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.045115)
+    - [Stressed mouse ventricles](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-8810/files/) and associated [paper](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.045115)
     - [Human heart cell atlas](https://www.heartcellatlas.org/) converted to mouse gene IDs.
 5. Check prediction results in [HT_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HT_snRNA.ipynb) and make adjustments.
 6. Find marker genes for `gen_celltype`, `celltypes`, and `subtypes` and save in `snrna/seurat/markers`.
