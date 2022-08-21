@@ -38,7 +38,12 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 4. Check prediction results in [CX_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/CX_snRNA.ipynb) and make adjustments.
 5. Find marker genes for `gen_celltype`, `celltypes`, and `subtypes` and save in `snrna/seurat/markers`.
 
-#### Adrenal: In progress
+#### Adrenal
+1. Run integration R script with [integrate_adrenal.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_adrenal.sh). 
+2. Check integration results and clustering resolution in [ADR_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/ADR_snRNA.ipynb).
+3. Manually annotate `gen_celltype`, `celltypes`, and `subtypes.
+4. Find marker genes for all 3 levels of celltype annotations and save in `snrna/seurat/markers`.
+
 #### Heart: In progress
 #### Gastrocnemius: In progress
 #### C2C12: In progress
