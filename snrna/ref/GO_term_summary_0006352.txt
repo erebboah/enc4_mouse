@@ -1,0 +1,249 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:105043	Ahr	aryl-hydrocarbon receptor	12		positive regulation of RNA polymerase II transcription preinitiation complex assembly			IDA		J:14760 	
+MGI:1858965	Atf7ip	activating transcription factor 7 interacting protein	6		regulation of RNA polymerase II transcription preinitiation complex assembly			ISO	Q6VMQ6 	J:164563 	
+MGI:1917580	Bclaf1	BCL2-associated transcription factor 1	10		positive regulation of DNA-templated transcription initiation			ISO	Q9NYF8 	J:164563 	
+MGI:1347077	Bdp1	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB	13		RNA polymerase III preinitiation complex assembly			IBA	PTN000532088 	J:265628 	
+MGI:1919558	Brf1	BRF1, RNA polymerase III transcription initiation factor 90 kDa subunit	12		DNA-templated transcription initiation			IBA	PTN000178517 	J:265628 	
+MGI:1919558	Brf1	BRF1, RNA polymerase III transcription initiation factor 90 kDa subunit	12		transcription preinitiation complex assembly			IEA	IPR000812 	J:72247 	
+MGI:1913903	Brf2	BRF2, RNA polymerase III transcription initiation factor 50kDa subunit	8		DNA-templated transcription initiation			IBA	PTN000178517 	J:265628 	
+MGI:1913903	Brf2	BRF2, RNA polymerase III transcription initiation factor 50kDa subunit	8		transcription preinitiation complex assembly			IEA	IPR000812 	J:72247 	
+MGI:1261820	Cand1	cullin associated and neddylation disassociated 1	10		positive regulation of RNA polymerase II transcription preinitiation complex assembly			ISO	RGD:620479 	J:155856 	
+MGI:1277968	Cavin1	caveolae associated 1	11		transcription initiation at RNA polymerase I promoter			IBA	PTN002689946 	J:265628 	
+MGI:1277968	Cavin1	caveolae associated 1	11		transcription initiation at RNA polymerase I promoter			IDA		J:121710 	
+MGI:1277968	Cavin1	caveolae associated 1	11		transcription initiation at RNA polymerase I promoter			ISO	Q6NZI2 	J:164563 	
+MGI:1913921	Ccnh	cyclin H	13		transcription initiation at RNA polymerase II promoter			ISO	P51946 	J:164563 	
+MGI:102956	Cdk7	cyclin-dependent kinase 7	13		transcription initiation at RNA polymerase II promoter			ISO	P50613 	J:164563 	
+MGI:99480	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	7		positive regulation of DNA-templated transcription initiation			ISO	P49715 	J:164563 	
+MGI:1100818	Crcp	calcitonin gene-related peptide-receptor component protein	5		DNA-templated transcription initiation			IEA	IPR005574 	J:72247 	
+MGI:1100818	Crcp	calcitonin gene-related peptide-receptor component protein	5		transcription initiation at RNA polymerase III promoter			IBA	PTN000399700 	J:265628 	
+MGI:88494	Creb1	cAMP responsive element binding protein 1	1		positive regulation of RNA polymerase II transcription preinitiation complex assembly			ISO	RGD:620218 	J:155856 	
+MGI:1915756	Ctnnbip1	catenin beta interacting protein 1	4		negative regulation of transcription initiation by RNA polymerase II			IDA		J:163143 	
+MGI:1919412	Dhx36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	3		positive regulation of transcription initiation by RNA polymerase II			ISO	Q9H2U1 	J:164563 	
+MGI:1100515	Dr1	down-regulator of transcription 1	5		RNA polymerase II preinitiation complex assembly			IBA	PTN000115754 	J:265628 	
+MGI:1914923	Elob	elongin B	17		transcription initiation at RNA polymerase II promoter			ISO	Q15370 	J:164563 	
+MGI:1915173	Eloc	elongin C	1		transcription initiation at RNA polymerase II promoter			ISO	Q15369 	J:164563 	
+MGI:95412	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	7		positive regulation of transcription initiation by RNA polymerase II	happens in liver		IMP		J:181994 	
+MGI:95414	Ercc3	excision repair cross-complementing rodent repair deficiency, complementation group 3	18		transcription initiation at RNA polymerase II promoter			IBA	PTN000138598 	J:265628 	
+MGI:1100494	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	14		positive regulation of transcription initiation by RNA polymerase II	happens in liver		IGI	MGI:99135 	J:181994 	
+MGI:1100494	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	14		positive regulation of transcription initiation by RNA polymerase II	happens in liver		IMP	MGI:1932102 	J:181994 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		positive regulation of RNA polymerase II transcription preinitiation complex assembly			ISO	P03372 	J:164563 	
+MGI:107179	Fosl1	fos-like antigen 1	19		positive regulation of DNA-templated transcription initiation			ISO	P15407 	J:164563 	
+MGI:1933277	Gtf2a1	general transcription factor II A, 1	12		positive regulation of transcription initiation by RNA polymerase II			ISO	P52655 	J:164563 	
+MGI:1933277	Gtf2a1	general transcription factor II A, 1	12		RNA polymerase II preinitiation complex assembly			IC		J:320280 	
+MGI:1933277	Gtf2a1	general transcription factor II A, 1	12		transcription initiation at RNA polymerase II promoter			IEA	IPR004855 IPR009088 	J:72247 	
+MGI:1919078	Gtf2a1l	general transcription factor IIA, 1-like	17		transcription initiation at RNA polymerase II promoter			IEA	IPR004855 IPR009088 	J:72247 	
+MGI:1933289	Gtf2a2	general transcription factor II A, 2	9		positive regulation of transcription initiation by RNA polymerase II			ISO	P52657 	J:164563 	
+MGI:1933289	Gtf2a2	general transcription factor II A, 2	9		RNA polymerase II preinitiation complex assembly			IBA	PTN000103450 	J:265628 	
+MGI:1933289	Gtf2a2	general transcription factor II A, 2	9		RNA polymerase II preinitiation complex assembly			IC		J:320280 	
+MGI:1933289	Gtf2a2	general transcription factor II A, 2	9		RNA polymerase II preinitiation complex assembly			ISO	P52657 	J:164563 	
+MGI:1933289	Gtf2a2	general transcription factor II A, 2	9		transcription initiation at RNA polymerase II promoter			ISO	P52657 	J:164563 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		DNA-templated transcription initiation			IBA	PTN000178517 	J:265628 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		RNA polymerase II preinitiation complex assembly			IBA	PTN000907431 	J:265628 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		RNA polymerase II preinitiation complex assembly			ISO	Q00403 	J:164563 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		transcription initiation at RNA polymerase II promoter			IBA	PTN000178621 	J:265628 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		transcription initiation at RNA polymerase II promoter			ISO	Q00403 	J:164563 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		transcription preinitiation complex assembly			IEA	IPR000812 	J:72247 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		transcriptional start site selection at RNA polymerase II promoter			IBA	PTN000907431 	J:265628 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		transcriptional start site selection at RNA polymerase II promoter			ISO	Q00403 	J:164563 	
+MGI:1921447	Gtf2e1	general transcription factor II E, polypeptide 1 (alpha subunit)	16		transcription initiation at RNA polymerase II promoter			IEA	IPR002853 	J:72247 	
+MGI:1921447	Gtf2e1	general transcription factor II E, polypeptide 1 (alpha subunit)	16		transcription open complex formation at RNA polymerase II promoter			IBA	PTN000991811 	J:265628 	
+MGI:1915403	Gtf2e2	general transcription factor II E, polypeptide 2 (beta subunit)	8		transcription initiation at RNA polymerase II promoter			IBA	PTN000295707 	J:265628 	
+MGI:1923848	Gtf2f1	general transcription factor IIF, polypeptide 1	17		transcription initiation at RNA polymerase II promoter			IBA	PTN000313913 	J:265628 	
+MGI:1923848	Gtf2f1	general transcription factor IIF, polypeptide 1	17		transcription initiation at RNA polymerase II promoter			ISO	P35269 	J:164563 	
+MGI:1915955	Gtf2f2	general transcription factor IIF, polypeptide 2	14		RNA polymerase II preinitiation complex assembly			ISO	RGD:620772 	J:155856 	
+MGI:1915955	Gtf2f2	general transcription factor IIF, polypeptide 2	14		transcription initiation at RNA polymerase II promoter			IBA	PTN000047872 	J:265628 	
+MGI:1915955	Gtf2f2	general transcription factor IIF, polypeptide 2	14		transcription initiation at RNA polymerase II promoter			ISO	RGD:620772 	J:155856 	
+MGI:1915955	Gtf2f2	general transcription factor IIF, polypeptide 2	14		transcription initiation at RNA polymerase II promoter			ISO	P13984 	J:164563 	
+MGI:107227	Gtf2h5	general transcription factor IIH, polypeptide 5	17		transcription initiation at RNA polymerase II promoter			IEA	IPR009400 	J:72247 	
+MGI:107887	Gtf3c1	general transcription factor III C 1	7		transcription initiation at RNA polymerase III promoter			IBA	PTN001032354 	J:265628 	
+MGI:2138937	Gtf3c4	general transcription factor IIIC, polypeptide 4	2		transcription initiation at RNA polymerase III promoter			IEA	IPR044230 	J:72247 	
+MGI:1917489	Gtf3c5	general transcription factor IIIC, polypeptide 5	2		transcription initiation at RNA polymerase III promoter			IEA	IPR040454 	J:72247 	
+MGI:1341884	Hey2	hairy/enhancer-of-split related with YRPW motif 2	10		negative regulation of transcription initiation by RNA polymerase II			ISO	Q9UBP5 	J:164563 	
+MGI:96113	Hmgb1	high mobility group box 1	5		negative regulation of RNA polymerase II transcription preinitiation complex assembly			ISO	P09429 	J:164563 	
+MGI:98504	Hnf1a	HNF1 homeobox A	5		positive regulation of transcription initiation by RNA polymerase II			ISO	P20823 	J:164563 	
+MGI:98505	Hnf1b	HNF1 homeobox B	11		positive regulation of transcription initiation by RNA polymerase II			ISO	P35680 	J:164563 	
+MGI:1342540	Ikzf1	IKAROS family zinc finger 1	11		positive regulation of RNA polymerase II transcription preinitiation complex assembly			IMP	MGI:2158690 	J:182882 	
+MGI:96395	Irf8	interferon regulatory factor 8	8	NOT	positive regulation of transcription initiation by RNA polymerase II		PR:000035707	IDA		J:190341 	
+MGI:96395	Irf8	interferon regulatory factor 8	8		positive regulation of transcription initiation by RNA polymerase II		PR:000035709	IDA		J:190341 	
+MGI:96646	Jun	jun proto-oncogene	4		positive regulation of DNA-templated transcription initiation			ISO	P05412 	J:164563 	
+MGI:96790	Lipe	lipase, hormone sensitive	7		transcription initiation at RNA polymerase I promoter			ISS	Q6NZI2 	J:48217 	
+MGI:1338823	Maz	MYC-associated zinc finger protein (purine-binding transcription factor)	7		transcription initiation at RNA polymerase II promoter			ISO	P56270 	J:164563 	
+MGI:1100846	Med1	mediator complex subunit 1	11		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1100846	Med1	mediator complex subunit 1	11		positive regulation of transcription initiation by RNA polymerase II			ISO	Q15648 	J:164563 	
+MGI:1100846	Med1	mediator complex subunit 1	11		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1914631	Med4	mediator complex subunit 4	14		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1914631	Med4	mediator complex subunit 4	14		positive regulation of transcription initiation by RNA polymerase II			ISO	Q9NPJ6 	J:164563 	
+MGI:1914631	Med4	mediator complex subunit 4	14		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1917042	Med6	mediator complex subunit 6	12		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1917042	Med6	mediator complex subunit 6	12		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1913463	Med7	mediator complex subunit 7	11		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1913463	Med7	mediator complex subunit 7	11		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1915269	Med8	mediator complex subunit 8	4		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1915269	Med8	mediator complex subunit 8	4		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:2183151	Med9	mediator complex subunit 9	11		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:2183151	Med9	mediator complex subunit 9	11		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:106331	Med10	mediator complex subunit 10	13		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:106331	Med10	mediator complex subunit 10	13		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1913422	Med11	mediator complex subunit 11	11		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1913422	Med11	mediator complex subunit 11	11		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1926212	Med12	mediator complex subunit 12	X		positive regulation of transcription initiation by RNA polymerase II			ISO	Q93074 	J:164563 	
+MGI:3029632	Med13	mediator complex subunit 13	11		positive regulation of transcription initiation by RNA polymerase II			ISO	Q9UHV7 	J:164563 	
+MGI:1349442	Med14	mediator complex subunit 14	X		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1349442	Med14	mediator complex subunit 14	X		positive regulation of transcription initiation by RNA polymerase II			ISO	O60244 	J:164563 	
+MGI:1349442	Med14	mediator complex subunit 14	X		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:2137379	Med15	mediator complex subunit 15	16		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:2137379	Med15	mediator complex subunit 15	16		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:2158394	Med16	mediator complex subunit 16	10		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:2158394	Med16	mediator complex subunit 16	10		positive regulation of transcription initiation by RNA polymerase II			ISO	Q9Y2X0 	J:164563 	
+MGI:2158394	Med16	mediator complex subunit 16	10		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:2182585	Med17	mediator complex subunit 17	9		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:2182585	Med17	mediator complex subunit 17	9		positive regulation of transcription initiation by RNA polymerase II			ISO	Q9NVC6 	J:164563 	
+MGI:2182585	Med17	mediator complex subunit 17	9		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1914469	Med18	mediator complex subunit 18	4		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1914469	Med18	mediator complex subunit 18	4		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1914234	Med19	mediator complex subunit 19	2		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1914234	Med19	mediator complex subunit 19	2		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1929648	Med20	mediator complex subunit 20	17		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1929648	Med20	mediator complex subunit 20	17		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1347064	Med21	mediator complex subunit 21	6		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1347064	Med21	mediator complex subunit 21	6		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:98446	Med22	mediator complex subunit 22	2		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:98446	Med22	mediator complex subunit 22	2		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1917458	Med23	mediator complex subunit 23	10		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1917458	Med23	mediator complex subunit 23	10		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1344385	Med24	mediator complex subunit 24	11		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1344385	Med24	mediator complex subunit 24	11		positive regulation of transcription initiation by RNA polymerase II			ISO	O75448 	J:164563 	
+MGI:1344385	Med24	mediator complex subunit 24	11		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1922863	Med25	mediator complex subunit 25	7		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1922863	Med25	mediator complex subunit 25	7		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1917875	Med26	mediator complex subunit 26	8		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1917875	Med26	mediator complex subunit 26	8		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1916225	Med27	mediator complex subunit 27	2		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1916225	Med27	mediator complex subunit 27	2		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1914249	Med28	mediator complex subunit 28	5		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1914249	Med28	mediator complex subunit 28	5		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1914474	Med29	mediator complex subunit 29	7		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1914474	Med29	mediator complex subunit 29	7		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1917040	Med30	mediator complex subunit 30	15		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1917040	Med30	mediator complex subunit 30	15		positive regulation of transcription initiation by RNA polymerase II			ISO	Q96HR3 	J:164563 	
+MGI:1917040	Med30	mediator complex subunit 30	15		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:1914529	Med31	mediator complex subunit 31	11		positive regulation of transcription initiation by RNA polymerase II			IC		J:320035 	
+MGI:1914529	Med31	mediator complex subunit 31	11		RNA polymerase II preinitiation complex assembly			IC		J:320035 	
+MGI:104554	Mitf	melanogenesis associated transcription factor	6		positive regulation of DNA-templated transcription initiation			ISO	O75030 	J:164563 	
+MGI:1316740	Morc1	microrchidia 1	16		negative regulation of DNA-templated transcription initiation			IMP	MGI:1857787 	J:225677 	
+MGI:3704243	Mterf1b	mitochondrial transcription termination factor 1b	5		transcription initiation at mitochondrial promoter			IDA		J:198969 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		DNA-templated transcription initiation			ISO	RGD:3130 	J:155856 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		positive regulation of transcription initiation by RNA polymerase II			IDA		J:281188 	
+MGI:1929915	Ncoa6	nuclear receptor coactivator 6	2		DNA-templated transcription initiation			ISO	Q14686 	J:164563 	
+MGI:97350	Nkx2-5	NK2 homeobox 5	17		positive regulation of transcription initiation by RNA polymerase II	uses UniProtKB:P68033		IDA		J:36110 	
+MGI:1890430	Paxip1	PAX interacting (with transcription-activation domain) protein 1	5		positive regulation of transcription initiation by RNA polymerase II			IBA	PTN001506019 	J:265628 	
+MGI:1890430	Paxip1	PAX interacting (with transcription-activation domain) protein 1	5		positive regulation of transcription initiation by RNA polymerase II			IMP		J:151619 J:163258 	
+MGI:1890430	Paxip1	PAX interacting (with transcription-activation domain) protein 1	5		positive regulation of transcription initiation by RNA polymerase II			ISO	Q6ZW49 	J:164563 	
+MGI:1929022	Polr1e	polymerase (RNA) I polypeptide E	4		RNA polymerase I preinitiation complex assembly			IBA	PTN000374345 	J:265628 	
+MGI:1929022	Polr1e	polymerase (RNA) I polypeptide E	4		RNA polymerase I preinitiation complex assembly			IDA		J:66339 	
+MGI:106292	Polr1f	RNA polymerase I subunit F	12		DNA-templated transcription initiation			IEA	IPR045113 	J:72247 	
+MGI:1916491	Polr2d	polymerase (RNA) II (DNA directed) polypeptide D	18		DNA-templated transcription initiation			IEA	IPR005574 	J:72247 	
+MGI:1916491	Polr2d	polymerase (RNA) II (DNA directed) polypeptide D	18		transcription initiation at RNA polymerase II promoter			IBA	PTN000480538 	J:265628 	
+MGI:1914960	Polr2g	polymerase (RNA) II (DNA directed) polypeptide G	19		DNA-templated transcription initiation			IEA	IPR045113 	J:72247 	
+MGI:1914960	Polr2g	polymerase (RNA) II (DNA directed) polypeptide G	19		transcription initiation at RNA polymerase II promoter			IBA	PTN000295290 	J:265628 	
+MGI:1917170	Polr2i	polymerase (RNA) II (DNA directed) polypeptide I	7		transcription initiation at RNA polymerase II promoter			IBA	PTN000133107 	J:265628 	
+MGI:1926179	Polr3h	polymerase (RNA) III (DNA directed) polypeptide H	15		DNA-templated transcription initiation			IEA	IPR045113 	J:72247 	
+MGI:1926179	Polr3h	polymerase (RNA) III (DNA directed) polypeptide H	15		transcription initiation at RNA polymerase III promoter			IBA	PTN000295357 	J:265628 	
+MGI:1915843	Polrmt	polymerase (RNA) mitochondrial (DNA directed)	10		transcription initiation at mitochondrial promoter			ISO	O00411 	J:164563 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		positive regulation of transcription initiation by RNA polymerase II			IDA		J:281188 	
+MGI:1914339	Psmc6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	14		positive regulation of RNA polymerase II transcription preinitiation complex assembly			IBA	PTN000553116 	J:265628 	
+MGI:1918052	Pwwp2a	PWWP domain containing 2A	11		regulation of DNA-templated transcription initiation			IMP		J:319943 	
+MGI:1925255	Rrn3	RRN3 RNA polymerase I transcription factor homolog (yeast)	16		DNA-templated transcription initiation			IDA		J:15147 	
+MGI:1925255	Rrn3	RRN3 RNA polymerase I transcription factor homolog (yeast)	16		regulation of DNA-templated transcription initiation			IDA		J:15147 	
+MGI:1925255	Rrn3	RRN3 RNA polymerase I transcription factor homolog (yeast)	16		transcription initiation at RNA polymerase I promoter			IBA	PTN000300504 	J:265628 	
+MGI:1925255	Rrn3	RRN3 RNA polymerase I transcription factor homolog (yeast)	16		transcription initiation at RNA polymerase I promoter	happens in fibroblast		IMP	MGI:3584037 	J:99711 	
+MGI:2682305	Rsf1	remodeling and spacing factor 1	7		DNA-templated transcription initiation			ISO	Q96T23 	J:164563 	
+MGI:2443480	Setx	senataxin	2		positive regulation of DNA-templated transcription initiation			ISO	Q7Z333 	J:164563 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		DNA-templated transcription initiation			ISO	O60264 	J:164563 	
+MGI:1914282	Snapc5	small nuclear RNA activating complex, polypeptide 5	9		transcription initiation at RNA polymerase III promoter			IEA	IPR029138 	J:72247 	
+MGI:106658	Srf	serum response factor	17		positive regulation of transcription initiation by RNA polymerase II			ISO	P11831 	J:164563 	
+MGI:104811	Sub1	SUB1 homolog, transcriptional regulator	15		positive regulation of transcription initiation by RNA polymerase II			IBA	PTN000325022 	J:265628 	
+MGI:1336878	Taf1	TATA-box binding protein associated factor 1	X		DNA-templated transcription initiation			IEA	IPR011177 	J:72247 	
+MGI:1336878	Taf1	TATA-box binding protein associated factor 1	X		RNA polymerase II preinitiation complex assembly			IBA	PTN000356981 	J:265628 	
+MGI:109577	Taf1b	TATA-box binding protein associated factor, RNA polymerase I, B	12		RNA polymerase I preinitiation complex assembly			ISO	Q53T94 	J:164563 	
+MGI:2443028	Taf2	TATA-box binding protein associated factor 2	15		positive regulation of transcription initiation by RNA polymerase II			ISO	Q6P1X5 	J:164563 	
+MGI:2443028	Taf2	TATA-box binding protein associated factor 2	15		RNA polymerase II preinitiation complex assembly			ISO	Q6P1X5 	J:164563 	
+MGI:2443028	Taf2	TATA-box binding protein associated factor 2	15		transcription initiation at RNA polymerase II promoter			IBA	PTN000388531 	J:265628 	
+MGI:2443028	Taf2	TATA-box binding protein associated factor 2	15		transcription initiation at RNA polymerase II promoter			ISO	Q6P1X5 	J:164563 	
+MGI:2388097	Taf3	TATA-box binding protein associated factor 3	2		positive regulation of transcription initiation by RNA polymerase II			ISO	Q5VWG9 	J:164563 	
+MGI:2388097	Taf3	TATA-box binding protein associated factor 3	2		RNA polymerase II preinitiation complex assembly			ISO	Q5VWG9 	J:164563 	
+MGI:2152346	Taf4	TATA-box binding protein associated factor 4	2		DNA-templated transcription initiation			ISO	O00268 	J:164563 	
+MGI:2152346	Taf4	TATA-box binding protein associated factor 4	2		positive regulation of transcription initiation by RNA polymerase II			ISO	O00268 	J:164563 	
+MGI:2152346	Taf4	TATA-box binding protein associated factor 4	2		RNA polymerase II preinitiation complex assembly			ISO	O00268 	J:164563 	
+MGI:2152346	Taf4	TATA-box binding protein associated factor 4	2		transcription initiation at RNA polymerase II promoter			IBA	PTN000388601 	J:265628 	
+MGI:2152346	Taf4	TATA-box binding protein associated factor 4	2		transcription initiation at RNA polymerase II promoter			ISO	O00268 	J:164563 	
+MGI:2152345	Taf4b	TATA-box binding protein associated factor 4b	18		DNA-templated transcription initiation			IEA	IPR007900 IPR045144 	J:72247 	
+MGI:2152345	Taf4b	TATA-box binding protein associated factor 4b	18		positive regulation of transcription initiation by RNA polymerase II			ISO	Q92750 	J:164563 	
+MGI:2152345	Taf4b	TATA-box binding protein associated factor 4b	18		transcription initiation at RNA polymerase II promoter			IBA	PTN000388601 	J:265628 	
+MGI:2442144	Taf5	TATA-box binding protein associated factor 5	19		DNA-templated transcription initiation			ISO	Q15542 	J:164563 	
+MGI:2442144	Taf5	TATA-box binding protein associated factor 5	19		positive regulation of transcription initiation by RNA polymerase II			ISO	Q15542 	J:164563 	
+MGI:2442144	Taf5	TATA-box binding protein associated factor 5	19		RNA polymerase II preinitiation complex assembly			ISO	Q15542 	J:164563 	
+MGI:2442144	Taf5	TATA-box binding protein associated factor 5	19		transcription initiation at RNA polymerase II promoter			IBA	PTN000459161 	J:265628 	
+MGI:2442144	Taf5	TATA-box binding protein associated factor 5	19		transcription initiation at RNA polymerase II promoter			ISO	Q15542 	J:164563 	
+MGI:109129	Taf6	TATA-box binding protein associated factor 6	5		DNA-templated transcription initiation			ISO	P49848 	J:164563 	
+MGI:109129	Taf6	TATA-box binding protein associated factor 6	5		positive regulation of transcription initiation by RNA polymerase II			ISO	P49848 	J:164563 	
+MGI:109129	Taf6	TATA-box binding protein associated factor 6	5		RNA polymerase II preinitiation complex assembly			IBA	PTN000027265 	J:265628 	
+MGI:109129	Taf6	TATA-box binding protein associated factor 6	5		RNA polymerase II preinitiation complex assembly			ISO	P49848 	J:164563 	
+MGI:109129	Taf6	TATA-box binding protein associated factor 6	5		transcription initiation at RNA polymerase II promoter			ISO	P49848 	J:164563 	
+MGI:2444957	Taf6l	TATA-box binding protein associated factor 6 like	19		DNA-templated transcription initiation			IEA	IPR004823 	J:72247 	
+MGI:2444957	Taf6l	TATA-box binding protein associated factor 6 like	19		RNA polymerase II preinitiation complex assembly			IBA	PTN000027265 	J:265628 	
+MGI:2444957	Taf6l	TATA-box binding protein associated factor 6 like	19		transcription initiation at RNA polymerase II promoter			IEA	IPR011442 IPR037796 IPR046344 	J:72247 	
+MGI:1346348	Taf7	TATA-box binding protein associated factor 7	18		DNA-templated transcription initiation			ISO	Q15545 	J:164563 	
+MGI:1346348	Taf7	TATA-box binding protein associated factor 7	18		positive regulation of transcription initiation by RNA polymerase II			ISO	Q15545 	J:164563 	
+MGI:1346348	Taf7	TATA-box binding protein associated factor 7	18		RNA polymerase II preinitiation complex assembly			IBA	PTN000260034 	J:265628 	
+MGI:1346348	Taf7	TATA-box binding protein associated factor 7	18		RNA polymerase II preinitiation complex assembly			ISO	Q15545 	J:164563 	
+MGI:1346348	Taf7	TATA-box binding protein associated factor 7	18		transcription initiation at RNA polymerase II promoter			ISO	Q15545 	J:164563 	
+MGI:1921719	Taf7l	TATA-box binding protein associated factor 7 like	X		RNA polymerase II preinitiation complex assembly			IBA	PTN000260034 	J:265628 	
+MGI:1921719	Taf7l	TATA-box binding protein associated factor 7 like	X		transcription initiation at RNA polymerase II promoter			IEA	IPR006751 	J:72247 	
+MGI:6274337	Taf7l2	Taf7l2	10		RNA polymerase II preinitiation complex assembly			IBA	PTN000260034 	J:265628 	
+MGI:1926879	Taf8	TATA-box binding protein associated factor 8	17		DNA-templated transcription open complex formation			ISO	Q7Z7C8 	J:86236 	
+MGI:1926879	Taf8	TATA-box binding protein associated factor 8	17		positive regulation of transcription initiation by RNA polymerase II			ISO	Q7Z7C8 	J:164563 	
+MGI:1926879	Taf8	TATA-box binding protein associated factor 8	17		RNA polymerase II preinitiation complex assembly			ISO	Q7Z7C8 	J:164563 	
+MGI:1926879	Taf8	TATA-box binding protein associated factor 8	17		transcription initiation at RNA polymerase II promoter			IBA	PTN005306455 	J:265628 	
+MGI:1888697	Taf9	TATA-box binding protein associated factor 9	13		positive regulation of transcription initiation by RNA polymerase II			ISO	Q16594 	J:164563 	
+MGI:1888697	Taf9	TATA-box binding protein associated factor 9	13		RNA polymerase II preinitiation complex assembly			IBA	PTN000249331 	J:265628 	
+MGI:1888697	Taf9	TATA-box binding protein associated factor 9	13		RNA polymerase II preinitiation complex assembly			ISO	Q16594 	J:164563 	
+MGI:3039562	Taf9b	TATA-box binding protein associated factor 9B	X		DNA-templated transcription initiation			IEA	IPR003162 	J:72247 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		DNA-templated transcription initiation			ISO	Q12962 	J:164563 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		positive regulation of transcription initiation by RNA polymerase II			ISO	Q12962 	J:164563 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		RNA polymerase II preinitiation complex assembly	happens in embryo,happens in embryo		IMP	MGI:3606185 	J:245730 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		RNA polymerase II preinitiation complex assembly			ISO	Q12962 	J:164563 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		transcription initiation at RNA polymerase II promoter			IBA	PTN000478466 	J:265628 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		transcription initiation at RNA polymerase II promoter			ISO	Q12962 	J:164563 	
+MGI:1916026	Taf11	TATA-box binding protein associated factor 11	17		positive regulation of transcription initiation by RNA polymerase II			ISO	Q15544 	J:164563 	
+MGI:1916026	Taf11	TATA-box binding protein associated factor 11	17		RNA polymerase II preinitiation complex assembly			IBA	PTN000325119 	J:265628 	
+MGI:1916026	Taf11	TATA-box binding protein associated factor 11	17		RNA polymerase II preinitiation complex assembly			ISO	Q15544 	J:164563 	
+MGI:1916026	Taf11	TATA-box binding protein associated factor 11	17		transcription initiation at RNA polymerase II promoter			IEA	IPR006809 IPR045127 	J:72247 	
+MGI:1913714	Taf12	TATA-box binding protein associated factor 12	4		DNA-templated transcription initiation			ISO	Q16514 	J:164563 	
+MGI:1913714	Taf12	TATA-box binding protein associated factor 12	4		positive regulation of transcription initiation by RNA polymerase II			ISO	Q16514 	J:164563 	
+MGI:1913714	Taf12	TATA-box binding protein associated factor 12	4		RNA polymerase II preinitiation complex assembly			IBA	PTN000262707 	J:265628 	
+MGI:1913714	Taf12	TATA-box binding protein associated factor 12	4		RNA polymerase II preinitiation complex assembly			ISO	Q16514 	J:164563 	
+MGI:1913714	Taf12	TATA-box binding protein associated factor 12	4		transcription initiation at RNA polymerase II promoter			ISO	Q16514 	J:164563 	
+MGI:1913500	Taf13	TATA-box binding protein associated factor 13	3		positive regulation of transcription initiation by RNA polymerase II			ISO	Q15543 	J:164563 	
+MGI:1913500	Taf13	TATA-box binding protein associated factor 13	3		RNA polymerase II preinitiation complex assembly			ISO	Q15543 	J:164563 	
+MGI:101838	Tbp	TATA box binding protein	17		DNA-templated transcription initiation			IBA	PTN000013136 	J:265628 	
+MGI:101838	Tbp	TATA box binding protein	17		positive regulation of transcription initiation by RNA polymerase II			ISO	P20226 	J:164563 	
+MGI:101838	Tbp	TATA box binding protein	17		RNA polymerase II preinitiation complex assembly			ISO	P20226 	J:164563 	
+MGI:1339946	Tbpl1	TATA box binding protein-like 1	10		DNA-templated transcription initiation			IBA	PTN000013136 	J:265628 	
+MGI:2684058	Tbpl2	TATA box binding protein like 2	2		DNA-templated transcription initiation			IBA	PTN000013136 	J:265628 	
+MGI:107810	Tfam	transcription factor A, mitochondrial	10		transcription initiation at mitochondrial promoter			IBA	PTN008296514 	J:265628 	
+MGI:107810	Tfam	transcription factor A, mitochondrial	10		transcription initiation at mitochondrial promoter			ISO	Q00059 	J:164563 	
+MGI:2146851	Tfb1m	transcription factor B1, mitochondrial	17		transcription initiation at mitochondrial promoter			IBA	PTN000197910 	J:265628 	
+MGI:107937	Tfb2m	transcription factor B2, mitochondrial	1		transcription initiation at mitochondrial promoter			IBA	PTN000197910 	J:265628 	
+MGI:107937	Tfb2m	transcription factor B2, mitochondrial	1		transcription initiation at mitochondrial promoter			ISO	Q9H5Q4 	J:164563 	
+MGI:98742	Thra	thyroid hormone receptor alpha	11		negative regulation of DNA-templated transcription initiation			ISO	P10827 	J:164563 	
+MGI:98742	Thra	thyroid hormone receptor alpha	11		negative regulation of RNA polymerase II transcription preinitiation complex assembly			ISO	P10827 	J:164563 	
+MGI:98834	Trp53	transformation related protein 53	11		positive regulation of RNA polymerase II transcription preinitiation complex assembly			ISO	P04637 	J:164563 	
+MGI:105044	Ttf1	transcription termination factor, RNA polymerase I	2		transcription initiation at RNA polymerase I promoter			IDA		J:24340 	
+MGI:98872	Twist1	twist basic helix-loop-helix transcription factor 1	12		positive regulation of DNA-templated transcription initiation			ISO	Q15672 	J:164563 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		transcription initiation at RNA polymerase I promoter			ISO	P17480 	J:164563 	
+MGI:108061	Wnt10b	wingless-type MMTV integration site family, member 10B	15		positive regulation of RNA polymerase II transcription preinitiation complex assembly			IDA		J:142037 	
+MGI:99135	Xpa	xeroderma pigmentosum, complementation group A	4		positive regulation of transcription initiation by RNA polymerase II	happens in liver		IGI	MGI:1100494 	J:181994 	
+MGI:2137896	Zfp451	zinc finger protein 451	1		negative regulation of transcription initiation by RNA polymerase II			IBA	PTN002812576 	J:265628 	
+MGI:2137896	Zfp451	zinc finger protein 451	1		negative regulation of transcription initiation by RNA polymerase II			ISO	Q9Y4E5 	J:164563 	
+

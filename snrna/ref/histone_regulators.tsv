@@ -1,0 +1,2363 @@
+gene_name	Evidence	Type	GO_term_ID	GO_term
+Atf2	ISO	HAT	0004402	histone acetyltransferase activity
+Brca2	ISO	HAT	0004402	histone acetyltransferase activity
+Cdyl	IEA	HAT	0004402	histone acetyltransferase activity
+Clock	IMP	HAT	0004402	histone acetyltransferase activity
+Clock	ISO	HAT	0004402	histone acetyltransferase activity
+Crebbp	IBA	HAT	0004402	histone acetyltransferase activity
+Crebbp	IDA	HAT	0004402	histone acetyltransferase activity
+Crebbp	ISO	HAT	0004402	histone acetyltransferase activity
+Ep300	IBA	HAT	0004402	histone acetyltransferase activity
+Ep300	IDA	HAT	0004402	histone acetyltransferase activity
+Ep300	ISO	HAT	0004402	histone acetyltransferase activity
+Ep300	ISS	HAT	0004402	histone acetyltransferase activity
+Gtf2b	IEA	HAT	0004402	histone acetyltransferase activity
+Gtf3c4	IEA	HAT	0004402	histone acetyltransferase activity
+Hat1	IEA	HAT	0004402	histone acetyltransferase activity
+Hat1	IBA	HAT	0004402	histone acetyltransferase activity
+Hat1	ISO	HAT	0004402	histone acetyltransferase activity
+Kat2a	IDA	HAT	0004402	histone acetyltransferase activity
+Kat2a	ISO	HAT	0004402	histone acetyltransferase activity
+Kat2a	IBA	HAT	0004402	histone acetyltransferase activity
+Kat2b	IDA	HAT	0004402	histone acetyltransferase activity
+Kat2b	ISO	HAT	0004402	histone acetyltransferase activity
+Kat2b	IBA	HAT	0004402	histone acetyltransferase activity
+Kat5	IBA	HAT	0004402	histone acetyltransferase activity
+Kat5	IMP	HAT	0004402	histone acetyltransferase activity
+Kat5	ISO	HAT	0004402	histone acetyltransferase activity
+Kat6a	IBA	HAT	0004402	histone acetyltransferase activity
+Kat6a	ISO	HAT	0004402	histone acetyltransferase activity
+Kat6b	IBA	HAT	0004402	histone acetyltransferase activity
+Kat6b	IDA	HAT	0004402	histone acetyltransferase activity
+Kat6b	ISO	HAT	0004402	histone acetyltransferase activity
+Kat7	IBA	HAT	0004402	histone acetyltransferase activity
+Kat7	IDA	HAT	0004402	histone acetyltransferase activity
+Kat7	IMP	HAT	0004402	histone acetyltransferase activity
+Kat7	ISO	HAT	0004402	histone acetyltransferase activity
+Kat8	IEA	HAT	0004402	histone acetyltransferase activity
+Kat8	ISO	HAT	0004402	histone acetyltransferase activity
+Kat8	IBA	HAT	0004402	histone acetyltransferase activity
+Kat8	IMP	HAT	0004402	histone acetyltransferase activity
+Kat14	ISO	HAT	0004402	histone acetyltransferase activity
+Mcm3ap	ISO	HAT	0004402	histone acetyltransferase activity
+Med24	ISO	HAT	0004402	histone acetyltransferase activity
+Mettl8	IDA	HAT	0004402	histone acetyltransferase activity
+Msl3	ISO	HAT	0004402	histone acetyltransferase activity
+Naa40	IBA	HAT	0004402	histone acetyltransferase activity
+Naa40	ISO	HAT	0004402	histone acetyltransferase activity
+Naa50	ISO	HAT	0004402	histone acetyltransferase activity
+Naa60	IBA	HAT	0004402	histone acetyltransferase activity
+Naa60	ISO	HAT	0004402	histone acetyltransferase activity
+Nat8f3	IDA	HAT	0004402	histone acetyltransferase activity
+Nat8f7	IDA	HAT	0004402	histone acetyltransferase activity
+Ncoa1	IEA	HAT	0004402	histone acetyltransferase activity
+Ncoa3	ISO	HAT	0004402	histone acetyltransferase activity
+Oga	ISO	HAT	0004402	histone acetyltransferase activity
+Tada2a	ISO	HAT	0004402	histone acetyltransferase activity
+Taf1	IDA	HAT	0004402	histone acetyltransferase activity
+Taf9	ISO	HAT	0004402	histone acetyltransferase activity
+Taf10	ISO	HAT	0004402	histone acetyltransferase activity
+Usp22	ISO	HAT	0004402	histone acetyltransferase activity
+Atxn3	ISO	HDAC	0004407	histone deacetylase activity
+Hdac1	IBA	HDAC	0004407	histone deacetylase activity
+Hdac1	IDA	HDAC	0004407	histone deacetylase activity
+Hdac1	ISO	HDAC	0004407	histone deacetylase activity
+Hdac2	IBA	HDAC	0004407	histone deacetylase activity
+Hdac2	IDA	HDAC	0004407	histone deacetylase activity
+Hdac2	ISO	HDAC	0004407	histone deacetylase activity
+Hdac2	TAS	HDAC	0004407	histone deacetylase activity
+Hdac2	IMP	HDAC	0004407	histone deacetylase activity
+Hdac3	IBA	HDAC	0004407	histone deacetylase activity
+Hdac3	IDA	HDAC	0004407	histone deacetylase activity
+Hdac3	ISO	HDAC	0004407	histone deacetylase activity
+Hdac3	TAS	HDAC	0004407	histone deacetylase activity
+Hdac4	IBA	HDAC	0004407	histone deacetylase activity
+Hdac4	ISO	HDAC	0004407	histone deacetylase activity
+Hdac5	IBA	HDAC	0004407	histone deacetylase activity
+Hdac5	ISO	HDAC	0004407	histone deacetylase activity
+Hdac5	TAS	HDAC	0004407	histone deacetylase activity
+Hdac6	IBA	HDAC	0004407	histone deacetylase activity
+Hdac6	IDA	HDAC	0004407	histone deacetylase activity
+Hdac6	IMP	HDAC	0004407	histone deacetylase activity
+Hdac6	ISO	HDAC	0004407	histone deacetylase activity
+Hdac7	IBA	HDAC	0004407	histone deacetylase activity
+Hdac7	TAS	HDAC	0004407	histone deacetylase activity
+Hdac8	IBA	HDAC	0004407	histone deacetylase activity
+Hdac8	ISO	HDAC	0004407	histone deacetylase activity
+Hdac8	TAS	HDAC	0004407	histone deacetylase activity
+Hdac9	TAS	HDAC	0004407	histone deacetylase activity
+Hdac9	ISO	HDAC	0004407	histone deacetylase activity
+Hdac10	ISO	HDAC	0004407	histone deacetylase activity
+Hdac11	IBA	HDAC	0004407	histone deacetylase activity
+Hdac11	ISO	HDAC	0004407	histone deacetylase activity
+Hdac11	TAS	HDAC	0004407	histone deacetylase activity
+Mier1	ISO	HDAC	0004407	histone deacetylase activity
+Mier2	ISO	HDAC	0004407	histone deacetylase activity
+Mta2	IDA	HDAC	0004407	histone deacetylase activity
+Sirt1	ISO	HDAC	0004407	histone deacetylase activity
+Sirt1	IBA	HDAC	0004407	histone deacetylase activity
+Sirt1	IDA	HDAC	0004407	histone deacetylase activity
+Sirt2	IMP	HDAC	0004407	histone deacetylase activity
+Sirt2	ISO	HDAC	0004407	histone deacetylase activity
+Sirt2	IBA	HDAC	0004407	histone deacetylase activity
+Sirt3	IBA	HDAC	0004407	histone deacetylase activity
+Sirt3	IDA	HDAC	0004407	histone deacetylase activity
+Sirt6	IBA	HDAC	0004407	histone deacetylase activity
+Sirt6	IDA	HDAC	0004407	histone deacetylase activity
+Sirt6	ISO	HDAC	0004407	histone deacetylase activity
+Sirt6	IMP	HDAC	0004407	histone deacetylase activity
+Sirt7	IBA	HDAC	0004407	histone deacetylase activity
+Sirt7	IMP	HDAC	0004407	histone deacetylase activity
+Sirt7	ISO	HDAC	0004407	histone deacetylase activity
+Suds3	ISO	HDAC	0004407	histone deacetylase activity
+Ash1l	ISO	HMT	0042054	histone methyltransferase activity
+Ash1l	IBA	HMT	0042054	histone methyltransferase activity
+Ash1l	IDA	HMT	0042054	histone methyltransferase activity
+Ash1l	IEA	HMT	0042054	histone methyltransferase activity
+Ash2l	ISO	HMT	0042054	histone methyltransferase activity
+Ash2l	TAS	HMT	0042054	histone methyltransferase activity
+Carm1	ISO	HMT	0042054	histone methyltransferase activity
+Carm1	IDA	HMT	0042054	histone methyltransferase activity
+Cxxc1	IBA	HMT	0042054	histone methyltransferase activity
+Cxxc1	ISO	HMT	0042054	histone methyltransferase activity
+Dot1l	IBA	HMT	0042054	histone methyltransferase activity
+Dot1l	ISO	HMT	0042054	histone methyltransferase activity
+Dot1l	IDA	HMT	0042054	histone methyltransferase activity
+Eed	ISO	HMT	0042054	histone methyltransferase activity
+Ehmt1	IDA	HMT	0042054	histone methyltransferase activity
+Ehmt1	IBA	HMT	0042054	histone methyltransferase activity
+Ehmt1	IMP	HMT	0042054	histone methyltransferase activity
+Ehmt1	ISO	HMT	0042054	histone methyltransferase activity
+Ehmt2	IDA	HMT	0042054	histone methyltransferase activity
+Ehmt2	EXP	HMT	0042054	histone methyltransferase activity
+Ehmt2	IBA	HMT	0042054	histone methyltransferase activity
+Ehmt2	IMP	HMT	0042054	histone methyltransferase activity
+Ehmt2	ISO	HMT	0042054	histone methyltransferase activity
+Ezh1	IBA	HMT	0042054	histone methyltransferase activity
+Ezh1	IDA	HMT	0042054	histone methyltransferase activity
+Ezh1	IEA	HMT	0042054	histone methyltransferase activity
+Ezh2	IBA	HMT	0042054	histone methyltransferase activity
+Ezh2	ISO	HMT	0042054	histone methyltransferase activity
+Ezh2	IDA	HMT	0042054	histone methyltransferase activity
+Fbl	IBA	HMT	0042054	histone methyltransferase activity
+Fbl	ISO	HMT	0042054	histone methyltransferase activity
+Fbll1	IBA	HMT	0042054	histone methyltransferase activity
+Jarid2	IDA	HMT	0042054	histone methyltransferase activity
+Kmt2a	IBA	HMT	0042054	histone methyltransferase activity
+Kmt2a	IDA	HMT	0042054	histone methyltransferase activity
+Kmt2a	ISO	HMT	0042054	histone methyltransferase activity
+Kmt2b	IBA	HMT	0042054	histone methyltransferase activity
+Kmt2b	ISO	HMT	0042054	histone methyltransferase activity
+Kmt2c	IBA	HMT	0042054	histone methyltransferase activity
+Kmt2c	ISO	HMT	0042054	histone methyltransferase activity
+Kmt2d	IBA	HMT	0042054	histone methyltransferase activity
+Kmt5a	IBA	HMT	0042054	histone methyltransferase activity
+Kmt5a	ISO	HMT	0042054	histone methyltransferase activity
+Kmt5b	IBA	HMT	0042054	histone methyltransferase activity
+Kmt5b	IDA	HMT	0042054	histone methyltransferase activity
+Kmt5b	ISO	HMT	0042054	histone methyltransferase activity
+Kmt5c	IBA	HMT	0042054	histone methyltransferase activity
+Kmt5c	IDA	HMT	0042054	histone methyltransferase activity
+Kmt5c	ISO	HMT	0042054	histone methyltransferase activity
+Mecom	IDA	HMT	0042054	histone methyltransferase activity
+Mettl23	IDA	HMT	0042054	histone methyltransferase activity
+N6amt1	ISO	HMT	0042054	histone methyltransferase activity
+Nsd1	IBA	HMT	0042054	histone methyltransferase activity
+Nsd1	IDA	HMT	0042054	histone methyltransferase activity
+Nsd1	ISO	HMT	0042054	histone methyltransferase activity
+Nsd1	IEA	HMT	0042054	histone methyltransferase activity
+Nsd2	IBA	HMT	0042054	histone methyltransferase activity
+Nsd2	ISO	HMT	0042054	histone methyltransferase activity
+Nsd2	IDA	HMT	0042054	histone methyltransferase activity
+Nsd3	IDA	HMT	0042054	histone methyltransferase activity
+Nsd3	IBA	HMT	0042054	histone methyltransferase activity
+Nsd3	ISO	HMT	0042054	histone methyltransferase activity
+Ntmt1	ISO	HMT	0042054	histone methyltransferase activity
+Prdm6	IEA	HMT	0042054	histone methyltransferase activity
+Prdm8	IDA	HMT	0042054	histone methyltransferase activity
+Prdm9	IBA	HMT	0042054	histone methyltransferase activity
+Prdm9	IMP	HMT	0042054	histone methyltransferase activity
+Prdm9	ISO	HMT	0042054	histone methyltransferase activity
+Prdm9	EXP	HMT	0042054	histone methyltransferase activity
+Prdm9	IDA	HMT	0042054	histone methyltransferase activity
+Prdm9	IEA	HMT	0042054	histone methyltransferase activity
+Prdm13	IDA	HMT	0042054	histone methyltransferase activity
+Prdm16	IDA	HMT	0042054	histone methyltransferase activity
+Prmt1	ISO	HMT	0042054	histone methyltransferase activity
+Prmt1	IDA	HMT	0042054	histone methyltransferase activity
+Prmt2	IDA	HMT	0042054	histone methyltransferase activity
+Prmt2	ISO	HMT	0042054	histone methyltransferase activity
+Prmt5	IBA	HMT	0042054	histone methyltransferase activity
+Prmt5	ISO	HMT	0042054	histone methyltransferase activity
+Prmt6	IDA	HMT	0042054	histone methyltransferase activity
+Prmt6	ISO	HMT	0042054	histone methyltransferase activity
+Prmt7	ISO	HMT	0042054	histone methyltransferase activity
+Prmt7	IDA	HMT	0042054	histone methyltransferase activity
+Prmt8	ISO	HMT	0042054	histone methyltransferase activity
+Rbbp5	ISO	HMT	0042054	histone methyltransferase activity
+Setbp1	IBA	HMT	0042054	histone methyltransferase activity
+Setd1a	IBA	HMT	0042054	histone methyltransferase activity
+Setd1a	ISO	HMT	0042054	histone methyltransferase activity
+Setd1a	NAS	HMT	0042054	histone methyltransferase activity
+Setd1a	TAS	HMT	0042054	histone methyltransferase activity
+Setd1a	IEA	HMT	0042054	histone methyltransferase activity
+Setd1b	IBA	HMT	0042054	histone methyltransferase activity
+Setd1b	ISO	HMT	0042054	histone methyltransferase activity
+Setd1b	IEA	HMT	0042054	histone methyltransferase activity
+Setd2	IBA	HMT	0042054	histone methyltransferase activity
+Setd2	IMP	HMT	0042054	histone methyltransferase activity
+Setd2	ISO	HMT	0042054	histone methyltransferase activity
+Setd3	IBA	HMT	0042054	histone methyltransferase activity
+Setd3	IDA	HMT	0042054	histone methyltransferase activity
+Setd4	IDA	HMT	0042054	histone methyltransferase activity
+Setd4	ISO	HMT	0042054	histone methyltransferase activity
+Setd5	IMP	HMT	0042054	histone methyltransferase activity
+Setd5	IDA	HMT	0042054	histone methyltransferase activity
+Setd7	IBA	HMT	0042054	histone methyltransferase activity
+Setd7	ISO	HMT	0042054	histone methyltransferase activity
+Setdb1	IBA	HMT	0042054	histone methyltransferase activity
+Setdb1	IDA	HMT	0042054	histone methyltransferase activity
+Setdb1	ISO	HMT	0042054	histone methyltransferase activity
+Setdb2	IBA	HMT	0042054	histone methyltransferase activity
+Setdb2	ISO	HMT	0042054	histone methyltransferase activity
+Setdb2	IEA	HMT	0042054	histone methyltransferase activity
+Setmar	ISO	HMT	0042054	histone methyltransferase activity
+Setmar	IEA	HMT	0042054	histone methyltransferase activity
+Setmar	IBA	HMT	0042054	histone methyltransferase activity
+Smyd1	IBA	HMT	0042054	histone methyltransferase activity
+Smyd2	IDA	HMT	0042054	histone methyltransferase activity
+Smyd2	IBA	HMT	0042054	histone methyltransferase activity
+Smyd3	IBA	HMT	0042054	histone methyltransferase activity
+Smyd3	IDA	HMT	0042054	histone methyltransferase activity
+Smyd3	ISO	HMT	0042054	histone methyltransferase activity
+Smyd5	IBA	HMT	0042054	histone methyltransferase activity
+Smyd5	IMP	HMT	0042054	histone methyltransferase activity
+Smyd5	IEA	HMT	0042054	histone methyltransferase activity
+Suv39h1	IBA	HMT	0042054	histone methyltransferase activity
+Suv39h1	IDA	HMT	0042054	histone methyltransferase activity
+Suv39h1	ISO	HMT	0042054	histone methyltransferase activity
+Suv39h1	IGI	HMT	0042054	histone methyltransferase activity
+Suv39h2	IBA	HMT	0042054	histone methyltransferase activity
+Suv39h2	ISO	HMT	0042054	histone methyltransferase activity
+Suv39h2	IDA	HMT	0042054	histone methyltransferase activity
+Suv39h2	IGI	HMT	0042054	histone methyltransferase activity
+Suz12	ISO	HMT	0042054	histone methyltransferase activity
+Wdr5	ISO	HMT	0042054	histone methyltransferase activity
+Wdr82	ISO	HMT	0042054	histone methyltransferase activity
+Fbxl19	IBA	HDM	0032452	histone demethylase activity
+Hr	IBA	HDM	0032452	histone demethylase activity
+Hr	IEA	HDM	0032452	histone demethylase activity
+Jarid2	IDA	HDM	0032452	histone demethylase activity
+Jarid2	IBA	HDM	0032452	histone demethylase activity
+Jmjd1c	IBA	HDM	0032452	histone demethylase activity
+Jmjd6	ISO	HDM	0032452	histone demethylase activity
+Jmjd6	IBA	HDM	0032452	histone demethylase activity
+Kdm1a	IDA	HDM	0032452	histone demethylase activity
+Kdm1a	ISO	HDM	0032452	histone demethylase activity
+Kdm1b	IDA	HDM	0032452	histone demethylase activity
+Kdm1b	ISO	HDM	0032452	histone demethylase activity
+Kdm2a	IBA	HDM	0032452	histone demethylase activity
+Kdm2a	ISO	HDM	0032452	histone demethylase activity
+Kdm2a	IEA	HDM	0032452	histone demethylase activity
+Kdm2b	IBA	HDM	0032452	histone demethylase activity
+Kdm2b	TAS	HDM	0032452	histone demethylase activity
+Kdm2b	ISO	HDM	0032452	histone demethylase activity
+Kdm2b	IEA	HDM	0032452	histone demethylase activity
+Kdm3a	IBA	HDM	0032452	histone demethylase activity
+Kdm3a	ISO	HDM	0032452	histone demethylase activity
+Kdm3b	IBA	HDM	0032452	histone demethylase activity
+Kdm3b	IEA	HDM	0032452	histone demethylase activity
+Kdm4a	IBA	HDM	0032452	histone demethylase activity
+Kdm4a	IDA	HDM	0032452	histone demethylase activity
+Kdm4a	ISO	HDM	0032452	histone demethylase activity
+Kdm4a	IEA	HDM	0032452	histone demethylase activity
+Kdm4b	IBA	HDM	0032452	histone demethylase activity
+Kdm4b	IDA	HDM	0032452	histone demethylase activity
+Kdm4b	ISO	HDM	0032452	histone demethylase activity
+Kdm4b	IEA	HDM	0032452	histone demethylase activity
+Kdm4c	IBA	HDM	0032452	histone demethylase activity
+Kdm4c	IDA	HDM	0032452	histone demethylase activity
+Kdm4c	ISO	HDM	0032452	histone demethylase activity
+Kdm4c	IEA	HDM	0032452	histone demethylase activity
+Kdm4d	IBA	HDM	0032452	histone demethylase activity
+Kdm4d	IDA	HDM	0032452	histone demethylase activity
+Kdm4d	IMP	HDM	0032452	histone demethylase activity
+Kdm4d	ISO	HDM	0032452	histone demethylase activity
+Kdm4d	IEA	HDM	0032452	histone demethylase activity
+Kdm4dl	IDA	HDM	0032452	histone demethylase activity
+Kdm5a	IBA	HDM	0032452	histone demethylase activity
+Kdm5a	ISO	HDM	0032452	histone demethylase activity
+Kdm5b	IBA	HDM	0032452	histone demethylase activity
+Kdm5b	IDA	HDM	0032452	histone demethylase activity
+Kdm5b	ISO	HDM	0032452	histone demethylase activity
+Kdm5c	IBA	HDM	0032452	histone demethylase activity
+Kdm5c	ISO	HDM	0032452	histone demethylase activity
+Kdm5d	IBA	HDM	0032452	histone demethylase activity
+Kdm5d	ISO	HDM	0032452	histone demethylase activity
+Kdm6a	IBA	HDM	0032452	histone demethylase activity
+Kdm6a	IDA	HDM	0032452	histone demethylase activity
+Kdm6b	IBA	HDM	0032452	histone demethylase activity
+Kdm6b	IDA	HDM	0032452	histone demethylase activity
+Kdm6b	ISO	HDM	0032452	histone demethylase activity
+Kdm7a	IBA	HDM	0032452	histone demethylase activity
+Kdm7a	IMP	HDM	0032452	histone demethylase activity
+Kdm7a	ISO	HDM	0032452	histone demethylase activity
+Kdm7a	IEA	HDM	0032452	histone demethylase activity
+Kdm8	IBA	HDM	0032452	histone demethylase activity
+Kdm8	ISO	HDM	0032452	histone demethylase activity
+Phf2	IBA	HDM	0032452	histone demethylase activity
+Phf2	ISO	HDM	0032452	histone demethylase activity
+Phf2	TAS	HDM	0032452	histone demethylase activity
+Phf2	IMP	HDM	0032452	histone demethylase activity
+Phf8	IBA	HDM	0032452	histone demethylase activity
+Phf8	ISO	HDM	0032452	histone demethylase activity
+Phf8	IEA	HDM	0032452	histone demethylase activity
+Riox1	IBA	HDM	0032452	histone demethylase activity
+Riox1	IDA	HDM	0032452	histone demethylase activity
+Riox1	IEA	HDM	0032452	histone demethylase activity
+Riox2	IBA	HDM	0032452	histone demethylase activity
+Rsbn1	IDA	HDM	0032452	histone demethylase activity
+Uty	IBA	HDM	0032452	histone demethylase activity
+Uty	IMP	HDM	0032452	histone demethylase activity
+Bclaf1	IBA	Mediator	0016592	mediator complex
+Bclaf3	IBA	Mediator	0016592	mediator complex
+Ccnc	IBA	Mediator	0016592	mediator complex
+Ccnc	IDA	Mediator	0016592	mediator complex
+Cdk4	IBA	Mediator	0016592	mediator complex
+Cdk6	IBA	Mediator	0016592	mediator complex
+Cdk8	IBA	Mediator	0016592	mediator complex
+Cdk8	IDA	Mediator	0016592	mediator complex
+Cdk8	ISO	Mediator	0016592	mediator complex
+Cdk9	IBA	Mediator	0016592	mediator complex
+Cdk19	IBA	Mediator	0016592	mediator complex
+Gm20517	IBA	Mediator	0016592	mediator complex
+Med1	IBA	Mediator	0016592	mediator complex
+Med1	IDA	Mediator	0016592	mediator complex
+Med1	ISO	Mediator	0016592	mediator complex
+Med4	IDA	Mediator	0016592	mediator complex
+Med4	ISO	Mediator	0016592	mediator complex
+Med6	IBA	Mediator	0016592	mediator complex
+Med6	IDA	Mediator	0016592	mediator complex
+Med6	ISO	Mediator	0016592	mediator complex
+Med7	IBA	Mediator	0016592	mediator complex
+Med7	IDA	Mediator	0016592	mediator complex
+Med8	IBA	Mediator	0016592	mediator complex
+Med8	IDA	Mediator	0016592	mediator complex
+Med8	ISO	Mediator	0016592	mediator complex
+Med9	IBA	Mediator	0016592	mediator complex
+Med9	IDA	Mediator	0016592	mediator complex
+Med10	IBA	Mediator	0016592	mediator complex
+Med10	IDA	Mediator	0016592	mediator complex
+Med11	IBA	Mediator	0016592	mediator complex
+Med11	ISO	Mediator	0016592	mediator complex
+Med12	IBA	Mediator	0016592	mediator complex
+Med12	IDA	Mediator	0016592	mediator complex
+Med12	ISO	Mediator	0016592	mediator complex
+Med12l	IBA	Mediator	0016592	mediator complex
+Med13	IBA	Mediator	0016592	mediator complex
+Med13	IDA	Mediator	0016592	mediator complex
+Med13	ISO	Mediator	0016592	mediator complex
+Med13l	IBA	Mediator	0016592	mediator complex
+Med13l	IDA	Mediator	0016592	mediator complex
+Med14	IBA	Mediator	0016592	mediator complex
+Med14	IDA	Mediator	0016592	mediator complex
+Med14	ISO	Mediator	0016592	mediator complex
+Med15	TAS	Mediator	0016592	mediator complex
+Med16	IBA	Mediator	0016592	mediator complex
+Med16	IDA	Mediator	0016592	mediator complex
+Med16	ISO	Mediator	0016592	mediator complex
+Med17	IBA	Mediator	0016592	mediator complex
+Med17	IDA	Mediator	0016592	mediator complex
+Med17	ISO	Mediator	0016592	mediator complex
+Med18	IBA	Mediator	0016592	mediator complex
+Med18	IDA	Mediator	0016592	mediator complex
+Med18	ISO	Mediator	0016592	mediator complex
+Med19	IBA	Mediator	0016592	mediator complex
+Med19	IDA	Mediator	0016592	mediator complex
+Med20	IBA	Mediator	0016592	mediator complex
+Med20	IDA	Mediator	0016592	mediator complex
+Med21	IBA	Mediator	0016592	mediator complex
+Med21	IDA	Mediator	0016592	mediator complex
+Med21	ISO	Mediator	0016592	mediator complex
+Med22	IBA	Mediator	0016592	mediator complex
+Med22	ISO	Mediator	0016592	mediator complex
+Med23	IBA	Mediator	0016592	mediator complex
+Med23	IDA	Mediator	0016592	mediator complex
+Med24	IBA	Mediator	0016592	mediator complex
+Med24	IDA	Mediator	0016592	mediator complex
+Med25	IBA	Mediator	0016592	mediator complex
+Med26	IBA	Mediator	0016592	mediator complex
+Med26	IDA	Mediator	0016592	mediator complex
+Med26	ISO	Mediator	0016592	mediator complex
+Med27	IBA	Mediator	0016592	mediator complex
+Med27	IDA	Mediator	0016592	mediator complex
+Med28	IBA	Mediator	0016592	mediator complex
+Med28	IDA	Mediator	0016592	mediator complex
+Med29	IBA	Mediator	0016592	mediator complex
+Med29	ISO	Mediator	0016592	mediator complex
+Med30	IBA	Mediator	0016592	mediator complex
+Med30	IDA	Mediator	0016592	mediator complex
+Med30	ISO	Mediator	0016592	mediator complex
+Med31	IBA	Mediator	0016592	mediator complex
+Med31	IDA	Mediator	0016592	mediator complex
+Ppargc1b	ISO	Mediator	0016592	mediator complex
+Thrap3	IBA	Mediator	0016592	mediator complex
+Thrap3	IDA	Mediator	0016592	mediator complex
+Thrap3	ISO	Mediator	0016592	mediator complex
+Ahr	IDA	TAF	0006352	DNA-templated transcription, initiation
+Atf7ip	ISO	TAF	0006352	DNA-templated transcription, initiation
+Bclaf1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Bdp1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Brf1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Brf1	IEA	TAF	0006352	DNA-templated transcription, initiation
+Brf2	IBA	TAF	0006352	DNA-templated transcription, initiation
+Brf2	IEA	TAF	0006352	DNA-templated transcription, initiation
+Cand1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Cavin1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Cavin1	IDA	TAF	0006352	DNA-templated transcription, initiation
+Cavin1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Ccnh	ISO	TAF	0006352	DNA-templated transcription, initiation
+Cdk7	ISO	TAF	0006352	DNA-templated transcription, initiation
+Cebpa	ISO	TAF	0006352	DNA-templated transcription, initiation
+Crcp	IEA	TAF	0006352	DNA-templated transcription, initiation
+Crcp	IBA	TAF	0006352	DNA-templated transcription, initiation
+Creb1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Ctnnbip1	IDA	TAF	0006352	DNA-templated transcription, initiation
+Dhx36	ISO	TAF	0006352	DNA-templated transcription, initiation
+Dr1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Elob	ISO	TAF	0006352	DNA-templated transcription, initiation
+Eloc	ISO	TAF	0006352	DNA-templated transcription, initiation
+Ercc1	IMP	TAF	0006352	DNA-templated transcription, initiation
+Ercc3	IBA	TAF	0006352	DNA-templated transcription, initiation
+Ercc6	IGI	TAF	0006352	DNA-templated transcription, initiation
+Ercc6	IMP	TAF	0006352	DNA-templated transcription, initiation
+Esr1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Fosl1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Gtf2a1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Gtf2a1	IC	TAF	0006352	DNA-templated transcription, initiation
+Gtf2a1	IEA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2a1l	IEA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2a2	ISO	TAF	0006352	DNA-templated transcription, initiation
+Gtf2a2	IBA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2a2	IC	TAF	0006352	DNA-templated transcription, initiation
+Gtf2b	IBA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2b	ISO	TAF	0006352	DNA-templated transcription, initiation
+Gtf2b	IEA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2e1	IEA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2e1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2e2	IBA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2f1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2f1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Gtf2f2	ISO	TAF	0006352	DNA-templated transcription, initiation
+Gtf2f2	IBA	TAF	0006352	DNA-templated transcription, initiation
+Gtf2h5	IEA	TAF	0006352	DNA-templated transcription, initiation
+Gtf3c1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Gtf3c4	IEA	TAF	0006352	DNA-templated transcription, initiation
+Gtf3c5	IEA	TAF	0006352	DNA-templated transcription, initiation
+Hey2	ISO	TAF	0006352	DNA-templated transcription, initiation
+Hmgb1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Hnf1a	ISO	TAF	0006352	DNA-templated transcription, initiation
+Hnf1b	ISO	TAF	0006352	DNA-templated transcription, initiation
+Ikzf1	IMP	TAF	0006352	DNA-templated transcription, initiation
+Irf8	IDA	TAF	0006352	DNA-templated transcription, initiation
+Jun	ISO	TAF	0006352	DNA-templated transcription, initiation
+Lipe	ISS	TAF	0006352	DNA-templated transcription, initiation
+Maz	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med1	IC	TAF	0006352	DNA-templated transcription, initiation
+Med1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med4	IC	TAF	0006352	DNA-templated transcription, initiation
+Med4	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med6	IC	TAF	0006352	DNA-templated transcription, initiation
+Med7	IC	TAF	0006352	DNA-templated transcription, initiation
+Med8	IC	TAF	0006352	DNA-templated transcription, initiation
+Med9	IC	TAF	0006352	DNA-templated transcription, initiation
+Med10	IC	TAF	0006352	DNA-templated transcription, initiation
+Med11	IC	TAF	0006352	DNA-templated transcription, initiation
+Med12	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med13	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med14	IC	TAF	0006352	DNA-templated transcription, initiation
+Med14	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med15	IC	TAF	0006352	DNA-templated transcription, initiation
+Med16	IC	TAF	0006352	DNA-templated transcription, initiation
+Med16	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med17	IC	TAF	0006352	DNA-templated transcription, initiation
+Med17	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med18	IC	TAF	0006352	DNA-templated transcription, initiation
+Med19	IC	TAF	0006352	DNA-templated transcription, initiation
+Med20	IC	TAF	0006352	DNA-templated transcription, initiation
+Med21	IC	TAF	0006352	DNA-templated transcription, initiation
+Med22	IC	TAF	0006352	DNA-templated transcription, initiation
+Med23	IC	TAF	0006352	DNA-templated transcription, initiation
+Med24	IC	TAF	0006352	DNA-templated transcription, initiation
+Med24	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med25	IC	TAF	0006352	DNA-templated transcription, initiation
+Med26	IC	TAF	0006352	DNA-templated transcription, initiation
+Med27	IC	TAF	0006352	DNA-templated transcription, initiation
+Med28	IC	TAF	0006352	DNA-templated transcription, initiation
+Med29	IC	TAF	0006352	DNA-templated transcription, initiation
+Med30	IC	TAF	0006352	DNA-templated transcription, initiation
+Med30	ISO	TAF	0006352	DNA-templated transcription, initiation
+Med31	IC	TAF	0006352	DNA-templated transcription, initiation
+Mitf	ISO	TAF	0006352	DNA-templated transcription, initiation
+Morc1	IMP	TAF	0006352	DNA-templated transcription, initiation
+Mterf1b	IDA	TAF	0006352	DNA-templated transcription, initiation
+Myc	ISO	TAF	0006352	DNA-templated transcription, initiation
+Myc	IDA	TAF	0006352	DNA-templated transcription, initiation
+Ncoa6	ISO	TAF	0006352	DNA-templated transcription, initiation
+Nkx2-5	IDA	TAF	0006352	DNA-templated transcription, initiation
+Paxip1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Paxip1	IMP	TAF	0006352	DNA-templated transcription, initiation
+Paxip1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Polr1e	IBA	TAF	0006352	DNA-templated transcription, initiation
+Polr1e	IDA	TAF	0006352	DNA-templated transcription, initiation
+Polr1f	IEA	TAF	0006352	DNA-templated transcription, initiation
+Polr2d	IEA	TAF	0006352	DNA-templated transcription, initiation
+Polr2d	IBA	TAF	0006352	DNA-templated transcription, initiation
+Polr2g	IEA	TAF	0006352	DNA-templated transcription, initiation
+Polr2g	IBA	TAF	0006352	DNA-templated transcription, initiation
+Polr2i	IBA	TAF	0006352	DNA-templated transcription, initiation
+Polr3h	IEA	TAF	0006352	DNA-templated transcription, initiation
+Polr3h	IBA	TAF	0006352	DNA-templated transcription, initiation
+Polrmt	ISO	TAF	0006352	DNA-templated transcription, initiation
+Pou5f1	IDA	TAF	0006352	DNA-templated transcription, initiation
+Psmc6	IBA	TAF	0006352	DNA-templated transcription, initiation
+Pwwp2a	IMP	TAF	0006352	DNA-templated transcription, initiation
+Rrn3	IDA	TAF	0006352	DNA-templated transcription, initiation
+Rrn3	IBA	TAF	0006352	DNA-templated transcription, initiation
+Rrn3	IMP	TAF	0006352	DNA-templated transcription, initiation
+Rsf1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Setx	ISO	TAF	0006352	DNA-templated transcription, initiation
+Smarca5	ISO	TAF	0006352	DNA-templated transcription, initiation
+Snapc5	IEA	TAF	0006352	DNA-templated transcription, initiation
+Srf	ISO	TAF	0006352	DNA-templated transcription, initiation
+Sub1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf1	IEA	TAF	0006352	DNA-templated transcription, initiation
+Taf1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf1b	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf2	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf2	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf3	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf4	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf4	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf4b	IEA	TAF	0006352	DNA-templated transcription, initiation
+Taf4b	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf4b	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf5	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf5	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf6	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf6	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf6l	IEA	TAF	0006352	DNA-templated transcription, initiation
+Taf6l	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf7	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf7	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf7l	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf7l	IEA	TAF	0006352	DNA-templated transcription, initiation
+Taf7l2	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf8	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf8	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf9	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf9	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf9b	IEA	TAF	0006352	DNA-templated transcription, initiation
+Taf10	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf10	IMP	TAF	0006352	DNA-templated transcription, initiation
+Taf10	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf11	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf11	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf11	IEA	TAF	0006352	DNA-templated transcription, initiation
+Taf12	ISO	TAF	0006352	DNA-templated transcription, initiation
+Taf12	IBA	TAF	0006352	DNA-templated transcription, initiation
+Taf13	ISO	TAF	0006352	DNA-templated transcription, initiation
+Tbp	IBA	TAF	0006352	DNA-templated transcription, initiation
+Tbp	ISO	TAF	0006352	DNA-templated transcription, initiation
+Tbpl1	IBA	TAF	0006352	DNA-templated transcription, initiation
+Tbpl2	IBA	TAF	0006352	DNA-templated transcription, initiation
+Tfam	IBA	TAF	0006352	DNA-templated transcription, initiation
+Tfam	ISO	TAF	0006352	DNA-templated transcription, initiation
+Tfb1m	IBA	TAF	0006352	DNA-templated transcription, initiation
+Tfb2m	IBA	TAF	0006352	DNA-templated transcription, initiation
+Tfb2m	ISO	TAF	0006352	DNA-templated transcription, initiation
+Thra	ISO	TAF	0006352	DNA-templated transcription, initiation
+Trp53	ISO	TAF	0006352	DNA-templated transcription, initiation
+Ttf1	IDA	TAF	0006352	DNA-templated transcription, initiation
+Twist1	ISO	TAF	0006352	DNA-templated transcription, initiation
+Ubtf	ISO	TAF	0006352	DNA-templated transcription, initiation
+Wnt10b	IDA	TAF	0006352	DNA-templated transcription, initiation
+Xpa	IGI	TAF	0006352	DNA-templated transcription, initiation
+Zfp451	IBA	TAF	0006352	DNA-templated transcription, initiation
+Zfp451	ISO	TAF	0006352	DNA-templated transcription, initiation
+Actl6a	IBA	Chromatin_binding	0003682	chromatin binding
+Actl6a	IDA	Chromatin_binding	0003682	chromatin binding
+Actl6b	IBA	Chromatin_binding	0003682	chromatin binding
+Actn4	ISO	Chromatin_binding	0003682	chromatin binding
+Actr6	IBA	Chromatin_binding	0003682	chromatin binding
+Actrt1	IBA	Chromatin_binding	0003682	chromatin binding
+Actrt1	ISO	Chromatin_binding	0003682	chromatin binding
+Adnp	IDA	Chromatin_binding	0003682	chromatin binding
+Aire	IBA	Chromatin_binding	0003682	chromatin binding
+Aire	ISO	Chromatin_binding	0003682	chromatin binding
+Ajuba	IDA	Chromatin_binding	0003682	chromatin binding
+Akap8	ISO	Chromatin_binding	0003682	chromatin binding
+Ankrd2	IDA	Chromatin_binding	0003682	chromatin binding
+Ankrd17	ISO	Chromatin_binding	0003682	chromatin binding
+Apbb1	ISO	Chromatin_binding	0003682	chromatin binding
+Apex1	ISO	Chromatin_binding	0003682	chromatin binding
+App	ISO	Chromatin_binding	0003682	chromatin binding
+Aptx	ISO	Chromatin_binding	0003682	chromatin binding
+Ar	ISO	Chromatin_binding	0003682	chromatin binding
+Arid1a	IBA	Chromatin_binding	0003682	chromatin binding
+Arid1a	IDA	Chromatin_binding	0003682	chromatin binding
+Arid1b	IBA	Chromatin_binding	0003682	chromatin binding
+Arid3a	IDA	Chromatin_binding	0003682	chromatin binding
+Arid3c	IDA	Chromatin_binding	0003682	chromatin binding
+Arid5a	IDA	Chromatin_binding	0003682	chromatin binding
+Arx	IDA	Chromatin_binding	0003682	chromatin binding
+Ascl1	IDA	Chromatin_binding	0003682	chromatin binding
+Asf1a	IDA	Chromatin_binding	0003682	chromatin binding
+Ash1l	IEA	Chromatin_binding	0003682	chromatin binding
+Asxl1	IBA	Chromatin_binding	0003682	chromatin binding
+Asxl2	IBA	Chromatin_binding	0003682	chromatin binding
+Asxl2	IDA	Chromatin_binding	0003682	chromatin binding
+Asxl3	IBA	Chromatin_binding	0003682	chromatin binding
+Atad2	IBA	Chromatin_binding	0003682	chromatin binding
+Atad2b	IBA	Chromatin_binding	0003682	chromatin binding
+Atf2	IDA	Chromatin_binding	0003682	chromatin binding
+Atf2	ISO	Chromatin_binding	0003682	chromatin binding
+Atf4	IDA	Chromatin_binding	0003682	chromatin binding
+Atf4	ISO	Chromatin_binding	0003682	chromatin binding
+Atf5	IDA	Chromatin_binding	0003682	chromatin binding
+Atf5	ISO	Chromatin_binding	0003682	chromatin binding
+Atoh1	IDA	Chromatin_binding	0003682	chromatin binding
+Atrx	IDA	Chromatin_binding	0003682	chromatin binding
+Atrx	ISO	Chromatin_binding	0003682	chromatin binding
+Atrx	IBA	Chromatin_binding	0003682	chromatin binding
+Atxn1	IDA	Chromatin_binding	0003682	chromatin binding
+Atxn7	IDA	Chromatin_binding	0003682	chromatin binding
+Auts2	ISO	Chromatin_binding	0003682	chromatin binding
+Bahcc1	IEA	Chromatin_binding	0003682	chromatin binding
+Bahd1	IBA	Chromatin_binding	0003682	chromatin binding
+Bahd1	ISO	Chromatin_binding	0003682	chromatin binding
+Bap1	ISO	Chromatin_binding	0003682	chromatin binding
+Bap1	IDA	Chromatin_binding	0003682	chromatin binding
+Barx2	IDA	Chromatin_binding	0003682	chromatin binding
+Bcas3	ISO	Chromatin_binding	0003682	chromatin binding
+Bcl6	IDA	Chromatin_binding	0003682	chromatin binding
+Bcl6	ISO	Chromatin_binding	0003682	chromatin binding
+Bend6	IDA	Chromatin_binding	0003682	chromatin binding
+Bhlhe22	IDA	Chromatin_binding	0003682	chromatin binding
+Bmi1	IDA	Chromatin_binding	0003682	chromatin binding
+Bmi1	IBA	Chromatin_binding	0003682	chromatin binding
+Bmi1	ISO	Chromatin_binding	0003682	chromatin binding
+Brca1	ISO	Chromatin_binding	0003682	chromatin binding
+Brd2	ISO	Chromatin_binding	0003682	chromatin binding
+Brd3	ISO	Chromatin_binding	0003682	chromatin binding
+Brd4	IDA	Chromatin_binding	0003682	chromatin binding
+Brd4	ISO	Chromatin_binding	0003682	chromatin binding
+Brip1	ISO	Chromatin_binding	0003682	chromatin binding
+Cabin1	IBA	Chromatin_binding	0003682	chromatin binding
+Calcoco1	IDA	Chromatin_binding	0003682	chromatin binding
+Camta2	ISO	Chromatin_binding	0003682	chromatin binding
+Cbfa2t3	IDA	Chromatin_binding	0003682	chromatin binding
+Cbx1	IBA	Chromatin_binding	0003682	chromatin binding
+Cbx2	IDA	Chromatin_binding	0003682	chromatin binding
+Cbx3	IBA	Chromatin_binding	0003682	chromatin binding
+Cbx4	IDA	Chromatin_binding	0003682	chromatin binding
+Cbx5	IBA	Chromatin_binding	0003682	chromatin binding
+Cbx5	IDA	Chromatin_binding	0003682	chromatin binding
+Cbx7	IDA	Chromatin_binding	0003682	chromatin binding
+Cbx8	IBA	Chromatin_binding	0003682	chromatin binding
+Ccnt1	IDA	Chromatin_binding	0003682	chromatin binding
+Ccnt2	IDA	Chromatin_binding	0003682	chromatin binding
+Cdc6	IDA	Chromatin_binding	0003682	chromatin binding
+Cdc45	IBA	Chromatin_binding	0003682	chromatin binding
+Cdk1	IDA	Chromatin_binding	0003682	chromatin binding
+Cdk9	IDA	Chromatin_binding	0003682	chromatin binding
+Cdk9	ISO	Chromatin_binding	0003682	chromatin binding
+Cdt1	ISO	Chromatin_binding	0003682	chromatin binding
+Cdyl	IDA	Chromatin_binding	0003682	chromatin binding
+Cebpa	IDA	Chromatin_binding	0003682	chromatin binding
+Cebpb	IDA	Chromatin_binding	0003682	chromatin binding
+Cenpb	IEA	Chromatin_binding	0003682	chromatin binding
+Cenps	IBA	Chromatin_binding	0003682	chromatin binding
+Cenps	ISO	Chromatin_binding	0003682	chromatin binding
+Cgas	IBA	Chromatin_binding	0003682	chromatin binding
+Cgas	IDA	Chromatin_binding	0003682	chromatin binding
+Cgas	ISO	Chromatin_binding	0003682	chromatin binding
+Chd1	IBA	Chromatin_binding	0003682	chromatin binding
+Chd1	NAS	Chromatin_binding	0003682	chromatin binding
+Chd1l	ISO	Chromatin_binding	0003682	chromatin binding
+Chd2	IBA	Chromatin_binding	0003682	chromatin binding
+Chd3	IBA	Chromatin_binding	0003682	chromatin binding
+Chd4	IBA	Chromatin_binding	0003682	chromatin binding
+Chd5	IBA	Chromatin_binding	0003682	chromatin binding
+Chd5	ISO	Chromatin_binding	0003682	chromatin binding
+Chd6	IBA	Chromatin_binding	0003682	chromatin binding
+Chd7	IBA	Chromatin_binding	0003682	chromatin binding
+Chd7	IDA	Chromatin_binding	0003682	chromatin binding
+Chd8	IBA	Chromatin_binding	0003682	chromatin binding
+Chd8	IDA	Chromatin_binding	0003682	chromatin binding
+Chd8	ISO	Chromatin_binding	0003682	chromatin binding
+Cic	IDA	Chromatin_binding	0003682	chromatin binding
+Cited1	IDA	Chromatin_binding	0003682	chromatin binding
+Cited2	IDA	Chromatin_binding	0003682	chromatin binding
+Cks2	IDA	Chromatin_binding	0003682	chromatin binding
+Clock	IDA	Chromatin_binding	0003682	chromatin binding
+Coq7	ISO	Chromatin_binding	0003682	chromatin binding
+Cramp1	IBA	Chromatin_binding	0003682	chromatin binding
+Creb3	ISO	Chromatin_binding	0003682	chromatin binding
+Creb3l1	IDA	Chromatin_binding	0003682	chromatin binding
+Crebbp	IDA	Chromatin_binding	0003682	chromatin binding
+Crebbp	ISO	Chromatin_binding	0003682	chromatin binding
+Crebbp	IBA	Chromatin_binding	0003682	chromatin binding
+Crtc2	ISO	Chromatin_binding	0003682	chromatin binding
+Crx	IDA	Chromatin_binding	0003682	chromatin binding
+Csnk2b	ISO	Chromatin_binding	0003682	chromatin binding
+Ctbp1	IDA	Chromatin_binding	0003682	chromatin binding
+Ctbp2	IDA	Chromatin_binding	0003682	chromatin binding
+Ctcf	IDA	Chromatin_binding	0003682	chromatin binding
+Ctcf	ISO	Chromatin_binding	0003682	chromatin binding
+Ctcfl	IBA	Chromatin_binding	0003682	chromatin binding
+Ctnnb1	IDA	Chromatin_binding	0003682	chromatin binding
+Ctnnb1	IGI	Chromatin_binding	0003682	chromatin binding
+Cux1	IDA	Chromatin_binding	0003682	chromatin binding
+Cys1	IDA	Chromatin_binding	0003682	chromatin binding
+Ddx1	ISO	Chromatin_binding	0003682	chromatin binding
+Ddx5	IDA	Chromatin_binding	0003682	chromatin binding
+Ddx11	ISO	Chromatin_binding	0003682	chromatin binding
+Ddx17	IDA	Chromatin_binding	0003682	chromatin binding
+Dhx9	ISO	Chromatin_binding	0003682	chromatin binding
+Dhx30	ISO	Chromatin_binding	0003682	chromatin binding
+Dlx1	IDA	Chromatin_binding	0003682	chromatin binding
+Dlx2	IDA	Chromatin_binding	0003682	chromatin binding
+Dlx3	IDA	Chromatin_binding	0003682	chromatin binding
+Dmrt1	IDA	Chromatin_binding	0003682	chromatin binding
+Dnajc2	ISO	Chromatin_binding	0003682	chromatin binding
+Dnmt1	IDA	Chromatin_binding	0003682	chromatin binding
+Dnmt1	ISO	Chromatin_binding	0003682	chromatin binding
+Dnmt3a	IDA	Chromatin_binding	0003682	chromatin binding
+Dnmt3a	ISO	Chromatin_binding	0003682	chromatin binding
+Dnmt3b	ISO	Chromatin_binding	0003682	chromatin binding
+Dnttip1	IBA	Chromatin_binding	0003682	chromatin binding
+Dnttip1	ISO	Chromatin_binding	0003682	chromatin binding
+Dppa2	IBA	Chromatin_binding	0003682	chromatin binding
+Dppa2	IDA	Chromatin_binding	0003682	chromatin binding
+Dppa4	IBA	Chromatin_binding	0003682	chromatin binding
+E2f4	IDA	Chromatin_binding	0003682	chromatin binding
+E2f4	ISO	Chromatin_binding	0003682	chromatin binding
+Ebf2	IDA	Chromatin_binding	0003682	chromatin binding
+Ecsit	IDA	Chromatin_binding	0003682	chromatin binding
+Eed	IDA	Chromatin_binding	0003682	chromatin binding
+Eed	ISO	Chromatin_binding	0003682	chromatin binding
+Eed	IBA	Chromatin_binding	0003682	chromatin binding
+Egfr	ISO	Chromatin_binding	0003682	chromatin binding
+Egr1	ISO	Chromatin_binding	0003682	chromatin binding
+Egr2	IDA	Chromatin_binding	0003682	chromatin binding
+Ehmt2	IDA	Chromatin_binding	0003682	chromatin binding
+Ehmt2	ISO	Chromatin_binding	0003682	chromatin binding
+Elk1	ISO	Chromatin_binding	0003682	chromatin binding
+Elk4	ISO	Chromatin_binding	0003682	chromatin binding
+Eny2	IBA	Chromatin_binding	0003682	chromatin binding
+Eomes	IDA	Chromatin_binding	0003682	chromatin binding
+Ep300	IDA	Chromatin_binding	0003682	chromatin binding
+Ep300	ISO	Chromatin_binding	0003682	chromatin binding
+Ep300	IBA	Chromatin_binding	0003682	chromatin binding
+Ep400	IBA	Chromatin_binding	0003682	chromatin binding
+Ep400	ISO	Chromatin_binding	0003682	chromatin binding
+Epop	IDA	Chromatin_binding	0003682	chromatin binding
+Ercc1	IDA	Chromatin_binding	0003682	chromatin binding
+Ercc3	IDA	Chromatin_binding	0003682	chromatin binding
+Ercc4	IDA	Chromatin_binding	0003682	chromatin binding
+Ercc6	ISO	Chromatin_binding	0003682	chromatin binding
+Erg	IDA	Chromatin_binding	0003682	chromatin binding
+Esr1	IDA	Chromatin_binding	0003682	chromatin binding
+Esr1	ISO	Chromatin_binding	0003682	chromatin binding
+Esr2	ISO	Chromatin_binding	0003682	chromatin binding
+Evx1os	IDA	Chromatin_binding	0003682	chromatin binding
+Exo1	IDA	Chromatin_binding	0003682	chromatin binding
+Eya3	IGI	Chromatin_binding	0003682	chromatin binding
+Ezh1	IBA	Chromatin_binding	0003682	chromatin binding
+Ezh1	ISO	Chromatin_binding	0003682	chromatin binding
+Ezh2	IBA	Chromatin_binding	0003682	chromatin binding
+Ezh2	IDA	Chromatin_binding	0003682	chromatin binding
+Ezh2	ISO	Chromatin_binding	0003682	chromatin binding
+Faap24	IBA	Chromatin_binding	0003682	chromatin binding
+Faap24	ISO	Chromatin_binding	0003682	chromatin binding
+Fabp1	IDA	Chromatin_binding	0003682	chromatin binding
+Fancm	ISO	Chromatin_binding	0003682	chromatin binding
+Fcor	IDA	Chromatin_binding	0003682	chromatin binding
+Fezf2	IDA	Chromatin_binding	0003682	chromatin binding
+Fli1	IDA	Chromatin_binding	0003682	chromatin binding
+Fmr1	IDA	Chromatin_binding	0003682	chromatin binding
+Fos	IDA	Chromatin_binding	0003682	chromatin binding
+Fosl2	IDA	Chromatin_binding	0003682	chromatin binding
+Foxa1	IDA	Chromatin_binding	0003682	chromatin binding
+Foxa2	IDA	Chromatin_binding	0003682	chromatin binding
+Foxc1	IDA	Chromatin_binding	0003682	chromatin binding
+Foxc2	ISO	Chromatin_binding	0003682	chromatin binding
+Foxc2	ISS	Chromatin_binding	0003682	chromatin binding
+Foxc2	IDA	Chromatin_binding	0003682	chromatin binding
+Foxn4	IDA	Chromatin_binding	0003682	chromatin binding
+Foxo1	IDA	Chromatin_binding	0003682	chromatin binding
+Foxo3	IDA	Chromatin_binding	0003682	chromatin binding
+Foxo4	ISO	Chromatin_binding	0003682	chromatin binding
+Foxp1	IDA	Chromatin_binding	0003682	chromatin binding
+Fus	ISO	Chromatin_binding	0003682	chromatin binding
+Gabpa	IDA	Chromatin_binding	0003682	chromatin binding
+Gadd45a	IDA	Chromatin_binding	0003682	chromatin binding
+Gata1	IDA	Chromatin_binding	0003682	chromatin binding
+Gata1	ISO	Chromatin_binding	0003682	chromatin binding
+Gata2	IDA	Chromatin_binding	0003682	chromatin binding
+Gata2	ISO	Chromatin_binding	0003682	chromatin binding
+Gata4	IDA	Chromatin_binding	0003682	chromatin binding
+Gata6	IDA	Chromatin_binding	0003682	chromatin binding
+Gli1	IDA	Chromatin_binding	0003682	chromatin binding
+Gli1	ISO	Chromatin_binding	0003682	chromatin binding
+Gli2	IDA	Chromatin_binding	0003682	chromatin binding
+Gli2	ISO	Chromatin_binding	0003682	chromatin binding
+Gli3	IGI	Chromatin_binding	0003682	chromatin binding
+Glyr1	IDA	Chromatin_binding	0003682	chromatin binding
+Glyr1	ISO	Chromatin_binding	0003682	chromatin binding
+Gm20379	IBA	Chromatin_binding	0003682	chromatin binding
+Gmnc	IEA	Chromatin_binding	0003682	chromatin binding
+Gper1	ISO	Chromatin_binding	0003682	chromatin binding
+Grhl1	ISO	Chromatin_binding	0003682	chromatin binding
+Grhl2	IDA	Chromatin_binding	0003682	chromatin binding
+Grhl2	ISO	Chromatin_binding	0003682	chromatin binding
+Grhl3	ISO	Chromatin_binding	0003682	chromatin binding
+Grwd1	ISO	Chromatin_binding	0003682	chromatin binding
+Gtf2b	IDA	Chromatin_binding	0003682	chromatin binding
+Gtf2b	ISO	Chromatin_binding	0003682	chromatin binding
+Gtf2f1	ISO	Chromatin_binding	0003682	chromatin binding
+Gtf2h1	ISO	Chromatin_binding	0003682	chromatin binding
+H1f0	ISO	Chromatin_binding	0003682	chromatin binding
+H1f0	IBA	Chromatin_binding	0003682	chromatin binding
+H1f1	ISO	Chromatin_binding	0003682	chromatin binding
+H1f1	IBA	Chromatin_binding	0003682	chromatin binding
+H1f2	ISO	Chromatin_binding	0003682	chromatin binding
+H1f2	IBA	Chromatin_binding	0003682	chromatin binding
+H1f3	ISO	Chromatin_binding	0003682	chromatin binding
+H1f3	IBA	Chromatin_binding	0003682	chromatin binding
+H1f4	ISO	Chromatin_binding	0003682	chromatin binding
+H1f4	IBA	Chromatin_binding	0003682	chromatin binding
+H1f5	ISO	Chromatin_binding	0003682	chromatin binding
+H1f5	IBA	Chromatin_binding	0003682	chromatin binding
+H1f6	IBA	Chromatin_binding	0003682	chromatin binding
+H1f8	IBA	Chromatin_binding	0003682	chromatin binding
+H1f8	IDA	Chromatin_binding	0003682	chromatin binding
+H1f9	IBA	Chromatin_binding	0003682	chromatin binding
+H1f10	IBA	Chromatin_binding	0003682	chromatin binding
+H2az1	ISO	Chromatin_binding	0003682	chromatin binding
+H3c14	IDA	Chromatin_binding	0003682	chromatin binding
+H3f3a	ISO	Chromatin_binding	0003682	chromatin binding
+H3f3b	ISO	Chromatin_binding	0003682	chromatin binding
+Hcfc1	ISO	Chromatin_binding	0003682	chromatin binding
+Hcfc1	IDA	Chromatin_binding	0003682	chromatin binding
+Hdac1	IDA	Chromatin_binding	0003682	chromatin binding
+Hdac1	ISO	Chromatin_binding	0003682	chromatin binding
+Hdac2	IDA	Chromatin_binding	0003682	chromatin binding
+Hdac2	ISO	Chromatin_binding	0003682	chromatin binding
+Hdac3	IDA	Chromatin_binding	0003682	chromatin binding
+Hdac3	ISO	Chromatin_binding	0003682	chromatin binding
+Hdac4	IDA	Chromatin_binding	0003682	chromatin binding
+Hdac4	ISO	Chromatin_binding	0003682	chromatin binding
+Hdac5	ISO	Chromatin_binding	0003682	chromatin binding
+Hdac7	IDA	Chromatin_binding	0003682	chromatin binding
+Hdac8	ISO	Chromatin_binding	0003682	chromatin binding
+Hdgfl2	IDA	Chromatin_binding	0003682	chromatin binding
+Hdgfl3	NAS	Chromatin_binding	0003682	chromatin binding
+Hells	IBA	Chromatin_binding	0003682	chromatin binding
+Hells	IDA	Chromatin_binding	0003682	chromatin binding
+Hes1	ISO	Chromatin_binding	0003682	chromatin binding
+Hes5	ISO	Chromatin_binding	0003682	chromatin binding
+Hesx1	IDA	Chromatin_binding	0003682	chromatin binding
+Hhex	IDA	Chromatin_binding	0003682	chromatin binding
+Hinfp	IDA	Chromatin_binding	0003682	chromatin binding
+Hira	IBA	Chromatin_binding	0003682	chromatin binding
+Hmga1	IDA	Chromatin_binding	0003682	chromatin binding
+Hmga2	ISO	Chromatin_binding	0003682	chromatin binding
+Hmgn1	IBA	Chromatin_binding	0003682	chromatin binding
+Hmgn1	IDA	Chromatin_binding	0003682	chromatin binding
+Hmgn1	IEA	Chromatin_binding	0003682	chromatin binding
+Hmgn2	IBA	Chromatin_binding	0003682	chromatin binding
+Hmgn3	IBA	Chromatin_binding	0003682	chromatin binding
+Hmgn3	IDA	Chromatin_binding	0003682	chromatin binding
+Hmgn3	ISS	Chromatin_binding	0003682	chromatin binding
+Hmgn3	IEA	Chromatin_binding	0003682	chromatin binding
+Hmgn5	IDA	Chromatin_binding	0003682	chromatin binding
+Hmgn5	IEA	Chromatin_binding	0003682	chromatin binding
+Hnf1a	IDA	Chromatin_binding	0003682	chromatin binding
+Hnf4a	IDA	Chromatin_binding	0003682	chromatin binding
+Hnrnpd	ISO	Chromatin_binding	0003682	chromatin binding
+Hnrnpu	ISO	Chromatin_binding	0003682	chromatin binding
+Hnrnpu	IBA	Chromatin_binding	0003682	chromatin binding
+Hnrnpu	IDA	Chromatin_binding	0003682	chromatin binding
+Hoxc13	IDA	Chromatin_binding	0003682	chromatin binding
+Hoxd10	IDA	Chromatin_binding	0003682	chromatin binding
+Hoxd13	IDA	Chromatin_binding	0003682	chromatin binding
+Hp1bp3	IEA	Chromatin_binding	0003682	chromatin binding
+Hp1bp3	IBA	Chromatin_binding	0003682	chromatin binding
+Hp1bp3	ISO	Chromatin_binding	0003682	chromatin binding
+Hpf1	ISO	Chromatin_binding	0003682	chromatin binding
+Hr	IBA	Chromatin_binding	0003682	chromatin binding
+Hsf1	IDA	Chromatin_binding	0003682	chromatin binding
+Hsf1	ISO	Chromatin_binding	0003682	chromatin binding
+Hsf3	IDA	Chromatin_binding	0003682	chromatin binding
+Ift74	IDA	Chromatin_binding	0003682	chromatin binding
+Ikzf3	ISO	Chromatin_binding	0003682	chromatin binding
+Ikzf5	ISO	Chromatin_binding	0003682	chromatin binding
+Ing2	IEA	Chromatin_binding	0003682	chromatin binding
+Ing5	IBA	Chromatin_binding	0003682	chromatin binding
+Ing5	IDA	Chromatin_binding	0003682	chromatin binding
+Ing5	IGI	Chromatin_binding	0003682	chromatin binding
+Insm1	ISO	Chromatin_binding	0003682	chromatin binding
+Irf3	IDA	Chromatin_binding	0003682	chromatin binding
+Isl1	IDA	Chromatin_binding	0003682	chromatin binding
+Jarid2	IDA	Chromatin_binding	0003682	chromatin binding
+Jdp2	IDA	Chromatin_binding	0003682	chromatin binding
+Jmjd1c	IBA	Chromatin_binding	0003682	chromatin binding
+Jun	IDA	Chromatin_binding	0003682	chromatin binding
+Kat2a	IDA	Chromatin_binding	0003682	chromatin binding
+Kat2a	ISO	Chromatin_binding	0003682	chromatin binding
+Kat2b	IDA	Chromatin_binding	0003682	chromatin binding
+Kat2b	ISO	Chromatin_binding	0003682	chromatin binding
+Kat5	IDA	Chromatin_binding	0003682	chromatin binding
+Kat5	ISO	Chromatin_binding	0003682	chromatin binding
+Kat6a	IGI	Chromatin_binding	0003682	chromatin binding
+Kcnq1ot1	IDA	Chromatin_binding	0003682	chromatin binding
+Kdm1a	IBA	Chromatin_binding	0003682	chromatin binding
+Kdm1a	IDA	Chromatin_binding	0003682	chromatin binding
+Kdm1a	ISO	Chromatin_binding	0003682	chromatin binding
+Kdm1b	IBA	Chromatin_binding	0003682	chromatin binding
+Kdm3a	IDA	Chromatin_binding	0003682	chromatin binding
+Kdm3a	IBA	Chromatin_binding	0003682	chromatin binding
+Kdm3b	IBA	Chromatin_binding	0003682	chromatin binding
+Kdm4d	IDA	Chromatin_binding	0003682	chromatin binding
+Kdm5a	IDA	Chromatin_binding	0003682	chromatin binding
+Kdm6a	IBA	Chromatin_binding	0003682	chromatin binding
+Kdm6a	IDA	Chromatin_binding	0003682	chromatin binding
+Kdm6a	ISO	Chromatin_binding	0003682	chromatin binding
+Kdm6b	ISO	Chromatin_binding	0003682	chromatin binding
+Kdm6b	IBA	Chromatin_binding	0003682	chromatin binding
+Kdm8	ISO	Chromatin_binding	0003682	chromatin binding
+Klf4	IDA	Chromatin_binding	0003682	chromatin binding
+Klf4	ISO	Chromatin_binding	0003682	chromatin binding
+Klf14	IDA	Chromatin_binding	0003682	chromatin binding
+Klhdc3	IBA	Chromatin_binding	0003682	chromatin binding
+Klhdc3	ISO	Chromatin_binding	0003682	chromatin binding
+Kmt2a	IDA	Chromatin_binding	0003682	chromatin binding
+Kmt5b	ISO	Chromatin_binding	0003682	chromatin binding
+Kmt5c	ISO	Chromatin_binding	0003682	chromatin binding
+L3mbtl1	IBA	Chromatin_binding	0003682	chromatin binding
+L3mbtl1	ISO	Chromatin_binding	0003682	chromatin binding
+L3mbtl2	IBA	Chromatin_binding	0003682	chromatin binding
+L3mbtl2	IDA	Chromatin_binding	0003682	chromatin binding
+L3mbtl3	IBA	Chromatin_binding	0003682	chromatin binding
+L3mbtl3	ISO	Chromatin_binding	0003682	chromatin binding
+L3mbtl4	IBA	Chromatin_binding	0003682	chromatin binding
+Lcor	IDA	Chromatin_binding	0003682	chromatin binding
+Ldb1	IDA	Chromatin_binding	0003682	chromatin binding
+Lef1	IDA	Chromatin_binding	0003682	chromatin binding
+Lemd2	IBA	Chromatin_binding	0003682	chromatin binding
+Lemd3	IBA	Chromatin_binding	0003682	chromatin binding
+Lhx2	IDA	Chromatin_binding	0003682	chromatin binding
+Lmo2	IDA	Chromatin_binding	0003682	chromatin binding
+Lrwd1	IBA	Chromatin_binding	0003682	chromatin binding
+Lrwd1	ISO	Chromatin_binding	0003682	chromatin binding
+Macroh2a1	IDA	Chromatin_binding	0003682	chromatin binding
+Macroh2a1	ISO	Chromatin_binding	0003682	chromatin binding
+Macroh2a2	ISO	Chromatin_binding	0003682	chromatin binding
+Mapk15	ISO	Chromatin_binding	0003682	chromatin binding
+Maz	IDA	Chromatin_binding	0003682	chromatin binding
+Mbd1	ISO	Chromatin_binding	0003682	chromatin binding
+Mbd2	IDA	Chromatin_binding	0003682	chromatin binding
+Mbd2	ISO	Chromatin_binding	0003682	chromatin binding
+Mbd3	IDA	Chromatin_binding	0003682	chromatin binding
+Mbd5	IBA	Chromatin_binding	0003682	chromatin binding
+Mbd5	ISO	Chromatin_binding	0003682	chromatin binding
+Mbd6	IBA	Chromatin_binding	0003682	chromatin binding
+Mbd6	ISO	Chromatin_binding	0003682	chromatin binding
+Mbtd1	IBA	Chromatin_binding	0003682	chromatin binding
+Mcm3ap	ISO	Chromatin_binding	0003682	chromatin binding
+Mcm8	ISO	Chromatin_binding	0003682	chromatin binding
+Mcm9	IDA	Chromatin_binding	0003682	chromatin binding
+Mcm9	ISO	Chromatin_binding	0003682	chromatin binding
+Mcmbp	IBA	Chromatin_binding	0003682	chromatin binding
+Mcmbp	ISO	Chromatin_binding	0003682	chromatin binding
+Mecp2	IBA	Chromatin_binding	0003682	chromatin binding
+Mecp2	IDA	Chromatin_binding	0003682	chromatin binding
+Mecp2	ISO	Chromatin_binding	0003682	chromatin binding
+Med1	IDA	Chromatin_binding	0003682	chromatin binding
+Med1	ISO	Chromatin_binding	0003682	chromatin binding
+Med12	IDA	Chromatin_binding	0003682	chromatin binding
+Mef2a	IDA	Chromatin_binding	0003682	chromatin binding
+Mef2a	ISO	Chromatin_binding	0003682	chromatin binding
+Mef2c	IDA	Chromatin_binding	0003682	chromatin binding
+Meiob	IDA	Chromatin_binding	0003682	chromatin binding
+Meiob	IMP	Chromatin_binding	0003682	chromatin binding
+Meis1	IDA	Chromatin_binding	0003682	chromatin binding
+Meis3	IDA	Chromatin_binding	0003682	chromatin binding
+Men1	IBA	Chromatin_binding	0003682	chromatin binding
+Men1	IDA	Chromatin_binding	0003682	chromatin binding
+Men1	ISO	Chromatin_binding	0003682	chromatin binding
+Meox1	IDA	Chromatin_binding	0003682	chromatin binding
+Mexis	IMP	Chromatin_binding	0003682	chromatin binding
+Mir208b	IDA	Chromatin_binding	0003682	chromatin binding
+Mitf	IDA	Chromatin_binding	0003682	chromatin binding
+Mkrn1	IDA	Chromatin_binding	0003682	chromatin binding
+Mlh1	IDA	Chromatin_binding	0003682	chromatin binding
+Mlh1	ISO	Chromatin_binding	0003682	chromatin binding
+Mlh3	IDA	Chromatin_binding	0003682	chromatin binding
+Mllt3	ISO	Chromatin_binding	0003682	chromatin binding
+Mllt6	IBA	Chromatin_binding	0003682	chromatin binding
+Mllt6	ISO	Chromatin_binding	0003682	chromatin binding
+Mllt10	ISO	Chromatin_binding	0003682	chromatin binding
+Mllt10	IBA	Chromatin_binding	0003682	chromatin binding
+Mnt	IDA	Chromatin_binding	0003682	chromatin binding
+Morc2a	ISO	Chromatin_binding	0003682	chromatin binding
+Morc2b	ISO	Chromatin_binding	0003682	chromatin binding
+Morf4l1	IDA	Chromatin_binding	0003682	chromatin binding
+Mphosph8	ISO	Chromatin_binding	0003682	chromatin binding
+Mrnip	IBA	Chromatin_binding	0003682	chromatin binding
+Mrnip	ISO	Chromatin_binding	0003682	chromatin binding
+Msgn1	IDA	Chromatin_binding	0003682	chromatin binding
+Msh2	ISO	Chromatin_binding	0003682	chromatin binding
+Msh6	IDA	Chromatin_binding	0003682	chromatin binding
+Msl1	IBA	Chromatin_binding	0003682	chromatin binding
+Mta1	IEA	Chromatin_binding	0003682	chromatin binding
+Mta2	IEA	Chromatin_binding	0003682	chromatin binding
+Mta3	IEA	Chromatin_binding	0003682	chromatin binding
+Mtf2	IBA	Chromatin_binding	0003682	chromatin binding
+Mybl1	IDA	Chromatin_binding	0003682	chromatin binding
+Myod1	IDA	Chromatin_binding	0003682	chromatin binding
+Myog	IDA	Chromatin_binding	0003682	chromatin binding
+Nanog	IDA	Chromatin_binding	0003682	chromatin binding
+Nap1l1	IBA	Chromatin_binding	0003682	chromatin binding
+Nap1l2	IBA	Chromatin_binding	0003682	chromatin binding
+Nap1l2	IDA	Chromatin_binding	0003682	chromatin binding
+Nap1l3	IBA	Chromatin_binding	0003682	chromatin binding
+Nap1l4	IBA	Chromatin_binding	0003682	chromatin binding
+Nap1l4	ISO	Chromatin_binding	0003682	chromatin binding
+Nap1l5	IBA	Chromatin_binding	0003682	chromatin binding
+Ncaph	IBA	Chromatin_binding	0003682	chromatin binding
+Ncaph	IDA	Chromatin_binding	0003682	chromatin binding
+Ncaph2	IBA	Chromatin_binding	0003682	chromatin binding
+Ncoa1	IDA	Chromatin_binding	0003682	chromatin binding
+Ncoa2	IDA	Chromatin_binding	0003682	chromatin binding
+Ncoa3	IDA	Chromatin_binding	0003682	chromatin binding
+Ncoa5	IDA	Chromatin_binding	0003682	chromatin binding
+Ncoa6	IDA	Chromatin_binding	0003682	chromatin binding
+Ncor1	IDA	Chromatin_binding	0003682	chromatin binding
+Ncor1	ISO	Chromatin_binding	0003682	chromatin binding
+Ncor2	IDA	Chromatin_binding	0003682	chromatin binding
+Ncor2	ISO	Chromatin_binding	0003682	chromatin binding
+Ndn	IDA	Chromatin_binding	0003682	chromatin binding
+Nelfa	IDA	Chromatin_binding	0003682	chromatin binding
+Nelfa	ISO	Chromatin_binding	0003682	chromatin binding
+Nelfe	IDA	Chromatin_binding	0003682	chromatin binding
+Nelfe	ISO	Chromatin_binding	0003682	chromatin binding
+Neurod1	IDA	Chromatin_binding	0003682	chromatin binding
+Neurog1	IDA	Chromatin_binding	0003682	chromatin binding
+Neurog3	IDA	Chromatin_binding	0003682	chromatin binding
+Nfat5	ISO	Chromatin_binding	0003682	chromatin binding
+Nfatc1	IDA	Chromatin_binding	0003682	chromatin binding
+Nfatc2	IDA	Chromatin_binding	0003682	chromatin binding
+Nfatc3	IDA	Chromatin_binding	0003682	chromatin binding
+Nfe2l1	IDA	Chromatin_binding	0003682	chromatin binding
+Nfia	IDA	Chromatin_binding	0003682	chromatin binding
+Nfkb1	IDA	Chromatin_binding	0003682	chromatin binding
+Nipbl	IBA	Chromatin_binding	0003682	chromatin binding
+Nipbl	IDA	Chromatin_binding	0003682	chromatin binding
+Nkap	IBA	Chromatin_binding	0003682	chromatin binding
+Nkap	ISO	Chromatin_binding	0003682	chromatin binding
+Nkap	IDA	Chromatin_binding	0003682	chromatin binding
+Nkapl	IEA	Chromatin_binding	0003682	chromatin binding
+Nkx2-5	IDA	Chromatin_binding	0003682	chromatin binding
+Nkx2-5	ISO	Chromatin_binding	0003682	chromatin binding
+Nkx6-1	ISO	Chromatin_binding	0003682	chromatin binding
+Noc2l	ISO	Chromatin_binding	0003682	chromatin binding
+Noc3l	IBA	Chromatin_binding	0003682	chromatin binding
+Nono	IDA	Chromatin_binding	0003682	chromatin binding
+Notch1	IDA	Chromatin_binding	0003682	chromatin binding
+Npm1	IBA	Chromatin_binding	0003682	chromatin binding
+Npm2	IBA	Chromatin_binding	0003682	chromatin binding
+Npm2	IDA	Chromatin_binding	0003682	chromatin binding
+Npm3	IBA	Chromatin_binding	0003682	chromatin binding
+Nr1h2	IDA	Chromatin_binding	0003682	chromatin binding
+Nr1h3	IMP	Chromatin_binding	0003682	chromatin binding
+Nr3c1	ISO	Chromatin_binding	0003682	chromatin binding
+Nr5a1	IDA	Chromatin_binding	0003682	chromatin binding
+Nr5a2	IDA	Chromatin_binding	0003682	chromatin binding
+Nrl	IDA	Chromatin_binding	0003682	chromatin binding
+Nsd1	IDA	Chromatin_binding	0003682	chromatin binding
+Nsd2	IDA	Chromatin_binding	0003682	chromatin binding
+Nucks1	ISO	Chromatin_binding	0003682	chromatin binding
+Nudt21	IDA	Chromatin_binding	0003682	chromatin binding
+Nup98	ISO	Chromatin_binding	0003682	chromatin binding
+Nup153	ISO	Chromatin_binding	0003682	chromatin binding
+Nupr1	IDA	Chromatin_binding	0003682	chromatin binding
+Obi1	ISO	Chromatin_binding	0003682	chromatin binding
+Ogt	IDA	Chromatin_binding	0003682	chromatin binding
+Onecut1	IDA	Chromatin_binding	0003682	chromatin binding
+Orc1	ISO	Chromatin_binding	0003682	chromatin binding
+Ovol2	IDA	Chromatin_binding	0003682	chromatin binding
+Paf1	IBA	Chromatin_binding	0003682	chromatin binding
+Paf1	IDA	Chromatin_binding	0003682	chromatin binding
+Parg	ISO	Chromatin_binding	0003682	chromatin binding
+Parp1	IDA	Chromatin_binding	0003682	chromatin binding
+Parp1	ISO	Chromatin_binding	0003682	chromatin binding
+Parp2	ISO	Chromatin_binding	0003682	chromatin binding
+Patz1	IDA	Chromatin_binding	0003682	chromatin binding
+Paupar	IDA	Chromatin_binding	0003682	chromatin binding
+Pax3	IDA	Chromatin_binding	0003682	chromatin binding
+Pax6	IDA	Chromatin_binding	0003682	chromatin binding
+Pbrm1	IBA	Chromatin_binding	0003682	chromatin binding
+Pbrm1	IDA	Chromatin_binding	0003682	chromatin binding
+Pbx2	IDA	Chromatin_binding	0003682	chromatin binding
+Pcgf1	IBA	Chromatin_binding	0003682	chromatin binding
+Pcgf2	IDA	Chromatin_binding	0003682	chromatin binding
+Pcgf2	IBA	Chromatin_binding	0003682	chromatin binding
+Pclaf	IBA	Chromatin_binding	0003682	chromatin binding
+Pclaf	ISO	Chromatin_binding	0003682	chromatin binding
+Pcna	ISO	Chromatin_binding	0003682	chromatin binding
+Pdx1	IDA	Chromatin_binding	0003682	chromatin binding
+Pdx1	ISO	Chromatin_binding	0003682	chromatin binding
+Pelp1	ISO	Chromatin_binding	0003682	chromatin binding
+Per1	IDA	Chromatin_binding	0003682	chromatin binding
+Phc1	IBA	Chromatin_binding	0003682	chromatin binding
+Phc1	IDA	Chromatin_binding	0003682	chromatin binding
+Phc2	IBA	Chromatin_binding	0003682	chromatin binding
+Phc3	IBA	Chromatin_binding	0003682	chromatin binding
+Phf1	IBA	Chromatin_binding	0003682	chromatin binding
+Phf1	ISO	Chromatin_binding	0003682	chromatin binding
+Phf8	ISO	Chromatin_binding	0003682	chromatin binding
+Phf13	IBA	Chromatin_binding	0003682	chromatin binding
+Phf13	ISO	Chromatin_binding	0003682	chromatin binding
+Phf19	IBA	Chromatin_binding	0003682	chromatin binding
+Phf21a	IBA	Chromatin_binding	0003682	chromatin binding
+Phf21a	IDA	Chromatin_binding	0003682	chromatin binding
+Phf21a	ISO	Chromatin_binding	0003682	chromatin binding
+Pitx2	IDA	Chromatin_binding	0003682	chromatin binding
+Pkn1	ISO	Chromatin_binding	0003682	chromatin binding
+Pknox1	IDA	Chromatin_binding	0003682	chromatin binding
+Plac8	IDA	Chromatin_binding	0003682	chromatin binding
+Pola1	IBA	Chromatin_binding	0003682	chromatin binding
+Pola1	ISO	Chromatin_binding	0003682	chromatin binding
+Pold1	ISO	Chromatin_binding	0003682	chromatin binding
+Pole	ISO	Chromatin_binding	0003682	chromatin binding
+Pole3	IBA	Chromatin_binding	0003682	chromatin binding
+Polg	ISO	Chromatin_binding	0003682	chromatin binding
+Polq	ISO	Chromatin_binding	0003682	chromatin binding
+Polr1a	ISO	Chromatin_binding	0003682	chromatin binding
+Polr2a	ISO	Chromatin_binding	0003682	chromatin binding
+Polr2b	IDA	Chromatin_binding	0003682	chromatin binding
+Polr3a	IDA	Chromatin_binding	0003682	chromatin binding
+Polr3d	IDA	Chromatin_binding	0003682	chromatin binding
+Polr3d	ISO	Chromatin_binding	0003682	chromatin binding
+Polr3g	IDA	Chromatin_binding	0003682	chromatin binding
+Polr3g	ISO	Chromatin_binding	0003682	chromatin binding
+Polr3gl	IDA	Chromatin_binding	0003682	chromatin binding
+Pou1f1	IDA	Chromatin_binding	0003682	chromatin binding
+Pou2f1	IDA	Chromatin_binding	0003682	chromatin binding
+Pou2f1	ISO	Chromatin_binding	0003682	chromatin binding
+Pou4f1	IGI	Chromatin_binding	0003682	chromatin binding
+Pou4f2	IDA	Chromatin_binding	0003682	chromatin binding
+Pou5f1	IDA	Chromatin_binding	0003682	chromatin binding
+Pou5f1	IMP	Chromatin_binding	0003682	chromatin binding
+Pparg	IDA	Chromatin_binding	0003682	chromatin binding
+Ppargc1a	ISO	Chromatin_binding	0003682	chromatin binding
+Ppargc1a	IDA	Chromatin_binding	0003682	chromatin binding
+Ppp2r3d	IDA	Chromatin_binding	0003682	chromatin binding
+Prdm1	IDA	Chromatin_binding	0003682	chromatin binding
+Prdm8	IDA	Chromatin_binding	0003682	chromatin binding
+Prdm11	IDA	Chromatin_binding	0003682	chromatin binding
+Prdm13	IDA	Chromatin_binding	0003682	chromatin binding
+Prdm14	IDA	Chromatin_binding	0003682	chromatin binding
+Prdm15	IDA	Chromatin_binding	0003682	chromatin binding
+Primpol	IBA	Chromatin_binding	0003682	chromatin binding
+Primpol	ISO	Chromatin_binding	0003682	chromatin binding
+Prkaa1	IDA	Chromatin_binding	0003682	chromatin binding
+Prkaa2	IDA	Chromatin_binding	0003682	chromatin binding
+Prkcb	ISO	Chromatin_binding	0003682	chromatin binding
+Prmt5	IMP	Chromatin_binding	0003682	chromatin binding
+Prmt6	IDA	Chromatin_binding	0003682	chromatin binding
+Prop1	IDA	Chromatin_binding	0003682	chromatin binding
+Psip1	ISO	Chromatin_binding	0003682	chromatin binding
+Ptf1a	IDA	Chromatin_binding	0003682	chromatin binding
+Pus1	IDA	Chromatin_binding	0003682	chromatin binding
+Pwwp2a	IBA	Chromatin_binding	0003682	chromatin binding
+Pwwp2a	ISO	Chromatin_binding	0003682	chromatin binding
+Pwwp3a	IBA	Chromatin_binding	0003682	chromatin binding
+Pwwp3a	ISO	Chromatin_binding	0003682	chromatin binding
+Pygo2	IDA	Chromatin_binding	0003682	chromatin binding
+Rad17	IBA	Chromatin_binding	0003682	chromatin binding
+Rad21	IBA	Chromatin_binding	0003682	chromatin binding
+Rad21l	IBA	Chromatin_binding	0003682	chromatin binding
+Rad51	IDA	Chromatin_binding	0003682	chromatin binding
+Rad51	ISO	Chromatin_binding	0003682	chromatin binding
+Rag2	IDA	Chromatin_binding	0003682	chromatin binding
+Rara	ISO	Chromatin_binding	0003682	chromatin binding
+Rarg	IDA	Chromatin_binding	0003682	chromatin binding
+Rbl1	ISO	Chromatin_binding	0003682	chromatin binding
+Rbl2	ISO	Chromatin_binding	0003682	chromatin binding
+Rbmx	ISO	Chromatin_binding	0003682	chromatin binding
+Rbmxl1	IDA	Chromatin_binding	0003682	chromatin binding
+Rbpj	IDA	Chromatin_binding	0003682	chromatin binding
+Rbpjl	IDA	Chromatin_binding	0003682	chromatin binding
+Rcc1	ISO	Chromatin_binding	0003682	chromatin binding
+Rcor1	IDA	Chromatin_binding	0003682	chromatin binding
+Rec8	IBA	Chromatin_binding	0003682	chromatin binding
+Rela	IDA	Chromatin_binding	0003682	chromatin binding
+Rela	ISO	Chromatin_binding	0003682	chromatin binding
+Repin1	IBA	Chromatin_binding	0003682	chromatin binding
+Rere	IEA	Chromatin_binding	0003682	chromatin binding
+Rest	IDA	Chromatin_binding	0003682	chromatin binding
+Rfpl4b	IBA	Chromatin_binding	0003682	chromatin binding
+Rfx4	IDA	Chromatin_binding	0003682	chromatin binding
+Ring1	IBA	Chromatin_binding	0003682	chromatin binding
+Ring1	IDA	Chromatin_binding	0003682	chromatin binding
+Rit2	IGI	Chromatin_binding	0003682	chromatin binding
+Rnf2	IBA	Chromatin_binding	0003682	chromatin binding
+Rnf2	IDA	Chromatin_binding	0003682	chromatin binding
+Rnf2	ISO	Chromatin_binding	0003682	chromatin binding
+Rnf4	ISO	Chromatin_binding	0003682	chromatin binding
+Rnf8	ISO	Chromatin_binding	0003682	chromatin binding
+Rnf20	IDA	Chromatin_binding	0003682	chromatin binding
+Rnf168	ISO	Chromatin_binding	0003682	chromatin binding
+Rnf168	IBA	Chromatin_binding	0003682	chromatin binding
+Rnf169	IBA	Chromatin_binding	0003682	chromatin binding
+Rnf169	ISO	Chromatin_binding	0003682	chromatin binding
+Rpa1	IDA	Chromatin_binding	0003682	chromatin binding
+Runx1	ISO	Chromatin_binding	0003682	chromatin binding
+Runx2	IDA	Chromatin_binding	0003682	chromatin binding
+Ruvbl2	ISO	Chromatin_binding	0003682	chromatin binding
+Rxra	IDA	Chromatin_binding	0003682	chromatin binding
+Rxrb	IDA	Chromatin_binding	0003682	chromatin binding
+Safb	IDA	Chromatin_binding	0003682	chromatin binding
+Sall1	IDA	Chromatin_binding	0003682	chromatin binding
+Samd1	IBA	Chromatin_binding	0003682	chromatin binding
+Samd1	ISO	Chromatin_binding	0003682	chromatin binding
+Samd7	IBA	Chromatin_binding	0003682	chromatin binding
+Samd11	IBA	Chromatin_binding	0003682	chromatin binding
+Samd13	IBA	Chromatin_binding	0003682	chromatin binding
+Sap30l	ISO	Chromatin_binding	0003682	chromatin binding
+Sarnp	IDA	Chromatin_binding	0003682	chromatin binding
+Satb1	IDA	Chromatin_binding	0003682	chromatin binding
+Satb2	IDA	Chromatin_binding	0003682	chromatin binding
+Sbno1	IBA	Chromatin_binding	0003682	chromatin binding
+Sbno2	IBA	Chromatin_binding	0003682	chromatin binding
+Scmh1	IBA	Chromatin_binding	0003682	chromatin binding
+Scml2	IBA	Chromatin_binding	0003682	chromatin binding
+Scml4	IBA	Chromatin_binding	0003682	chromatin binding
+Set	IBA	Chromatin_binding	0003682	chromatin binding
+Set	ISO	Chromatin_binding	0003682	chromatin binding
+Setd7	IBA	Chromatin_binding	0003682	chromatin binding
+Setd7	ISO	Chromatin_binding	0003682	chromatin binding
+Setdb1	IDA	Chromatin_binding	0003682	chromatin binding
+Setdb1	ISO	Chromatin_binding	0003682	chromatin binding
+Sf3b1	IDA	Chromatin_binding	0003682	chromatin binding
+Sfmbt1	IBA	Chromatin_binding	0003682	chromatin binding
+Sfmbt2	IBA	Chromatin_binding	0003682	chromatin binding
+Sfpq	IDA	Chromatin_binding	0003682	chromatin binding
+Shmt2	ISO	Chromatin_binding	0003682	chromatin binding
+Sin3a	IDA	Chromatin_binding	0003682	chromatin binding
+Sin3b	IDA	Chromatin_binding	0003682	chromatin binding
+Sirt1	IDA	Chromatin_binding	0003682	chromatin binding
+Sirt2	ISO	Chromatin_binding	0003682	chromatin binding
+Sirt6	IDA	Chromatin_binding	0003682	chromatin binding
+Sirt6	ISO	Chromatin_binding	0003682	chromatin binding
+Sirt7	ISO	Chromatin_binding	0003682	chromatin binding
+Six1	IGI	Chromatin_binding	0003682	chromatin binding
+Ski	IGI	Chromatin_binding	0003682	chromatin binding
+Skil	IDA	Chromatin_binding	0003682	chromatin binding
+Skor2	IDA	Chromatin_binding	0003682	chromatin binding
+Slc30a9	IDA	Chromatin_binding	0003682	chromatin binding
+Smad2	IDA	Chromatin_binding	0003682	chromatin binding
+Smad3	IDA	Chromatin_binding	0003682	chromatin binding
+Smad4	IDA	Chromatin_binding	0003682	chromatin binding
+Smad6	ISO	Chromatin_binding	0003682	chromatin binding
+Smarca1	IDA	Chromatin_binding	0003682	chromatin binding
+Smarca1	IEA	Chromatin_binding	0003682	chromatin binding
+Smarca2	ISO	Chromatin_binding	0003682	chromatin binding
+Smarca4	IDA	Chromatin_binding	0003682	chromatin binding
+Smarca4	ISO	Chromatin_binding	0003682	chromatin binding
+Smarca5	IEA	Chromatin_binding	0003682	chromatin binding
+Smarcad1	IBA	Chromatin_binding	0003682	chromatin binding
+Smarcc1	IDA	Chromatin_binding	0003682	chromatin binding
+Smarcc2	IDA	Chromatin_binding	0003682	chromatin binding
+Smarcd1	ISO	Chromatin_binding	0003682	chromatin binding
+Smarcd3	ISO	Chromatin_binding	0003682	chromatin binding
+Smc1a	IDA	Chromatin_binding	0003682	chromatin binding
+Smc1a	ISO	Chromatin_binding	0003682	chromatin binding
+Smc2	IBA	Chromatin_binding	0003682	chromatin binding
+Smc2	IDA	Chromatin_binding	0003682	chromatin binding
+Smc3	IDA	Chromatin_binding	0003682	chromatin binding
+Smc4	IDA	Chromatin_binding	0003682	chromatin binding
+Snai2	IDA	Chromatin_binding	0003682	chromatin binding
+Sox2	IDA	Chromatin_binding	0003682	chromatin binding
+Sox9	ISO	Chromatin_binding	0003682	chromatin binding
+Sox10	IDA	Chromatin_binding	0003682	chromatin binding
+Sox10	ISO	Chromatin_binding	0003682	chromatin binding
+Sox14	IDA	Chromatin_binding	0003682	chromatin binding
+Sox15	IDA	Chromatin_binding	0003682	chromatin binding
+Sp3	IDA	Chromatin_binding	0003682	chromatin binding
+Spi1	IMP	Chromatin_binding	0003682	chromatin binding
+Srebf1	IDA	Chromatin_binding	0003682	chromatin binding
+Srebf1	ISO	Chromatin_binding	0003682	chromatin binding
+Srebf2	ISO	Chromatin_binding	0003682	chromatin binding
+Srf	IDA	Chromatin_binding	0003682	chromatin binding
+Ssbp1	ISO	Chromatin_binding	0003682	chromatin binding
+Ssrp1	IDA	Chromatin_binding	0003682	chromatin binding
+Ssrp1	IBA	Chromatin_binding	0003682	chromatin binding
+Stag1	IBA	Chromatin_binding	0003682	chromatin binding
+Stag1	IDA	Chromatin_binding	0003682	chromatin binding
+Stag2	IBA	Chromatin_binding	0003682	chromatin binding
+Stag2	IDA	Chromatin_binding	0003682	chromatin binding
+Stag3	IBA	Chromatin_binding	0003682	chromatin binding
+Stat1	ISO	Chromatin_binding	0003682	chromatin binding
+Stat3	ISO	Chromatin_binding	0003682	chromatin binding
+Stat5b	ISO	Chromatin_binding	0003682	chromatin binding
+Stpg4	IBA	Chromatin_binding	0003682	chromatin binding
+Stpg4	IDA	Chromatin_binding	0003682	chromatin binding
+Supt5	IDA	Chromatin_binding	0003682	chromatin binding
+Supt6	IBA	Chromatin_binding	0003682	chromatin binding
+Supt16	IBA	Chromatin_binding	0003682	chromatin binding
+Suv39h2	IDA	Chromatin_binding	0003682	chromatin binding
+Suz12	IDA	Chromatin_binding	0003682	chromatin binding
+Suz12	IBA	Chromatin_binding	0003682	chromatin binding
+Svep1	IDA	Chromatin_binding	0003682	chromatin binding
+Tada2a	IBA	Chromatin_binding	0003682	chromatin binding
+Tada2b	IBA	Chromatin_binding	0003682	chromatin binding
+Taf1	IDA	Chromatin_binding	0003682	chromatin binding
+Taf2	IBA	Chromatin_binding	0003682	chromatin binding
+Taf5	IDA	Chromatin_binding	0003682	chromatin binding
+Taf10	IBA	Chromatin_binding	0003682	chromatin binding
+Taf10	IDA	Chromatin_binding	0003682	chromatin binding
+Tal1	IDA	Chromatin_binding	0003682	chromatin binding
+Tal1	ISO	Chromatin_binding	0003682	chromatin binding
+Tasor	IBA	Chromatin_binding	0003682	chromatin binding
+Tasor	ISO	Chromatin_binding	0003682	chromatin binding
+Tbl1x	IDA	Chromatin_binding	0003682	chromatin binding
+Tbr1	IDA	Chromatin_binding	0003682	chromatin binding
+Tcf3	IDA	Chromatin_binding	0003682	chromatin binding
+Tcf4	IDA	Chromatin_binding	0003682	chromatin binding
+Tcf7l1	IDA	Chromatin_binding	0003682	chromatin binding
+Tcf7l2	IDA	Chromatin_binding	0003682	chromatin binding
+Tcf7l2	IGI	Chromatin_binding	0003682	chromatin binding
+Tdrd3	ISO	Chromatin_binding	0003682	chromatin binding
+Tfam	ISO	Chromatin_binding	0003682	chromatin binding
+Tfap2a	IDA	Chromatin_binding	0003682	chromatin binding
+Tfap2b	ISO	Chromatin_binding	0003682	chromatin binding
+Tgif1	IDA	Chromatin_binding	0003682	chromatin binding
+Thra	IDA	Chromatin_binding	0003682	chromatin binding
+Thrb	IDA	Chromatin_binding	0003682	chromatin binding
+Ticrr	IBA	Chromatin_binding	0003682	chromatin binding
+Ticrr	ISO	Chromatin_binding	0003682	chromatin binding
+Tle1	IDA	Chromatin_binding	0003682	chromatin binding
+Tle4	IDA	Chromatin_binding	0003682	chromatin binding
+Tnrc18	IEA	Chromatin_binding	0003682	chromatin binding
+Top1	ISO	Chromatin_binding	0003682	chromatin binding
+Top2a	ISO	Chromatin_binding	0003682	chromatin binding
+Top2b	ISO	Chromatin_binding	0003682	chromatin binding
+Tox	IBA	Chromatin_binding	0003682	chromatin binding
+Tox	IDA	Chromatin_binding	0003682	chromatin binding
+Tox2	IBA	Chromatin_binding	0003682	chromatin binding
+Tox3	ISO	Chromatin_binding	0003682	chromatin binding
+Tox3	IBA	Chromatin_binding	0003682	chromatin binding
+Tox4	IBA	Chromatin_binding	0003682	chromatin binding
+Tpr	ISO	Chromatin_binding	0003682	chromatin binding
+Trim24	IDA	Chromatin_binding	0003682	chromatin binding
+Trim24	ISO	Chromatin_binding	0003682	chromatin binding
+Trim28	ISO	Chromatin_binding	0003682	chromatin binding
+Trim28	IBA	Chromatin_binding	0003682	chromatin binding
+Trim33	IDA	Chromatin_binding	0003682	chromatin binding
+Trim37	IDA	Chromatin_binding	0003682	chromatin binding
+Trim66	IDA	Chromatin_binding	0003682	chromatin binding
+Trp53	IDA	Chromatin_binding	0003682	chromatin binding
+Trp53	ISO	Chromatin_binding	0003682	chromatin binding
+Trp63	IDA	Chromatin_binding	0003682	chromatin binding
+Trp63	ISO	Chromatin_binding	0003682	chromatin binding
+Tshz3	ISO	Chromatin_binding	0003682	chromatin binding
+Tspyl1	IBA	Chromatin_binding	0003682	chromatin binding
+Tspyl2	IBA	Chromatin_binding	0003682	chromatin binding
+Tspyl3	IBA	Chromatin_binding	0003682	chromatin binding
+Tspyl4	IBA	Chromatin_binding	0003682	chromatin binding
+Tspyl5	IBA	Chromatin_binding	0003682	chromatin binding
+Ttc5	IDA	Chromatin_binding	0003682	chromatin binding
+Ttc21b	IDA	Chromatin_binding	0003682	chromatin binding
+Ttc39aos1	IDA	Chromatin_binding	0003682	chromatin binding
+Ttf1	IBA	Chromatin_binding	0003682	chromatin binding
+Ttf1	IDA	Chromatin_binding	0003682	chromatin binding
+Twist2	IDA	Chromatin_binding	0003682	chromatin binding
+Ube2t	ISO	Chromatin_binding	0003682	chromatin binding
+Ubtf	ISO	Chromatin_binding	0003682	chromatin binding
+Upf1	ISO	Chromatin_binding	0003682	chromatin binding
+Uri1	IBA	Chromatin_binding	0003682	chromatin binding
+Uri1	ISO	Chromatin_binding	0003682	chromatin binding
+Usp3	ISO	Chromatin_binding	0003682	chromatin binding
+Usp51	ISO	Chromatin_binding	0003682	chromatin binding
+Uty	IBA	Chromatin_binding	0003682	chromatin binding
+Uxt	ISO	Chromatin_binding	0003682	chromatin binding
+Vax1	IDA	Chromatin_binding	0003682	chromatin binding
+Vax2	IDA	Chromatin_binding	0003682	chromatin binding
+Wac	IBA	Chromatin_binding	0003682	chromatin binding
+Wac	ISO	Chromatin_binding	0003682	chromatin binding
+Wbp2	IBA	Chromatin_binding	0003682	chromatin binding
+Wbp2	ISO	Chromatin_binding	0003682	chromatin binding
+Wbp2nl	IBA	Chromatin_binding	0003682	chromatin binding
+Wdhd1	IBA	Chromatin_binding	0003682	chromatin binding
+Wdhd1	IDA	Chromatin_binding	0003682	chromatin binding
+Wdr13	IBA	Chromatin_binding	0003682	chromatin binding
+Wdr13	IDA	Chromatin_binding	0003682	chromatin binding
+Wdr82	IBA	Chromatin_binding	0003682	chromatin binding
+Wdr82	IDA	Chromatin_binding	0003682	chromatin binding
+Wrn	ISO	Chromatin_binding	0003682	chromatin binding
+Xbp1	ISO	Chromatin_binding	0003682	chromatin binding
+Yap1	IDA	Chromatin_binding	0003682	chromatin binding
+Ybx1	IDA	Chromatin_binding	0003682	chromatin binding
+Ybx2	IDA	Chromatin_binding	0003682	chromatin binding
+Yy1	IDA	Chromatin_binding	0003682	chromatin binding
+Zc3h4	IDA	Chromatin_binding	0003682	chromatin binding
+Zc3h4	ISO	Chromatin_binding	0003682	chromatin binding
+Zc3h12a	ISO	Chromatin_binding	0003682	chromatin binding
+Zeb1	IDA	Chromatin_binding	0003682	chromatin binding
+Zeb1	ISO	Chromatin_binding	0003682	chromatin binding
+Zfp57	IDA	Chromatin_binding	0003682	chromatin binding
+Zfp57	ISO	Chromatin_binding	0003682	chromatin binding
+Zfp110	ISO	Chromatin_binding	0003682	chromatin binding
+Zfp125	IDA	Chromatin_binding	0003682	chromatin binding
+Zfp143	ISO	Chromatin_binding	0003682	chromatin binding
+Zfp276	IBA	Chromatin_binding	0003682	chromatin binding
+Zfp354b	IDA	Chromatin_binding	0003682	chromatin binding
+Zfp369	ISO	Chromatin_binding	0003682	chromatin binding
+Zfp386	IDA	Chromatin_binding	0003682	chromatin binding
+Zfp445	IDA	Chromatin_binding	0003682	chromatin binding
+Zfp609	IDA	Chromatin_binding	0003682	chromatin binding
+Zfp683	IDA	Chromatin_binding	0003682	chromatin binding
+Zfp692	IBA	Chromatin_binding	0003682	chromatin binding
+Zfp750	IBA	Chromatin_binding	0003682	chromatin binding
+Zfp750	ISO	Chromatin_binding	0003682	chromatin binding
+Zfp932	IDA	Chromatin_binding	0003682	chromatin binding
+Zfx	IBA	Chromatin_binding	0003682	chromatin binding
+Zic2	IDA	Chromatin_binding	0003682	chromatin binding
+Zkscan3	ISO	Chromatin_binding	0003682	chromatin binding
+Znhit1	IDA	Chromatin_binding	0003682	chromatin binding
+Znhit1	IBA	Chromatin_binding	0003682	chromatin binding
+0610010K14Rik	IEA	Chromatin_organization	0006325	chromatin organization
+4930402K13Rik	IBA	Chromatin_organization	0006325	chromatin organization
+4930480E11Rik	IBA	Chromatin_organization	0006325	chromatin organization
+a	IMP	Chromatin_organization	0006325	chromatin organization
+Abraxas1	IEA	Chromatin_organization	0006325	chromatin organization
+Actb	IC	Chromatin_organization	0006325	chromatin organization
+Actl6a	IEA	Chromatin_organization	0006325	chromatin organization
+Actl6a	IC	Chromatin_organization	0006325	chromatin organization
+Actl6a	IDA	Chromatin_organization	0006325	chromatin organization
+Actl6a	ISO	Chromatin_organization	0006325	chromatin organization
+Actl6b	IC	Chromatin_organization	0006325	chromatin organization
+Actl6b	ISO	Chromatin_organization	0006325	chromatin organization
+Actr5	ISO	Chromatin_organization	0006325	chromatin organization
+Actr6	IEA	Chromatin_organization	0006325	chromatin organization
+Actr8	ISO	Chromatin_organization	0006325	chromatin organization
+Aebp2	IEA	Chromatin_organization	0006325	chromatin organization
+Aicda	ISO	Chromatin_organization	0006325	chromatin organization
+Airn	IMP	Chromatin_organization	0006325	chromatin organization
+Alkbh4	IEA	Chromatin_organization	0006325	chromatin organization
+Alkbh4	IDA	Chromatin_organization	0006325	chromatin organization
+Anp32b	ISO	Chromatin_organization	0006325	chromatin organization
+Anp32e	IEA	Chromatin_organization	0006325	chromatin organization
+Apbb1	IEA	Chromatin_organization	0006325	chromatin organization
+Aplf	ISO	Chromatin_organization	0006325	chromatin organization
+Apobec1	IMP	Chromatin_organization	0006325	chromatin organization
+Arid1a	IPI	Chromatin_organization	0006325	chromatin organization
+Arid1a	IC	Chromatin_organization	0006325	chromatin organization
+Arid1a	IMP	Chromatin_organization	0006325	chromatin organization
+Arid1a	ISO	Chromatin_organization	0006325	chromatin organization
+Arid1b	IEA	Chromatin_organization	0006325	chromatin organization
+Arid1b	IC	Chromatin_organization	0006325	chromatin organization
+Arid2	IEA	Chromatin_organization	0006325	chromatin organization
+Arid2	IC	Chromatin_organization	0006325	chromatin organization
+Arid2	ISO	Chromatin_organization	0006325	chromatin organization
+Arid4a	IEA	Chromatin_organization	0006325	chromatin organization
+Arid4a	IGI	Chromatin_organization	0006325	chromatin organization
+Arid4b	IEA	Chromatin_organization	0006325	chromatin organization
+Arid4b	IGI	Chromatin_organization	0006325	chromatin organization
+Asf1a	IBA	Chromatin_organization	0006325	chromatin organization
+Asf1a	ISO	Chromatin_organization	0006325	chromatin organization
+Asf1b	IBA	Chromatin_organization	0006325	chromatin organization
+Asf1b	IDA	Chromatin_organization	0006325	chromatin organization
+Asf1b	ISO	Chromatin_organization	0006325	chromatin organization
+Ash1l	IEA	Chromatin_organization	0006325	chromatin organization
+Ash2l	IEA	Chromatin_organization	0006325	chromatin organization
+Ash2l	NAS	Chromatin_organization	0006325	chromatin organization
+Asxl1	IEA	Chromatin_organization	0006325	chromatin organization
+Atad2	IEA	Chromatin_organization	0006325	chromatin organization
+Atf7ip	IBA	Chromatin_organization	0006325	chromatin organization
+Atf7ip	ISO	Chromatin_organization	0006325	chromatin organization
+Atf7ip2	IBA	Chromatin_organization	0006325	chromatin organization
+Atrx	ISO	Chromatin_organization	0006325	chromatin organization
+Atrx	IBA	Chromatin_organization	0006325	chromatin organization
+Atxn7l3	IEA	Chromatin_organization	0006325	chromatin organization
+Axin1	IMP	Chromatin_organization	0006325	chromatin organization
+Babam1	IEA	Chromatin_organization	0006325	chromatin organization
+Babam2	IEA	Chromatin_organization	0006325	chromatin organization
+Bag6	IEA	Chromatin_organization	0006325	chromatin organization
+Bahd1	IEA	Chromatin_organization	0006325	chromatin organization
+Bahd1	IBA	Chromatin_organization	0006325	chromatin organization
+Bahd1	ISO	Chromatin_organization	0006325	chromatin organization
+Banf1	ISO	Chromatin_organization	0006325	chromatin organization
+Banp	IEA	Chromatin_organization	0006325	chromatin organization
+Bap1	IEA	Chromatin_organization	0006325	chromatin organization
+Baz1a	ISO	Chromatin_organization	0006325	chromatin organization
+Baz1a	TAS	Chromatin_organization	0006325	chromatin organization
+Baz1a	IBA	Chromatin_organization	0006325	chromatin organization
+Baz1b	IDA	Chromatin_organization	0006325	chromatin organization
+Baz1b	IBA	Chromatin_organization	0006325	chromatin organization
+Baz1b	IC	Chromatin_organization	0006325	chromatin organization
+Baz1b	ISO	Chromatin_organization	0006325	chromatin organization
+Baz1b	NAS	Chromatin_organization	0006325	chromatin organization
+Baz2a	IEA	Chromatin_organization	0006325	chromatin organization
+Baz2a	IGI	Chromatin_organization	0006325	chromatin organization
+Baz2a	IDA	Chromatin_organization	0006325	chromatin organization
+Baz2a	IMP	Chromatin_organization	0006325	chromatin organization
+Bcl7a	IC	Chromatin_organization	0006325	chromatin organization
+Bcl7b	IC	Chromatin_organization	0006325	chromatin organization
+Bcl7c	IC	Chromatin_organization	0006325	chromatin organization
+Bcor	IEA	Chromatin_organization	0006325	chromatin organization
+Bcorl1	IEA	Chromatin_organization	0006325	chromatin organization
+Bend3	IEA	Chromatin_organization	0006325	chromatin organization
+Bend3	IBA	Chromatin_organization	0006325	chromatin organization
+Bend3	ISO	Chromatin_organization	0006325	chromatin organization
+Bicra	IC	Chromatin_organization	0006325	chromatin organization
+Bicral	IC	Chromatin_organization	0006325	chromatin organization
+Bmi1	IEA	Chromatin_organization	0006325	chromatin organization
+Bmncr	IMP	Chromatin_organization	0006325	chromatin organization
+Bmyc	ISO	Chromatin_organization	0006325	chromatin organization
+Bptf	ISO	Chromatin_organization	0006325	chromatin organization
+Brca1	IBA	Chromatin_organization	0006325	chromatin organization
+Brca1	IDA	Chromatin_organization	0006325	chromatin organization
+Brca1	IMP	Chromatin_organization	0006325	chromatin organization
+Brcc3	IEA	Chromatin_organization	0006325	chromatin organization
+Brd1	IEA	Chromatin_organization	0006325	chromatin organization
+Brd2	IEA	Chromatin_organization	0006325	chromatin organization
+Brd2	IBA	Chromatin_organization	0006325	chromatin organization
+Brd2	ISO	Chromatin_organization	0006325	chromatin organization
+Brd3	IEA	Chromatin_organization	0006325	chromatin organization
+Brd3	IBA	Chromatin_organization	0006325	chromatin organization
+Brd4	IEA	Chromatin_organization	0006325	chromatin organization
+Brd4	IBA	Chromatin_organization	0006325	chromatin organization
+Brd4	ISO	Chromatin_organization	0006325	chromatin organization
+Brd7	IC	Chromatin_organization	0006325	chromatin organization
+Brd8	IEA	Chromatin_organization	0006325	chromatin organization
+Brd9	IEA	Chromatin_organization	0006325	chromatin organization
+Brd9	IC	Chromatin_organization	0006325	chromatin organization
+Brdt	IEA	Chromatin_organization	0006325	chromatin organization
+Brdt	IBA	Chromatin_organization	0006325	chromatin organization
+Brdt	IDA	Chromatin_organization	0006325	chromatin organization
+Brdt	ISO	Chromatin_organization	0006325	chromatin organization
+Brdt	IMP	Chromatin_organization	0006325	chromatin organization
+Brpf1	IEA	Chromatin_organization	0006325	chromatin organization
+Brpf3	IEA	Chromatin_organization	0006325	chromatin organization
+Bud23	IEA	Chromatin_organization	0006325	chromatin organization
+Cabin1	IBA	Chromatin_organization	0006325	chromatin organization
+Cabin1	ISO	Chromatin_organization	0006325	chromatin organization
+Carm1	IEA	Chromatin_organization	0006325	chromatin organization
+Cbx1	IBA	Chromatin_organization	0006325	chromatin organization
+Cbx2	IEA	Chromatin_organization	0006325	chromatin organization
+Cbx3	IBA	Chromatin_organization	0006325	chromatin organization
+Cbx3	ISO	Chromatin_organization	0006325	chromatin organization
+Cbx4	IEA	Chromatin_organization	0006325	chromatin organization
+Cbx5	IBA	Chromatin_organization	0006325	chromatin organization
+Cbx6	IEA	Chromatin_organization	0006325	chromatin organization
+Cbx7	IEA	Chromatin_organization	0006325	chromatin organization
+Cbx8	IEA	Chromatin_organization	0006325	chromatin organization
+Cbx8	ISS	Chromatin_organization	0006325	chromatin organization
+Cdan1	IBA	Chromatin_organization	0006325	chromatin organization
+Cdan1	ISO	Chromatin_organization	0006325	chromatin organization
+Cdk2	ISO	Chromatin_organization	0006325	chromatin organization
+Cdkn1c	IMP	Chromatin_organization	0006325	chromatin organization
+Cdyl	IDA	Chromatin_organization	0006325	chromatin organization
+Cebpg	TAS	Chromatin_organization	0006325	chromatin organization
+Cecr2	IEA	Chromatin_organization	0006325	chromatin organization
+Cecr2	ISO	Chromatin_organization	0006325	chromatin organization
+Cenpp	IEA	Chromatin_organization	0006325	chromatin organization
+Cenpv	IBA	Chromatin_organization	0006325	chromatin organization
+Cenpv	ISS	Chromatin_organization	0006325	chromatin organization
+Cfdp1	IBA	Chromatin_organization	0006325	chromatin organization
+Cggbp1	ISO	Chromatin_organization	0006325	chromatin organization
+Chaer1	IMP	Chromatin_organization	0006325	chromatin organization
+Chaf1a	ISO	Chromatin_organization	0006325	chromatin organization
+Chaf1a	IBA	Chromatin_organization	0006325	chromatin organization
+Chaf1b	ISO	Chromatin_organization	0006325	chromatin organization
+Chaf1b	IBA	Chromatin_organization	0006325	chromatin organization
+Chd1	NAS	Chromatin_organization	0006325	chromatin organization
+Chd1	IBA	Chromatin_organization	0006325	chromatin organization
+Chd1	IGI	Chromatin_organization	0006325	chromatin organization
+Chd1	ISO	Chromatin_organization	0006325	chromatin organization
+Chd1l	IBA	Chromatin_organization	0006325	chromatin organization
+Chd1l	ISO	Chromatin_organization	0006325	chromatin organization
+Chd2	IEA	Chromatin_organization	0006325	chromatin organization
+Chd2	IBA	Chromatin_organization	0006325	chromatin organization
+Chd3	IDA	Chromatin_organization	0006325	chromatin organization
+Chd3	IBA	Chromatin_organization	0006325	chromatin organization
+Chd3	ISO	Chromatin_organization	0006325	chromatin organization
+Chd4	IEA	Chromatin_organization	0006325	chromatin organization
+Chd4	IBA	Chromatin_organization	0006325	chromatin organization
+Chd4	ISO	Chromatin_organization	0006325	chromatin organization
+Chd5	IEA	Chromatin_organization	0006325	chromatin organization
+Chd5	IBA	Chromatin_organization	0006325	chromatin organization
+Chd5	IMP	Chromatin_organization	0006325	chromatin organization
+Chd6	IEA	Chromatin_organization	0006325	chromatin organization
+Chd6	IBA	Chromatin_organization	0006325	chromatin organization
+Chd7	IEA	Chromatin_organization	0006325	chromatin organization
+Chd7	IBA	Chromatin_organization	0006325	chromatin organization
+Chd7	IMP	Chromatin_organization	0006325	chromatin organization
+Chd8	IEA	Chromatin_organization	0006325	chromatin organization
+Chd8	IBA	Chromatin_organization	0006325	chromatin organization
+Chd8	ISO	Chromatin_organization	0006325	chromatin organization
+Chd9	IEA	Chromatin_organization	0006325	chromatin organization
+Chek1	IMP	Chromatin_organization	0006325	chromatin organization
+Chrac1	ISO	Chromatin_organization	0006325	chromatin organization
+Coprs	IEA	Chromatin_organization	0006325	chromatin organization
+Ctbp1	ISO	Chromatin_organization	0006325	chromatin organization
+Ctcf	ISO	Chromatin_organization	0006325	chromatin organization
+Ctcf	IEA	Chromatin_organization	0006325	chromatin organization
+Ctcf	TAS	Chromatin_organization	0006325	chromatin organization
+Ctcf	IDA	Chromatin_organization	0006325	chromatin organization
+Ctcf	IMP	Chromatin_organization	0006325	chromatin organization
+Ctcfl	IEA	Chromatin_organization	0006325	chromatin organization
+Ctcfl	IBA	Chromatin_organization	0006325	chromatin organization
+Ctcfl	IDA	Chromatin_organization	0006325	chromatin organization
+Ctr9	IMP	Chromatin_organization	0006325	chromatin organization
+Dapk3	IEA	Chromatin_organization	0006325	chromatin organization
+Daxx	IEA	Chromatin_organization	0006325	chromatin organization
+Daxx	ISO	Chromatin_organization	0006325	chromatin organization
+Daxx	IBA	Chromatin_organization	0006325	chromatin organization
+Daxx	IMP	Chromatin_organization	0006325	chromatin organization
+Dcaf1	IEA	Chromatin_organization	0006325	chromatin organization
+Ddx21	IC	Chromatin_organization	0006325	chromatin organization
+Dek	IEA	Chromatin_organization	0006325	chromatin organization
+Dek	IC	Chromatin_organization	0006325	chromatin organization
+Dicer1	IMP	Chromatin_organization	0006325	chromatin organization
+Dmap1	IEA	Chromatin_organization	0006325	chromatin organization
+Dnajc2	IEA	Chromatin_organization	0006325	chromatin organization
+Dnajc9	ISO	Chromatin_organization	0006325	chromatin organization
+Dnmt1	IEA	Chromatin_organization	0006325	chromatin organization
+Dnmt1	IDA	Chromatin_organization	0006325	chromatin organization
+Dnmt1	ISO	Chromatin_organization	0006325	chromatin organization
+Dnmt3a	IEA	Chromatin_organization	0006325	chromatin organization
+Dnmt3a	IDA	Chromatin_organization	0006325	chromatin organization
+Dnmt3a	IGI	Chromatin_organization	0006325	chromatin organization
+Dnmt3a	IMP	Chromatin_organization	0006325	chromatin organization
+Dnmt3b	IGI	Chromatin_organization	0006325	chromatin organization
+Dnmt3b	IMP	Chromatin_organization	0006325	chromatin organization
+Dnmt3l	IMP	Chromatin_organization	0006325	chromatin organization
+Dpf1	IC	Chromatin_organization	0006325	chromatin organization
+Dpf2	IEA	Chromatin_organization	0006325	chromatin organization
+Dpf2	IC	Chromatin_organization	0006325	chromatin organization
+Dpf3	IEA	Chromatin_organization	0006325	chromatin organization
+Dpf3	IC	Chromatin_organization	0006325	chromatin organization
+Dppa3	IEA	Chromatin_organization	0006325	chromatin organization
+Dppa3	IBA	Chromatin_organization	0006325	chromatin organization
+Dppa3	IMP	Chromatin_organization	0006325	chromatin organization
+Dpy30	IEA	Chromatin_organization	0006325	chromatin organization
+Dr1	IBA	Chromatin_organization	0006325	chromatin organization
+Dtx3l	IEA	Chromatin_organization	0006325	chromatin organization
+Dyrk1a	ISO	Chromatin_organization	0006325	chromatin organization
+Eed	IEA	Chromatin_organization	0006325	chromatin organization
+Eed	IDA	Chromatin_organization	0006325	chromatin organization
+Eed	IMP	Chromatin_organization	0006325	chromatin organization
+Ehmt1	ISO	Chromatin_organization	0006325	chromatin organization
+Ehmt1	IDA	Chromatin_organization	0006325	chromatin organization
+Ehmt2	IEA	Chromatin_organization	0006325	chromatin organization
+Eif1	IMP	Chromatin_organization	0006325	chromatin organization
+Emsy	IEA	Chromatin_organization	0006325	chromatin organization
+Eny2	IEA	Chromatin_organization	0006325	chromatin organization
+Eomes	IMP	Chromatin_organization	0006325	chromatin organization
+Ep300	ISO	Chromatin_organization	0006325	chromatin organization
+Ep400	IEA	Chromatin_organization	0006325	chromatin organization
+Epc1	IEA	Chromatin_organization	0006325	chromatin organization
+Epc1	ISO	Chromatin_organization	0006325	chromatin organization
+Epc1	IC	Chromatin_organization	0006325	chromatin organization
+Epc2	IEA	Chromatin_organization	0006325	chromatin organization
+Epop	IEA	Chromatin_organization	0006325	chromatin organization
+Ercc6	IC	Chromatin_organization	0006325	chromatin organization
+Exosc10	IMP	Chromatin_organization	0006325	chromatin organization
+Eya1	IEA	Chromatin_organization	0006325	chromatin organization
+Eya2	IEA	Chromatin_organization	0006325	chromatin organization
+Eya3	IEA	Chromatin_organization	0006325	chromatin organization
+Eya4	IEA	Chromatin_organization	0006325	chromatin organization
+Ezh1	IEA	Chromatin_organization	0006325	chromatin organization
+Ezh1	IDA	Chromatin_organization	0006325	chromatin organization
+Ezh1	IBA	Chromatin_organization	0006325	chromatin organization
+Ezh1	IGI	Chromatin_organization	0006325	chromatin organization
+Ezh2	IEA	Chromatin_organization	0006325	chromatin organization
+Ezh2	IDA	Chromatin_organization	0006325	chromatin organization
+Ezh2	IBA	Chromatin_organization	0006325	chromatin organization
+Ezh2	ISO	Chromatin_organization	0006325	chromatin organization
+Fam47c	IBA	Chromatin_organization	0006325	chromatin organization
+Fam47e	IBA	Chromatin_organization	0006325	chromatin organization
+Fam50a	IBA	Chromatin_organization	0006325	chromatin organization
+Fam50b	IBA	Chromatin_organization	0006325	chromatin organization
+Fam172a	IBA	Chromatin_organization	0006325	chromatin organization
+Flicr	IMP	Chromatin_organization	0006325	chromatin organization
+Foxa1	IEA	Chromatin_organization	0006325	chromatin organization
+Foxa1	IDA	Chromatin_organization	0006325	chromatin organization
+Foxa2	IEA	Chromatin_organization	0006325	chromatin organization
+Foxa3	IEA	Chromatin_organization	0006325	chromatin organization
+Fshr	IMP	Chromatin_organization	0006325	chromatin organization
+Ftx	IMP	Chromatin_organization	0006325	chromatin organization
+Gata3	IDA	Chromatin_organization	0006325	chromatin organization
+Gata3	IMP	Chromatin_organization	0006325	chromatin organization
+Gatad1	IBA	Chromatin_organization	0006325	chromatin organization
+Gatad1	ISO	Chromatin_organization	0006325	chromatin organization
+Gatad2a	ISO	Chromatin_organization	0006325	chromatin organization
+Gatad2b	ISO	Chromatin_organization	0006325	chromatin organization
+Glmn	ISO	Chromatin_organization	0006325	chromatin organization
+Gm20379	IBA	Chromatin_organization	0006325	chromatin organization
+Gnas	IMP	Chromatin_organization	0006325	chromatin organization
+Gnasas1	IMP	Chromatin_organization	0006325	chromatin organization
+Gpx1	ISO	Chromatin_organization	0006325	chromatin organization
+Gpx4	IDA	Chromatin_organization	0006325	chromatin organization
+Grwd1	ISO	Chromatin_organization	0006325	chromatin organization
+Gsk3a	IMP	Chromatin_organization	0006325	chromatin organization
+Gsk3b	IMP	Chromatin_organization	0006325	chromatin organization
+H1f0	ISO	Chromatin_organization	0006325	chromatin organization
+H1f0	IEA	Chromatin_organization	0006325	chromatin organization
+H1f1	IEA	Chromatin_organization	0006325	chromatin organization
+H1f2	IMP	Chromatin_organization	0006325	chromatin organization
+H1f2	IEA	Chromatin_organization	0006325	chromatin organization
+H1f3	IMP	Chromatin_organization	0006325	chromatin organization
+H1f3	IEA	Chromatin_organization	0006325	chromatin organization
+H1f4	IMP	Chromatin_organization	0006325	chromatin organization
+H1f4	IEA	Chromatin_organization	0006325	chromatin organization
+H1f5	ISO	Chromatin_organization	0006325	chromatin organization
+H1f5	IEA	Chromatin_organization	0006325	chromatin organization
+H1f6	IEA	Chromatin_organization	0006325	chromatin organization
+H1f7	IMP	Chromatin_organization	0006325	chromatin organization
+H1f8	IMP	Chromatin_organization	0006325	chromatin organization
+H1f8	ISA	Chromatin_organization	0006325	chromatin organization
+H1f9	IEA	Chromatin_organization	0006325	chromatin organization
+H1f9	ISO	Chromatin_organization	0006325	chromatin organization
+H2ac1	IDA	Chromatin_organization	0006325	chromatin organization
+H2ac25	ISO	Chromatin_organization	0006325	chromatin organization
+H2al2a	IDA	Chromatin_organization	0006325	chromatin organization
+H2bc1	IDA	Chromatin_organization	0006325	chromatin organization
+H2bc1	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc1	IMP	Chromatin_organization	0006325	chromatin organization
+H2bc1	ISO	Chromatin_organization	0006325	chromatin organization
+H2bc3	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc4	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc7	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc9	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc12	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc14	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc18	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc21	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc22	IBA	Chromatin_organization	0006325	chromatin organization
+H2bc27	IBA	Chromatin_organization	0006325	chromatin organization
+H2bl1	IBA	Chromatin_organization	0006325	chromatin organization
+H2bw2	IBA	Chromatin_organization	0006325	chromatin organization
+H3c2	ISO	Chromatin_organization	0006325	chromatin organization
+H3c3	ISO	Chromatin_organization	0006325	chromatin organization
+H3c4	ISO	Chromatin_organization	0006325	chromatin organization
+H3c6	ISO	Chromatin_organization	0006325	chromatin organization
+H3c7	ISO	Chromatin_organization	0006325	chromatin organization
+H3c13	ISO	Chromatin_organization	0006325	chromatin organization
+H3c14	ISO	Chromatin_organization	0006325	chromatin organization
+H3c15	ISO	Chromatin_organization	0006325	chromatin organization
+H3f3a	IGI	Chromatin_organization	0006325	chromatin organization
+H3f3b	IGI	Chromatin_organization	0006325	chromatin organization
+H3f3c	ISO	Chromatin_organization	0006325	chromatin organization
+H4c14	IBA	Chromatin_organization	0006325	chromatin organization
+H19	IMP	Chromatin_organization	0006325	chromatin organization
+Haspin	IEA	Chromatin_organization	0006325	chromatin organization
+Hat1	IEA	Chromatin_organization	0006325	chromatin organization
+Hat1	ISO	Chromatin_organization	0006325	chromatin organization
+Hcfc1	IEA	Chromatin_organization	0006325	chromatin organization
+Hcfc1	IBA	Chromatin_organization	0006325	chromatin organization
+Hcfc1	IDA	Chromatin_organization	0006325	chromatin organization
+Hcfc2	IBA	Chromatin_organization	0006325	chromatin organization
+Hdac1	TAS	Chromatin_organization	0006325	chromatin organization
+Hdac1	ISO	Chromatin_organization	0006325	chromatin organization
+Hdac2	TAS	Chromatin_organization	0006325	chromatin organization
+Hdac2	ISO	Chromatin_organization	0006325	chromatin organization
+Hdac3	TAS	Chromatin_organization	0006325	chromatin organization
+Hdac4	IEA	Chromatin_organization	0006325	chromatin organization
+Hdac4	ISO	Chromatin_organization	0006325	chromatin organization
+Hdac5	TAS	Chromatin_organization	0006325	chromatin organization
+Hdac5	ISO	Chromatin_organization	0006325	chromatin organization
+Hdac6	IEA	Chromatin_organization	0006325	chromatin organization
+Hdac6	ISO	Chromatin_organization	0006325	chromatin organization
+Hdac7	TAS	Chromatin_organization	0006325	chromatin organization
+Hdac8	TAS	Chromatin_organization	0006325	chromatin organization
+Hdac9	TAS	Chromatin_organization	0006325	chromatin organization
+Hdac11	TAS	Chromatin_organization	0006325	chromatin organization
+Hells	IBA	Chromatin_organization	0006325	chromatin organization
+Hells	IMP	Chromatin_organization	0006325	chromatin organization
+Hira	IBA	Chromatin_organization	0006325	chromatin organization
+Hira	ISO	Chromatin_organization	0006325	chromatin organization
+Hjurp	IBA	Chromatin_organization	0006325	chromatin organization
+Hjurp	ISO	Chromatin_organization	0006325	chromatin organization
+Hltf	IEA	Chromatin_organization	0006325	chromatin organization
+Hmg20a	IEA	Chromatin_organization	0006325	chromatin organization
+Hmg20b	NAS	Chromatin_organization	0006325	chromatin organization
+Hmg20b	TAS	Chromatin_organization	0006325	chromatin organization
+Hmga2	ISO	Chromatin_organization	0006325	chromatin organization
+Hmgb1	IDA	Chromatin_organization	0006325	chromatin organization
+Hmgb1	ISO	Chromatin_organization	0006325	chromatin organization
+Hmgn1	IBA	Chromatin_organization	0006325	chromatin organization
+Hmgn1	IMP	Chromatin_organization	0006325	chromatin organization
+Hmgn2	IBA	Chromatin_organization	0006325	chromatin organization
+Hmgn3	IBA	Chromatin_organization	0006325	chromatin organization
+Hmgn5	IMP	Chromatin_organization	0006325	chromatin organization
+Hnf1a	IMP	Chromatin_organization	0006325	chromatin organization
+Hnrnpu	IEA	Chromatin_organization	0006325	chromatin organization
+Hnrnpu	IMP	Chromatin_organization	0006325	chromatin organization
+Hnrnpu	IBA	Chromatin_organization	0006325	chromatin organization
+Hnrnpu	ISO	Chromatin_organization	0006325	chromatin organization
+Hotair	IMP	Chromatin_organization	0006325	chromatin organization
+Hp1bp3	IBA	Chromatin_organization	0006325	chromatin organization
+Hp1bp3	ISO	Chromatin_organization	0006325	chromatin organization
+Hp1bp3	IEA	Chromatin_organization	0006325	chromatin organization
+Hymai	IMP	Chromatin_organization	0006325	chromatin organization
+Ifi203	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi204	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi205	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi206	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi207	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi208	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi209	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi211	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi213	ISO	Chromatin_organization	0006325	chromatin organization
+Ifi214	ISO	Chromatin_organization	0006325	chromatin organization
+Ikzf1	IEA	Chromatin_organization	0006325	chromatin organization
+Ing2	IEA	Chromatin_organization	0006325	chromatin organization
+Ing3	IEA	Chromatin_organization	0006325	chromatin organization
+Ing3	IC	Chromatin_organization	0006325	chromatin organization
+Ing4	IEA	Chromatin_organization	0006325	chromatin organization
+Ing5	IEA	Chromatin_organization	0006325	chromatin organization
+Ino80	ISO	Chromatin_organization	0006325	chromatin organization
+Ino80b	ISO	Chromatin_organization	0006325	chromatin organization
+Ino80c	IBA	Chromatin_organization	0006325	chromatin organization
+Ino80c	ISO	Chromatin_organization	0006325	chromatin organization
+Ino80d	ISO	Chromatin_organization	0006325	chromatin organization
+Ino80e	ISO	Chromatin_organization	0006325	chromatin organization
+Itgb3bp	IEA	Chromatin_organization	0006325	chromatin organization
+Jak2	IEA	Chromatin_organization	0006325	chromatin organization
+Jarid2	IEA	Chromatin_organization	0006325	chromatin organization
+Jarid2	IBA	Chromatin_organization	0006325	chromatin organization
+Jarid2	IMP	Chromatin_organization	0006325	chromatin organization
+Jarid2	IDA	Chromatin_organization	0006325	chromatin organization
+Jmjd1c	IEA	Chromatin_organization	0006325	chromatin organization
+Jmjd6	IEA	Chromatin_organization	0006325	chromatin organization
+Jpx	IMP	Chromatin_organization	0006325	chromatin organization
+Kansl1	IEA	Chromatin_organization	0006325	chromatin organization
+Kansl1	IDA	Chromatin_organization	0006325	chromatin organization
+Kansl2	IEA	Chromatin_organization	0006325	chromatin organization
+Kansl2	IDA	Chromatin_organization	0006325	chromatin organization
+Kansl3	IEA	Chromatin_organization	0006325	chromatin organization
+Kansl3	IDA	Chromatin_organization	0006325	chromatin organization
+Kat2a	IBA	Chromatin_organization	0006325	chromatin organization
+Kat2b	IBA	Chromatin_organization	0006325	chromatin organization
+Kat2b	ISO	Chromatin_organization	0006325	chromatin organization
+Kat5	IEA	Chromatin_organization	0006325	chromatin organization
+Kat5	IC	Chromatin_organization	0006325	chromatin organization
+Kat5	IMP	Chromatin_organization	0006325	chromatin organization
+Kat6a	IEA	Chromatin_organization	0006325	chromatin organization
+Kat6b	IEA	Chromatin_organization	0006325	chromatin organization
+Kat7	IEA	Chromatin_organization	0006325	chromatin organization
+Kat7	ISO	Chromatin_organization	0006325	chromatin organization
+Kat8	IEA	Chromatin_organization	0006325	chromatin organization
+Kat8	IDA	Chromatin_organization	0006325	chromatin organization
+Kcnq1	IMP	Chromatin_organization	0006325	chromatin organization
+Kcnq1ot1	IDA	Chromatin_organization	0006325	chromatin organization
+Kcnq1ot1	IMP	Chromatin_organization	0006325	chromatin organization
+Kdm1a	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm1a	ISO	Chromatin_organization	0006325	chromatin organization
+Kdm1b	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm1b	IMP	Chromatin_organization	0006325	chromatin organization
+Kdm2a	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm2b	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm3a	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm3b	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm4a	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm4a	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm4b	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm4b	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm4c	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm4c	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm4d	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm4d	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm5a	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm5a	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm5a	IDA	Chromatin_organization	0006325	chromatin organization
+Kdm5b	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm5b	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm5c	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm5c	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm5d	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm5d	IBA	Chromatin_organization	0006325	chromatin organization
+Kdm6a	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm6a	IMP	Chromatin_organization	0006325	chromatin organization
+Kdm6b	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm6b	IMP	Chromatin_organization	0006325	chromatin organization
+Kdm7a	IEA	Chromatin_organization	0006325	chromatin organization
+Kdm8	IEA	Chromatin_organization	0006325	chromatin organization
+Klf1	IDA	Chromatin_organization	0006325	chromatin organization
+Klf2	IGI	Chromatin_organization	0006325	chromatin organization
+Kmt2a	IEA	Chromatin_organization	0006325	chromatin organization
+Kmt2b	IEA	Chromatin_organization	0006325	chromatin organization
+Kmt2b	IMP	Chromatin_organization	0006325	chromatin organization
+Kmt2c	IEA	Chromatin_organization	0006325	chromatin organization
+Kmt2d	IEA	Chromatin_organization	0006325	chromatin organization
+Kmt2d	IMP	Chromatin_organization	0006325	chromatin organization
+Kmt2e	IEA	Chromatin_organization	0006325	chromatin organization
+Kmt5a	IEA	Chromatin_organization	0006325	chromatin organization
+Kmt5b	IEA	Chromatin_organization	0006325	chromatin organization
+Kmt5c	IEA	Chromatin_organization	0006325	chromatin organization
+L3mbtl1	ISO	Chromatin_organization	0006325	chromatin organization
+L3mbtl1	NAS	Chromatin_organization	0006325	chromatin organization
+L3mbtl2	IEA	Chromatin_organization	0006325	chromatin organization
+L3mbtl3	IEA	Chromatin_organization	0006325	chromatin organization
+L3mbtl3	ISO	Chromatin_organization	0006325	chromatin organization
+L3mbtl4	IEA	Chromatin_organization	0006325	chromatin organization
+Lamc1	IMP	Chromatin_organization	0006325	chromatin organization
+Lhx2	IMP	Chromatin_organization	0006325	chromatin organization
+Lin54	ISO	Chromatin_organization	0006325	chromatin organization
+Lmna	IBA	Chromatin_organization	0006325	chromatin organization
+Lmnb1	IBA	Chromatin_organization	0006325	chromatin organization
+Lmnb2	IBA	Chromatin_organization	0006325	chromatin organization
+Lmntd2	IBA	Chromatin_organization	0006325	chromatin organization
+Loxl2	IEA	Chromatin_organization	0006325	chromatin organization
+Loxl2	ISO	Chromatin_organization	0006325	chromatin organization
+Lrif1	ISO	Chromatin_organization	0006325	chromatin organization
+Lrwd1	IBA	Chromatin_organization	0006325	chromatin organization
+Lrwd1	ISO	Chromatin_organization	0006325	chromatin organization
+Lsm11	ISO	Chromatin_organization	0006325	chromatin organization
+M1ap	NAS	Chromatin_organization	0006325	chromatin organization
+Macroh2a1	IEA	Chromatin_organization	0006325	chromatin organization
+Macroh2a1	ISO	Chromatin_organization	0006325	chromatin organization
+Macroh2a2	IEA	Chromatin_organization	0006325	chromatin organization
+Macroh2a2	ISO	Chromatin_organization	0006325	chromatin organization
+Mbd2	ISO	Chromatin_organization	0006325	chromatin organization
+Mbd3	ISO	Chromatin_organization	0006325	chromatin organization
+Mbd3	IDA	Chromatin_organization	0006325	chromatin organization
+Mbtd1	IEA	Chromatin_organization	0006325	chromatin organization
+Mcm2	IDA	Chromatin_organization	0006325	chromatin organization
+Mcm3ap	ISO	Chromatin_organization	0006325	chromatin organization
+Mcrs1	IEA	Chromatin_organization	0006325	chromatin organization
+Mcrs1	ISO	Chromatin_organization	0006325	chromatin organization
+Mcrs1	IDA	Chromatin_organization	0006325	chromatin organization
+Meaf6	IEA	Chromatin_organization	0006325	chromatin organization
+Mecom	IMP	Chromatin_organization	0006325	chromatin organization
+Mecp2	IMP	Chromatin_organization	0006325	chromatin organization
+Mecp2	ISO	Chromatin_organization	0006325	chromatin organization
+Meg3	IDA	Chromatin_organization	0006325	chromatin organization
+Meg3	IMP	Chromatin_organization	0006325	chromatin organization
+Men1	IEA	Chromatin_organization	0006325	chromatin organization
+Men1	IGI	Chromatin_organization	0006325	chromatin organization
+Men1	IMP	Chromatin_organization	0006325	chromatin organization
+Mettl3	ISO	Chromatin_organization	0006325	chromatin organization
+Mettl4	IEA	Chromatin_organization	0006325	chromatin organization
+Mettl4	IDA	Chromatin_organization	0006325	chromatin organization
+Mettl23	IEA	Chromatin_organization	0006325	chromatin organization
+Mexis	IMP	Chromatin_organization	0006325	chromatin organization
+Mhrt	IDA	Chromatin_organization	0006325	chromatin organization
+Mier1	ISO	Chromatin_organization	0006325	chromatin organization
+Mir127	IDA	Chromatin_organization	0006325	chromatin organization
+Mir127	IMP	Chromatin_organization	0006325	chromatin organization
+Mir136	IDA	Chromatin_organization	0006325	chromatin organization
+Mir744	IDA	Chromatin_organization	0006325	chromatin organization
+Mis18a	IBA	Chromatin_organization	0006325	chromatin organization
+Mis18a	IMP	Chromatin_organization	0006325	chromatin organization
+Mki67	IMP	Chromatin_organization	0006325	chromatin organization
+Mllt1	IBA	Chromatin_organization	0006325	chromatin organization
+Mllt3	IBA	Chromatin_organization	0006325	chromatin organization
+Mllt3	ISO	Chromatin_organization	0006325	chromatin organization
+Mms22l	IEA	Chromatin_organization	0006325	chromatin organization
+Mndal	ISO	Chromatin_organization	0006325	chromatin organization
+Morc1	IMP	Chromatin_organization	0006325	chromatin organization
+Morc2a	ISO	Chromatin_organization	0006325	chromatin organization
+Morc2a	IMP	Chromatin_organization	0006325	chromatin organization
+Morc2b	ISO	Chromatin_organization	0006325	chromatin organization
+Morf4l1	IEA	Chromatin_organization	0006325	chromatin organization
+Morf4l1	TAS	Chromatin_organization	0006325	chromatin organization
+Morf4l2	IEA	Chromatin_organization	0006325	chromatin organization
+Mos	IMP	Chromatin_organization	0006325	chromatin organization
+Mphosph8	ISO	Chromatin_organization	0006325	chromatin organization
+Mpnd	IBA	Chromatin_organization	0006325	chromatin organization
+Mrgbp	IEA	Chromatin_organization	0006325	chromatin organization
+Msl1	IEA	Chromatin_organization	0006325	chromatin organization
+Msl1	IDA	Chromatin_organization	0006325	chromatin organization
+Msl2	IDA	Chromatin_organization	0006325	chromatin organization
+Msl3	IEA	Chromatin_organization	0006325	chromatin organization
+Msl3	IDA	Chromatin_organization	0006325	chromatin organization
+Mta1	ISO	Chromatin_organization	0006325	chromatin organization
+Mta2	ISO	Chromatin_organization	0006325	chromatin organization
+Mta2	TAS	Chromatin_organization	0006325	chromatin organization
+Mta3	ISO	Chromatin_organization	0006325	chromatin organization
+Mtf2	IBA	Chromatin_organization	0006325	chromatin organization
+Mthfr	ISO	Chromatin_organization	0006325	chromatin organization
+Myb	ISO	Chromatin_organization	0006325	chromatin organization
+Mybbp1a	IC	Chromatin_organization	0006325	chromatin organization
+Myc	ISO	Chromatin_organization	0006325	chromatin organization
+Myo1c	IC	Chromatin_organization	0006325	chromatin organization
+Mysm1	IEA	Chromatin_organization	0006325	chromatin organization
+Mysm1	IBA	Chromatin_organization	0006325	chromatin organization
+Mysm1	ISO	Chromatin_organization	0006325	chromatin organization
+N6amt1	IEA	Chromatin_organization	0006325	chromatin organization
+Naa60	IEA	Chromatin_organization	0006325	chromatin organization
+Naa60	ISO	Chromatin_organization	0006325	chromatin organization
+Nap1l1	IBA	Chromatin_organization	0006325	chromatin organization
+Nap1l2	IBA	Chromatin_organization	0006325	chromatin organization
+Nap1l3	IBA	Chromatin_organization	0006325	chromatin organization
+Nap1l4	IBA	Chromatin_organization	0006325	chromatin organization
+Nap1l4	IDA	Chromatin_organization	0006325	chromatin organization
+Nap1l4	ISO	Chromatin_organization	0006325	chromatin organization
+Nap1l5	IEA	Chromatin_organization	0006325	chromatin organization
+Nasp	IBA	Chromatin_organization	0006325	chromatin organization
+Nasp	IDA	Chromatin_organization	0006325	chromatin organization
+Nasp	ISO	Chromatin_organization	0006325	chromatin organization
+Ncor1	IEA	Chromatin_organization	0006325	chromatin organization
+Ndn	IMP	Chromatin_organization	0006325	chromatin organization
+Nfrkb	ISO	Chromatin_organization	0006325	chromatin organization
+Noc2l	ISO	Chromatin_organization	0006325	chromatin organization
+Npm1	IBA	Chromatin_organization	0006325	chromatin organization
+Npm1	ISO	Chromatin_organization	0006325	chromatin organization
+Npm2	IEA	Chromatin_organization	0006325	chromatin organization
+Npm2	IBA	Chromatin_organization	0006325	chromatin organization
+Npm2	IMP	Chromatin_organization	0006325	chromatin organization
+Npm2	ISO	Chromatin_organization	0006325	chromatin organization
+Npm3	IBA	Chromatin_organization	0006325	chromatin organization
+Nr3c1	IEA	Chromatin_organization	0006325	chromatin organization
+Nr3c1	ISO	Chromatin_organization	0006325	chromatin organization
+Nsd1	IEA	Chromatin_organization	0006325	chromatin organization
+Nsd2	IEA	Chromatin_organization	0006325	chromatin organization
+Nsd3	IEA	Chromatin_organization	0006325	chromatin organization
+Nucks1	IMP	Chromatin_organization	0006325	chromatin organization
+Nudt5	ISO	Chromatin_organization	0006325	chromatin organization
+Ogt	IEA	Chromatin_organization	0006325	chromatin organization
+Ogt	IDA	Chromatin_organization	0006325	chromatin organization
+Oip5	IBA	Chromatin_organization	0006325	chromatin organization
+Pabpc1l	IDA	Chromatin_organization	0006325	chromatin organization
+Pabpc1l	IMP	Chromatin_organization	0006325	chromatin organization
+Padi2	ISO	Chromatin_organization	0006325	chromatin organization
+Padi4	IMP	Chromatin_organization	0006325	chromatin organization
+Pak1	ISO	Chromatin_organization	0006325	chromatin organization
+Parp10	ISO	Chromatin_organization	0006325	chromatin organization
+Pax6	IMP	Chromatin_organization	0006325	chromatin organization
+Pax7	IMP	Chromatin_organization	0006325	chromatin organization
+Pbrm1	IEA	Chromatin_organization	0006325	chromatin organization
+Pbrm1	IC	Chromatin_organization	0006325	chromatin organization
+Pcgf3	IMP	Chromatin_organization	0006325	chromatin organization
+Pcgf5	IBA	Chromatin_organization	0006325	chromatin organization
+Pcgf5	IMP	Chromatin_organization	0006325	chromatin organization
+Phf1	IBA	Chromatin_organization	0006325	chromatin organization
+Phf2	IEA	Chromatin_organization	0006325	chromatin organization
+Phf2	ISO	Chromatin_organization	0006325	chromatin organization
+Phf2	IMP	Chromatin_organization	0006325	chromatin organization
+Phf8	IEA	Chromatin_organization	0006325	chromatin organization
+Phf8	ISO	Chromatin_organization	0006325	chromatin organization
+Phf10	IC	Chromatin_organization	0006325	chromatin organization
+Phf13	IEA	Chromatin_organization	0006325	chromatin organization
+Phf19	IBA	Chromatin_organization	0006325	chromatin organization
+Phf20	IEA	Chromatin_organization	0006325	chromatin organization
+Phf20	IDA	Chromatin_organization	0006325	chromatin organization
+Phf21a	IEA	Chromatin_organization	0006325	chromatin organization
+Pih1d1	ISO	Chromatin_organization	0006325	chromatin organization
+Pik3ca	IDA	Chromatin_organization	0006325	chromatin organization
+Piwil1	IMP	Chromatin_organization	0006325	chromatin organization
+Pkn1	IEA	Chromatin_organization	0006325	chromatin organization
+Pole3	ISO	Chromatin_organization	0006325	chromatin organization
+Pole3	IBA	Chromatin_organization	0006325	chromatin organization
+Pphln1	IBA	Chromatin_organization	0006325	chromatin organization
+Pphln1	ISO	Chromatin_organization	0006325	chromatin organization
+Ppm1d	IDA	Chromatin_organization	0006325	chromatin organization
+Ppm1d	IBA	Chromatin_organization	0006325	chromatin organization
+Ppm1d	ISO	Chromatin_organization	0006325	chromatin organization
+Prdm5	IEA	Chromatin_organization	0006325	chromatin organization
+Prdm6	IEA	Chromatin_organization	0006325	chromatin organization
+Prdm9	IEA	Chromatin_organization	0006325	chromatin organization
+Prdm14	IGI	Chromatin_organization	0006325	chromatin organization
+Prdm14	IMP	Chromatin_organization	0006325	chromatin organization
+Prdm16	IMP	Chromatin_organization	0006325	chromatin organization
+Prkaa1	IEA	Chromatin_organization	0006325	chromatin organization
+Prkaa2	IEA	Chromatin_organization	0006325	chromatin organization
+Prkcb	IEA	Chromatin_organization	0006325	chromatin organization
+Prm1	IEA	Chromatin_organization	0006325	chromatin organization
+Prmt5	IEA	Chromatin_organization	0006325	chromatin organization
+Prmt6	IEA	Chromatin_organization	0006325	chromatin organization
+Prmt7	IEA	Chromatin_organization	0006325	chromatin organization
+Prmt7	IDA	Chromatin_organization	0006325	chromatin organization
+Psme4	IBA	Chromatin_organization	0006325	chromatin organization
+Psme4	IMP	Chromatin_organization	0006325	chromatin organization
+Pwwp3a	IBA	Chromatin_organization	0006325	chromatin organization
+Pwwp3a	ISO	Chromatin_organization	0006325	chromatin organization
+Rad21	IMP	Chromatin_organization	0006325	chromatin organization
+Rag1	IEA	Chromatin_organization	0006325	chromatin organization
+Rag2	IEA	Chromatin_organization	0006325	chromatin organization
+Rb1	IEA	Chromatin_organization	0006325	chromatin organization
+Rb1	ISO	Chromatin_organization	0006325	chromatin organization
+Rbbp4	IEA	Chromatin_organization	0006325	chromatin organization
+Rbbp4	IBA	Chromatin_organization	0006325	chromatin organization
+Rbbp4	ISO	Chromatin_organization	0006325	chromatin organization
+Rbbp4	TAS	Chromatin_organization	0006325	chromatin organization
+Rbbp5	IEA	Chromatin_organization	0006325	chromatin organization
+Rbbp7	IEA	Chromatin_organization	0006325	chromatin organization
+Rbbp7	IBA	Chromatin_organization	0006325	chromatin organization
+Rbbp7	ISO	Chromatin_organization	0006325	chromatin organization
+Rbbp7	TAS	Chromatin_organization	0006325	chromatin organization
+Rbl1	IEA	Chromatin_organization	0006325	chromatin organization
+Rbl2	IEA	Chromatin_organization	0006325	chromatin organization
+Rbm15	ISO	Chromatin_organization	0006325	chromatin organization
+Rbm15b	ISO	Chromatin_organization	0006325	chromatin organization
+Rcbtb1	IEA	Chromatin_organization	0006325	chromatin organization
+Rccd1	IEA	Chromatin_organization	0006325	chromatin organization
+Rcor1	IEA	Chromatin_organization	0006325	chromatin organization
+Rela	IMP	Chromatin_organization	0006325	chromatin organization
+Rere	IPI	Chromatin_organization	0006325	chromatin organization
+Resf1	IBA	Chromatin_organization	0006325	chromatin organization
+Resf1	IMP	Chromatin_organization	0006325	chromatin organization
+Rif1	IDA	Chromatin_organization	0006325	chromatin organization
+Rif1	IMP	Chromatin_organization	0006325	chromatin organization
+Ring1	IEA	Chromatin_organization	0006325	chromatin organization
+Riox1	IEA	Chromatin_organization	0006325	chromatin organization
+Riox1	TAS	Chromatin_organization	0006325	chromatin organization
+Rlim	IBA	Chromatin_organization	0006325	chromatin organization
+Rlim	IDA	Chromatin_organization	0006325	chromatin organization
+Rlim	ISO	Chromatin_organization	0006325	chromatin organization
+Rlim	IMP	Chromatin_organization	0006325	chromatin organization
+Rnf8	IEA	Chromatin_organization	0006325	chromatin organization
+Rnf8	IDA	Chromatin_organization	0006325	chromatin organization
+Rnf8	IMP	Chromatin_organization	0006325	chromatin organization
+Rnf20	IEA	Chromatin_organization	0006325	chromatin organization
+Rnf40	IEA	Chromatin_organization	0006325	chromatin organization
+Rnf168	IEA	Chromatin_organization	0006325	chromatin organization
+Rrp8	IEA	Chromatin_organization	0006325	chromatin organization
+Rrp8	IBA	Chromatin_organization	0006325	chromatin organization
+Rrp8	ISO	Chromatin_organization	0006325	chromatin organization
+Rsbn1	IEA	Chromatin_organization	0006325	chromatin organization
+Rsf1	ISO	Chromatin_organization	0006325	chromatin organization
+Ruvbl1	IEA	Chromatin_organization	0006325	chromatin organization
+Ruvbl1	IBA	Chromatin_organization	0006325	chromatin organization
+Ruvbl1	ISO	Chromatin_organization	0006325	chromatin organization
+Ruvbl2	IEA	Chromatin_organization	0006325	chromatin organization
+Ruvbl2	IBA	Chromatin_organization	0006325	chromatin organization
+Ruvbl2	ISO	Chromatin_organization	0006325	chromatin organization
+Samd1	IEA	Chromatin_organization	0006325	chromatin organization
+Samd1	ISO	Chromatin_organization	0006325	chromatin organization
+Sart3	ISO	Chromatin_organization	0006325	chromatin organization
+Satb1	IDA	Chromatin_organization	0006325	chromatin organization
+Satb1	IBA	Chromatin_organization	0006325	chromatin organization
+Satb1	IMP	Chromatin_organization	0006325	chromatin organization
+Satb2	IEA	Chromatin_organization	0006325	chromatin organization
+Satb2	IBA	Chromatin_organization	0006325	chromatin organization
+Satb2	IDA	Chromatin_organization	0006325	chromatin organization
+Scmh1	IMP	Chromatin_organization	0006325	chromatin organization
+Selenof	ISO	Chromatin_organization	0006325	chromatin organization
+Set	IEA	Chromatin_organization	0006325	chromatin organization
+Setd1a	IEA	Chromatin_organization	0006325	chromatin organization
+Setd1a	IDA	Chromatin_organization	0006325	chromatin organization
+Setd1a	ISO	Chromatin_organization	0006325	chromatin organization
+Setd1a	NAS	Chromatin_organization	0006325	chromatin organization
+Setd1b	IEA	Chromatin_organization	0006325	chromatin organization
+Setd2	IEA	Chromatin_organization	0006325	chromatin organization
+Setd2	ISO	Chromatin_organization	0006325	chromatin organization
+Setd5	IEA	Chromatin_organization	0006325	chromatin organization
+Setd5	IMP	Chromatin_organization	0006325	chromatin organization
+Setd7	IEA	Chromatin_organization	0006325	chromatin organization
+Setd7	IBA	Chromatin_organization	0006325	chromatin organization
+Setd7	IMP	Chromatin_organization	0006325	chromatin organization
+Setd7	ISO	Chromatin_organization	0006325	chromatin organization
+Setdb1	IEA	Chromatin_organization	0006325	chromatin organization
+Setdb1	IBA	Chromatin_organization	0006325	chromatin organization
+Setdb1	IMP	Chromatin_organization	0006325	chromatin organization
+Setdb1	ISO	Chromatin_organization	0006325	chromatin organization
+Setdb2	IEA	Chromatin_organization	0006325	chromatin organization
+Setdb2	IBA	Chromatin_organization	0006325	chromatin organization
+Setmar	IEA	Chromatin_organization	0006325	chromatin organization
+Sf3b1	IC	Chromatin_organization	0006325	chromatin organization
+Sfmbt1	IEA	Chromatin_organization	0006325	chromatin organization
+Sgf29	IEA	Chromatin_organization	0006325	chromatin organization
+Shprh	IEA	Chromatin_organization	0006325	chromatin organization
+Sin3a	ISO	Chromatin_organization	0006325	chromatin organization
+Sirt1	ISO	Chromatin_organization	0006325	chromatin organization
+Sirt6	IEA	Chromatin_organization	0006325	chromatin organization
+Sirt6	ISO	Chromatin_organization	0006325	chromatin organization
+Sirt7	IEA	Chromatin_organization	0006325	chromatin organization
+Smarca1	IEA	Chromatin_organization	0006325	chromatin organization
+Smarca1	ISO	Chromatin_organization	0006325	chromatin organization
+Smarca2	TAS	Chromatin_organization	0006325	chromatin organization
+Smarca2	IC	Chromatin_organization	0006325	chromatin organization
+Smarca4	IEA	Chromatin_organization	0006325	chromatin organization
+Smarca4	IC	Chromatin_organization	0006325	chromatin organization
+Smarca4	IMP	Chromatin_organization	0006325	chromatin organization
+Smarca4	ISO	Chromatin_organization	0006325	chromatin organization
+Smarca4	IDA	Chromatin_organization	0006325	chromatin organization
+Smarca4	TAS	Chromatin_organization	0006325	chromatin organization
+Smarca5	IDA	Chromatin_organization	0006325	chromatin organization
+Smarca5	IC	Chromatin_organization	0006325	chromatin organization
+Smarca5	IGI	Chromatin_organization	0006325	chromatin organization
+Smarca5	ISO	Chromatin_organization	0006325	chromatin organization
+Smarcad1	IEA	Chromatin_organization	0006325	chromatin organization
+Smarcad1	ISO	Chromatin_organization	0006325	chromatin organization
+Smarcb1	IEA	Chromatin_organization	0006325	chromatin organization
+Smarcb1	IC	Chromatin_organization	0006325	chromatin organization
+Smarcb1	ISO	Chromatin_organization	0006325	chromatin organization
+Smarcc1	IEA	Chromatin_organization	0006325	chromatin organization
+Smarcc1	IC	Chromatin_organization	0006325	chromatin organization
+Smarcc1	ISO	Chromatin_organization	0006325	chromatin organization
+Smarcc2	IEA	Chromatin_organization	0006325	chromatin organization
+Smarcc2	IC	Chromatin_organization	0006325	chromatin organization
+Smarcc2	ISO	Chromatin_organization	0006325	chromatin organization
+Smarcd1	IEA	Chromatin_organization	0006325	chromatin organization
+Smarcd1	IC	Chromatin_organization	0006325	chromatin organization
+Smarcd1	ISO	Chromatin_organization	0006325	chromatin organization
+Smarcd2	IEA	Chromatin_organization	0006325	chromatin organization
+Smarcd2	IC	Chromatin_organization	0006325	chromatin organization
+Smarcd2	ISO	Chromatin_organization	0006325	chromatin organization
+Smarcd3	IEA	Chromatin_organization	0006325	chromatin organization
+Smarcd3	IC	Chromatin_organization	0006325	chromatin organization
+Smarcd3	ISO	Chromatin_organization	0006325	chromatin organization
+Smarce1	IEA	Chromatin_organization	0006325	chromatin organization
+Smarce1	IC	Chromatin_organization	0006325	chromatin organization
+Smarce1	ISO	Chromatin_organization	0006325	chromatin organization
+Smchd1	IEA	Chromatin_organization	0006325	chromatin organization
+Smchd1	IMP	Chromatin_organization	0006325	chromatin organization
+Smchd1	ISO	Chromatin_organization	0006325	chromatin organization
+Smyd1	IPI	Chromatin_organization	0006325	chromatin organization
+Smyd2	IEA	Chromatin_organization	0006325	chromatin organization
+Smyd3	IEA	Chromatin_organization	0006325	chromatin organization
+Smyd3	IMP	Chromatin_organization	0006325	chromatin organization
+Smyd5	IBA	Chromatin_organization	0006325	chromatin organization
+Smyd5	IMP	Chromatin_organization	0006325	chromatin organization
+Snai1	IMP	Chromatin_organization	0006325	chromatin organization
+Sox9	ISO	Chromatin_organization	0006325	chromatin organization
+Sphk2	ISO	Chromatin_organization	0006325	chromatin organization
+Spi1	ISO	Chromatin_organization	0006325	chromatin organization
+Spin1	IEA	Chromatin_organization	0006325	chromatin organization
+Spty2d1	IBA	Chromatin_organization	0006325	chromatin organization
+Spty2d1	ISO	Chromatin_organization	0006325	chromatin organization
+Ss18	IC	Chromatin_organization	0006325	chromatin organization
+Ss18l1	IEA	Chromatin_organization	0006325	chromatin organization
+Ssrp1	IC	Chromatin_organization	0006325	chromatin organization
+Ssrp1	ISO	Chromatin_organization	0006325	chromatin organization
+Ssrp1	IBA	Chromatin_organization	0006325	chromatin organization
+Stpg4	IEA	Chromatin_organization	0006325	chromatin organization
+Suds3	IEA	Chromatin_organization	0006325	chromatin organization
+Supt4a	IBA	Chromatin_organization	0006325	chromatin organization
+Supt4b	IBA	Chromatin_organization	0006325	chromatin organization
+Supt6	IBA	Chromatin_organization	0006325	chromatin organization
+Supt6	IMP	Chromatin_organization	0006325	chromatin organization
+Supt6	ISO	Chromatin_organization	0006325	chromatin organization
+Supt16	IBA	Chromatin_organization	0006325	chromatin organization
+Supt16	IC	Chromatin_organization	0006325	chromatin organization
+Supt16	ISO	Chromatin_organization	0006325	chromatin organization
+Suv39h1	IEA	Chromatin_organization	0006325	chromatin organization
+Suv39h1	TAS	Chromatin_organization	0006325	chromatin organization
+Suv39h1	ISO	Chromatin_organization	0006325	chromatin organization
+Suv39h2	ISO	Chromatin_organization	0006325	chromatin organization
+Suz12	IEA	Chromatin_organization	0006325	chromatin organization
+Suz12	IMP	Chromatin_organization	0006325	chromatin organization
+Suz12	IDA	Chromatin_organization	0006325	chromatin organization
+Sycp1	IGI	Chromatin_organization	0006325	chromatin organization
+Sycp3	IGI	Chromatin_organization	0006325	chromatin organization
+Sycp3	ISO	Chromatin_organization	0006325	chromatin organization
+Tada2a	IBA	Chromatin_organization	0006325	chromatin organization
+Tada2b	IBA	Chromatin_organization	0006325	chromatin organization
+Tal1	ISO	Chromatin_organization	0006325	chromatin organization
+Tasor	IBA	Chromatin_organization	0006325	chromatin organization
+Tasor	ISO	Chromatin_organization	0006325	chromatin organization
+Tbl1xr1	IEA	Chromatin_organization	0006325	chromatin organization
+Tbr1	IMP	Chromatin_organization	0006325	chromatin organization
+Tdg	IEA	Chromatin_organization	0006325	chromatin organization
+Tdg	IMP	Chromatin_organization	0006325	chromatin organization
+Tdrd3	IEA	Chromatin_organization	0006325	chromatin organization
+Tet1	IEA	Chromatin_organization	0006325	chromatin organization
+Tet1	ISO	Chromatin_organization	0006325	chromatin organization
+Tet1	IMP	Chromatin_organization	0006325	chromatin organization
+Tet2	IEA	Chromatin_organization	0006325	chromatin organization
+Tet3	IEA	Chromatin_organization	0006325	chromatin organization
+Tex15	IMP	Chromatin_organization	0006325	chromatin organization
+Tfap2c	ISO	Chromatin_organization	0006325	chromatin organization
+Tfpt	ISO	Chromatin_organization	0006325	chromatin organization
+Tlk1	IEA	Chromatin_organization	0006325	chromatin organization
+Tlk1	ISO	Chromatin_organization	0006325	chromatin organization
+Tlk2	IEA	Chromatin_organization	0006325	chromatin organization
+Tlk2	ISO	Chromatin_organization	0006325	chromatin organization
+Tnp1	IBA	Chromatin_organization	0006325	chromatin organization
+Tnp1	ISO	Chromatin_organization	0006325	chromatin organization
+Tnp1	IMP	Chromatin_organization	0006325	chromatin organization
+Tnp2	IMP	Chromatin_organization	0006325	chromatin organization
+Tonsl	IEA	Chromatin_organization	0006325	chromatin organization
+Top1	ISO	Chromatin_organization	0006325	chromatin organization
+Tox	IEA	Chromatin_organization	0006325	chromatin organization
+Tpr	ISO	Chromatin_organization	0006325	chromatin organization
+Trim27	ISO	Chromatin_organization	0006325	chromatin organization
+Trim28	IEA	Chromatin_organization	0006325	chromatin organization
+Trim28	IMP	Chromatin_organization	0006325	chromatin organization
+Trim28	ISO	Chromatin_organization	0006325	chromatin organization
+Trp53	ISO	Chromatin_organization	0006325	chromatin organization
+Trp63	IMP	Chromatin_organization	0006325	chromatin organization
+Trrap	IEA	Chromatin_organization	0006325	chromatin organization
+Tsix	IGI	Chromatin_organization	0006325	chromatin organization
+Tsix	IMP	Chromatin_organization	0006325	chromatin organization
+Tspyl1	IEA	Chromatin_organization	0006325	chromatin organization
+Tspyl2	IEA	Chromatin_organization	0006325	chromatin organization
+Tspyl4	IEA	Chromatin_organization	0006325	chromatin organization
+Tspyl5	IEA	Chromatin_organization	0006325	chromatin organization
+Tssk6	IMP	Chromatin_organization	0006325	chromatin organization
+Ttc39aos1	IDA	Chromatin_organization	0006325	chromatin organization
+Ttf1	IDA	Chromatin_organization	0006325	chromatin organization
+Tti1	IBA	Chromatin_organization	0006325	chromatin organization
+Ubn1	IBA	Chromatin_organization	0006325	chromatin organization
+Ubn1	ISO	Chromatin_organization	0006325	chromatin organization
+Ubn2	IBA	Chromatin_organization	0006325	chromatin organization
+Ubr2	IDA	Chromatin_organization	0006325	chromatin organization
+Ubtf	IMP	Chromatin_organization	0006325	chromatin organization
+Uchl5	ISO	Chromatin_organization	0006325	chromatin organization
+Uhrf1	IEA	Chromatin_organization	0006325	chromatin organization
+Uimc1	IEA	Chromatin_organization	0006325	chromatin organization
+Usp3	IEA	Chromatin_organization	0006325	chromatin organization
+Usp16	IEA	Chromatin_organization	0006325	chromatin organization
+Usp21	IEA	Chromatin_organization	0006325	chromatin organization
+Usp22	IEA	Chromatin_organization	0006325	chromatin organization
+Usp49	IEA	Chromatin_organization	0006325	chromatin organization
+Utp3	IEA	Chromatin_organization	0006325	chromatin organization
+Uty	IEA	Chromatin_organization	0006325	chromatin organization
+Uty	IMP	Chromatin_organization	0006325	chromatin organization
+Vps72	IEA	Chromatin_organization	0006325	chromatin organization
+Vps72	ISO	Chromatin_organization	0006325	chromatin organization
+Wac	IEA	Chromatin_organization	0006325	chromatin organization
+Wbp2	ISO	Chromatin_organization	0006325	chromatin organization
+Wdhd1	IMP	Chromatin_organization	0006325	chromatin organization
+Wdr5	IEA	Chromatin_organization	0006325	chromatin organization
+Wdr5	IDA	Chromatin_organization	0006325	chromatin organization
+Xist	IDA	Chromatin_organization	0006325	chromatin organization
+Xist	IGI	Chromatin_organization	0006325	chromatin organization
+Xist	IMP	Chromatin_organization	0006325	chromatin organization
+Yeats2	IBA	Chromatin_organization	0006325	chromatin organization
+Yeats4	IEA	Chromatin_organization	0006325	chromatin organization
+Yeats4	IBA	Chromatin_organization	0006325	chromatin organization
+Ythdc1	ISO	Chromatin_organization	0006325	chromatin organization
+Yy1	ISO	Chromatin_organization	0006325	chromatin organization
+Zbtb1	ISO	Chromatin_organization	0006325	chromatin organization
+Zbtb7a	IMP	Chromatin_organization	0006325	chromatin organization
+Zbtb7a	ISO	Chromatin_organization	0006325	chromatin organization
+Zdbf2	IBA	Chromatin_organization	0006325	chromatin organization
+Zdbf2	IMP	Chromatin_organization	0006325	chromatin organization
+Zfp42	IMP	Chromatin_organization	0006325	chromatin organization
+Zfp57	IMP	Chromatin_organization	0006325	chromatin organization
+Zfp57	ISO	Chromatin_organization	0006325	chromatin organization
+Zfp57	IGI	Chromatin_organization	0006325	chromatin organization
+Zfp335	ISO	Chromatin_organization	0006325	chromatin organization
+Zfp445	IDA	Chromatin_organization	0006325	chromatin organization
+Zfp445	IGI	Chromatin_organization	0006325	chromatin organization
+Zfp445	ISO	Chromatin_organization	0006325	chromatin organization
+Zfp462	IMP	Chromatin_organization	0006325	chromatin organization
+Zfp518a	IEA	Chromatin_organization	0006325	chromatin organization
+Zfp518b	IEA	Chromatin_organization	0006325	chromatin organization
+Zfp827	ISO	Chromatin_organization	0006325	chromatin organization
+Zfy2	IDA	Chromatin_organization	0006325	chromatin organization
+Zmpste24	IMP	Chromatin_organization	0006325	chromatin organization
+Zmynd11	IEA	Chromatin_organization	0006325	chromatin organization
+Znfx1	IBA	Chromatin_organization	0006325	chromatin organization
+Znhit1	IEA	Chromatin_organization	0006325	chromatin organization

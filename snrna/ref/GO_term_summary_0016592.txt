@@ -1,0 +1,99 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1917580	Bclaf1	BCL2-associated transcription factor 1	10		mediator complex			IBA	PTN000392101 	J:265628 	
+MGI:2685992	Bclaf3	Bclaf1 and Thrap3 family member 3	X		mediator complex			IBA	PTN000392101 	J:265628 	
+MGI:1858199	Ccnc	cyclin C	4		mediator complex			IBA	PTN000002587 	J:265628 	
+MGI:1858199	Ccnc	cyclin C	4		mediator complex			IDA		J:92973 	
+MGI:88357	Cdk4	cyclin-dependent kinase 4	10		mediator complex			IBA	PTN000623092 	J:265628 	
+MGI:1277162	Cdk6	cyclin-dependent kinase 6	5		mediator complex			IBA	PTN000623092 	J:265628 	
+MGI:1196224	Cdk8	cyclin-dependent kinase 8	5		mediator complex			IBA	PTN000623092 	J:265628 	
+MGI:1196224	Cdk8	cyclin-dependent kinase 8	5		mediator complex			IDA		J:92973 	
+MGI:1196224	Cdk8	cyclin-dependent kinase 8	5		mediator complex			ISO	P49336 	J:88488 J:164563 	
+MGI:1328368	Cdk9	cyclin-dependent kinase 9 (CDC2-related kinase)	2		mediator complex			IBA	PTN000623092 	J:265628 	
+MGI:1925584	Cdk19	cyclin-dependent kinase 19	10		mediator complex			IBA	PTN000623092 	J:265628 	
+MGI:5141982	Gm20517	predicted gene 20517	17		mediator complex			IBA	PTN000279568 	J:265628 	
+MGI:1100846	Med1	mediator complex subunit 1	11		mediator complex			IBA	PTN004391415 	J:265628 	
+MGI:1100846	Med1	mediator complex subunit 1	11		mediator complex		PR:Q925J9-1	IDA		J:162104 	
+MGI:1100846	Med1	mediator complex subunit 1	11		mediator complex			IDA		J:77765 J:92973 	
+MGI:1100846	Med1	mediator complex subunit 1	11		mediator complex			ISO	Q15648 	J:73065 J:88488 	
+MGI:1914631	Med4	mediator complex subunit 4	14		mediator complex		PR:Q9CQA5-1	IDA		J:162104 	
+MGI:1914631	Med4	mediator complex subunit 4	14		mediator complex			IDA		J:92973 	
+MGI:1914631	Med4	mediator complex subunit 4	14		mediator complex			ISO	Q9NPJ6 	J:88488 J:164563 	
+MGI:1917042	Med6	mediator complex subunit 6	12		mediator complex			IBA	PTN000318543 	J:265628 	
+MGI:1917042	Med6	mediator complex subunit 6	12		mediator complex		PR:Q921D4-1	IDA		J:162104 	
+MGI:1917042	Med6	mediator complex subunit 6	12		mediator complex			IDA		J:92973 	
+MGI:1917042	Med6	mediator complex subunit 6	12		mediator complex			ISO	O75586 	J:73065 J:88488 	
+MGI:1913463	Med7	mediator complex subunit 7	11		mediator complex			IBA	PTN000484473 	J:265628 	
+MGI:1913463	Med7	mediator complex subunit 7	11		mediator complex			IDA		J:92973 	
+MGI:1915269	Med8	mediator complex subunit 8	4		mediator complex			IBA	PTN001405709 	J:265628 	
+MGI:1915269	Med8	mediator complex subunit 8	4		mediator complex		PR:Q9D7W5-1	IDA		J:162104 	
+MGI:1915269	Med8	mediator complex subunit 8	4		mediator complex			ISO	Q96G25 	J:88488 	
+MGI:2183151	Med9	mediator complex subunit 9	11		mediator complex			IBA	PTN000464837 	J:265628 	
+MGI:2183151	Med9	mediator complex subunit 9	11		mediator complex			IDA		J:88488 	
+MGI:106331	Med10	mediator complex subunit 10	13		mediator complex			IBA	PTN000331217 	J:265628 	
+MGI:106331	Med10	mediator complex subunit 10	13		mediator complex			IDA		J:92973 	
+MGI:1913422	Med11	mediator complex subunit 11	11		mediator complex			IBA	PTN001485952 	J:265628 	
+MGI:1913422	Med11	mediator complex subunit 11	11		mediator complex			ISO	Q9P086 	J:88488 	
+MGI:1926212	Med12	mediator complex subunit 12	X		mediator complex			IBA	PTN005270592 	J:265628 	
+MGI:1926212	Med12	mediator complex subunit 12	X		mediator complex		PR:A2AGH6-1	IDA		J:162104 	
+MGI:1926212	Med12	mediator complex subunit 12	X		mediator complex			IDA		J:92973 	
+MGI:1926212	Med12	mediator complex subunit 12	X		mediator complex			ISO	Q93074 	J:73065 	
+MGI:2139916	Med12l	mediator complex subunit 12-like	3		mediator complex			IBA	PTN005270592 	J:265628 	
+MGI:3029632	Med13	mediator complex subunit 13	11		mediator complex			IBA	PTN000310508 	J:265628 	
+MGI:3029632	Med13	mediator complex subunit 13	11		mediator complex		PR:Q5SWW4-1	IDA		J:162104 	
+MGI:3029632	Med13	mediator complex subunit 13	11		mediator complex			IDA		J:92973 	
+MGI:3029632	Med13	mediator complex subunit 13	11		mediator complex			ISO	Q9UHV7 	J:73065 	
+MGI:2670178	Med13l	mediator complex subunit 13-like	5		mediator complex			IBA	PTN000310508 	J:265628 	
+MGI:2670178	Med13l	mediator complex subunit 13-like	5		mediator complex			IDA		J:77765 	
+MGI:1349442	Med14	mediator complex subunit 14	X		mediator complex			IBA	PTN000301622 	J:265628 	
+MGI:1349442	Med14	mediator complex subunit 14	X		mediator complex		PR:A2ABV5-1	IDA		J:162104 	
+MGI:1349442	Med14	mediator complex subunit 14	X		mediator complex			IDA		J:92973 	
+MGI:1349442	Med14	mediator complex subunit 14	X		mediator complex			ISO	O60244 	J:73065 	
+MGI:2137379	Med15	mediator complex subunit 15	16		mediator complex		PR:Q924H2-1	TAS		J:162104 	
+MGI:2158394	Med16	mediator complex subunit 16	10		mediator complex			IBA	PTN000996461 	J:265628 	
+MGI:2158394	Med16	mediator complex subunit 16	10		mediator complex		PR:Q6PGF3-1	IDA		J:162104 	
+MGI:2158394	Med16	mediator complex subunit 16	10		mediator complex			IDA		J:77765 J:92973 	
+MGI:2158394	Med16	mediator complex subunit 16	10		mediator complex			ISO	Q9Y2X0 	J:164563 	
+MGI:2182585	Med17	mediator complex subunit 17	9		mediator complex			IBA	PTN001406247 	J:265628 	
+MGI:2182585	Med17	mediator complex subunit 17	9		mediator complex		PR:Q8VCD5-1	IDA		J:162104 	
+MGI:2182585	Med17	mediator complex subunit 17	9		mediator complex			IDA		J:92973 	
+MGI:2182585	Med17	mediator complex subunit 17	9		mediator complex			ISO	Q9NVC6 	J:73065 J:88488 	
+MGI:1914469	Med18	mediator complex subunit 18	4		mediator complex			IBA	PTN001410513 	J:265628 	
+MGI:1914469	Med18	mediator complex subunit 18	4		mediator complex		PR:Q9CZ82-1	IDA		J:162104 	
+MGI:1914469	Med18	mediator complex subunit 18	4		mediator complex			ISO	Q9BUE0 	J:88488 	
+MGI:1914234	Med19	mediator complex subunit 19	2		mediator complex			IBA	PTN001096178 	J:265628 	
+MGI:1914234	Med19	mediator complex subunit 19	2		mediator complex			IDA		J:88488 	
+MGI:1929648	Med20	mediator complex subunit 20	17		mediator complex			IBA	PTN000279568 	J:265628 	
+MGI:1929648	Med20	mediator complex subunit 20	17		mediator complex		PR:Q9R0X0-1	IDA		J:162104 	
+MGI:1929648	Med20	mediator complex subunit 20	17		mediator complex			IDA		J:92973 	
+MGI:1347064	Med21	mediator complex subunit 21	6		mediator complex			IBA	PTN000332844 	J:265628 	
+MGI:1347064	Med21	mediator complex subunit 21	6		mediator complex		PR:Q9CQ39-1	IDA		J:162104 	
+MGI:1347064	Med21	mediator complex subunit 21	6		mediator complex			IDA		J:77765 J:92973 	
+MGI:1347064	Med21	mediator complex subunit 21	6		mediator complex			ISO	Q13503 	J:73065 	
+MGI:98446	Med22	mediator complex subunit 22	2		mediator complex			IBA	PTN000277332 	J:265628 	
+MGI:98446	Med22	mediator complex subunit 22	2		mediator complex			ISO	Q15528 	J:88488 	
+MGI:1917458	Med23	mediator complex subunit 23	10		mediator complex			IBA	PTN000294122 	J:265628 	
+MGI:1917458	Med23	mediator complex subunit 23	10		mediator complex		PR:Q80YQ2-1	IDA		J:162104 	
+MGI:1917458	Med23	mediator complex subunit 23	10		mediator complex			IDA		J:92973 	
+MGI:1344385	Med24	mediator complex subunit 24	11		mediator complex			IBA	PTN000984923 	J:265628 	
+MGI:1344385	Med24	mediator complex subunit 24	11		mediator complex		PR:Q99K74-1	IDA		J:162104 	
+MGI:1344385	Med24	mediator complex subunit 24	11		mediator complex			IDA		J:77765 J:92973 	
+MGI:1922863	Med25	mediator complex subunit 25	7		mediator complex			IBA	PTN000277285 	J:265628 	
+MGI:1917875	Med26	mediator complex subunit 26	8		mediator complex			IBA	PTN000390554 	J:265628 	
+MGI:1917875	Med26	mediator complex subunit 26	8		mediator complex		PR:Q7TN02-1	IDA		J:162104 	
+MGI:1917875	Med26	mediator complex subunit 26	8		mediator complex			ISO	O95402 	J:164563 	
+MGI:1916225	Med27	mediator complex subunit 27	2		mediator complex			IBA	PTN000319760 	J:265628 	
+MGI:1916225	Med27	mediator complex subunit 27	2		mediator complex		PR:Q9DB40-1	IDA		J:162104 	
+MGI:1914249	Med28	mediator complex subunit 28	5		mediator complex			IBA	PTN001413216 	J:265628 	
+MGI:1914249	Med28	mediator complex subunit 28	5		mediator complex		PR:Q920D3-1	IDA		J:162104 	
+MGI:1914474	Med29	mediator complex subunit 29	7		mediator complex			IBA	PTN002001791 	J:265628 	
+MGI:1914474	Med29	mediator complex subunit 29	7		mediator complex			ISO	Q9NX70 	J:88488 	
+MGI:1917040	Med30	mediator complex subunit 30	15		mediator complex			IBA	PTN001271685 	J:265628 	
+MGI:1917040	Med30	mediator complex subunit 30	15		mediator complex			IDA		J:92973 	
+MGI:1917040	Med30	mediator complex subunit 30	15		mediator complex			ISO	Q96HR3 	J:164563 	
+MGI:1914529	Med31	mediator complex subunit 31	11		mediator complex			IBA	PTN000323967 	J:265628 	
+MGI:1914529	Med31	mediator complex subunit 31	11		mediator complex		PR:Q9CXU1-1	IDA		J:162104 	
+MGI:2444934	Ppargc1b	peroxisome proliferative activated receptor, gamma, coactivator 1 beta	18		mediator complex			ISO	Q86YN6 	J:164563 	
+MGI:2442637	Thrap3	thyroid hormone receptor associated protein 3	4		mediator complex			IBA	PTN000392101 	J:265628 	
+MGI:2442637	Thrap3	thyroid hormone receptor associated protein 3	4		mediator complex			IDA		J:77765 J:92973 	
+MGI:2442637	Thrap3	thyroid hormone receptor associated protein 3	4		mediator complex			ISO	Q9Y2W1 	J:73065 	
+

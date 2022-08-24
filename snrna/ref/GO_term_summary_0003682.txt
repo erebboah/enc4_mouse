@@ -1,0 +1,1211 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1861453	Actl6a	actin-like 6A	3		chromatin binding			IBA	PTN001732543 	J:265628 	
+MGI:1861453	Actl6a	actin-like 6A	3		chromatin binding			IDA		J:51248 	
+MGI:1933548	Actl6b	actin-like 6B	5		chromatin binding			IBA	PTN001732543 	J:265628 	
+MGI:1890773	Actn4	actinin alpha 4	7		chromatin DNA binding			ISO	O43707 	J:164563 	
+MGI:1914269	Actr6	ARP6 actin-related protein 6	10		nucleosome binding			IBA	PTN000233887 	J:265628 	
+MGI:1920610	Actrt1	actin-related protein T1	X		chromatin binding			IBA	PTN000748066 	J:265628 	
+MGI:1920610	Actrt1	actin-related protein T1	X		chromatin binding			ISO	Q8TDG2 	J:164563 	
+MGI:1338758	Adnp	activity-dependent neuroprotective protein	2		chromatin binding			IDA		J:119141 	
+MGI:1338803	Aire	autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy)	10		chromatin binding			IBA	PTN002931438 	J:265628 	
+MGI:1338803	Aire	autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy)	10		chromatin binding			ISO	O43918 	J:164563 	
+MGI:1341886	Ajuba	ajuba LIM protein	14		chromatin binding			IDA		J:136087 	
+MGI:1928488	Akap8	A kinase (PRKA) anchor protein 8	17		chromatin binding			ISO	O43832 	J:73065 	
+MGI:1861447	Ankrd2	ankyrin repeat domain 2 (stretch responsive muscle)	19		chromatin binding	happens in myoblast,uses Gsk3b		IDA		J:214867 	
+MGI:1932101	Ankrd17	ankyrin repeat domain 17	5		chromatin binding			ISO	O75179 	J:164563 	
+MGI:107765	Apbb1	amyloid beta (A4) precursor protein-binding, family B, member 1	7		chromatin binding			ISO	O00213 	J:164563 	
+MGI:88042	Apex1	apurinic/apyrimidinic endonuclease 1	14		chromatin DNA binding			ISO	P27695 	J:164563 	
+MGI:88059	App	amyloid beta (A4) precursor protein	16		chromatin binding			ISO	P05067 	J:164563 	
+MGI:1913658	Aptx	aprataxin	4		chromatin binding			ISO	Q7Z2E3 	J:164563 	
+MGI:88064	Ar	androgen receptor	X		chromatin binding			ISO	RGD:2147 	J:155856 	
+MGI:88064	Ar	androgen receptor	X		chromatin binding			ISO	P10275 	J:164563 	
+MGI:1935147	Arid1a	AT rich interactive domain 1A (SWI-like)	4	contributes_to	nucleosome binding			IBA	PTN000291886 	J:265628 	
+MGI:1935147	Arid1a	AT rich interactive domain 1A (SWI-like)	4	contributes_to	nucleosome binding			IDA		J:192829 	
+MGI:1926129	Arid1b	AT rich interactive domain 1B (SWI-like)	17	contributes_to	nucleosome binding			IBA	PTN000291886 	J:265628 	
+MGI:1328360	Arid3a	AT rich interactive domain 3A (BRIGHT-like)	10		chromatin binding			IDA		J:177460 	
+MGI:3650624	Arid3c	AT rich interactive domain 3C (BRIGHT-like)	4		chromatin binding			IDA		J:177460 	
+MGI:2443039	Arid5a	AT rich interactive domain 5A (MRF1-like)	1		chromatin binding			IDA		J:182990 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Calb2		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Lmo3		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Atrx		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Cdkn1a		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Zic3		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Sema3c		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Ackr3		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Grm1		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Shroom3		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Plpp3		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Bhlhe22		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Arid1a		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Crb1		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Olig3		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Jph4		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Sh3tc2		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses H4c8		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Cdh2		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Gabrb3		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Prph		IDA		J:177918 	
+MGI:1097716	Arx	aristaless related homeobox	X		chromatin binding	happens in brain venous system,uses Epha3		IDA		J:177918 	
+MGI:96919	Ascl1	achaete-scute family bHLH transcription factor 1	10		chromatin binding	happens in neural tube,uses Dll1		IDA		J:197142 	
+MGI:96919	Ascl1	achaete-scute family bHLH transcription factor 1	10		chromatin binding	happens in neural tube,uses Tlx3		IDA		J:197142 	
+MGI:1913653	Asf1a	anti-silencing function 1A histone chaperone	10		chromatin binding			IDA		J:202816 	
+MGI:2183158	Ash1l	ASH1 like histone lysine methyltransferase	3		chromatin binding			IEA	IPR001025 	J:72247 	
+MGI:2684063	Asxl1	ASXL transcriptional regulator 1	2		chromatin binding			IBA	PTN000339786 	J:265628 	
+MGI:1922552	Asxl2	ASXL transcriptional regulator 2	12		chromatin binding			IBA	PTN000339786 	J:265628 	
+MGI:1922552	Asxl2	ASXL transcriptional regulator 2	12		chromatin binding	happens in heart		IDA		J:189224 	
+MGI:2685175	Asxl3	ASXL transcriptional regulator 3	18		chromatin binding			IBA	PTN000339786 	J:265628 	
+MGI:1917722	Atad2	ATPase family, AAA domain containing 2	15		chromatin binding			IBA	PTN000552695 	J:265628 	
+MGI:2444798	Atad2b	ATPase family, AAA domain containing 2B	12		chromatin binding			IBA	PTN000552695 	J:265628 	
+MGI:109349	Atf2	activating transcription factor 2	2		chromatin binding	uses Tgfb2		IDA		J:125640 	
+MGI:109349	Atf2	activating transcription factor 2	2		promoter-specific chromatin binding	is a part of cellular response to virus,happens in macrophage,uses Il23a		IDA		J:141299 	
+MGI:109349	Atf2	activating transcription factor 2	2		promoter-specific chromatin binding			ISO	P15336 	J:121664 	
+MGI:88096	Atf4	activating transcription factor 4	15		promoter-specific chromatin binding	is a part of cellular response to leucine starvation		IDA		J:121664 	
+MGI:88096	Atf4	activating transcription factor 4	15		promoter-specific chromatin binding			ISO	P18848 	J:121664 	
+MGI:2141857	Atf5	activating transcription factor 5	7		chromatin binding			IDA		J:224721 	
+MGI:2141857	Atf5	activating transcription factor 5	7		chromatin binding			ISO	RGD:628902 	J:155856 	
+MGI:2141857	Atf5	activating transcription factor 5	7		chromatin binding			ISO	Q9Y2D1 	J:164563 	
+MGI:104654	Atoh1	atonal bHLH transcription factor 1	6		chromatin DNA binding	uses Barhl2		IDA		J:98522 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		chromatin binding			IDA		J:93510 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		chromatin binding			ISO	P46100 	J:164563 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		chromatin DNA binding			IBA	PTN002923541 	J:265628 	
+MGI:104783	Atxn1	ataxin 1	13		chromatin binding	uses Etv5		IDA		J:162235 	
+MGI:104783	Atxn1	ataxin 1	13		chromatin binding	uses Ccnd1		IDA		J:162235 	
+MGI:2179277	Atxn7	ataxin 7	14		chromatin binding	uses Rho		IDA		J:87337 	
+MGI:2179277	Atxn7	ataxin 7	14		chromatin binding	uses Opn1sw		IDA		J:87337 	
+MGI:1919847	Auts2	autism susceptibility candidate 2	5		chromatin binding			ISO	Q8WXX7 	J:73065 	
+MGI:2679272	Bahcc1	BAH domain and coiled-coil containing 1	11		chromatin binding			IEA	IPR001025 	J:72247 	
+MGI:2139371	Bahd1	bromo adjacent homology domain containing 1	2		chromatin binding			IBA	PTN008209947 	J:265628 	
+MGI:2139371	Bahd1	bromo adjacent homology domain containing 1	2		chromatin binding			ISO	Q8TBE0 	J:164563 	
+MGI:1206586	Bap1	Brca1 associated protein 1	14		chromatin binding			ISO	Q92560 	J:164563 	
+MGI:1206586	Bap1	Brca1 associated protein 1	14		chromatin DNA binding			IDA		J:187380 	
+MGI:109617	Barx2	BarH-like homeobox 2	9		chromatin binding	happens in mesenchymal stem cell,happens in forelimb bud mesenchyme,uses Col2a1		IDA		J:98500 	
+MGI:109617	Barx2	BarH-like homeobox 2	9		chromatin binding			IDA		J:96883 	
+MGI:2385848	Bcas3	BCAS3 microtubule associated cell migration factor	11		chromatin binding			ISO	Q9H6U6 	J:164563 	
+MGI:107187	Bcl6	B cell leukemia/lymphoma 6	16		chromatin binding	uses Il18		IDA		J:84005 	
+MGI:107187	Bcl6	B cell leukemia/lymphoma 6	16		chromatin binding	uses Prdm1		IDA		J:91929 	
+MGI:107187	Bcl6	B cell leukemia/lymphoma 6	16		chromatin binding			ISO	P41182 	J:73065 	
+MGI:107187	Bcl6	B cell leukemia/lymphoma 6	16		chromatin DNA binding	happens in CD8-positive, alpha-beta T cell,uses Gzmb		IDA		J:117088 	
+MGI:2444572	Bend6	BEN domain containing 6	1		chromatin binding	uses Rbpj		IDA		J:195490 	
+MGI:1930001	Bhlhe22	basic helix-loop-helix family, member e22	3		chromatin binding			IDA		J:182304 	
+MGI:88174	Bmi1	Bmi1 polycomb ring finger oncogene	2		chromatin binding	uses Hoxc13		IDA		J:104662 	
+MGI:88174	Bmi1	Bmi1 polycomb ring finger oncogene	2		chromatin binding			IDA		J:202816 	
+MGI:88174	Bmi1	Bmi1 polycomb ring finger oncogene	2		promoter-specific chromatin binding			IBA	PTN000850589 	J:265628 	
+MGI:88174	Bmi1	Bmi1 polycomb ring finger oncogene	2		promoter-specific chromatin binding			IDA		J:227373 	
+MGI:88174	Bmi1	Bmi1 polycomb ring finger oncogene	2		promoter-specific chromatin binding			ISO	P35226 	J:164563 	
+MGI:104537	Brca1	breast cancer 1, early onset	11		chromatin binding			ISO	RGD:2218 	J:155856 	
+MGI:99495	Brd2	bromodomain containing 2	17		chromatin binding			ISO	P25440 	J:164563 	
+MGI:1914632	Brd3	bromodomain containing 3	2		chromatin binding			ISO	Q15059 	J:164563 	
+MGI:1888520	Brd4	bromodomain containing 4	17		chromatin binding			IDA		J:191206 J:199171 	
+MGI:1888520	Brd4	bromodomain containing 4	17		chromatin binding			ISO	O60885 	J:164563 	
+MGI:2442836	Brip1	BRCA1 interacting protein C-terminal helicase 1	11		chromatin binding			ISO	RGD:1307659 	J:155856 	
+MGI:1298375	Cabin1	calcineurin binding protein 1	10	contributes_to	nucleosome binding			IBA	PTN000398529 	J:265628 	
+MGI:1914738	Calcoco1	calcium binding and coiled coil domain 1	15		chromatin binding			IDA		J:94986 	
+MGI:2135957	Camta2	calmodulin binding transcription activator 2	11		chromatin binding			ISO	O94983 	J:73065 	
+MGI:1338013	Cbfa2t3	CBFA2/RUNX1 translocation partner 3	8		chromatin binding			IDA		J:155127 	
+MGI:105369	Cbx1	chromobox 1	11		chromatin binding			IBA	PTN000517042 	J:265628 	
+MGI:88289	Cbx2	chromobox 2	11		chromatin binding	uses Hoxb8		IDA		J:109525 	
+MGI:108515	Cbx3	chromobox 3	6		chromatin binding			IBA	PTN000517042 	J:265628 	
+MGI:1195985	Cbx4	chromobox 4	11		chromatin binding	uses Gh		IDA		J:121427 	
+MGI:109372	Cbx5	chromobox 5	15		chromatin binding			IBA	PTN000517042 	J:265628 	
+MGI:109372	Cbx5	chromobox 5	15		chromatin binding			IDA		J:55698 	
+MGI:1196439	Cbx7	chromobox 7	15		chromatin binding			IDA		J:180185 	
+MGI:1353589	Cbx8	chromobox 8	11		chromatin binding			IBA	PTN001867584 	J:265628 	
+MGI:1328363	Ccnt1	cyclin T1	15		chromatin binding			IDA		J:170795 	
+MGI:1920199	Ccnt2	cyclin T2	1		chromatin binding			IDA		J:230626 	
+MGI:1345150	Cdc6	cell division cycle 6	11		chromatin binding			IDA		J:87848 	
+MGI:1338073	Cdc45	cell division cycle 45	16		chromatin binding			IBA	PTN000053416 	J:265628 	
+MGI:88351	Cdk1	cyclin-dependent kinase 1	10		chromatin binding			IDA		J:140237 	
+MGI:1328368	Cdk9	cyclin-dependent kinase 9 (CDC2-related kinase)	2		chromatin binding			IDA		J:191206 J:230626 	
+MGI:1328368	Cdk9	cyclin-dependent kinase 9 (CDC2-related kinase)	2		chromatin binding			ISO	RGD:1359638 	J:155856 	
+MGI:1914427	Cdt1	chromatin licensing and DNA replication factor 1	8		chromatin binding			ISO	Q9H211 	J:164563 	
+MGI:1339956	Cdyl	chromodomain protein, Y chromosome-like	13		chromatin binding			IDA		J:206754 	
+MGI:99480	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	7		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:99480	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	7		chromatin DNA binding	happens in brown fat		IDA		J:272999 	
+MGI:88373	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta	2		chromatin binding			IDA		J:170741 J:224721 	
+MGI:88373	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta	2		chromatin DNA binding	happens in brown fat		IDA		J:272999 	
+MGI:88376	Cenpb	centromere protein B	2		chromatin binding			IEA	IPR015115 	J:72247 	
+MGI:1917178	Cenps	centromere protein S	4		chromatin binding			IBA	PTN000541279 	J:265628 	
+MGI:1917178	Cenps	centromere protein S	4		chromatin binding			ISO	Q8N2Z9 	J:164563 	
+MGI:2442261	Cgas	cyclic GMP-AMP synthase	9		chromatin binding			IBA	PTN002579681 	J:265628 	
+MGI:2442261	Cgas	cyclic GMP-AMP synthase	9		chromatin binding			IDA		J:243562 J:243563 J:314373 J:313955 J:314911 	
+MGI:2442261	Cgas	cyclic GMP-AMP synthase	9		chromatin binding			ISO	Q8N884 	J:164563 	
+MGI:2442261	Cgas	cyclic GMP-AMP synthase	9		nucleosome binding			IDA		J:314373 J:313955 J:314911 	
+MGI:2442261	Cgas	cyclic GMP-AMP synthase	9		nucleosome binding			ISO	Q8N884 	J:164563 	
+MGI:88393	Chd1	chromodomain helicase DNA binding protein 1	17		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:88393	Chd1	chromodomain helicase DNA binding protein 1	17		chromatin binding			NAS		J:4182 	
+MGI:1915308	Chd1l	chromodomain helicase DNA binding protein 1-like	3		nucleosome binding			ISO	Q86WJ1 	J:164563 	
+MGI:2448567	Chd2	chromodomain helicase DNA binding protein 2	7		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:1344395	Chd3	chromodomain helicase DNA binding protein 3	11		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:1344380	Chd4	chromodomain helicase DNA binding protein 4	6		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:3036258	Chd5	chromodomain helicase DNA binding protein 5	4		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:3036258	Chd5	chromodomain helicase DNA binding protein 5	4		chromatin binding			ISO	RGD:1582725 	J:155856 	
+MGI:1918639	Chd6	chromodomain helicase DNA binding protein 6	2		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:2444748	Chd7	chromodomain helicase DNA binding protein 7	4		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:2444748	Chd7	chromodomain helicase DNA binding protein 7	4		promoter-specific chromatin binding	happens in heart,uses Sema3c		IDA		J:225736 	
+MGI:1915022	Chd8	chromodomain helicase DNA binding protein 8	14		chromatin binding			IBA	PTN002473914 	J:265628 	
+MGI:1915022	Chd8	chromodomain helicase DNA binding protein 8	14		chromatin binding			IDA		J:235128 	
+MGI:1915022	Chd8	chromodomain helicase DNA binding protein 8	14		chromatin binding			ISO	Q9HCK8 	J:183665 	
+MGI:1918972	Cic	capicua transcriptional repressor	7		chromatin binding	uses Etv5		IDA		J:162235 	
+MGI:1918972	Cic	capicua transcriptional repressor	7		chromatin binding	uses Ccnd1		IDA		J:162235 	
+MGI:1918972	Cic	capicua transcriptional repressor	7		chromatin binding	happens in lung,uses Etv5		IDA		J:178303 	
+MGI:1918972	Cic	capicua transcriptional repressor	7		chromatin binding	happens in lung,uses Etv1		IDA		J:178303 	
+MGI:1918972	Cic	capicua transcriptional repressor	7		chromatin binding	happens in lung,uses Etv4		IDA		J:178303 	
+MGI:108023	Cited1	Cbp/p300-interacting transactivator with Glu/Asp-rich carboxy-terminal domain 1	X		chromatin binding			IDA		J:128960 	
+MGI:1306784	Cited2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	10		chromatin binding			IDA		J:92872 J:114818 J:139006 	
+MGI:1913447	Cks2	CDC28 protein kinase regulatory subunit 2	13		chromatin binding			IDA		J:140237 	
+MGI:99698	Clock	circadian locomotor output cycles kaput	5		chromatin DNA binding			IDA		J:209614 	
+MGI:107207	Coq7	demethyl-Q 7	7		chromatin binding			ISO	Q99807 	J:164563 	
+MGI:1930190	Cramp1	cramped chromatin regulator 1	17		chromatin binding			IBA	PTN001093019 	J:265628 	
+MGI:99946	Creb3	cAMP responsive element binding protein 3	4		chromatin binding			ISO	O43889 	J:164563 	
+MGI:1347062	Creb3l1	cAMP responsive element binding protein 3-like 1	2		chromatin binding	uses Col1a1		IDA		J:158242 	
+MGI:1098280	Crebbp	CREB binding protein	16		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:1098280	Crebbp	CREB binding protein	16		chromatin binding			IDA		J:98847 	
+MGI:1098280	Crebbp	CREB binding protein	16		chromatin binding			ISO	Q92793 	J:164563 	
+MGI:1098280	Crebbp	CREB binding protein	16		chromatin DNA binding			IBA	PTN000351795 	J:265628 	
+MGI:1921593	Crtc2	CREB regulated transcription coactivator 2	3		chromatin binding			ISO	RGD:1308903 	J:155856 	
+MGI:1194883	Crx	cone-rod homeobox	7		chromatin binding	uses Rho		IDA		J:87337 	
+MGI:1194883	Crx	cone-rod homeobox	7		chromatin binding	uses Opn1sw		IDA		J:87337 	
+MGI:88548	Csnk2b	casein kinase 2, beta polypeptide	17		chromatin binding			ISO	P67870 	J:73065 	
+MGI:1201685	Ctbp1	C-terminal binding protein 1	5		chromatin binding	uses Ccne1		IDA		J:121427 	
+MGI:1201686	Ctbp2	C-terminal binding protein 2	7		chromatin binding			IDA		J:204716 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		chromatin binding			IDA		J:202816 J:204755 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		chromatin insulator sequence binding			ISO	P49711 	J:164563 	
+MGI:3652571	Ctcfl	CCCTC-binding factor (zinc finger protein)-like	2		chromatin insulator sequence binding			IBA	PTN002812834 	J:265628 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses UniProtKB:Q5SUF7,happens in dorsal thalamus		IDA		J:165064 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Pou3f2		IDA		J:89066 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Wnt11		IDA		J:125640 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Snai2		IDA		J:170963 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Hes2		IDA		J:158135 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Axin2		IDA		J:114817 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Edar		IDA		J:151982 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Pla2g7		IDA		J:171512 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses C1qtnf12		IDA		J:171512 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Tafa5		IDA		J:171512 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Ccn1		IDA		J:107256 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Hesx1		IDA		J:114817 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Ihh		IDA		J:119030 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Lef1		IDA		J:114817 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Sox2		IDA		J:170963 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	happens in heart,uses Gata6		IDA		J:158582 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	happens in future neurohypophysis,uses Pou1f1		IDA		J:114817 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	happens in epithelial cell of lung,happens in lung,uses Bmp4		IDA		J:99391 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	happens in epithelial cell of lung,happens in lung,uses Mycn		IDA		J:99391 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	happens in paneth cell,happens in small intestine crypt of lieberkuhn,uses Defa1		IDA		J:98680 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	happens in paneth cell,happens in small intestine crypt of lieberkuhn,uses Defa5		IDA		J:98680 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding			IDA		J:152705 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		chromatin binding	uses Sox17		IGI	MGI:1202879 	J:198627 	
+MGI:88568	Cux1	cut-like homeobox 1	5		chromatin binding	uses Trim61		IDA		J:100828 	
+MGI:2177632	Cys1	cystin 1	12		chromatin binding	happens in kidney collecting duct cell,uses Myc,uses SO:0000167		IDA		J:211149 	
+MGI:2144727	Ddx1	DEAD box helicase 1	12		chromatin binding			ISO	Q92499 	J:164563 	
+MGI:105037	Ddx5	DEAD box helicase 5	11		promoter-specific chromatin binding			IDA		J:240379 	
+MGI:2443590	Ddx11	DEAD/H box helicase 11	17		chromatin binding			ISO	Q96FC9 	J:164563 	
+MGI:1914290	Ddx17	DEAD box helicase 17	15		chromatin DNA binding	uses Abca1		IDA		J:264834 	
+MGI:108177	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	1		chromatin DNA binding			ISO	Q08211 	J:164563 	
+MGI:108177	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	1		promoter-specific chromatin binding			ISO	Q08211 	J:164563 	
+MGI:1920081	Dhx30	DEAH (Asp-Glu-Ala-His) box polypeptide 30	9		chromatin binding			ISO	Q7L2E3 	J:164563 	
+MGI:94901	Dlx1	distal-less homeobox 1	2		chromatin binding			IDA		J:88386 	
+MGI:94902	Dlx2	distal-less homeobox 2	2		chromatin binding			IDA		J:88386 	
+MGI:94903	Dlx3	distal-less homeobox 3	11		chromatin binding			IDA		J:184287 	
+MGI:1354733	Dmrt1	doublesex and mab-3 related transcription factor 1	19		chromatin binding	happens in testis		IDA		J:196366 	
+MGI:99470	Dnajc2	DnaJ heat shock protein family (Hsp40) member C2	5		chromatin binding			ISO	Q99543 	J:164563 	
+MGI:94912	Dnmt1	DNA methyltransferase (cytosine-5) 1	9		chromatin binding			IDA		J:202816 	
+MGI:94912	Dnmt1	DNA methyltransferase (cytosine-5) 1	9		promoter-specific chromatin binding			ISO	P26358 	J:164563 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		chromatin binding	uses Mt1		IDA		J:104088 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		chromatin binding			ISO	RGD:1303336 	J:155856 	
+MGI:1261819	Dnmt3b	DNA methyltransferase 3B	2		chromatin binding			ISO	RGD:1303274 	J:155856 	
+MGI:1923483	Dnttip1	deoxynucleotidyltransferase, terminal, interacting protein 1	2		nucleosome binding			IBA	PTN001157575 	J:265628 	
+MGI:1923483	Dnttip1	deoxynucleotidyltransferase, terminal, interacting protein 1	2		nucleosome binding			ISO	Q9H147 	J:164563 	
+MGI:2157523	Dppa2	developmental pluripotency associated 2	16		chromatin binding			IBA	PTN001815989 	J:265628 	
+MGI:2157523	Dppa2	developmental pluripotency associated 2	16		chromatin binding	uses Syce1		IDA		J:178324 	
+MGI:2157525	Dppa4	developmental pluripotency associated 4	16		chromatin binding			IBA	PTN001815989 	J:265628 	
+MGI:103012	E2f4	E2F transcription factor 4	8		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:103012	E2f4	E2F transcription factor 4	8		promoter-specific chromatin binding			ISO	Q16254 	J:216069 	
+MGI:894332	Ebf2	early B cell factor 2	14		chromatin binding	happens in brown fat cell,uses Prdm16		IDA		J:198125 	
+MGI:894332	Ebf2	early B cell factor 2	14		chromatin binding	happens in brown preadipocyte,uses Prdm16		IDA		J:198125 	
+MGI:1349469	Ecsit	ECSIT signalling integrator	9		chromatin binding			IDA		J:86912 	
+MGI:95286	Eed	embryonic ectoderm development	7		chromatin binding	uses Hoxa1		IDA		J:109525 	
+MGI:95286	Eed	embryonic ectoderm development	7		chromatin binding			IDA		J:202816 	
+MGI:95286	Eed	embryonic ectoderm development	7		chromatin binding			ISO	RGD:1309782 	J:155856 	
+MGI:95286	Eed	embryonic ectoderm development	7	contributes_to	nucleosome binding			IBA	PTN000028944 	J:265628 	
+MGI:95294	Egfr	epidermal growth factor receptor	11		chromatin binding			ISO	P00533 	J:164563 	
+MGI:95295	Egr1	early growth response 1	18		promoter-specific chromatin binding			ISO	RGD:2544 	J:155856 	
+MGI:95295	Egr1	early growth response 1	18		promoter-specific chromatin binding			ISO	P18146 	J:164563 	
+MGI:95296	Egr2	early growth response 2	10		chromatin binding			IDA		J:128960 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		promoter-specific chromatin binding			IDA		J:227373 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		promoter-specific chromatin binding			ISO	Q96KQ7 	J:73065 	
+MGI:101833	Elk1	ELK1, member of ETS oncogene family	X		chromatin binding			ISO	RGD:1598663 	J:155856 	
+MGI:102853	Elk4	ELK4, member of ETS oncogene family	1		chromatin binding			ISO	P28324 	J:164563 	
+MGI:1919286	Eny2	ENY2 transcription and export complex 2 subunit	15		chromatin binding			IBA	PTN000282153 	J:265628 	
+MGI:1201683	Eomes	eomesodermin	9		chromatin binding			IDA		J:176969 	
+MGI:1201683	Eomes	eomesodermin	9		chromatin DNA binding	happens in neocortex,uses Tbr1,uses Eomes,uses Pax6		IDA		J:266522 	
+MGI:1276116	Ep300	E1A binding protein p300	15		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:1276116	Ep300	E1A binding protein p300	15		chromatin binding			IDA		J:199171 J:230626 	
+MGI:1276116	Ep300	E1A binding protein p300	15		chromatin binding			ISO	RGD:620036 	J:155856 	
+MGI:1276116	Ep300	E1A binding protein p300	15		chromatin binding			ISO	Q09472 	J:164563 	
+MGI:1276116	Ep300	E1A binding protein p300	15		chromatin DNA binding			IBA	PTN000351795 	J:265628 	
+MGI:1276116	Ep300	E1A binding protein p300	15		chromatin DNA binding			IDA		J:136678 	
+MGI:1276116	Ep300	E1A binding protein p300	15		chromatin DNA binding			ISO	RGD:620036 	J:155856 	
+MGI:1276116	Ep300	E1A binding protein p300	15		promoter-specific chromatin binding			ISO	RGD:620036 	J:155856 	
+MGI:1276124	Ep400	E1A binding protein p400	5		chromatin binding			IBA	PTN008206595 	J:265628 	
+MGI:1276124	Ep400	E1A binding protein p400	5		chromatin binding			ISO	RGD:1304733 	J:155856 	
+MGI:2143991	Epop	elongin BC and polycomb repressive complex 2 associated protein	11		chromatin binding			IDA		J:238487 J:238488 	
+MGI:95412	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	7		promoter-specific chromatin binding	happens in liver		IDA		J:181994 	
+MGI:95414	Ercc3	excision repair cross-complementing rodent repair deficiency, complementation group 3	18		promoter-specific chromatin binding			IDA		J:181994 	
+MGI:1354163	Ercc4	excision repair cross-complementing rodent repair deficiency, complementation group 4	16		promoter-specific chromatin binding			IDA		J:181994 	
+MGI:1100494	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	14		chromatin binding			ISO	Q03468 	J:164563 	
+MGI:95415	Erg	ETS transcription factor	16		chromatin binding	uses Snai2		IDA		J:188920 	
+MGI:95415	Erg	ETS transcription factor	16		chromatin binding	uses Snai1		IDA		J:188920 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding	uses Il6		IDA		J:207622 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Mmp7		IDA		J:134051 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Cdkn1a		IDA		J:134051 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Ccnd1		IDA		J:134051 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Ltf		IDA		J:134051 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Myc		IDA		J:134051 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Pgr		IDA		J:134051 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		chromatin binding			ISO	P03372 	J:164563 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		promoter-specific chromatin binding			ISO	RGD:2581 	J:155856 	
+MGI:109392	Esr2	estrogen receptor 2 (beta)	12		promoter-specific chromatin binding			ISO	RGD:2582 	J:155856 	
+MGI:1917843	Evx1os	even skipped homeotic gene 1, opposite strand	6		chromatin binding			IDA		J:139748 	
+MGI:1349427	Exo1	exonuclease 1	1		chromatin binding			IDA		J:87869 	
+MGI:109339	Eya3	EYA transcriptional coactivator and phosphatase 3	4		chromatin binding			IGI	MGI:102780 	J:147237 	
+MGI:109339	Eya3	EYA transcriptional coactivator and phosphatase 3	4		chromatin binding			IGI	MGI:98310 	J:147237 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		chromatin binding			IBA	PTN000768863 	J:265628 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		chromatin binding			ISO	RGD:1305028 	J:155856 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin binding			IBA	PTN000768863 	J:265628 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin binding	happens in heart,happens in nucleus,uses Myh7		IDA		J:189224 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin binding	happens in basal cell of epidermis		IDA		J:218234 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin binding			IDA		J:93445 J:180185 J:202816 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin binding			ISO	RGD:1595860 	J:155856 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin binding			ISO	Q15910 	J:164563 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin DNA binding			IDA		J:134766 J:211907 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin DNA binding			ISO	Q15910 	J:164563 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		promoter-specific chromatin binding			ISO	Q15910 	J:164563 	
+MGI:2142208	Faap24	Fanconi anemia core complex associated protein 24	7		chromatin binding			IBA	PTN001273571 	J:265628 	
+MGI:2142208	Faap24	Fanconi anemia core complex associated protein 24	7		chromatin binding			ISO	Q9BTP7 	J:164563 	
+MGI:95479	Fabp1	fatty acid binding protein 1, liver	6		chromatin binding			IDA		J:93510 	
+MGI:2442306	Fancm	Fanconi anemia, complementation group M	12		chromatin binding			ISO	Q8IYD8 	J:164563 	
+MGI:1915484	Fcor	Foxo1 corepressor	8		chromatin binding			IDA		J:184684 	
+MGI:1859823	Fezf2	Fez family zinc finger 2	14		chromatin binding	uses Slc17a7		IDA		J:214959 	
+MGI:1859823	Fezf2	Fez family zinc finger 2	14		chromatin binding	uses Gad1		IDA		J:214959 	
+MGI:95554	Fli1	Friend leukemia integration 1	9		chromatin binding			IDA		J:139476 	
+MGI:95564	Fmr1	fragile X messenger ribonucleoprotein 1	X		chromatin binding			IDA		J:214397 	
+MGI:95574	Fos	FBJ osteosarcoma oncogene	12		chromatin binding	happens in diaphragm,uses Ankrd2		IDA		J:163557 	
+MGI:102858	Fosl2	fos-like antigen 2	5		chromatin binding			IDA		J:218234 	
+MGI:1347472	Foxa1	forkhead box A1	12		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:1347476	Foxa2	forkhead box A2	2		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:1347466	Foxc1	forkhead box C1	13		promoter-specific chromatin binding			IDA		J:221866 	
+MGI:1347481	Foxc2	forkhead box C2	8		chromatin DNA binding			ISO	Q99958 	J:164563 	
+MGI:1347481	Foxc2	forkhead box C2	8		chromatin DNA binding			ISS	Q99958 	J:40156 	
+MGI:1347481	Foxc2	forkhead box C2	8		promoter-specific chromatin binding			IDA		J:131323 	
+MGI:2151057	Foxn4	forkhead box N4	5		chromatin binding			IDA		J:181993 	
+MGI:1890077	Foxo1	forkhead box O1	3		chromatin DNA binding			IDA		J:270723 	
+MGI:1890077	Foxo1	forkhead box O1	3		promoter-specific chromatin binding	happens in SO:0001055,uses Agrp		IDA		J:184441 	
+MGI:1890081	Foxo3	forkhead box O3	10		chromatin DNA binding			IDA		J:210910 	
+MGI:1891915	Foxo4	forkhead box O4	X		promoter-specific chromatin binding			ISO	RGD:1561201 	J:155856 	
+MGI:1914004	Foxp1	forkhead box P1	6		chromatin binding	uses Cdkn1a		IDA		J:132982 	
+MGI:1353633	Fus	fused in sarcoma	7		chromatin binding			ISO	P35637 	J:164563 	
+MGI:95610	Gabpa	GA repeat binding protein, alpha	16		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:95610	Gabpa	GA repeat binding protein, alpha	16		chromatin binding			IDA		J:139476 	
+MGI:107799	Gadd45a	growth arrest and DNA-damage-inducible 45 alpha	6		promoter-specific chromatin binding	happens in liver		IDA		J:181994 	
+MGI:95661	Gata1	GATA binding protein 1	X		chromatin binding	uses Hba-a1		IDA		J:146089 	
+MGI:95661	Gata1	GATA binding protein 1	X		chromatin binding	uses Hbb-b1		IDA		J:146089 	
+MGI:95661	Gata1	GATA binding protein 1	X		chromatin binding	happens in dendritic cell,uses Ifng		IDA		J:127223 	
+MGI:95661	Gata1	GATA binding protein 1	X		chromatin binding	happens in dendritic cell,uses Spi1		IDA		J:127223 	
+MGI:95661	Gata1	GATA binding protein 1	X		chromatin binding			ISO	RGD:2663 	J:155856 	
+MGI:95661	Gata1	GATA binding protein 1	X		chromatin DNA binding			ISO	P15976 	J:164563 	
+MGI:95662	Gata2	GATA binding protein 2	6		chromatin binding	uses Runx1		IDA		J:132709 	
+MGI:95662	Gata2	GATA binding protein 2	6		chromatin binding			IDA		J:141137 	
+MGI:95662	Gata2	GATA binding protein 2	6		chromatin binding			ISO	P23769 	J:73065 	
+MGI:95664	Gata4	GATA binding protein 4	14		chromatin binding			IDA		J:171727 	
+MGI:107516	Gata6	GATA binding protein 6	18		chromatin binding			IDA		J:101354 	
+MGI:95727	Gli1	GLI-Kruppel family member GLI1	10		chromatin binding	happens in metanephros,uses Sall1		IDA		J:104380 	
+MGI:95727	Gli1	GLI-Kruppel family member GLI1	10		chromatin binding	happens in metanephros,uses Ccnd1		IDA		J:104380 	
+MGI:95727	Gli1	GLI-Kruppel family member GLI1	10		chromatin binding	happens in metanephros,uses Mycn		IDA		J:104380 	
+MGI:95727	Gli1	GLI-Kruppel family member GLI1	10		chromatin binding	happens in metanephros,uses Pax2		IDA		J:104380 	
+MGI:95727	Gli1	GLI-Kruppel family member GLI1	10		chromatin binding			IDA		J:121411 	
+MGI:95727	Gli1	GLI-Kruppel family member GLI1	10		chromatin binding			ISO	P08151 	J:164563 	
+MGI:95728	Gli2	GLI-Kruppel family member GLI2	1		chromatin binding	happens in metanephros,uses Sall1		IDA		J:104380 	
+MGI:95728	Gli2	GLI-Kruppel family member GLI2	1		chromatin binding	happens in metanephros,uses Ccnd1		IDA		J:104380 	
+MGI:95728	Gli2	GLI-Kruppel family member GLI2	1		chromatin binding	happens in metanephros,uses Mycn		IDA		J:104380 	
+MGI:95728	Gli2	GLI-Kruppel family member GLI2	1		chromatin binding	happens in metanephros,uses Pax2		IDA		J:104380 	
+MGI:95728	Gli2	GLI-Kruppel family member GLI2	1		promoter-specific chromatin binding			IDA		J:221866 	
+MGI:95728	Gli2	GLI-Kruppel family member GLI2	1		promoter-specific chromatin binding			ISO	P10070 	J:164563 	
+MGI:95729	Gli3	GLI-Kruppel family member GLI3	13		chromatin binding	happens in metanephros,uses Sall1		IGI	MGI:108075 	J:104380 	
+MGI:95729	Gli3	GLI-Kruppel family member GLI3	13		chromatin binding	happens in metanephros,uses Pax2		IGI	MGI:108075 	J:104380 	
+MGI:1921272	Glyr1	glyoxylate reductase 1 homolog (Arabidopsis)	16		chromatin binding			IDA		J:281258 	
+MGI:1921272	Glyr1	glyoxylate reductase 1 homolog (Arabidopsis)	16		chromatin binding			ISO	Q49A26 	J:164563 	
+MGI:1921272	Glyr1	glyoxylate reductase 1 homolog (Arabidopsis)	16		nucleosome binding			ISO	Q49A26 	J:164563 	
+MGI:5012564	Gm20379	predicted gene, 20379	13		chromatin binding			IBA	PTN000557317 	J:265628 	
+MGI:2685452	Gmnc	geminin coiled-coil domain containing	16		chromatin binding			IEA	IPR029700 	J:72247 	
+MGI:1924104	Gper1	G protein-coupled estrogen receptor 1	5		chromatin binding			ISO	Q99527 	J:164563 	
+MGI:2182540	Grhl1	grainyhead like transcription factor 1	12		chromatin DNA binding			ISO	Q9NZI5 	J:164563 	
+MGI:2182543	Grhl2	grainyhead like transcription factor 2	15		chromatin binding			IDA		J:220468 	
+MGI:2182543	Grhl2	grainyhead like transcription factor 2	15		chromatin DNA binding			ISO	Q6ISB3 	J:164563 	
+MGI:2655333	Grhl3	grainyhead like transcription factor 3	4		chromatin DNA binding			ISO	Q8TE85 	J:164563 	
+MGI:2141989	Grwd1	glutamate-rich WD repeat containing 1	7		chromatin binding			ISO	Q9BQ67 	J:164563 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		promoter-specific chromatin binding	happens in liver		IDA		J:181994 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		promoter-specific chromatin binding			ISO	Q00403 	J:164563 	
+MGI:1923848	Gtf2f1	general transcription factor IIF, polypeptide 1	17		promoter-specific chromatin binding			ISO	P35269 	J:164563 	
+MGI:1277216	Gtf2h1	general transcription factor II H, polypeptide 1	7		chromatin binding			ISO	RGD:1308225 	J:155856 	
+MGI:95893	H1f0	H1.0 linker histone	15		chromatin DNA binding			ISO	P07305 	J:164563 	
+MGI:95893	H1f0	H1.0 linker histone	15		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:1931523	H1f1	H1.1 linker histone, cluster member	13		chromatin DNA binding			ISO	Q02539 	J:164563 	
+MGI:1931523	H1f1	H1.1 linker histone, cluster member	13		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:1931526	H1f2	H1.2 linker histone, cluster member	13		chromatin DNA binding			ISO	P16403 	J:164563 	
+MGI:1931526	H1f2	H1.2 linker histone, cluster member	13		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:107502	H1f3	H1.3 linker histone, cluster member	13		chromatin DNA binding			ISO	P16402 	J:164563 	
+MGI:107502	H1f3	H1.3 linker histone, cluster member	13		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:1931527	H1f4	H1.4 linker histone, cluster member	13		chromatin DNA binding			ISO	P10412 	J:164563 	
+MGI:1931527	H1f4	H1.4 linker histone, cluster member	13		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:1861461	H1f5	H1.5 linker histone, cluster member	13		chromatin DNA binding			ISO	P16401 	J:164563 	
+MGI:1861461	H1f5	H1.5 linker histone, cluster member	13		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:1888530	H1f6	H1.6 linker histone, cluster member	13		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:2176207	H1f8	H1.8 linker histone	6		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:2176207	H1f8	H1.8 linker histone	6		nucleosomal DNA binding			IDA		J:207809 	
+MGI:2136691	H1f9	H1.9 linker histone	11		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:2685307	H1f10	H1.10 linker histone	6		nucleosomal DNA binding			IBA	PTN000157378 	J:265628 	
+MGI:1888388	H2az1	H2A.Z variant histone 1	3		chromatin DNA binding			ISO	P0C0S5 	J:164563 	
+MGI:1888388	H2az1	H2A.Z variant histone 1	3		nucleosomal DNA binding			ISO	P0C0S5 	J:164563 	
+MGI:2448355	H3c14	H3 clustered histone 14	3		chromatin binding			IDA		J:148710 	
+MGI:1097686	H3f3a	H3.3 histone A	1		nucleosomal DNA binding			ISO	P84243 	J:164563 	
+MGI:1101768	H3f3b	H3.3 histone B	11		nucleosomal DNA binding			ISO	P84243 	J:164563 	
+MGI:105942	Hcfc1	host cell factor C1	X		chromatin binding			ISO	P51610 	J:164563 	
+MGI:105942	Hcfc1	host cell factor C1	X		chromatin DNA binding			IDA		J:187380 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin binding	uses Gh		IDA		J:121427 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin binding	uses Mc2r		IDA		J:104056 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin binding	uses Pparg		IDA		J:130039 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin binding	happens in future neurohypophysis,uses Hesx1		IDA		J:114817 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin binding			IDA		J:96437 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin binding			ISO	RGD:1309799 	J:155856 	
+MGI:108086	Hdac1	histone deacetylase 1	4		promoter-specific chromatin binding			IDA		J:227373 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		chromatin binding			IDA		J:121427 J:140120 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		chromatin DNA binding			IDA		J:136678 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		promoter-specific chromatin binding			ISO	RGD:619976 	J:155856 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		chromatin binding			IDA		J:98847 J:210667 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		chromatin binding			ISO	RGD:619977 	J:155856 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		chromatin binding			ISO	O15379 	J:164563 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		chromatin DNA binding			IDA		J:136678 J:297718 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		chromatin binding	happens in Gr1-high myeloid suppressor cell		IDA		J:215277 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		promoter-specific chromatin binding			ISO	RGD:619979 	J:155856 	
+MGI:1333784	Hdac5	histone deacetylase 5	11		chromatin binding			ISO	RGD:619980 	J:155856 	
+MGI:1891835	Hdac7	histone deacetylase 7	15		chromatin binding	uses Mc2r		IDA		J:104056 	
+MGI:1917565	Hdac8	histone deacetylase 8	X		chromatin binding			ISO	RGD:1562895 	J:155856 	
+MGI:1194492	Hdgfl2	HDGF like 2	17	NOT	chromatin binding		PR:Q3UMU9-1	IDA		J:194138 	
+MGI:1194492	Hdgfl2	HDGF like 2	17		chromatin binding		PR:Q3UMU9-4	IDA		J:194138 	
+MGI:1352760	Hdgfl3	HDGF like 3	7		chromatin binding			NAS		J:114706 	
+MGI:106209	Hells	helicase, lymphoid specific	19		chromatin binding			IBA	PTN002245661 	J:265628 	
+MGI:106209	Hells	helicase, lymphoid specific	19		chromatin binding			IDA		J:93871 	
+MGI:104853	Hes1	hes family bHLH transcription factor 1	16		chromatin binding			ISO	RGD:62081 	J:155856 	
+MGI:104876	Hes5	hes family bHLH transcription factor 5	4		chromatin binding			ISO	Q03062 	J:73065 	
+MGI:96071	Hesx1	homeobox gene expressed in ES cells	14		chromatin binding	happens in future neurohypophysis,uses Pou1f1		IDA		J:114817 	
+MGI:96086	Hhex	hematopoietically expressed homeobox	19		chromatin binding	uses Esm1		IDA		J:110528 	
+MGI:2429620	Hinfp	histone H4 transcription factor	9		chromatin binding			IDA		J:125640 	
+MGI:99430	Hira	histone cell cycle regulator	16	contributes_to	nucleosome binding			IBA	PTN000352669 	J:265628 	
+MGI:96160	Hmga1	high mobility group AT-hook 1	17		chromatin binding			IDA		J:222150 	
+MGI:101761	Hmga2	high mobility group AT-hook 2	10		nucleosomal DNA binding			ISO	P52926 	J:164563 	
+MGI:96120	Hmgn1	high mobility group nucleosomal binding domain 1	16		chromatin binding			IBA	PTN000557317 	J:265628 	
+MGI:96120	Hmgn1	high mobility group nucleosomal binding domain 1	16		chromatin binding			IDA		J:100282 	
+MGI:96120	Hmgn1	high mobility group nucleosomal binding domain 1	16		nucleosomal DNA binding			IEA	IPR000079 	J:72247 	
+MGI:96136	Hmgn2	high mobility group nucleosomal binding domain 2	4		chromatin binding			IBA	PTN000557317 	J:265628 	
+MGI:2138069	Hmgn3	high mobility group nucleosomal binding domain 3	9		chromatin binding			IBA	PTN000557317 	J:265628 	
+MGI:2138069	Hmgn3	high mobility group nucleosomal binding domain 3	9		chromatin binding	uses Slc2a2		IDA		J:153774 	
+MGI:2138069	Hmgn3	high mobility group nucleosomal binding domain 3	9		chromatin binding	uses Slc6a9	PR:Q9DCB1-1	IDA		J:89912 	
+MGI:2138069	Hmgn3	high mobility group nucleosomal binding domain 3	9		chromatin binding			IDA		J:70338 	
+MGI:2138069	Hmgn3	high mobility group nucleosomal binding domain 3	9		chromatin binding			ISS		J:70338 	
+MGI:2138069	Hmgn3	high mobility group nucleosomal binding domain 3	9		nucleosomal DNA binding			IEA	IPR000079 	J:72247 	
+MGI:1355295	Hmgn5	high-mobility group nucleosome binding domain 5	X		chromatin binding			IDA		J:60860 	
+MGI:1355295	Hmgn5	high-mobility group nucleosome binding domain 5	X		nucleosomal DNA binding			IEA	IPR000079 	J:72247 	
+MGI:98504	Hnf1a	HNF1 homeobox A	5		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:109128	Hnf4a	hepatic nuclear factor 4, alpha	2		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:101947	Hnrnpd	heterogeneous nuclear ribonucleoprotein D	5		chromatin binding			ISO	RGD:620365 	J:155856 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		chromatin binding			ISO	Q00839 	J:164563 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		chromatin DNA binding			ISO	Q00839 	J:164563 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		promoter-specific chromatin binding			IBA	PTN002644654 	J:265628 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		promoter-specific chromatin binding			IDA		J:243396 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		promoter-specific chromatin binding			ISO	RGD:620372 	J:155856 	
+MGI:99560	Hoxc13	homeobox C13	15		chromatin binding			IDA		J:182085 	
+MGI:96202	Hoxd10	homeobox D10	2		chromatin binding	uses Shh		IDA		J:109528 	
+MGI:96205	Hoxd13	homeobox D13	2		chromatin binding	uses Shh		IDA		J:109528 	
+MGI:109369	Hp1bp3	heterochromatin protein 1, binding protein 3	4		chromatin binding			IEA	IPR033061 	J:72247 	
+MGI:109369	Hp1bp3	heterochromatin protein 1, binding protein 3	4		nucleosome binding			IBA	PTN002697315 	J:265628 	
+MGI:109369	Hp1bp3	heterochromatin protein 1, binding protein 3	4		nucleosome binding			ISO	Q5SSJ5 	J:164563 	
+MGI:1919862	Hpf1	histone PARylation factor 1	8		chromatin binding			ISO	Q9NWY4 	J:164563 	
+MGI:96223	Hr	lysine demethylase and nuclear receptor corepressor	14		chromatin DNA binding			IBA	PTN000284569 	J:265628 	
+MGI:96238	Hsf1	heat shock factor 1	15		chromatin binding	happens in oocyte		IDA		J:175085 	
+MGI:96238	Hsf1	heat shock factor 1	15		chromatin DNA binding			ISO	Q00613 	J:164563 	
+MGI:96238	Hsf1	heat shock factor 1	15		promoter-specific chromatin binding			ISO	RGD:620913 	J:155856 	
+MGI:3045337	Hsf3	heat shock transcription factor 3	X		chromatin DNA binding			IDA		J:159048 	
+MGI:1914944	Ift74	intraflagellar transport 74	4		chromatin binding			IDA		J:169637 	
+MGI:1342542	Ikzf3	IKAROS family zinc finger 3	11		promoter-specific chromatin binding			ISO	Q9UKT9 	J:164563 	
+MGI:1914393	Ikzf5	IKAROS family zinc finger 5	7		chromatin binding			ISO	Q9H5V7 	J:164563 	
+MGI:1916510	Ing2	inhibitor of growth family, member 2	8		chromatin binding			IEA	IPR028639 	J:72247 	
+MGI:1922816	Ing5	inhibitor of growth family, member 5	1		chromatin binding			IBA	PTN002569475 	J:265628 	
+MGI:1922816	Ing5	inhibitor of growth family, member 5	1		chromatin binding	uses Tbx2		IDA		J:188772 	
+MGI:1922816	Ing5	inhibitor of growth family, member 5	1		chromatin binding	uses Tbx3		IDA		J:188772 	
+MGI:1922816	Ing5	inhibitor of growth family, member 5	1		chromatin binding	uses Tbx5		IGI	MGI:2442415 	J:188772 	
+MGI:1922816	Ing5	inhibitor of growth family, member 5	1		chromatin binding	uses Tbx1		IGI	MGI:2442415 	J:188772 	
+MGI:1859980	Insm1	insulinoma-associated 1	2		chromatin DNA binding			ISO	Q01101 	J:164563 	
+MGI:1859179	Irf3	interferon regulatory factor 3	7		promoter-specific chromatin binding	is a part of cellular response to virus,happens in macrophage,uses Il23a		IDA		J:141299 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	uses Neurod4,uses SO:0000165		IDA		J:174563 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Pou4f2		IDA		J:134978 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Pou4f1		IDA		J:134978 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Isl2		IDA		J:134978 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Shh		IDA		J:134978 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding			IDA		J:158135 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		promoter-specific chromatin binding			IDA		J:239195 	
+MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13		chromatin binding			IDA		J:157630 J:157724 	
+MGI:1932093	Jdp2	Jun dimerization protein 2	12		chromatin binding	uses Cebpd		IDA		J:139241 	
+MGI:1932093	Jdp2	Jun dimerization protein 2	12		chromatin binding	uses Cebpb		IDA		J:139241 	
+MGI:1918614	Jmjd1c	jumonji domain containing 1C	10		chromatin DNA binding			IBA	PTN000284569 	J:265628 	
+MGI:96646	Jun	jun proto-oncogene	4		chromatin binding	uses Sqstm1		IDA		J:205012 	
+MGI:96646	Jun	jun proto-oncogene	4		chromatin binding	uses Map1lc3b		IDA		J:205012 	
+MGI:96646	Jun	jun proto-oncogene	4		chromatin binding	happens in diaphragm,uses Ankrd2		IDA		J:163557 	
+MGI:96646	Jun	jun proto-oncogene	4		chromatin binding			IDA		J:163557 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		chromatin binding	uses Mc2r		IDA		J:104056 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		chromatin binding			IDA		J:198562 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		chromatin binding			ISO	RGD:1307242 	J:155856 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		chromatin binding			ISO	Q92830 	J:164563 	
+MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		chromatin binding			IDA		J:230626 	
+MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		chromatin binding			ISO	RGD:1305902 	J:155856 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		chromatin binding			IDA		J:293083 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		chromatin binding			ISO	RGD:621061 	J:155856 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		chromatin binding			ISO	Q92993 	J:164563 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		chromatin binding	uses Tbx5		IGI	MGI:1922816 	J:188772 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		chromatin binding	uses Tbx1		IGI	MGI:1922816 	J:188772 	
+MGI:1926855	Kcnq1ot1	KCNQ1 overlapping transcript 1	7		chromatin binding	happens in placenta		IDA		J:163857 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding			IBA	PTN002473317 	J:265628 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding	happens in future neurohypophysis,uses Hey1		IDA		J:121427 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding	happens in future neurohypophysis,uses Ccne1		IDA		J:121427 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding	happens in future neurohypophysis,uses Pou1f1		IDA		J:121427 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding	happens in future neurohypophysis,uses Prl		IDA		J:121427 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding	happens in future neurohypophysis,uses Tshb		IDA		J:121427 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding			ISO	RGD:1562975 	J:155856 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin binding			ISO	O60341 	J:164563 J:208295 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		promoter-specific chromatin binding			IDA		J:150066 	
+MGI:2145261	Kdm1b	lysine (K)-specific demethylase 1B	13		chromatin binding			IBA	PTN002473317 	J:265628 	
+MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		chromatin binding			IDA		J:127121 J:142786 	
+MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		chromatin DNA binding			IBA	PTN000284569 	J:265628 	
+MGI:1923356	Kdm3b	KDM3B lysine (K)-specific demethylase 3B	18		chromatin DNA binding			IBA	PTN000284569 	J:265628 	
+MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		chromatin DNA binding			IDA		J:6795 	
+MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		chromatin binding			IDA		J:157630 	
+MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		chromatin DNA binding			IDA		J:134766 	
+MGI:1095419	Kdm6a	lysine (K)-specific demethylase 6A	X		chromatin DNA binding			IBA	PTN000361179 	J:265628 	
+MGI:1095419	Kdm6a	lysine (K)-specific demethylase 6A	X		chromatin DNA binding			IDA		J:200020 	
+MGI:1095419	Kdm6a	lysine (K)-specific demethylase 6A	X		promoter-specific chromatin binding			ISO	RGD:9275041 	J:155856 	
+MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		chromatin binding			ISO	RGD:1307629 	J:155856 	
+MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		chromatin DNA binding			IBA	PTN000361179 	J:265628 	
+MGI:1924285	Kdm8	lysine (K)-specific demethylase 8	7		chromatin binding			ISO	Q8N371 	J:164563 	
+MGI:1342287	Klf4	Kruppel-like factor 4 (gut)	4		chromatin DNA binding			IDA		J:297718 	
+MGI:1342287	Klf4	Kruppel-like factor 4 (gut)	4		promoter-specific chromatin binding			ISO	O43474 	J:164563 	
+MGI:3577024	Klf14	Kruppel-like factor 14	6		chromatin binding	uses Sphk1		IDA		J:214105 	
+MGI:2651568	Klhdc3	kelch domain containing 3	17		chromatin binding			IBA	PTN001146107 	J:265628 	
+MGI:2651568	Klhdc3	kelch domain containing 3	17		chromatin binding			ISO	Q9BQ90 	J:164563 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		chromatin binding	uses Cdkn1b		IDA		J:96252 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		chromatin binding	uses Cdkn2c		IDA		J:96252 	
+MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		chromatin binding			ISO	Q4FZB7 	J:164563 	
+MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		chromatin binding			ISO	Q86Y97 	J:164563 	
+MGI:2676663	L3mbtl1	L3MBTL1 histone methyl-lysine binding protein	2		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2676663	L3mbtl1	L3MBTL1 histone methyl-lysine binding protein	2		chromatin binding			ISO	Q9Y468 	J:164563 	
+MGI:2676663	L3mbtl1	L3MBTL1 histone methyl-lysine binding protein	2		nucleosome binding			ISO	Q9Y468 	J:164563 	
+MGI:2443584	L3mbtl2	L3MBTL2 polycomb repressive complex 1 subunit	15		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2443584	L3mbtl2	L3MBTL2 polycomb repressive complex 1 subunit	15		promoter-specific chromatin binding			IDA		J:227373 	
+MGI:2143628	L3mbtl3	L3MBTL3 histone methyl-lysine binding protein	10		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2143628	L3mbtl3	L3MBTL3 histone methyl-lysine binding protein	10		chromatin binding			ISO	Q96JM7 	J:164563 	
+MGI:2444889	L3mbtl4	L3MBTL4 histone methyl-lysine binding protein	17		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2443930	Lcor	ligand dependent nuclear receptor corepressor	19		chromatin binding	uses Gh		IDA		J:121427 	
+MGI:894762	Ldb1	LIM domain binding 1	19		chromatin binding	uses Hba-a1		IDA		J:146089 	
+MGI:894762	Ldb1	LIM domain binding 1	19		chromatin binding	uses Hbb-b1		IDA		J:146089 	
+MGI:894762	Ldb1	LIM domain binding 1	19		chromatin binding	happens in erythroid lineage cell,uses Klf1		IDA		J:139179 	
+MGI:894762	Ldb1	LIM domain binding 1	19		chromatin binding	happens in erythroid lineage cell		IDA		J:139179 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	uses Pou3f2		IDA		J:89066 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	uses Mitf		IDA		J:89066 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	uses Ihh		IDA		J:119030 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	happens in future neurohypophysis,uses Pou1f1		IDA		J:114817 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Mmp7		IDA		J:134051 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Cdkn1a		IDA		J:134051 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Ccnd1		IDA		J:134051 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Ltf		IDA		J:134051 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Myc		IDA		J:134051 	
+MGI:2385045	Lemd2	LEM domain containing 2	17		chromatin DNA binding			IBA	PTN001412150 	J:265628 	
+MGI:3580376	Lemd3	LEM domain containing 3	10		chromatin DNA binding			IBA	PTN001412150 	J:265628 	
+MGI:96785	Lhx2	LIM homeobox protein 2	2		chromatin binding	happens in somatic stem cell,happens in hair follicle		IDA		J:202029 	
+MGI:96785	Lhx2	LIM homeobox protein 2	2		chromatin binding			IDA		J:145977 	
+MGI:102811	Lmo2	LIM domain only 2	2		chromatin binding	uses Hba-a1		IDA		J:146089 	
+MGI:102811	Lmo2	LIM domain only 2	2		chromatin binding	uses Hbb-b1		IDA		J:146089 	
+MGI:102811	Lmo2	LIM domain only 2	2		chromatin binding	uses Runx1		IDA		J:132709 	
+MGI:1918985	Lrwd1	leucine-rich repeats and WD repeat domain containing 1	5		chromatin binding			IBA	PTN001556497 	J:265628 	
+MGI:1918985	Lrwd1	leucine-rich repeats and WD repeat domain containing 1	5		chromatin binding			ISO	Q9UFC0 	J:164563 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		chromatin binding			IDA		J:77519 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		chromatin DNA binding			ISO	O75367 	J:164563 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		nucleosomal DNA binding			IDA		J:219091 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		nucleosomal DNA binding			ISO	O75367 	J:164563 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		promoter-specific chromatin binding			IDA		J:219091 	
+MGI:3037658	Macroh2a2	macroH2A.2 histone	10		chromatin DNA binding			ISO	Q9P0M6 	J:164563 	
+MGI:2652894	Mapk15	mitogen-activated protein kinase 15	15		chromatin binding			ISO	Q8TD08 	J:164563 	
+MGI:1338823	Maz	MYC-associated zinc finger protein (purine-binding transcription factor)	7		chromatin binding	uses Efnb2		IDA		J:147470 	
+MGI:1338823	Maz	MYC-associated zinc finger protein (purine-binding transcription factor)	7		chromatin binding	happens in cell of skeletal muscle,uses Ckm		IDA		J:140560 	
+MGI:1333811	Mbd1	methyl-CpG binding domain protein 1	18		chromatin binding			ISO	RGD:1305980 	J:155856 	
+MGI:1333813	Mbd2	methyl-CpG binding domain protein 2	18		chromatin binding	uses Ugt8a		IDA		J:109103 	
+MGI:1333813	Mbd2	methyl-CpG binding domain protein 2	18		chromatin binding	uses Lect2		IDA		J:140355 	
+MGI:1333813	Mbd2	methyl-CpG binding domain protein 2	18		chromatin binding			ISO	RGD:1595452 	J:155856 	
+MGI:1333812	Mbd3	methyl-CpG binding domain protein 3	10		chromatin binding	uses Mt1		IDA		J:104088 	
+MGI:2138934	Mbd5	methyl-CpG binding domain protein 5	2		chromatin binding			IBA	PTN001441502 	J:265628 	
+MGI:2138934	Mbd5	methyl-CpG binding domain protein 5	2		chromatin binding			ISO	Q9P267 	J:164563 	
+MGI:106378	Mbd6	methyl-CpG binding domain protein 6	10		chromatin binding			IBA	PTN001441502 	J:265628 	
+MGI:106378	Mbd6	methyl-CpG binding domain protein 6	10		chromatin binding			ISO	Q96DN6 	J:164563 	
+MGI:2143977	Mbtd1	mbt domain containing 1	11		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:1930089	Mcm3ap	minichromosome maintenance complex component 3 associated protein	10		chromatin binding			ISO	O60318 	J:164563 	
+MGI:1913884	Mcm8	minichromosome maintenance 8 homologous recombination repair factor	2		chromatin binding			ISO	Q9UJA3 	J:164563 	
+MGI:1918817	Mcm9	minichromosome maintenance 9 homologous recombination repair factor	10		chromatin binding	happens at the same time as cellular response to DNA damage stimulus		IDA		J:203320 	
+MGI:1918817	Mcm9	minichromosome maintenance 9 homologous recombination repair factor	10		chromatin binding			ISO	Q9NXL9 	J:164563 	
+MGI:1920977	Mcmbp	minichromosome maintenance complex binding protein	7		chromatin binding			IBA	PTN000337082 	J:265628 	
+MGI:1920977	Mcmbp	minichromosome maintenance complex binding protein	7		chromatin binding			ISO	Q9BTE3 	J:164563 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		chromatin binding			IBA	PTN002688232 	J:265628 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		chromatin binding		PR:Q9Z2D6-1	IDA		J:138474 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		chromatin binding		PR:Q9Z2D6-2	IDA		J:138474 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		chromatin binding			IDA		J:96437 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		chromatin binding			ISO	RGD:3075 	J:155856 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		chromatin DNA binding			ISO	RGD:3075 	J:155856 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		promoter-specific chromatin binding	uses Uqcrc1		IDA		J:110323 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		promoter-specific chromatin binding			ISO	RGD:3075 	J:155856 	
+MGI:1100846	Med1	mediator complex subunit 1	11		chromatin binding	happens in embryonic stem cell,uses Pou5f1		IDA		J:164442 	
+MGI:1100846	Med1	mediator complex subunit 1	11		chromatin binding	happens in embryonic stem cell,uses Nanog		IDA		J:164442 	
+MGI:1100846	Med1	mediator complex subunit 1	11		chromatin binding			IDA		J:80609 	
+MGI:1100846	Med1	mediator complex subunit 1	11		chromatin binding			ISO	RGD:1559552 	J:155856 	
+MGI:1100846	Med1	mediator complex subunit 1	11		chromatin binding			ISO	Q15648 	J:164563 	
+MGI:1100846	Med1	mediator complex subunit 1	11		chromatin DNA binding			ISO	RGD:1559552 	J:155856 	
+MGI:1100846	Med1	mediator complex subunit 1	11		promoter-specific chromatin binding	happens in liver		IDA		J:181994 	
+MGI:1100846	Med1	mediator complex subunit 1	11		promoter-specific chromatin binding	is a part of transcription by RNA polymerase II		IDA		J:262213 	
+MGI:1926212	Med12	mediator complex subunit 12	X		chromatin binding	happens in embryonic stem cell,uses Pou5f1		IDA		J:164442 	
+MGI:1926212	Med12	mediator complex subunit 12	X		chromatin binding	happens in embryonic stem cell,uses Nanog		IDA		J:164442 	
+MGI:99532	Mef2a	myocyte enhancer factor 2A	7		chromatin binding			IDA		J:110295 J:133573 J:171727 	
+MGI:99532	Mef2a	myocyte enhancer factor 2A	7		chromatin binding			ISO	Q02078 	J:164563 	
+MGI:99458	Mef2c	myocyte enhancer factor 2C	13		chromatin binding			IDA		J:172163 	
+MGI:1922428	Meiob	meiosis specific with OB domains	17		chromatin binding			IDA		J:203426 	
+MGI:1922428	Meiob	meiosis specific with OB domains	17		chromatin binding			IMP		J:204663 	
+MGI:104717	Meis1	Meis homeobox 1	11		chromatin binding	uses Efnb2		IDA		J:147470 	
+MGI:108519	Meis3	Meis homeobox 3	7		chromatin binding	uses Pdpk1		IDA		J:166594 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding			IBA	PTN000976222 	J:265628 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding	uses Cdkn1b		IDA		J:96252 J:102494 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding	uses Cdkn2c		IDA		J:96252 J:102494 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding	uses Hoxa9		IDA		J:105708 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding			ISO	RGD:3078 	J:155856 	
+MGI:103220	Meox1	mesenchyme homeobox 1	11		chromatin binding			IDA		J:89068 	
+MGI:2140270	Mexis	macrophage expressed LXRa(NR1H3)-dependent amplifier of Abca1 transcription lncRNA	4		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Abca1		IMP	MGI:6403491 	J:264834 	
+MGI:3718461	Mir208b	microRNA 208b	14		chromatin binding			IDA		J:211907 	
+MGI:104554	Mitf	melanogenesis associated transcription factor	6		chromatin binding	uses Dct		IDA		J:96431 	
+MGI:1859353	Mkrn1	makorin, ring finger protein, 1	6		chromatin binding			IDA		J:93510 	
+MGI:101938	Mlh1	mutL homolog 1	9		chromatin binding			IDA		J:87869 	
+MGI:101938	Mlh1	mutL homolog 1	9		chromatin binding			ISO	P40692 	J:164563 	
+MGI:1353455	Mlh3	mutL homolog 3	12		chromatin binding			IDA		J:78200 	
+MGI:1917372	Mllt3	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3	4		chromatin binding			ISO	P42568 	J:164563 	
+MGI:1935145	Mllt6	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 6	11		nucleosome binding			IBA	PTN000350611 	J:265628 	
+MGI:1935145	Mllt6	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 6	11		nucleosome binding			ISO	P55198 	J:164563 	
+MGI:1329038	Mllt10	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 10	2		chromatin binding			ISO	P55197 	J:164563 	
+MGI:1329038	Mllt10	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 10	2		nucleosome binding			IBA	PTN000350611 	J:265628 	
+MGI:1329038	Mllt10	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 10	2		nucleosome binding			ISO	P55197 	J:164563 	
+MGI:109150	Mnt	max binding protein	11		chromatin binding			IDA		J:104074 	
+MGI:1921772	Morc2a	microrchidia 2A	11		chromatin binding			ISO	Q9Y6X9 	J:164563 	
+MGI:3045293	Morc2b	microrchidia 2B	17		chromatin binding			ISO	Q9Y6X9 	J:164563 	
+MGI:1096551	Morf4l1	mortality factor 4 like 1	9		chromatin binding	uses Hba-a1		IDA		J:92967 	
+MGI:1922589	Mphosph8	M-phase phosphoprotein 8	14		chromatin binding			ISO	Q99549 	J:164563 	
+MGI:1915317	Mrnip	MRN complex interacting protein	11		chromatin binding			IBA	PTN001439267 	J:265628 	
+MGI:1915317	Mrnip	MRN complex interacting protein	11		chromatin binding			ISO	Q6NTE8 	J:164563 	
+MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Dll1		IDA		J:205649 	
+MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Lfng		IDA		J:205649 	
+MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Dll3		IDA		J:205649 	
+MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Maml3		IDA		J:205649 	
+MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Notch1		IDA		J:205649 	
+MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Notch2		IDA		J:205649 	
+MGI:101816	Msh2	mutS homolog 2	17		chromatin binding			ISO	P43246 	J:164563 	
+MGI:1343961	Msh6	mutS homolog 6	17		chromatin binding	happens in lymphocyte,happens in EMAPA:18767		IDA		J:110906 	
+MGI:1921276	Msl1	male specific lethal 1	11		chromatin binding			IBA	PTN001092398 	J:265628 	
+MGI:2150037	Mta1	metastasis associated 1	12		chromatin binding			IEA	IPR001025 	J:72247 	
+MGI:1346340	Mta2	metastasis-associated gene family, member 2	19		chromatin binding			IEA	IPR001025 	J:72247 	
+MGI:2151172	Mta3	metastasis associated 3	17		chromatin binding			IEA	IPR001025 	J:72247 	
+MGI:105050	Mtf2	metal response element binding transcription factor 2	5		chromatin binding			IBA	PTN000290238 	J:265628 	
+MGI:99925	Mybl1	myeloblastosis oncogene-like 1	1		promoter-specific chromatin binding	happens in testis		IDA		J:232147 	
+MGI:97275	Myod1	myogenic differentiation 1	7		chromatin binding	uses Myog		IDA		J:142475 	
+MGI:97275	Myod1	myogenic differentiation 1	7		chromatin binding			IDA		J:206594 J:230626 	
+MGI:97275	Myod1	myogenic differentiation 1	7		chromatin DNA binding	generates Mymk		IDA		J:216211 	
+MGI:97275	Myod1	myogenic differentiation 1	7		chromatin DNA binding			IDA		J:200312 	
+MGI:97275	Myod1	myogenic differentiation 1	7		promoter-specific chromatin binding			IDA		J:259135 	
+MGI:97276	Myog	myogenin	1		chromatin DNA binding	generates Mymk		IDA		J:216211 	
+MGI:97276	Myog	myogenin	1		chromatin DNA binding			IDA		J:200312 J:203388 	
+MGI:1919200	Nanog	Nanog homeobox	6		chromatin binding			IDA		J:138113 	
+MGI:1855693	Nap1l1	nucleosome assembly protein 1-like 1	10		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:106654	Nap1l2	nucleosome assembly protein 1-like 2	X		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:106654	Nap1l2	nucleosome assembly protein 1-like 2	X		chromatin binding			IDA		J:125048 	
+MGI:1859565	Nap1l3	nucleosome assembly protein 1-like 3	X		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:1316687	Nap1l4	nucleosome assembly protein 1-like 4	7		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:1316687	Nap1l4	nucleosome assembly protein 1-like 4	7		nucleosome binding			ISO	Q99733 	J:164563 	
+MGI:1923555	Nap1l5	nucleosome assembly protein 1-like 5	6		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:2444777	Ncaph	non-SMC condensin I complex, subunit H	2		chromatin binding			IBA	PTN000318716 	J:265628 	
+MGI:2444777	Ncaph	non-SMC condensin I complex, subunit H	2		chromatin binding			IDA		J:195518 	
+MGI:1289164	Ncaph2	non-SMC condensin II complex, subunit H2	15		chromatin binding			IBA	PTN001285342 	J:265628 	
+MGI:1276523	Ncoa1	nuclear receptor coactivator 1	12		chromatin binding	uses Mc2r		IDA		J:104056 	
+MGI:1276523	Ncoa1	nuclear receptor coactivator 1	12		chromatin binding			IDA		J:80609 	
+MGI:1276533	Ncoa2	nuclear receptor coactivator 2	1		chromatin binding	uses Mc2r		IDA		J:104056 	
+MGI:1276535	Ncoa3	nuclear receptor coactivator 3	2		chromatin binding	uses Mc2r		IDA		J:104056 	
+MGI:2385165	Ncoa5	nuclear receptor coactivator 5	2		chromatin binding	uses Il6		IDA		J:207622 	
+MGI:1929915	Ncoa6	nuclear receptor coactivator 6	2		chromatin binding			IDA		J:80609 	
+MGI:1349717	Ncor1	nuclear receptor co-repressor 1	11		chromatin binding			IDA		J:121427 	
+MGI:1349717	Ncor1	nuclear receptor co-repressor 1	11		chromatin binding			ISO	RGD:3612 	J:155856 	
+MGI:1337080	Ncor2	nuclear receptor co-repressor 2	5		chromatin binding	uses Cdkn1a		IDA		J:132982 	
+MGI:1337080	Ncor2	nuclear receptor co-repressor 2	5		chromatin binding	uses Fabp4		IDA		J:142665 	
+MGI:1337080	Ncor2	nuclear receptor co-repressor 2	5		chromatin binding			IDA		J:98847 	
+MGI:1337080	Ncor2	nuclear receptor co-repressor 2	5		chromatin binding			ISO	RGD:1310293 	J:155856 	
+MGI:97290	Ndn	necdin, MAGE family member	7		promoter-specific chromatin binding	happens in SO:0001055,uses Agrp		IDA		J:184441 	
+MGI:1346098	Nelfa	negative elongation factor complex member A, Whsc2	5		chromatin binding			IDA		J:173556 	
+MGI:1346098	Nelfa	negative elongation factor complex member A, Whsc2	5		chromatin binding			ISO	RGD:1305556 	J:155856 	
+MGI:102744	Nelfe	negative elongation factor complex member E, Rdbp	17		chromatin binding	is a part of negative regulation of transcription elongation by RNA polymerase II,happens in chromatin		IDA		J:278647 	
+MGI:102744	Nelfe	negative elongation factor complex member E, Rdbp	17		chromatin binding			ISO	RGD:1303325 	J:155856 	
+MGI:1339708	Neurod1	neurogenic differentiation 1	2		chromatin binding			IDA		J:172976 	
+MGI:107754	Neurog1	neurogenin 1	13		chromatin binding			IDA		J:172976 	
+MGI:893591	Neurog3	neurogenin 3	10		chromatin DNA binding			IDA		J:106988 	
+MGI:1859333	Nfat5	nuclear factor of activated T cells 5	8		chromatin binding			ISO	O94916 	J:164563 	
+MGI:102469	Nfatc1	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1	18		chromatin binding	happens in myoblast,uses Myh3		IDA		J:206594 	
+MGI:102463	Nfatc2	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2	2		chromatin binding	happens in myotube,uses Myh8		IDA		J:206594 	
+MGI:103296	Nfatc3	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3	8		chromatin binding	uses Sftpb		IDA		J:114501 	
+MGI:103296	Nfatc3	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3	8		chromatin binding	uses Myog		IDA		J:142475 	
+MGI:103296	Nfatc3	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3	8		chromatin binding	happens in myoblast,uses Myh3		IDA		J:206594 	
+MGI:103296	Nfatc3	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3	8		chromatin binding	happens in osteoblast,uses Tnfsf11		IDA		J:175305 	
+MGI:99421	Nfe2l1	nuclear factor, erythroid derived 2,-like 1	11		chromatin binding			IDA		J:220017 	
+MGI:99421	Nfe2l1	nuclear factor, erythroid derived 2,-like 1	11		promoter-specific chromatin binding			IDA		J:220017 	
+MGI:108056	Nfia	nuclear factor I/A	4		chromatin binding	happens in cerebellar granule cell		IDA		J:194263 	
+MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	happens in diaphragm,uses Ankrd2		IDA		J:163557 	
+MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	happens in myoblast,uses Gsk3b		IDA		J:214867 	
+MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	happens in myoblast,uses Ankrd2		IDA		J:214867 	
+MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	uses Capn1,is a part of mammary gland involution,happens in mammary gland		IDA		J:204792 	
+MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	is a part of mammary gland involution,happens in mammary gland,uses Capn2		IDA		J:204792 	
+MGI:1913976	Nipbl	NIPBL cohesin loading factor	15		chromatin binding			IBA	PTN000496017 	J:265628 	
+MGI:1913976	Nipbl	NIPBL cohesin loading factor	15		chromatin binding	happens in embryonic stem cell,uses Pou5f1		IDA		J:164442 	
+MGI:1913976	Nipbl	NIPBL cohesin loading factor	15		chromatin binding	happens in embryonic stem cell,uses Nanog		IDA		J:164442 	
+MGI:1913976	Nipbl	NIPBL cohesin loading factor	15		promoter-specific chromatin binding			IDA		J:243510 	
+MGI:1914300	Nkap	NFKB activating protein	X		chromatin binding			IBA	PTN000991590 	J:265628 	
+MGI:1914300	Nkap	NFKB activating protein	X		chromatin binding			ISO	Q8N5F7 	J:164563 	
+MGI:1914300	Nkap	NFKB activating protein	X		chromatin DNA binding			IDA		J:165872 	
+MGI:1913957	Nkapl	NFKB activating protein-like	13		chromatin binding			IEA	IPR009269 	J:72247 	
+MGI:97350	Nkx2-5	NK2 homeobox 5	17		chromatin binding	uses Isl1		IDA		J:150360 	
+MGI:97350	Nkx2-5	NK2 homeobox 5	17		chromatin binding	uses Igfbp5		IDA		J:150360 	
+MGI:97350	Nkx2-5	NK2 homeobox 5	17		chromatin binding	uses Nppa		IDA		J:150360 	
+MGI:97350	Nkx2-5	NK2 homeobox 5	17		chromatin binding	uses Pdgfra		IDA		J:150360 	
+MGI:97350	Nkx2-5	NK2 homeobox 5	17		chromatin binding			IDA		J:171727 	
+MGI:97350	Nkx2-5	NK2 homeobox 5	17		chromatin binding			ISO	P52952 	J:73065 	
+MGI:1206039	Nkx6-1	NK6 homeobox 1	5		chromatin binding			ISO	RGD:69318 	J:155856 	
+MGI:1931051	Noc2l	NOC2 like nucleolar associated transcriptional repressor	4		chromatin binding			ISO	Q9Y3T9 	J:164563 	
+MGI:1931051	Noc2l	NOC2 like nucleolar associated transcriptional repressor	4		nucleosome binding			ISO	Q9Y3T9 	J:164563 	
+MGI:1932610	Noc3l	NOC3 like DNA replication regulator	19		chromatin binding			IBA	PTN000374010 	J:265628 	
+MGI:1855692	Nono	non-POU-domain-containing, octamer binding protein	X		chromatin binding			IDA		J:222150 	
+MGI:97363	Notch1	notch 1	2		chromatin binding			IDA		J:97176 	
+MGI:97363	Notch1	notch 1	2		chromatin DNA binding	uses Gata3		IDA		J:123632 	
+MGI:106184	Npm1	nucleophosmin 1	11		chromatin binding			IBA	PTN001100765 	J:265628 	
+MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin binding			IBA	PTN001100765 	J:265628 	
+MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin binding			IDA		J:202816 	
+MGI:894653	Npm3	nucleoplasmin 3	19		chromatin binding			IBA	PTN001100765 	J:265628 	
+MGI:1352463	Nr1h2	nuclear receptor subfamily 1, group H, member 2	7		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Mexis		IDA		J:264834 	
+MGI:1352462	Nr1h3	nuclear receptor subfamily 1, group H, member 3	2		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Abca1		IMP	MGI:2181380 	J:264834 	
+MGI:95824	Nr3c1	nuclear receptor subfamily 3, group C, member 1	18		chromatin binding			ISO	RGD:2741 	J:155856 	
+MGI:1346833	Nr5a1	nuclear receptor subfamily 5, group A, member 1	2		chromatin binding	uses Mc2r		IDA		J:104056 	
+MGI:1346833	Nr5a1	nuclear receptor subfamily 5, group A, member 1	2		chromatin binding			IDA		J:222150 	
+MGI:1346834	Nr5a2	nuclear receptor subfamily 5, group A, member 2	1		chromatin binding			IDA		J:222150 	
+MGI:102567	Nrl	neural retina leucine zipper gene	14		promoter-specific chromatin binding			IDA		J:225638 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		chromatin binding			IDA		J:93510 	
+MGI:1276574	Nsd2	nuclear receptor binding SET domain protein 2	5		chromatin binding	uses Isl1		IDA		J:150360 	
+MGI:1276574	Nsd2	nuclear receptor binding SET domain protein 2	5		chromatin binding	uses Igfbp5		IDA		J:150360 	
+MGI:1276574	Nsd2	nuclear receptor binding SET domain protein 2	5		chromatin binding	uses Pdgfra		IDA		J:150360 	
+MGI:1934811	Nucks1	nuclear casein kinase and cyclin-dependent kinase substrate 1	1		chromatin binding			ISO	Q9H1E3 	J:164563 	
+MGI:1915469	Nudt21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	8		chromatin binding			IDA		J:135435 	
+MGI:109404	Nup98	nucleoporin 98	7		promoter-specific chromatin binding			ISO	P52948 	J:164563 	
+MGI:2385621	Nup153	nucleoporin 153	13		chromatin binding			ISO	RGD:3216 	J:155856 	
+MGI:1891834	Nupr1	nuclear protein transcription regulator 1	7		chromatin binding			IDA		J:153063 	
+MGI:1919736	Obi1	ORC ubiquitin ligase 1	14		chromatin binding			ISO	Q5W0B1 	J:164563 	
+MGI:1339639	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	X		chromatin DNA binding			IDA		J:187380 	
+MGI:1196423	Onecut1	one cut domain, family member 1	9		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:1328337	Orc1	origin recognition complex, subunit 1	4		chromatin binding			ISO	RGD:631435 	J:155856 	
+MGI:1338039	Ovol2	ovo like zinc finger 2	2		chromatin binding	uses Snai2		IDA		J:213415 	
+MGI:1338039	Ovol2	ovo like zinc finger 2	2		chromatin binding	happens in keratinocyte,uses Trp63		IDA		J:213415 	
+MGI:1338039	Ovol2	ovo like zinc finger 2	2		chromatin binding	happens in keratinocyte,uses Zeb1		IDA		J:213415 	
+MGI:1338039	Ovol2	ovo like zinc finger 2	2		chromatin binding	happens in keratinocyte,uses Myc		IDA		J:213415 	
+MGI:1338039	Ovol2	ovo like zinc finger 2	2		chromatin binding	happens in keratinocyte,uses Vim		IDA		J:213415 	
+MGI:1923988	Paf1	Paf1, RNA polymerase II complex component	7		chromatin binding			IBA	PTN000573292 	J:265628 	
+MGI:1923988	Paf1	Paf1, RNA polymerase II complex component	7		chromatin binding			IDA		J:183708 	
+MGI:1347094	Parg	poly (ADP-ribose) glycohydrolase	14		chromatin binding			ISO	RGD:620387 	J:155856 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		chromatin binding	uses Sdk1		IDA		J:206572 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		nucleosome binding			ISO	P09874 	J:164563 	
+MGI:1341112	Parp2	poly (ADP-ribose) polymerase family, member 2	14		chromatin binding			ISO	Q9UGN5 	J:164563 	
+MGI:1341112	Parp2	poly (ADP-ribose) polymerase family, member 2	14		nucleosome binding			ISO	Q9UGN5 	J:164563 	
+MGI:1891832	Patz1	POZ (BTB) and AT hook containing zinc finger 1	11		chromatin binding	uses Ce2		IDA		J:112614 	
+MGI:5543919	Paupar	Pax6 upstream antisense RNA	2		chromatin binding			IDA		J:206724 	
+MGI:97487	Pax3	paired box 3	1		chromatin binding			IDA		J:96431 	
+MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neuronal stem cell,uses Tle1		IDA		J:197144 	
+MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neuronal stem cell,uses Eomes		IDA		J:197144 	
+MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neuronal stem cell,uses Cyp17a1		IDA		J:197144 	
+MGI:97490	Pax6	paired box 6	2		chromatin binding			IDA		J:145977 J:206724 	
+MGI:97490	Pax6	paired box 6	2		chromatin DNA binding	happens in neocortex,uses Eomes,uses Pax6		IDA		J:266522 	
+MGI:1923998	Pbrm1	polybromo 1	14		chromatin binding			IBA	PTN004488270 	J:265628 	
+MGI:1923998	Pbrm1	polybromo 1	14		chromatin binding	uses Crabp2		IDA		J:95332 	
+MGI:1923998	Pbrm1	polybromo 1	14		chromatin binding	uses Rarb		IDA		J:95332 	
+MGI:1341793	Pbx2	pre B cell leukemia homeobox 2	17		chromatin binding	uses Shh		IDA		J:109528 	
+MGI:1917087	Pcgf1	polycomb group ring finger 1	6		promoter-specific chromatin binding			IBA	PTN000850589 	J:265628 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		chromatin binding	uses Hoxa5		IDA		J:96358 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		chromatin binding	uses Hoxb1		IDA		J:96358 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		chromatin binding	uses Hoxb3		IDA		J:96358 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		chromatin binding	uses Hoxb4		IDA		J:96358 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		chromatin binding	uses Hoxb6		IDA		J:96358 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		chromatin binding	uses Hoxb8		IDA		J:96358 J:109525 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		chromatin binding	uses Hoxc6		IDA		J:96358 	
+MGI:99161	Pcgf2	polycomb group ring finger 2	11		promoter-specific chromatin binding			IBA	PTN000850589 	J:265628 	
+MGI:1915276	Pclaf	PCNA clamp associated factor	9		chromatin binding			IBA	PTN001038449 	J:265628 	
+MGI:1915276	Pclaf	PCNA clamp associated factor	9		chromatin binding			ISO	Q15004 	J:164563 	
+MGI:97503	Pcna	proliferating cell nuclear antigen	2		chromatin binding			ISO	P12004 	J:164563 	
+MGI:102851	Pdx1	pancreatic and duodenal homeobox 1	5		chromatin binding	uses Slc2a2		IDA		J:153774 	
+MGI:102851	Pdx1	pancreatic and duodenal homeobox 1	5		promoter-specific chromatin binding			ISO	RGD:62387 	J:155856 	
+MGI:1922523	Pelp1	proline, glutamic acid and leucine rich protein 1	11		chromatin binding			ISO	Q8IZL8 	J:164563 	
+MGI:1098283	Per1	period circadian clock 1	11		chromatin DNA binding			IDA		J:209614 	
+MGI:103248	Phc1	polyhomeotic 1	6		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:103248	Phc1	polyhomeotic 1	6		chromatin binding	uses Hoxb8		IDA		J:109525 	
+MGI:1860454	Phc2	polyhomeotic 2	4		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2181434	Phc3	polyhomeotic 3	3		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:98647	Phf1	PHD finger protein 1	17		chromatin binding			IBA	PTN000290238 	J:265628 	
+MGI:98647	Phf1	PHD finger protein 1	17		chromatin binding			ISO	RGD:1303205 	J:155856 	
+MGI:2444341	Phf8	PHD finger protein 8	X		chromatin binding			ISO	Q9UPP1 	J:164563 	
+MGI:2446217	Phf13	PHD finger protein 13	4		chromatin binding			IBA	PTN002684675 	J:265628 	
+MGI:2446217	Phf13	PHD finger protein 13	4		chromatin binding			ISO	Q86YI8 	J:164563 	
+MGI:1921266	Phf19	PHD finger protein 19	2		chromatin binding			IBA	PTN000290238 	J:265628 	
+MGI:2384756	Phf21a	PHD finger protein 21A	2		chromatin binding			IBA	PTN002788303 	J:265628 	
+MGI:2384756	Phf21a	PHD finger protein 21A	2		chromatin binding	uses Syn1		IDA		J:109077 	
+MGI:2384756	Phf21a	PHD finger protein 21A	2		chromatin binding			ISO	RGD:1560612 	J:155856 	
+MGI:109340	Pitx2	paired-like homeodomain transcription factor 2	3		chromatin binding	uses Wnt11		IDA		J:125640 	
+MGI:109340	Pitx2	paired-like homeodomain transcription factor 2	3		chromatin binding	uses Plod2		IDA		J:67321 	
+MGI:109340	Pitx2	paired-like homeodomain transcription factor 2	3		chromatin DNA binding	uses Myf5		IDA		J:168032 	
+MGI:109340	Pitx2	paired-like homeodomain transcription factor 2	3		chromatin DNA binding	uses Myod1		IDA		J:168032 	
+MGI:108022	Pkn1	protein kinase N1	8		chromatin binding			ISO	Q16512 	J:164563 	
+MGI:1201409	Pknox1	Pbx/knotted 1 homeobox	17		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:2445289	Plac8	placenta-specific 8	5		chromatin binding			IDA		J:179647 	
+MGI:99660	Pola1	polymerase (DNA directed), alpha 1	X		chromatin binding			IBA	PTN000035348 	J:265628 	
+MGI:99660	Pola1	polymerase (DNA directed), alpha 1	X		chromatin binding			ISO	P09884 	J:164563 	
+MGI:97741	Pold1	polymerase (DNA directed), delta 1, catalytic subunit	7		chromatin binding			ISO	P28340 	J:164563 	
+MGI:1196391	Pole	polymerase (DNA directed), epsilon	5		chromatin binding			ISO	Q07864 	J:164563 	
+MGI:1933378	Pole3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4		chromatin DNA binding			IBA	PTN002253209 	J:265628 	
+MGI:1196389	Polg	polymerase (DNA directed), gamma	7		chromatin binding			ISO	P54098 	J:164563 	
+MGI:2155399	Polq	polymerase (DNA directed), theta	16		chromatin binding			ISO	O75417 	J:164563 	
+MGI:1096397	Polr1a	polymerase (RNA) I polypeptide A	6		chromatin binding			ISO	O95602 	J:164563 	
+MGI:98086	Polr2a	polymerase (RNA) II (DNA directed) polypeptide A	11		promoter-specific chromatin binding			ISO	P24928 	J:164563 	
+MGI:2388280	Polr2b	polymerase (RNA) II (DNA directed) polypeptide B	5		chromatin binding	happens in liver		IDA		J:183694 	
+MGI:2681836	Polr3a	polymerase (RNA) III (DNA directed) polypeptide A	14		chromatin binding	happens in liver		IDA		J:183694 	
+MGI:1914315	Polr3d	polymerase (RNA) III (DNA directed) polypeptide D	14		chromatin binding	happens in liver,uses SO:0000171		IDA		J:204652 	
+MGI:1914315	Polr3d	polymerase (RNA) III (DNA directed) polypeptide D	14		chromatin binding	happens in liver		IDA		J:183694 	
+MGI:1914315	Polr3d	polymerase (RNA) III (DNA directed) polypeptide D	14		chromatin binding			ISO	P05423 	J:73065 	
+MGI:1914736	Polr3g	polymerase (RNA) III (DNA directed) polypeptide G	13		chromatin binding	happens in liver,happens in nucleus		IDA		J:204652 	
+MGI:1914736	Polr3g	polymerase (RNA) III (DNA directed) polypeptide G	13		chromatin binding			ISO	O15318 	J:73065 	
+MGI:1917120	Polr3gl	polymerase (RNA) III (DNA directed) polypeptide G like	3		chromatin binding	happens in liver		IDA		J:204652 	
+MGI:97588	Pou1f1	POU domain, class 1, transcription factor 1	16		chromatin binding	uses Neurod4		IDA		J:112960 	
+MGI:97588	Pou1f1	POU domain, class 1, transcription factor 1	16		chromatin binding	uses Ghrhr		IDA		J:112960 	
+MGI:97588	Pou1f1	POU domain, class 1, transcription factor 1	16		chromatin binding	uses Pou1f1		IDA		J:114817 	
+MGI:97588	Pou1f1	POU domain, class 1, transcription factor 1	16		chromatin binding	happens in pituitary gland,uses Gh		IDA		J:121427 	
+MGI:101898	Pou2f1	POU domain, class 2, transcription factor 1	1		chromatin binding	uses UniProtKB:P19070		IDA		J:111308 	
+MGI:101898	Pou2f1	POU domain, class 2, transcription factor 1	1		chromatin binding			ISO	RGD:621689 	J:155856 	
+MGI:102525	Pou4f1	POU domain, class 4, transcription factor 1	14		chromatin binding			IGI	P70425 	J:233585 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	uses Ebf3		IDA		J:164295 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in EMAPA:17168,uses Pou4f2		IDA		J:134978 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in EMAPA:17168,uses Pou4f1		IDA		J:134978 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in EMAPA:17168,uses Isl2		IDA		J:134978 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in retina,uses Shh		IDA		J:134978 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		promoter-specific chromatin binding			IDA		J:239195 J:239207 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin binding	uses Pou5f1		IDA		J:99361 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin binding	uses Tet1		IDA		J:168828 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin binding	uses Tet2		IDA		J:168828 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin binding	uses Sox2		IDA		J:99361 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin binding			IDA		J:138113 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin DNA binding	uses Rlim		IDA		J:206154 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin DNA binding	uses Xist		IDA		J:206154 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		nucleosome binding	is a part of histone H3-K56 acetylation		IDA		J:198818 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		nucleosome binding	is a part of histone H3-K56 acetylation		IMP		J:198818 	
+MGI:97747	Pparg	peroxisome proliferator activated receptor gamma	6		chromatin binding	uses Tlcd3b		IDA		J:197105 	
+MGI:97747	Pparg	peroxisome proliferator activated receptor gamma	6		chromatin binding	uses Fabp4		IDA		J:142665 J:197105 	
+MGI:97747	Pparg	peroxisome proliferator activated receptor gamma	6		chromatin binding	happens in brown fat cell,uses Prdm16		IDA		J:198125 	
+MGI:97747	Pparg	peroxisome proliferator activated receptor gamma	6		chromatin binding			IDA		J:167907 J:204719 	
+MGI:97747	Pparg	peroxisome proliferator activated receptor gamma	6		promoter-specific chromatin binding			IDA		J:262213 	
+MGI:1342774	Ppargc1a	peroxisome proliferative activated receptor, gamma, coactivator 1 alpha	5		chromatin binding			ISO	RGD:620925 	J:155856 	
+MGI:1342774	Ppargc1a	peroxisome proliferative activated receptor, gamma, coactivator 1 alpha	5		chromatin DNA binding			IDA		J:130306 	
+MGI:1342774	Ppargc1a	peroxisome proliferative activated receptor, gamma, coactivator 1 alpha	5		promoter-specific chromatin binding			ISO	RGD:620925 	J:155856 	
+MGI:1335093	Ppp2r3d	protein phosphatase 2 (formerly 2A), regulatory subunit B'', delta	9		chromatin binding			IDA		J:93510 	
+MGI:99655	Prdm1	PR domain containing 1, with ZNF domain	10		promoter-specific chromatin binding			IDA		J:232474 	
+MGI:1924880	Prdm8	PR domain containing 8	5		chromatin binding			IDA		J:182304 	
+MGI:2685553	Prdm11	PR domain containing 11	2		chromatin binding			IDA		J:221379 	
+MGI:2448528	Prdm13	PR domain containing 13	4		chromatin binding	happens in neural tube,uses Tlx3		IDA		J:197142 	
+MGI:2448528	Prdm13	PR domain containing 13	4		chromatin binding	happens in neural tube,uses Tlx1		IDA		J:197142 	
+MGI:3588194	Prdm14	PR domain containing 14	1		chromatin DNA binding			IDA		J:206154 	
+MGI:1930121	Prdm15	PR domain containing 15	16		promoter-specific chromatin binding			IDA		J:257906 	
+MGI:3603756	Primpol	primase and polymerase (DNA-directed)	8		chromatin binding			IBA	PTN000776075 	J:265628 	
+MGI:3603756	Primpol	primase and polymerase (DNA-directed)	8		chromatin binding			ISO	Q96LW4 	J:164563 	
+MGI:2145955	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	15		chromatin binding			IDA		J:163548 	
+MGI:1336173	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	4		chromatin binding			IDA		J:163548 	
+MGI:97596	Prkcb	protein kinase C, beta	7		chromatin binding			ISO	P05771 	J:164563 	
+MGI:1351645	Prmt5	protein arginine N-methyltransferase 5	14		chromatin binding			IMP		J:136087 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		chromatin binding			IDA		J:199753 	
+MGI:109330	Prop1	paired like homeodomain factor 1	11		chromatin binding			IDA		J:114817 	
+MGI:2142116	Psip1	PC4 and SFRS1 interacting protein 1	4		chromatin binding			ISO	O75475 	J:164563 	
+MGI:1328312	Ptf1a	pancreas specific transcription factor, 1a	2		chromatin binding	uses Prdm13		IDA		J:197142 	
+MGI:1328312	Ptf1a	pancreas specific transcription factor, 1a	2		chromatin binding	happens in pancreas,uses Nr5a2		IDA		J:214089 	
+MGI:1929237	Pus1	pseudouridine synthase 1	5		chromatin binding	happens in nucleus		IDA		J:92505 	
+MGI:1918052	Pwwp2a	PWWP domain containing 2A	11		chromatin binding			IBA	PTN002747430 	J:265628 	
+MGI:1918052	Pwwp2a	PWWP domain containing 2A	11		chromatin binding			ISO	Q96N64 	J:164563 	
+MGI:1915364	Pwwp3a	PWWP domain containing 3A, DNA repair factor	10		nucleosome binding			IBA	PTN001263565 	J:265628 	
+MGI:1915364	Pwwp3a	PWWP domain containing 3A, DNA repair factor	10		nucleosome binding			ISO	Q2TAK8 	J:164563 	
+MGI:1916161	Pygo2	pygopus 2	3		chromatin binding			IDA		J:198562 	
+MGI:1333807	Rad17	RAD17 checkpoint clamp loader component	13		chromatin binding			IBA	PTN000255944 	J:265628 	
+MGI:108016	Rad21	RAD21 cohesin complex component	15		chromatin binding			IBA	PTN000286904 	J:265628 	
+MGI:3652039	Rad21l	RAD21-like (S. pombe)	2		chromatin binding			IBA	PTN000286904 	J:265628 	
+MGI:97890	Rad51	RAD51 recombinase	2		chromatin binding			IDA		J:209337 	
+MGI:97890	Rad51	RAD51 recombinase	2		chromatin binding			ISO	Q06609 	J:164563 	
+MGI:97849	Rag2	recombination activating gene 2	2		chromatin binding			IDA		J:159138 J:159139 	
+MGI:97856	Rara	retinoic acid receptor, alpha	11		chromatin binding			ISO	P10276 	J:164563 	
+MGI:97856	Rara	retinoic acid receptor, alpha	11		chromatin DNA binding			ISO	P10276 	J:164563 	
+MGI:97858	Rarg	retinoic acid receptor, gamma	15		chromatin binding			IDA		J:92505 	
+MGI:103300	Rbl1	RB transcriptional corepressor like 1	2		promoter-specific chromatin binding			ISO	P28749 	J:216069 	
+MGI:105085	Rbl2	RB transcriptional corepressor like 2	8		promoter-specific chromatin binding			ISO	Q08999 	J:216069 	
+MGI:1343044	Rbmx	RNA binding motif protein, X chromosome	X		chromatin binding			ISO	P38159 	J:164563 	
+MGI:1343045	Rbmxl1	RNA binding motif protein, X-linked like-1	8		chromatin binding			IDA		J:118259 J:175140 	
+MGI:96522	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	5		chromatin binding	uses Hes1		IDA		J:112960 	
+MGI:96522	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	5		chromatin binding	uses Prop1		IDA		J:112960 	
+MGI:96522	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	5		chromatin binding	uses Prdm13		IDA		J:197142 	
+MGI:96522	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	5		chromatin binding	uses Rbpj		IDA		J:195490 	
+MGI:1196616	Rbpjl	recombination signal binding protein for immunoglobulin kappa J region-like	2		chromatin binding	happens in pancreas,uses Nr5a2		IDA		J:214089 	
+MGI:1913989	Rcc1	regulator of chromosome condensation 1	4		chromatin binding			ISO	P18754 	J:164563 	
+MGI:1913989	Rcc1	regulator of chromosome condensation 1	4		nucleosomal DNA binding			ISO	P18754 	J:164563 	
+MGI:1913989	Rcc1	regulator of chromosome condensation 1	4		nucleosome binding			ISO	P18754 	J:164563 	
+MGI:106340	Rcor1	REST corepressor 1	12		chromatin binding	happens in pituitary gland,uses Gh		IDA		J:121427 	
+MGI:1929645	Rec8	REC8 meiotic recombination protein	14		chromatin binding			IBA	PTN000286904 	J:265628 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin binding	uses Wnt10b		IDA		J:151982 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin binding	uses Dkk4		IDA		J:151982 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin binding	happens in diaphragm,uses Ankrd2		IDA		J:163557 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin binding	happens in bone marrow macrophage		IDA		J:215277 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin binding			IDA		J:170429 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin binding			ISO	Q04206 	J:164563 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin DNA binding			ISO	Q04206 	J:164563 	
+MGI:1889817	Repin1	replication initiator 1	6		chromatin insulator sequence binding			IBA	PTN002812834 	J:265628 	
+MGI:2683486	Rere	arginine glutamic acid dipeptide (RE) repeats	4		chromatin binding			IEA	IPR001025 	J:72247 	
+MGI:104897	Rest	RE1-silencing transcription factor	5		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:104897	Rest	RE1-silencing transcription factor	5		chromatin binding	uses Syn1		IDA		J:109077 	
+MGI:2684908	Rfpl4b	ret finger protein-like 4B	10		promoter-specific chromatin binding			IBA	PTN002816179 	J:265628 	
+MGI:1918387	Rfx4	regulatory factor X, 4 (influences HLA class II expression)	10		chromatin binding	uses Cx3cl1	PR:Q7TNK1-1	IDA		J:119277 	
+MGI:1101770	Ring1	ring finger protein 1	17		chromatin binding			IBA	PTN000743780 	J:265628 	
+MGI:1101770	Ring1	ring finger protein 1	17		chromatin binding	uses Hoxb8		IDA		J:109525 	
+MGI:108054	Rit2	Ras-like without CAAX 2	18		chromatin binding			IGI	P17208 	J:233585 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding			IBA	PTN000743780 	J:265628 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxa5		IDA		J:96358 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxb1		IDA		J:96358 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxb3		IDA		J:96358 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxb4		IDA		J:96358 J:109525 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxb5		IDA		J:109525 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxb6		IDA		J:96358 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxb8		IDA		J:96358 J:109525 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Hoxc6		IDA		J:96358 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding	uses Tbx2		IDA		J:109525 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding			IDA		J:79851 	
+MGI:1101759	Rnf2	ring finger protein 2	1		chromatin binding			ISO	Q99496 	J:73065 	
+MGI:1201691	Rnf4	ring finger protein 4	5		nucleosome binding			ISO	RGD:3583 	J:155856 	
+MGI:1929069	Rnf8	ring finger protein 8	17		chromatin binding			ISO	O76064 	J:164563 	
+MGI:1925927	Rnf20	ring finger protein 20	4		chromatin binding			IDA		J:183708 	
+MGI:1917488	Rnf168	ring finger protein 168	16		chromatin binding			ISO	Q8IYW5 	J:164563 	
+MGI:1917488	Rnf168	ring finger protein 168	16		nucleosome binding			IBA	PTN000595938 	J:265628 	
+MGI:1917488	Rnf168	ring finger protein 168	16		nucleosome binding			ISO	Q8IYW5 	J:164563 	
+MGI:1920257	Rnf169	ring finger protein 169	7		nucleosome binding			IBA	PTN000595938 	J:265628 	
+MGI:1920257	Rnf169	ring finger protein 169	7		nucleosome binding			ISO	Q8NCN4 	J:164563 	
+MGI:1915525	Rpa1	replication protein A1	11		chromatin binding			IDA		J:78200 	
+MGI:99852	Runx1	runt related transcription factor 1	16		promoter-specific chromatin binding			ISO	RGD:2283 	J:155856 	
+MGI:99829	Runx2	runt related transcription factor 2	17		chromatin binding	uses Bglap		IDA		J:138140 	
+MGI:99829	Runx2	runt related transcription factor 2	17		chromatin binding			IDA		J:94631 	
+MGI:99829	Runx2	runt related transcription factor 2	17		chromatin DNA binding	is a part of response to L-ascorbic acid		IDA		J:178159 	
+MGI:1342299	Ruvbl2	RuvB-like protein 2	7		chromatin DNA binding			ISO	Q9Y230 	J:164563 	
+MGI:98214	Rxra	retinoid X receptor alpha	2		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Mexis		IDA		J:264834 	
+MGI:98214	Rxra	retinoid X receptor alpha	2		chromatin DNA binding			IDA		J:130306 	
+MGI:98215	Rxrb	retinoid X receptor beta	17		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Mexis		IDA		J:264834 	
+MGI:2146974	Safb	scaffold attachment factor B	17		chromatin binding			IDA		J:175140 	
+MGI:1889585	Sall1	spalt like transcription factor 1	8		chromatin binding	uses Kif26b		IDA		J:160285 	
+MGI:2142433	Samd1	sterile alpha motif domain containing 1	8		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2142433	Samd1	sterile alpha motif domain containing 1	8		chromatin binding			ISO	Q6SPF0 	J:164563 	
+MGI:1923203	Samd7	sterile alpha motif domain containing 7	3		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2446220	Samd11	sterile alpha motif domain containing 11	4		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2686498	Samd13	sterile alpha motif domain containing 13	3		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:1354709	Sap30l	SAP30-like	11		nucleosome binding			ISO	Q9HAJ7 	J:164563 	
+MGI:1913368	Sarnp	SAP domain containing ribonucleoprotein	10		chromatin binding	happens in gonadtroph,happens in SO:0001055,uses Fshb		IDA		J:140901 	
+MGI:105084	Satb1	special AT-rich sequence binding protein 1	17		chromatin binding			IDA		J:177729 	
+MGI:2679336	Satb2	special AT-rich sequence binding protein 2	1		chromatin binding	happens in cerebral cortex,uses Tbr1		IDA		J:192361 	
+MGI:2679336	Satb2	special AT-rich sequence binding protein 2	1		chromatin binding	happens in osteoblast,uses Hoxa2		IDA		J:115876 	
+MGI:2384298	Sbno1	strawberry notch 1	5		chromatin DNA binding			IBA	PTN000295173 	J:265628 	
+MGI:2448490	Sbno2	strawberry notch 2	10		chromatin DNA binding			IBA	PTN000295173 	J:265628 	
+MGI:1352762	Scmh1	sex comb on midleg homolog 1	4		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:1340042	Scml2	Scm polycomb group protein like 2	X		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2446140	Scml4	Scm polycomb group protein like 4	10		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:1860267	Set	SET nuclear oncogene	2		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:1860267	Set	SET nuclear oncogene	2		chromatin binding			ISO	P0DME0 	J:164563 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		chromatin binding			IBA	PTN001893769 	J:265628 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		chromatin binding			ISO	RGD:1586346 	J:155856 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		chromatin binding			IDA		J:178620 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		chromatin binding			ISO	Q15047 	J:164563 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		promoter-specific chromatin binding			IDA		J:188475 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		promoter-specific chromatin binding			ISO	Q15047 	J:164563 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin binding	uses Hoxa5		IDA		J:96358 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin binding	uses Hoxb1		IDA		J:96358 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin binding	uses Hoxb3		IDA		J:96358 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin binding	uses Hoxb4		IDA		J:96358 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin binding	uses Hoxb6		IDA		J:96358 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin binding	uses Hoxc6		IDA		J:96358 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin binding			IDA		J:158823 	
+MGI:1859609	Sfmbt1	Scm-like with four mbt domains 1	14		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:2447794	Sfmbt2	Scm-like with four mbt domains 2	2		chromatin binding			IBA	PTN002284114 	J:265628 	
+MGI:1918764	Sfpq	splicing factor proline/glutamine rich (polypyrimidine tract binding protein associated)	4		chromatin binding			IDA		J:222150 	
+MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	10		chromatin binding			ISO	P34897 	J:164563 	
+MGI:107157	Sin3a	transcriptional regulator, SIN3A (yeast)	9		chromatin binding	uses Pck1		IDA		J:117710 	
+MGI:107157	Sin3a	transcriptional regulator, SIN3A (yeast)	9		chromatin binding			IDA		J:136812 	
+MGI:107158	Sin3b	transcriptional regulator, SIN3B (yeast)	8		chromatin binding			IDA		J:104074 	
+MGI:2135607	Sirt1	sirtuin 1	10		promoter-specific chromatin binding	happens in SO:0001055,uses Agrp		IDA		J:184441 	
+MGI:1927664	Sirt2	sirtuin 2	7		chromatin binding			ISO	Q8IXJ6 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		chromatin binding			IDA		J:202816 	
+MGI:1354161	Sirt6	sirtuin 6	10		chromatin DNA binding			ISO	Q8N6T7 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		nucleosome binding			ISO	Q8N6T7 	J:164563 	
+MGI:2385849	Sirt7	sirtuin 7	11		chromatin binding			ISO	Q9NRC8 	J:164563 	
+MGI:102780	Six1	sine oculis-related homeobox 1	12		chromatin binding			IGI	MGI:109339 	J:147237 	
+MGI:102780	Six1	sine oculis-related homeobox 1	12		chromatin binding			IGI	MGI:98310 	J:147237 	
+MGI:98310	Ski	ski sarcoma viral oncogene homolog (avian)	4		chromatin binding	uses Myog		IGI	MGI:102780 	J:147237 	
+MGI:98310	Ski	ski sarcoma viral oncogene homolog (avian)	4		chromatin binding	uses Myog		IGI	MGI:109339 	J:147237 	
+MGI:106203	Skil	SKI-like	3		chromatin binding	uses Afp		IDA		J:96056 	
+MGI:3645984	Skor2	SKI family transcriptional corepressor 2	18		chromatin binding	uses Slc1a6		IDA		J:208769 	
+MGI:3645984	Skor2	SKI family transcriptional corepressor 2	18		chromatin binding	uses Pcp2		IDA		J:208769 	
+MGI:3645984	Skor2	SKI family transcriptional corepressor 2	18		chromatin binding	uses Pcp4		IDA		J:208769 	
+MGI:3645984	Skor2	SKI family transcriptional corepressor 2	18		chromatin binding	uses Shh		IDA		J:208769 	
+MGI:1923690	Slc30a9	solute carrier family 30 (zinc transporter), member 9	5		chromatin binding			IDA		J:99324 	
+MGI:108051	Smad2	SMAD family member 2	18		chromatin binding	uses Afp		IDA		J:96056 	
+MGI:108051	Smad2	SMAD family member 2	18		chromatin binding	uses Mmp9		IDA		J:114818 	
+MGI:1201674	Smad3	SMAD family member 3	9		chromatin binding			IDA		J:114818 	
+MGI:1201674	Smad3	SMAD family member 3	9		chromatin DNA binding			IDA		J:117514 	
+MGI:1201674	Smad3	SMAD family member 3	9		promoter-specific chromatin binding	is a part of cellular response to virus,happens in macrophage,uses Il23a		IDA		J:141299 	
+MGI:894293	Smad4	SMAD family member 4	18		chromatin binding	uses Afp		IDA		J:96056 J:136812 	
+MGI:1336883	Smad6	SMAD family member 6	9		chromatin binding			ISO	O43541 	J:164563 	
+MGI:1935127	Smarca1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	X		chromatin binding	happens in nucleus,uses Foxg1		IDA		J:183998 	
+MGI:1935127	Smarca1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	X		nucleosome binding			IEA	IPR015194 IPR036306 	J:72247 	
+MGI:99603	Smarca2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	19		chromatin binding			ISO	RGD:1302988 	J:155856 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin binding	uses Srebf1		IDA		J:117710 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin binding	uses Adamts1		IDA		J:132583 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin binding	uses Mt1		IDA		J:104088 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin binding			IDA		J:55698 J:103896 J:213053 J:230626 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin binding			ISO	RGD:621728 	J:155856 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		nucleosome binding			IEA	IPR015194 IPR036306 	J:72247 	
+MGI:95453	Smarcad1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	6		chromatin binding			IBA	PTN000743674 	J:265628 	
+MGI:1203524	Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	9		chromatin binding	uses Srebf1		IDA		J:117710 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neuronal stem cell,uses Tle1		IDA		J:197141 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neuronal stem cell,uses Eomes		IDA		J:197141 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neuronal stem cell,uses Cux1		IDA		J:197141 	
+MGI:1933623	Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	15		chromatin binding			ISO	RGD:1305406 	J:155856 	
+MGI:1914243	Smarcd3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	5		chromatin binding			ISO	RGD:1311869 	J:155856 	
+MGI:1344345	Smc1a	structural maintenance of chromosomes 1A	X		chromatin binding	happens in embryonic stem cell,uses Pou5f1		IDA		J:164442 	
+MGI:1344345	Smc1a	structural maintenance of chromosomes 1A	X		chromatin binding	happens in embryonic stem cell,uses Nanog		IDA		J:164442 	
+MGI:1344345	Smc1a	structural maintenance of chromosomes 1A	X		chromatin binding			IDA		J:184719 	
+MGI:1344345	Smc1a	structural maintenance of chromosomes 1A	X		chromatin binding			ISO	Q14683 	J:164563 	
+MGI:106067	Smc2	structural maintenance of chromosomes 2	4		chromatin binding			IBA	PTN000434684 	J:265628 	
+MGI:106067	Smc2	structural maintenance of chromosomes 2	4		chromatin binding			IDA		J:195518 	
+MGI:1339795	Smc3	structural maintenance of chromosomes 3	19		chromatin binding	happens in embryonic stem cell,uses Pou5f1		IDA		J:164442 	
+MGI:1339795	Smc3	structural maintenance of chromosomes 3	19		chromatin binding	happens in embryonic stem cell,uses Nanog		IDA		J:164442 	
+MGI:1339795	Smc3	structural maintenance of chromosomes 3	19		chromatin binding			IDA		J:184719 	
+MGI:1917349	Smc4	structural maintenance of chromosomes 4	3		chromatin binding			IDA		J:195518 	
+MGI:1096393	Snai2	snail family zinc finger 2	16		chromatin binding	uses Pparg		IDA		J:130039 	
+MGI:98364	Sox2	SRY (sex determining region Y)-box 2	3		chromatin binding	uses Pou5f1		IDA		J:99361 	
+MGI:98364	Sox2	SRY (sex determining region Y)-box 2	3		chromatin binding	uses Sox2		IDA		J:99361 	
+MGI:98364	Sox2	SRY (sex determining region Y)-box 2	3		chromatin DNA binding			IDA		J:206154 	
+MGI:98371	Sox9	SRY (sex determining region Y)-box 9	11		chromatin binding			ISO	P48436 	J:164563 	
+MGI:98358	Sox10	SRY (sex determining region Y)-box 10	15		chromatin binding	uses Dct		IDA		J:96431 	
+MGI:98358	Sox10	SRY (sex determining region Y)-box 10	15		chromatin binding			ISO	RGD:3735 	J:155856 	
+MGI:98358	Sox10	SRY (sex determining region Y)-box 10	15		promoter-specific chromatin binding			ISO	RGD:3735 	J:155856 	
+MGI:98362	Sox14	SRY (sex determining region Y)-box 14	9		chromatin binding			IDA		J:202816 	
+MGI:98363	Sox15	SRY (sex determining region Y)-box 15	11		chromatin binding	uses Hrc		IDA		J:100846 	
+MGI:1277166	Sp3	trans-acting transcription factor 3	2		chromatin binding			IDA		J:93510 	
+MGI:98282	Spi1	spleen focus forming virus (SFFV) proviral integration oncogene	2		chromatin binding	happens at the same time as pro-T cell differentiation		IMP		J:302467 	
+MGI:98282	Spi1	spleen focus forming virus (SFFV) proviral integration oncogene	2		chromatin binding	happens in neutrophil		IMP		J:282485 	
+MGI:107606	Srebf1	sterol regulatory element binding transcription factor 1	11		chromatin binding	uses Srebf1		IDA		J:117710 	
+MGI:107606	Srebf1	sterol regulatory element binding transcription factor 1	11		chromatin binding	uses Irs2		IDA		J:117710 	
+MGI:107606	Srebf1	sterol regulatory element binding transcription factor 1	11		chromatin binding	uses Acacb		IDA		J:152612 	
+MGI:107606	Srebf1	sterol regulatory element binding transcription factor 1	11		chromatin binding	uses Fasn		IDA		J:96459 	
+MGI:107606	Srebf1	sterol regulatory element binding transcription factor 1	11		chromatin binding	uses Pck1		IDA		J:117710 	
+MGI:107606	Srebf1	sterol regulatory element binding transcription factor 1	11		chromatin binding			ISO	RGD:69423 	J:155856 	
+MGI:107585	Srebf2	sterol regulatory element binding factor 2	15		chromatin binding			ISO	RGD:1307751 	J:155856 	
+MGI:106658	Srf	serum response factor	17		chromatin binding			IDA		J:171727 	
+MGI:106658	Srf	serum response factor	17		chromatin DNA binding	uses Acta2		IDA		J:136678 	
+MGI:1920040	Ssbp1	single-stranded DNA binding protein 1	6		chromatin binding			ISO	Q04837 	J:164563 	
+MGI:107912	Ssrp1	structure specific recognition protein 1	2		chromatin binding			IDA		J:183708 	
+MGI:107912	Ssrp1	structure specific recognition protein 1	2		nucleosome binding			IBA	PTN002492356 	J:265628 	
+MGI:1098658	Stag1	stromal antigen 1	9		chromatin binding			IBA	PTN000127652 	J:265628 	
+MGI:1098658	Stag1	stromal antigen 1	9		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:1098658	Stag1	stromal antigen 1	9		chromatin binding			IDA		J:184719 	
+MGI:1098583	Stag2	stromal antigen 2	X		chromatin binding			IBA	PTN000127652 	J:265628 	
+MGI:1098583	Stag2	stromal antigen 2	X		chromatin binding	uses Pck1		IDA		J:188795 	
+MGI:1098583	Stag2	stromal antigen 2	X		chromatin binding			IDA		J:184719 	
+MGI:1355311	Stag3	stromal antigen 3	5		chromatin binding			IBA	PTN000127652 	J:265628 	
+MGI:103063	Stat1	signal transducer and activator of transcription 1	1		promoter-specific chromatin binding			ISO	P42224 	J:164563 	
+MGI:103038	Stat3	signal transducer and activator of transcription 3	11		chromatin DNA binding			ISO	P40763 	J:164563 	
+MGI:103035	Stat5b	signal transducer and activator of transcription 5B	11		chromatin binding			ISO	RGD:3774 	J:155856 	
+MGI:1922717	Stpg4	sperm tail PG rich repeat containing 4	17		chromatin binding			IBA	PTN002860964 	J:265628 	
+MGI:1922717	Stpg4	sperm tail PG rich repeat containing 4	17		chromatin binding			IDA		J:230565 	
+MGI:1202400	Supt5	suppressor of Ty 5, DSIF elongation factor subunit	7		chromatin binding			IDA		J:173556 	
+MGI:107726	Supt6	SPT6, histone chaperone and transcription elongation factor	11		nucleosome binding			IBA	PTN000015765 	J:265628 	
+MGI:1890948	Supt16	SPT16, facilitates chromatin remodeling subunit	14		nucleosome binding			IBA	PTN000360139 	J:265628 	
+MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		chromatin binding			IDA		J:65972 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin binding	uses Hoxa1		IDA		J:109525 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin binding	uses Hoxb1		IDA		J:109525 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin binding	uses Hoxb4		IDA		J:109525 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin binding	uses Hoxb6		IDA		J:109525 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin binding	uses Hoxb8		IDA		J:109525 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin binding	happens in basal cell of epidermis		IDA		J:218234 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin DNA binding			IBA	PTN000502888 	J:265628 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin DNA binding			IDA		J:134766 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		promoter-specific chromatin binding			IDA		J:227373 	
+MGI:1928849	Svep1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	4		chromatin binding			IDA		J:93510 	
+MGI:2144471	Tada2a	transcriptional adaptor 2A	11		chromatin binding			IBA	PTN000271860 	J:265628 	
+MGI:3035274	Tada2b	transcriptional adaptor 2B	5		chromatin binding			IBA	PTN000271860 	J:265628 	
+MGI:1336878	Taf1	TATA-box binding protein associated factor 1	X		promoter-specific chromatin binding	happens in liver		IDA		J:181994 	
+MGI:2443028	Taf2	TATA-box binding protein associated factor 2	15		chromatin binding			IBA	PTN000388531 	J:265628 	
+MGI:2442144	Taf5	TATA-box binding protein associated factor 5	19		promoter-specific chromatin binding	happens in liver,happens in nucleus		IDA		J:181994 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		promoter-specific chromatin binding			IBA	PTN000478466 	J:265628 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		promoter-specific chromatin binding	happens in liver		IDA		J:181994 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	uses Slc4a1		IDA		J:146089 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	uses Klf1		IDA		J:139179 J:146089 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	uses Ahsp		IDA		J:146089 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	uses Gypa		IDA		J:139179 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	uses Hbb-b1		IDA		J:146089 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	happens in yolk sac,uses Runx3		IDA		J:132709 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	happens in yolk sac,uses Runx1		IDA		J:132709 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	happens in liver,uses Runx3		IDA		J:132709 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding	happens in liver,uses Runx1		IDA		J:132709 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		chromatin binding			ISO	P17542 	J:139474 	
+MGI:1921694	Tasor	transcription activation suppressor	14		chromatin binding			IBA	PTN002701184 	J:265628 	
+MGI:1921694	Tasor	transcription activation suppressor	14		chromatin binding			ISO	Q9UK61 	J:164563 	
+MGI:1336172	Tbl1x	transducin (beta)-like 1 X-linked	X		chromatin binding			IDA		J:96883 	
+MGI:107404	Tbr1	T-box brain transcription factor 1	2		chromatin DNA binding	happens in neocortex,uses Eomes		IDA		J:266522 	
+MGI:98510	Tcf3	transcription factor 3	10		chromatin binding	uses Hba-a1		IDA		J:146089 	
+MGI:98510	Tcf3	transcription factor 3	10		chromatin binding	uses Hbb-b1		IDA		J:146089 	
+MGI:98510	Tcf3	transcription factor 3	10		chromatin binding	happens in erythroid lineage cell,uses Klf1		IDA		J:139179 	
+MGI:98510	Tcf3	transcription factor 3	10		chromatin binding	happens in erythroid lineage cell,uses Gypa		IDA		J:139179 	
+MGI:98506	Tcf4	transcription factor 4	18		chromatin binding	uses Igf2bp1		IDA		J:207231 	
+MGI:1202876	Tcf7l1	transcription factor 7 like 1 (T cell specific, HMG box)	6		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Mmp7		IDA		J:134051 	
+MGI:1202876	Tcf7l1	transcription factor 7 like 1 (T cell specific, HMG box)	6		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Ccnd1		IDA		J:134051 	
+MGI:1202876	Tcf7l1	transcription factor 7 like 1 (T cell specific, HMG box)	6		chromatin binding	happens in glandular epithelial cell,happens in uterine gland,uses Ltf		IDA		J:134051 	
+MGI:1202876	Tcf7l1	transcription factor 7 like 1 (T cell specific, HMG box)	6		chromatin binding			IDA		J:138113 	
+MGI:1202879	Tcf7l2	transcription factor 7 like 2, T cell specific, HMG box	19		chromatin binding	uses Msx1		IDA		J:127530 	
+MGI:1202879	Tcf7l2	transcription factor 7 like 2, T cell specific, HMG box	19		chromatin binding	uses Sox17		IGI	MGI:88276 	J:198627 	
+MGI:2444023	Tdrd3	tudor domain containing 3	14		chromatin binding			ISO	Q9H7E2 	J:164563 	
+MGI:107810	Tfam	transcription factor A, mitochondrial	10		chromatin binding			ISO	Q00059 	J:164563 	
+MGI:104671	Tfap2a	transcription factor AP-2, alpha	13		chromatin binding	happens in lens,uses Bfsp1		IDA		J:131815 	
+MGI:104671	Tfap2a	transcription factor AP-2, alpha	13		chromatin binding	happens in lens,uses Fgf14		IDA		J:131815 	
+MGI:104671	Tfap2a	transcription factor AP-2, alpha	13		chromatin binding	happens in lens,uses Cdh1		IDA		J:131815 	
+MGI:104671	Tfap2a	transcription factor AP-2, alpha	13		chromatin binding			IDA		J:92872 	
+MGI:104672	Tfap2b	transcription factor AP-2 beta	1		chromatin binding			ISO	RGD:1306321 	J:155856 	
+MGI:1194497	Tgif1	TGFB-induced factor homeobox 1	17		chromatin binding			IDA		J:105576 	
+MGI:98742	Thra	thyroid hormone receptor alpha	11		chromatin DNA binding			IDA		J:130306 	
+MGI:98743	Thrb	thyroid hormone receptor beta	14		chromatin binding			IDA		J:178620 	
+MGI:98743	Thrb	thyroid hormone receptor beta	14		chromatin DNA binding			IDA		J:130306 	
+MGI:1924261	Ticrr	TOPBP1-interacting checkpoint and replication regulator	7		chromatin binding			IBA	PTN001470787 	J:265628 	
+MGI:1924261	Ticrr	TOPBP1-interacting checkpoint and replication regulator	7		chromatin binding			ISO	Q7Z2Z1 	J:164563 	
+MGI:104636	Tle1	transducin-like enhancer of split 1	4		chromatin binding	happens in CNS neuron (sensu Vertebrata),happens in hypothalamus,uses Gnrh1		IDA		J:101190 	
+MGI:104633	Tle4	transducin-like enhancer of split 4	19		chromatin binding	happens in CNS neuron (sensu Vertebrata),happens in hypothalamus,uses Gnrh1		IDA		J:101190 	
+MGI:3648294	Tnrc18	trinucleotide repeat containing 18	5		chromatin binding			IEA	IPR001025 	J:72247 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		chromatin binding			ISO	P11387 	J:164563 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		chromatin DNA binding			ISO	RGD:621246 	J:155856 	
+MGI:98790	Top2a	topoisomerase (DNA) II alpha	11		chromatin binding			ISO	RGD:62048 	J:155856 	
+MGI:98790	Top2a	topoisomerase (DNA) II alpha	11		chromatin binding			ISO	P11388 	J:164563 	
+MGI:98791	Top2b	topoisomerase (DNA) II beta	14		chromatin binding			ISO	Q02880 	J:164563 	
+MGI:2181659	Tox	thymocyte selection-associated high mobility group box	4		chromatin DNA binding			IBA	PTN000345644 	J:265628 	
+MGI:2181659	Tox	thymocyte selection-associated high mobility group box	4		chromatin DNA binding			IDA		J:220033 	
+MGI:3611233	Tox2	TOX high mobility group box family member 2	2		chromatin DNA binding			IBA	PTN000345644 	J:265628 	
+MGI:3039593	Tox3	TOX high mobility group box family member 3	8		chromatin binding			ISO	O15405 	J:164563 	
+MGI:3039593	Tox3	TOX high mobility group box family member 3	8		chromatin DNA binding			IBA	PTN000345644 	J:265628 	
+MGI:1915389	Tox4	TOX high mobility group box family member 4	14		chromatin DNA binding			IBA	PTN000345644 	J:265628 	
+MGI:1922066	Tpr	translocated promoter region, nuclear basket protein	1		chromatin binding			ISO	P12270 	J:164563 	
+MGI:109275	Trim24	tripartite motif-containing 24	6		chromatin binding			IDA		J:55698 	
+MGI:109275	Trim24	tripartite motif-containing 24	6		chromatin binding			ISO	O15164 	J:164563 	
+MGI:109274	Trim28	tripartite motif-containing 28	7		chromatin binding			ISO	Q13263 	J:164563 	
+MGI:109274	Trim28	tripartite motif-containing 28	7		promoter-specific chromatin binding			IBA	PTN002816179 	J:265628 	
+MGI:109274	Trim28	tripartite motif-containing 28	7		promoter-specific chromatin binding			ISO	Q13263 	J:164563 	
+MGI:2137357	Trim33	tripartite motif-containing 33	3		promoter-specific chromatin binding	happens in testis		IDA		J:232147 	
+MGI:2153072	Trim37	tripartite motif-containing 37	11		chromatin binding			IDA		J:202816 	
+MGI:2152406	Trim66	tripartite motif-containing 66	7		chromatin binding			IDA		J:202816 	
+MGI:98834	Trp53	transformation related protein 53	11		chromatin binding	uses Eda2r		IDA		J:160291 	
+MGI:98834	Trp53	transformation related protein 53	11		chromatin binding	uses Afp		IDA		J:96056 J:136812 	
+MGI:98834	Trp53	transformation related protein 53	11		chromatin binding			ISO	P04637 	J:73065 	
+MGI:98834	Trp53	transformation related protein 53	11		promoter-specific chromatin binding			ISO	P04637 	J:164563 	
+MGI:1330810	Trp63	transformation related protein 63	16		chromatin binding	uses Bmp7		IDA		J:107400 	
+MGI:1330810	Trp63	transformation related protein 63	16		chromatin binding	uses Krt14	PR:O88898-2	IDA		J:126411 	
+MGI:1330810	Trp63	transformation related protein 63	16		chromatin binding	uses Notch1		IDA		J:107400 	
+MGI:1330810	Trp63	transformation related protein 63	16		chromatin binding			ISO	Q9H3D4 	J:164563 	
+MGI:2442819	Tshz3	teashirt zinc finger family member 3	7		chromatin binding			ISO	Q63HK5 	J:164563 	
+MGI:1298395	Tspyl1	testis-specific protein, Y-encoded-like 1	10		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:106244	Tspyl2	TSPY-like 2	X		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:2139328	Tspyl3	TSPY-like 3	2		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:106393	Tspyl4	TSPY-like 4	10		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:2442458	Tspyl5	testis-specific protein, Y-encoded-like 5	15		chromatin binding			IBA	PTN000221934 	J:265628 	
+MGI:2683584	Ttc5	tetratricopeptide repeat domain 5	14		chromatin binding			IDA		J:182131 	
+MGI:1920918	Ttc21b	tetratricopeptide repeat domain 21B	2		chromatin binding			IDA		J:178620 	
+MGI:3651956	Ttc39aos1	Ttc39a opposite strand RNA 1	4		chromatin binding			IDA		J:234649 	
+MGI:105044	Ttf1	transcription termination factor, RNA polymerase I	2		chromatin binding			IBA	PTN002929018 	J:265628 	
+MGI:105044	Ttf1	transcription termination factor, RNA polymerase I	2		chromatin binding			IDA		J:38595 	
+MGI:104685	Twist2	twist basic helix-loop-helix transcription factor 2	1		chromatin binding	uses Tnf		IDA		J:124396 	
+MGI:1914446	Ube2t	ubiquitin-conjugating enzyme E2T	1		chromatin binding			ISO	Q9NPD8 	J:164563 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		chromatin binding			ISO	P17480 	J:164563 	
+MGI:107995	Upf1	UPF1 regulator of nonsense transcripts homolog (yeast)	8		chromatin binding			ISO	Q92900 	J:164563 	
+MGI:1342294	Uri1	URI1, prefoldin-like chaperone	7		chromatin binding			IBA	PTN000387656 	J:265628 	
+MGI:1342294	Uri1	URI1, prefoldin-like chaperone	7		chromatin binding			ISO	O94763 	J:164563 	
+MGI:2152450	Usp3	ubiquitin specific peptidase 3	9		promoter-specific chromatin binding			ISO	RGD:1308852 	J:155856 	
+MGI:3588217	Usp51	ubiquitin specific protease 51	X		chromatin binding			ISO	Q70EK9 	J:164563 	
+MGI:894810	Uty	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	Y		chromatin DNA binding			IBA	PTN000361179 	J:265628 	
+MGI:1277988	Uxt	ubiquitously expressed prefoldin like chaperone	X		chromatin binding			ISO	Q9UBK9 	J:164563 	
+MGI:1277163	Vax1	ventral anterior homeobox 1	19		chromatin DNA binding	uses Pax6		IDA		J:98488 	
+MGI:1346018	Vax2	ventral anterior homeobox 2	6		chromatin DNA binding	uses Pax6		IDA		J:98488 	
+MGI:2387357	Wac	WW domain containing adaptor with coiled-coil	18		chromatin binding			IBA	PTN000408306 	J:265628 	
+MGI:2387357	Wac	WW domain containing adaptor with coiled-coil	18		chromatin binding			ISO	Q9BTA9 	J:164563 	
+MGI:104709	Wbp2	WW domain binding protein 2	11		chromatin DNA binding			IBA	PTN001269447 	J:265628 	
+MGI:104709	Wbp2	WW domain binding protein 2	11		chromatin DNA binding			ISO	Q969T9 	J:164563 	
+MGI:1921966	Wbp2nl	WBP2 N-terminal like	15		chromatin DNA binding			IBA	PTN001269447 	J:265628 	
+MGI:2443514	Wdhd1	WD repeat and HMG-box DNA binding protein 1	14		chromatin binding			IBA	PTN000460568 	J:265628 	
+MGI:2443514	Wdhd1	WD repeat and HMG-box DNA binding protein 1	14		chromatin binding			IDA		J:182876 	
+MGI:1914661	Wdr13	WD repeat domain 13	X		promoter-specific chromatin binding			IBA	PTN002336233 	J:265628 	
+MGI:1914661	Wdr13	WD repeat domain 13	X		promoter-specific chromatin binding			IDA		J:225111 	
+MGI:1924555	Wdr82	WD repeat domain containing 82	9		chromatin binding			IBA	PTN000458398 	J:265628 	
+MGI:1924555	Wdr82	WD repeat domain containing 82	9		chromatin binding			IDA		J:183708 J:319942 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		chromatin binding			ISO	RGD:1564788 	J:155856 	
+MGI:98970	Xbp1	X-box binding protein 1	11		chromatin DNA binding			ISO	P17861 	J:164563 	
+MGI:103262	Yap1	yes-associated protein 1	9		chromatin binding	uses Snai2		IDA		J:170963 	
+MGI:103262	Yap1	yes-associated protein 1	9		chromatin binding	uses Gli2		IDA		J:154728 	
+MGI:103262	Yap1	yes-associated protein 1	9		chromatin binding	uses Sox2		IDA		J:170963 	
+MGI:99146	Ybx1	Y box protein 1	4		chromatin binding	uses Trp53		IDA		J:211289 	
+MGI:1096372	Ybx2	Y box protein 2	11		chromatin binding			IDA		J:96105 	
+MGI:99150	Yy1	YY1 transcription factor	12		chromatin binding			IDA		J:211907 	
+MGI:2682314	Zc3h4	zinc finger CCCH-type containing 4	7		chromatin binding			IDA		J:319942 	
+MGI:2682314	Zc3h4	zinc finger CCCH-type containing 4	7		promoter-specific chromatin binding			ISO	Q9UPT8 	J:164563 	
+MGI:2385891	Zc3h12a	zinc finger CCCH type containing 12A	4		chromatin binding			ISO	Q5D1E8 	J:164563 	
+MGI:1344313	Zeb1	zinc finger E-box binding homeobox 1	18		chromatin binding	uses Acta2		IDA		J:110800 	
+MGI:1344313	Zeb1	zinc finger E-box binding homeobox 1	18		chromatin binding	happens in prolactin secreting cell,happens in pituitary gland,uses Gh		IDA		J:121427 	
+MGI:1344313	Zeb1	zinc finger E-box binding homeobox 1	18		chromatin binding			ISO	RGD:3831 	J:155856 	
+MGI:99204	Zfp57	zinc finger protein 57	17		chromatin binding			IDA		J:272242 	
+MGI:99204	Zfp57	zinc finger protein 57	17		chromatin binding			ISO	Q9NU63 	J:164563 	
+MGI:1890378	Zfp110	zinc finger protein 110	7		chromatin binding			ISO	Q96GC6 	J:164563 	
+MGI:1336211	Zfp125	zinc finger protein 125	12		chromatin DNA binding			IDA		J:270723 	
+MGI:1277969	Zfp143	zinc finger protein 143	7		chromatin binding			ISO	RGD:1305662 	J:155856 	
+MGI:1888495	Zfp276	zinc finger protein (C2H2 type) 276	8		chromatin insulator sequence binding			IBA	PTN002812834 	J:265628 	
+MGI:1351476	Zfp354b	zinc finger protein 354B	11		chromatin binding			IDA		J:202816 	
+MGI:2176229	Zfp369	zinc finger protein 369	13		chromatin binding			ISO	Q96GC6 	J:164563 	
+MGI:1930708	Zfp386	zinc finger protein 386 (Kruppel-like)	12		chromatin binding			IDA		J:93510 	
+MGI:2143340	Zfp445	zinc finger protein 445	9		chromatin binding			IDA		J:272242 	
+MGI:2674092	Zfp609	zinc finger protein 609	9		promoter-specific chromatin binding			IDA		J:243510 	
+MGI:3650254	Zfp683	zinc finger protein 683	4		promoter-specific chromatin binding			IDA		J:232474 	
+MGI:2144276	Zfp692	zinc finger protein 692	11		chromatin insulator sequence binding			IBA	PTN002812834 	J:265628 	
+MGI:2442210	Zfp750	zinc finger protein 750	11		promoter-specific chromatin binding			IBA	PTN002685411 	J:265628 	
+MGI:2442210	Zfp750	zinc finger protein 750	11		promoter-specific chromatin binding			ISO	Q32MQ0 	J:164563 	
+MGI:1916754	Zfp932	zinc finger protein 932	5		chromatin binding			IDA		J:203400 J:205031 	
+MGI:99211	Zfx	zinc finger protein X-linked	X		chromatin insulator sequence binding			IBA	PTN002812834 	J:265628 	
+MGI:106679	Zic2	zinc finger protein of the cerebellum 2	14		chromatin DNA binding			IDA		J:164404 	
+MGI:1919989	Zkscan3	zinc finger with KRAB and SCAN domains 3	13		chromatin binding			ISO	Q9BRR0 	J:164563 	
+MGI:1917353	Znhit1	zinc finger, HIT domain containing 1	5		chromatin binding			IDA		J:150656 	
+MGI:1917353	Znhit1	zinc finger, HIT domain containing 1	5		nucleosome binding			IBA	PTN000318090 	J:265628 	
+

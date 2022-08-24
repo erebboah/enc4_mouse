@@ -1,0 +1,1061 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1915609	0610010K14Rik	RIKEN cDNA 0610010K14 gene	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1923025	4930402K13Rik	RIKEN cDNA 4930402K13 gene	X		transcription initiation-coupled chromatin remodeling			IBA	PTN001667555 	J:265628 	
+MGI:1922160	4930480E11Rik	RIKEN cDNA 4930480E11 gene	X		transcription initiation-coupled chromatin remodeling			IBA	PTN001667555 	J:265628 	
+MGI:87853	a	nonagouti	2		epigenetic regulation of gene expression			IMP	MGI:1855930 	J:82396 	
+MGI:87853	a	nonagouti	2		epigenetic regulation of gene expression			IMP	MGI:1855937 	J:82396 	
+MGI:87853	a	nonagouti	2		genomic imprinting			IMP	MGI:1855930 	J:82396 	
+MGI:87853	a	nonagouti	2		genomic imprinting			IMP	MGI:1855937 	J:82396 	
+MGI:1917931	Abraxas1	BRCA1 A complex subunit	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:87904	Actb	actin, beta	5		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1861453	Actl6a	actin-like 6A	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1861453	Actl6a	actin-like 6A	3		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1861453	Actl6a	actin-like 6A	3		chromatin remodeling			IDA		J:51248 	
+MGI:1861453	Actl6a	actin-like 6A	3		chromatin remodeling			ISO	O96019 	J:164563 	
+MGI:1933548	Actl6b	actin-like 6B	5		chromatin organization			IC	GO:0016514 	J:80453 	
+MGI:1933548	Actl6b	actin-like 6B	5		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1933548	Actl6b	actin-like 6B	5		chromatin remodeling			ISO	O94805 	J:164563 	
+MGI:1924748	Actr5	ARP5 actin-related protein 5	2		chromatin remodeling			ISO	Q9H9F9 	J:164563 	
+MGI:1914269	Actr6	ARP6 actin-related protein 6	10		chromatin remodeling			IEA	IPR030054 	J:72247 	
+MGI:1860775	Actr8	ARP8 actin-related protein 8	14		chromatin remodeling			ISO	Q9H981 	J:164563 	
+MGI:1338038	Aebp2	AE binding protein 2	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1342279	Aicda	activation-induced cytidine deaminase	6		negative regulation of DNA methylation-dependent heterochromatin formation			ISO	Q9GZX7 	J:164563 	
+MGI:1353471	Airn	antisense Igf2r RNA	17		regulation of gene expression by genomic imprinting			IMP	MGI:2677157 	J:77594 	
+MGI:1353471	Airn	antisense Igf2r RNA	17		regulation of gene expression by genomic imprinting	happens in chorioallantoic placenta,uses Slc22a3		IMP		J:142233 	
+MGI:1919291	Alkbh4	alkB homolog 4, lysine demethylase	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919291	Alkbh4	alkB homolog 4, lysine demethylase	5		regulation of chromatin organization			IDA		J:278437 	
+MGI:1914878	Anp32b	acidic (leucine-rich) nuclear phosphoprotein 32 family, member B	4		nucleosome assembly			ISO	Q92688 	J:164563 	
+MGI:1913721	Anp32e	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:107765	Apbb1	amyloid beta (A4) precursor protein-binding, family B, member 1	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919353	Aplf	aprataxin and PNKP like factor	6		DNA repair-dependent chromatin remodeling			ISO	Q8IW19 	J:164563 	
+MGI:103298	Apobec1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	6		negative regulation of DNA methylation-dependent heterochromatin formation			IMP		J:175307 	
+MGI:1935147	Arid1a	AT rich interactive domain 1A (SWI-like)	4		chromatin organization			IPI	PR:Q6DIC0 	J:69532 	
+MGI:1935147	Arid1a	AT rich interactive domain 1A (SWI-like)	4		chromatin remodeling			IC		J:320039 	
+MGI:1935147	Arid1a	AT rich interactive domain 1A (SWI-like)	4		chromatin remodeling			IMP	MGI:3796520 	J:134633 	
+MGI:1935147	Arid1a	AT rich interactive domain 1A (SWI-like)	4		chromatin remodeling			ISO	O14497 	J:164563 	
+MGI:1935147	Arid1a	AT rich interactive domain 1A (SWI-like)	4		nucleosome disassembly			ISO	O14497 	J:164563 	
+MGI:1926129	Arid1b	AT rich interactive domain 1B (SWI-like)	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1926129	Arid1b	AT rich interactive domain 1B (SWI-like)	17		chromatin remodeling			IC	GO:0071565 	J:199644 	
+MGI:1926129	Arid1b	AT rich interactive domain 1B (SWI-like)	17		chromatin remodeling			IC		J:320039 	
+MGI:1924294	Arid2	AT rich interactive domain 2 (ARID, RFX-like)	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1924294	Arid2	AT rich interactive domain 2 (ARID, RFX-like)	15		chromatin remodeling			IC		J:320039 	
+MGI:1924294	Arid2	AT rich interactive domain 2 (ARID, RFX-like)	15		nucleosome disassembly			ISO	Q68CP9 	J:164563 	
+MGI:2444354	Arid4a	AT rich interactive domain 4A (RBP1-like)	12		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444354	Arid4a	AT rich interactive domain 4A (RBP1-like)	12		regulation of gene expression by genomic imprinting			IGI	MGI:2137512 	J:113402 	
+MGI:2137512	Arid4b	AT rich interactive domain 4B (RBP1-like)	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2137512	Arid4b	AT rich interactive domain 4B (RBP1-like)	13		regulation of gene expression by genomic imprinting			IGI	MGI:2444354 	J:113402 	
+MGI:1913653	Asf1a	anti-silencing function 1A histone chaperone	10		chromatin organization			IBA	PTN000247832 	J:265628 	
+MGI:1913653	Asf1a	anti-silencing function 1A histone chaperone	10		DNA replication-dependent chromatin assembly			IBA	PTN000247832 	J:265628 	
+MGI:1913653	Asf1a	anti-silencing function 1A histone chaperone	10		nucleosome assembly			ISO	Q9Y294 	J:73065 	
+MGI:1914179	Asf1b	anti-silencing function 1B histone chaperone	8		chromatin organization			IBA	PTN000247832 	J:265628 	
+MGI:1914179	Asf1b	anti-silencing function 1B histone chaperone	8		DNA replication-dependent chromatin assembly			IBA	PTN000247832 	J:265628 	
+MGI:1914179	Asf1b	anti-silencing function 1B histone chaperone	8		nucleosome assembly			IDA		J:85416 	
+MGI:1914179	Asf1b	anti-silencing function 1B histone chaperone	8		nucleosome assembly			ISO	Q9NVP2 	J:164563 	
+MGI:2183158	Ash1l	ASH1 like histone lysine methyltransferase	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1344416	Ash2l	ASH2 like histone lysine methyltransferase complex subunit	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1344416	Ash2l	ASH2 like histone lysine methyltransferase complex subunit	8		transcription initiation-coupled chromatin remodeling	happens in embryonic stem cell		NAS		J:185349 	
+MGI:2684063	Asxl1	ASXL transcriptional regulator 1	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1917722	Atad2	ATPase family, AAA domain containing 2	15		chromatin organization			IEA	IPR031252 	J:72247 	
+MGI:1858965	Atf7ip	activating transcription factor 7 interacting protein	6		positive regulation of DNA methylation-dependent heterochromatin formation			IBA	PTN001904540 	J:265628 	
+MGI:1858965	Atf7ip	activating transcription factor 7 interacting protein	6		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q6VMQ6 	J:164563 	
+MGI:1922579	Atf7ip2	activating transcription factor 7 interacting protein 2	16		positive regulation of DNA methylation-dependent heterochromatin formation			IBA	PTN001904540 	J:265628 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		chromatin organization			ISO	P46100 	J:164563 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		chromatin remodeling			IBA	PTN002923541 	J:265628 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		chromatin remodeling			ISO	P46100 	J:164563 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		nucleosome assembly			ISO	P46100 	J:164563 	
+MGI:3036270	Atxn7l3	ataxin 7-like 3	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1096327	Axin1	axin 1	17		genomic imprinting			IMP	MGI:1856035 	J:82396 	
+MGI:1915501	Babam1	BRISC and BRCA1 A complex member 1	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1333875	Babam2	BRISC and BRCA1 A complex member 2	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919439	Bag6	BCL2-associated athanogene 6	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2139371	Bahd1	bromo adjacent homology domain containing 1	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2139371	Bahd1	bromo adjacent homology domain containing 1	2		chromatin remodeling			IBA	PTN008209947 	J:265628 	
+MGI:2139371	Bahd1	bromo adjacent homology domain containing 1	2		heterochromatin formation			IBA	PTN008209947 	J:265628 	
+MGI:2139371	Bahd1	bromo adjacent homology domain containing 1	2		heterochromatin formation			ISO	Q8TBE0 	J:164563 	
+MGI:1346330	Banf1	BAF nuclear assembly factor 1	19		chromatin organization			ISO	O75531 	J:164563 	
+MGI:1889023	Banp	BTG3 associated nuclear protein	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1206586	Bap1	Brca1 associated protein 1	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1309478	Baz1a	bromodomain adjacent to zinc finger domain 1A	12		chromatin remodeling			ISO	Q9NRL2 	J:164563 	
+MGI:1309478	Baz1a	bromodomain adjacent to zinc finger domain 1A	12		chromatin remodeling			TAS		J:76488 	
+MGI:1309478	Baz1a	bromodomain adjacent to zinc finger domain 1A	12		nucleosome assembly			ISO	Q9NRL2 	J:164563 	
+MGI:1309478	Baz1a	bromodomain adjacent to zinc finger domain 1A	12		regulation of heterochromatin formation			IBA	PTN005308832 	J:265628 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		chromatin organization			IDA		J:76488 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		chromatin remodeling			IBA	PTN002929532 	J:265628 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		chromatin remodeling			IC		J:320057 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		chromatin remodeling			IDA		J:76488 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		chromatin remodeling			ISO	Q9UIG0 	J:164563 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		chromatin remodeling			NAS		J:143888 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		chromatin remodeling			IGI	MGI:1935129 	J:71381 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		heterochromatin formation			IDA		J:111312 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		heterochromatin formation			IMP		J:162045 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		rDNA heterochromatin formation			IDA		J:100129 J:111312 J:150926 J:150958 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		rDNA heterochromatin formation			IMP		J:162045 	
+MGI:1924295	Bcl7a	B cell CLL/lymphoma 7A	5		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1332238	Bcl7b	B cell CLL/lymphoma 7B	5		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1332237	Bcl7c	B cell CLL/lymphoma 7C	7		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1918708	Bcor	BCL6 interacting corepressor	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2443910	Bcorl1	BCL6 co-repressor-like 1	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2677212	Bend3	BEN domain containing 3	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2677212	Bend3	BEN domain containing 3	10		rDNA heterochromatin formation			IBA	PTN002408692 	J:265628 	
+MGI:2677212	Bend3	BEN domain containing 3	10		rDNA heterochromatin formation			ISO	Q5T5X7 	J:164563 	
+MGI:2154263	Bicra	BRD4 interacting chromatin remodeling complex associated protein	7		chromatin remodeling			IC		J:283189 	
+MGI:2673855	Bicral	BRD4 interacting chromatin remodeling complex associated protein like	17		chromatin remodeling			IC		J:283189 	
+MGI:88174	Bmi1	Bmi1 polycomb ring finger oncogene	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:5590788	Bmncr	bone marrow associated noncoding RNA	1		chromatin organization			IMP		J:270992 	
+MGI:88184	Bmyc	brain expressed myelocytomatosis oncogene	2		chromatin remodeling			ISO	P01106 	J:164563 	
+MGI:2444008	Bptf	bromodomain PHD finger transcription factor	11		chromatin remodeling			ISO	Q12830 	J:164563 	
+MGI:104537	Brca1	breast cancer 1, early onset	11		dosage compensation by inactivation of X chromosome			IBA	PTN000349142 	J:265628 	
+MGI:104537	Brca1	breast cancer 1, early onset	11		dosage compensation by inactivation of X chromosome			IDA		J:79872 	
+MGI:104537	Brca1	breast cancer 1, early onset	11		regulation of gene expression by genomic imprinting			IMP		J:173146 	
+MGI:2389572	Brcc3	BRCA1/BRCA2-containing complex, subunit 3	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1924161	Brd1	bromodomain containing 1	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:99495	Brd2	bromodomain containing 2	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:99495	Brd2	bromodomain containing 2	17		chromatin remodeling			IBA	PTN000524852 	J:265628 	
+MGI:99495	Brd2	bromodomain containing 2	17		nucleosome assembly			ISO	P25440 	J:164563 	
+MGI:1914632	Brd3	bromodomain containing 3	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1914632	Brd3	bromodomain containing 3	2		chromatin remodeling			IBA	PTN000524852 	J:265628 	
+MGI:1888520	Brd4	bromodomain containing 4	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1888520	Brd4	bromodomain containing 4	17		chromatin remodeling			IBA	PTN000524852 	J:265628 	
+MGI:1888520	Brd4	bromodomain containing 4	17		chromatin remodeling			ISO	O60885 	J:164563 	
+MGI:1349766	Brd7	bromodomain containing 7	8		chromatin remodeling			IC		J:320039 	
+MGI:1925906	Brd8	bromodomain containing 8	18		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2145317	Brd9	bromodomain containing 9	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2145317	Brd9	bromodomain containing 9	13		chromatin remodeling			IC		J:283189 	
+MGI:1891374	Brdt	bromodomain, testis-specific	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1891374	Brdt	bromodomain, testis-specific	5		chromatin remodeling			IBA	PTN000524852 	J:265628 	
+MGI:1891374	Brdt	bromodomain, testis-specific	5		chromatin remodeling			IDA		J:84555 J:186056 	
+MGI:1891374	Brdt	bromodomain, testis-specific	5		chromatin remodeling			ISO	RGD:1306678 	J:155856 	
+MGI:1891374	Brdt	bromodomain, testis-specific	5		sperm DNA condensation			IMP		J:190041 	
+MGI:1926033	Brpf1	bromodomain and PHD finger containing, 1	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2146836	Brpf3	bromodomain and PHD finger containing, 3	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1913388	Bud23	BUD23, rRNA methyltransferase and ribosome maturation factor	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1298375	Cabin1	calcineurin binding protein 1	10		chromatin organization			IBA	PTN000398529 	J:265628 	
+MGI:1298375	Cabin1	calcineurin binding protein 1	10		nucleosome assembly			ISO	Q9Y6J0 	J:164563 	
+MGI:1913208	Carm1	coactivator-associated arginine methyltransferase 1	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:105369	Cbx1	chromobox 1	11		chromatin organization			IBA	PTN000517042 	J:265628 	
+MGI:88289	Cbx2	chromobox 2	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:108515	Cbx3	chromobox 3	6		chromatin organization			IBA	PTN000517042 	J:265628 	
+MGI:108515	Cbx3	chromobox 3	6		heterochromatin formation			ISO	Q13185 	J:164563 	
+MGI:1195985	Cbx4	chromobox 4	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109372	Cbx5	chromobox 5	15		chromatin organization			IBA	PTN000517042 	J:265628 	
+MGI:3512628	Cbx6	chromobox 6	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1196439	Cbx7	chromobox 7	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1353589	Cbx8	chromobox 8	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1353589	Cbx8	chromobox 8	11		heterochromatin formation			ISS		J:60239 	
+MGI:1916218	Cdan1	congenital dyserythropoietic anemia, type I (human)	2		chromatin organization			IBA	PTN002010693 	J:265628 	
+MGI:1916218	Cdan1	congenital dyserythropoietic anemia, type I (human)	2		chromatin organization			ISO	Q8IWY9 	J:73065 	
+MGI:104772	Cdk2	cyclin-dependent kinase 2	10		positive regulation of heterochromatin formation			ISO	P24941 	J:164563 	
+MGI:104564	Cdkn1c	cyclin-dependent kinase inhibitor 1C (P57)	7		genomic imprinting			IMP	MGI:1933758 	J:147145 	
+MGI:104564	Cdkn1c	cyclin-dependent kinase inhibitor 1C (P57)	7		genomic imprinting			IMP	MGI:3840687 	J:147145 	
+MGI:1339956	Cdyl	chromodomain protein, Y chromosome-like	13		random inactivation of X chromosome			IDA		J:206754 	
+MGI:104982	Cebpg	CCAAT/enhancer binding protein (C/EBP), gamma	7		chromatin remodeling			TAS		J:113689 	
+MGI:104982	Cebpg	CCAAT/enhancer binding protein (C/EBP), gamma	7		nucleosome disassembly			TAS		J:113689 	
+MGI:1923799	Cecr2	CECR2, histone acetyl-lysine reader	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1923799	Cecr2	CECR2, histone acetyl-lysine reader	6		chromatin remodeling			ISO	Q9BXF3 	J:164563 	
+MGI:1913586	Cenpp	centromere protein P	13		CENP-A containing chromatin assembly			IEA	IPR027801 	J:72247 	
+MGI:1920389	Cenpv	centromere protein V	11		pericentric heterochromatin formation			IBA	PTN002007387 	J:265628 	
+MGI:1920389	Cenpv	centromere protein V	11		pericentric heterochromatin formation			ISS	Q7Z7K6 	J:145463 	
+MGI:1344403	Cfdp1	craniofacial development protein 1	8		chromatin remodeling			IBA	PTN000577775 	J:265628 	
+MGI:2146370	Cggbp1	CGG triplet repeat binding protein 1	16		epigenetic regulation of gene expression			ISO	Q9UFW8 	J:164563 	
+MGI:5624990	Chaer1	cardiac hypertrophy associated epigenetic regulator 1	5		epigenetic regulation of gene expression			IMP	MGI:5905817 	J:240516 	
+MGI:1351331	Chaf1a	chromatin assembly factor 1, subunit A (p150)	17		DNA replication-dependent chromatin assembly			ISO	Q13111 	J:164563 	
+MGI:1351331	Chaf1a	chromatin assembly factor 1, subunit A (p150)	17		nucleosome assembly			IBA	PTN000392234 	J:265628 	
+MGI:1351331	Chaf1a	chromatin assembly factor 1, subunit A (p150)	17		nucleosome assembly			ISO	Q13111 	J:164563 	
+MGI:1314881	Chaf1b	chromatin assembly factor 1, subunit B (p60)	16		DNA replication-dependent chromatin assembly			ISO	Q13112 	J:164563 	
+MGI:1314881	Chaf1b	chromatin assembly factor 1, subunit B (p60)	16		nucleosome assembly			IBA	PTN000392175 	J:265628 	
+MGI:1314881	Chaf1b	chromatin assembly factor 1, subunit B (p60)	16		nucleosome assembly			ISO	Q13112 	J:164563 	
+MGI:88393	Chd1	chromodomain helicase DNA binding protein 1	17		chromatin organization			NAS		J:4182 	
+MGI:88393	Chd1	chromodomain helicase DNA binding protein 1	17		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:88393	Chd1	chromodomain helicase DNA binding protein 1	17		chromatin remodeling	happens in myeloid cell		IGI	MGI:1316736 	J:105708 	
+MGI:88393	Chd1	chromodomain helicase DNA binding protein 1	17		chromatin remodeling			ISO	O14646 	J:164563 	
+MGI:88393	Chd1	chromodomain helicase DNA binding protein 1	17		nucleosome organization			IBA	PTN001326511 	J:265628 	
+MGI:1915308	Chd1l	chromodomain helicase DNA binding protein 1-like	3		chromatin remodeling			IBA	PTN002932403 	J:265628 	
+MGI:1915308	Chd1l	chromodomain helicase DNA binding protein 1-like	3		chromatin remodeling			ISO	Q86WJ1 	J:164563 	
+MGI:2448567	Chd2	chromodomain helicase DNA binding protein 2	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2448567	Chd2	chromodomain helicase DNA binding protein 2	7		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:2448567	Chd2	chromodomain helicase DNA binding protein 2	7		nucleosome organization			IBA	PTN001326511 	J:265628 	
+MGI:1344395	Chd3	chromodomain helicase DNA binding protein 3	11		chromatin organization			IDA		J:54004 	
+MGI:1344395	Chd3	chromodomain helicase DNA binding protein 3	11		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:1344395	Chd3	chromodomain helicase DNA binding protein 3	11		chromatin remodeling			ISO	Q12873 	J:164563 	
+MGI:1344380	Chd4	chromodomain helicase DNA binding protein 4	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1344380	Chd4	chromodomain helicase DNA binding protein 4	6		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:1344380	Chd4	chromodomain helicase DNA binding protein 4	6		chromatin remodeling			ISO	Q14839 	J:164563 	
+MGI:3036258	Chd5	chromodomain helicase DNA binding protein 5	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:3036258	Chd5	chromodomain helicase DNA binding protein 5	4		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:3036258	Chd5	chromodomain helicase DNA binding protein 5	4		sperm DNA condensation			IMP		J:207846 	
+MGI:1918639	Chd6	chromodomain helicase DNA binding protein 6	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1918639	Chd6	chromodomain helicase DNA binding protein 6	2		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:2444748	Chd7	chromodomain helicase DNA binding protein 7	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444748	Chd7	chromodomain helicase DNA binding protein 7	4		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:2444748	Chd7	chromodomain helicase DNA binding protein 7	4		chromatin remodeling	happens in heart		IMP	MGI:2176467 MGI:4433295 	J:225736 	
+MGI:1915022	Chd8	chromodomain helicase DNA binding protein 8	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1915022	Chd8	chromodomain helicase DNA binding protein 8	14		chromatin remodeling			IBA	PTN002473914 	J:265628 	
+MGI:1915022	Chd8	chromodomain helicase DNA binding protein 8	14		chromatin remodeling			ISO	Q9HCK8 	J:164563 	
+MGI:1924001	Chd9	chromodomain helicase DNA binding protein 9	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1202065	Chek1	checkpoint kinase 1	9		transcription initiation-coupled chromatin remodeling			IMP		J:177150 	
+MGI:2135796	Chrac1	chromatin accessibility complex 1	15		chromatin remodeling			ISO	Q9NRG0 	J:164563 	
+MGI:2135796	Chrac1	chromatin accessibility complex 1	15		nucleosome assembly			ISO	Q9NRG0 	J:164563 	
+MGI:1913673	Coprs	coordinator of PRMT5, differentiation stimulator	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1201685	Ctbp1	C-terminal binding protein 1	5		heterochromatin formation			ISO	Q13363 	J:164563 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		chromatin looping			ISO	P49711 	J:164563 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		dosage compensation by inactivation of X chromosome			TAS		J:73834 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		epigenetic regulation of gene expression			ISO	P49711 	J:164563 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		genomic imprinting			ISO	P49711 	J:164563 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		regulation of gene expression by genomic imprinting			IDA		J:81888 J:91020 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		regulation of gene expression by genomic imprinting	uses H19		IMP		J:90538 	
+MGI:3652571	Ctcfl	CCCTC-binding factor (zinc finger protein)-like	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:3652571	Ctcfl	CCCTC-binding factor (zinc finger protein)-like	2		regulation of gene expression by genomic imprinting			IBA	PTN007800301 	J:265628 	
+MGI:3652571	Ctcfl	CCCTC-binding factor (zinc finger protein)-like	2		regulation of gene expression by genomic imprinting			IDA		J:116093 	
+MGI:109345	Ctr9	CTR9 homolog, Paf1/RNA polymerase II complex component	7		regulation of genetic imprinting			IMP		J:203796 	
+MGI:1203520	Dapk3	death-associated protein kinase 3	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1197015	Daxx	Fas death domain-associated protein	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1197015	Daxx	Fas death domain-associated protein	17		chromatin remodeling			ISO	Q9UER7 	J:164563 	
+MGI:1197015	Daxx	Fas death domain-associated protein	17		nucleosome assembly			IBA	PTN000298848 	J:265628 	
+MGI:1197015	Daxx	Fas death domain-associated protein	17		nucleosome assembly			IMP		J:209481 	
+MGI:1197015	Daxx	Fas death domain-associated protein	17		nucleosome assembly			ISO	Q9UER7 	J:164563 	
+MGI:2445220	Dcaf1	DDB1 and CUL4 associated factor 1	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1860494	Ddx21	DExD box helicase 21	10		chromatin remodeling			IC		J:320057 	
+MGI:1926209	Dek	DEK proto-oncogene (DNA binding)	13		chromatin organization			IEA	IPR044198 	J:72247 	
+MGI:1926209	Dek	DEK proto-oncogene (DNA binding)	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1926209	Dek	DEK proto-oncogene (DNA binding)	13		chromatin remodeling			IC		J:320057 	
+MGI:2177178	Dicer1	dicer 1, ribonuclease type III	12		pericentric heterochromatin formation			IMP	MGI:3589287 	J:96031 	
+MGI:1913483	Dmap1	DNA methyltransferase 1-associated protein 1	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1913483	Dmap1	DNA methyltransferase 1-associated protein 1	4		chromatin remodeling			IEA	IPR027109 	J:72247 	
+MGI:99470	Dnajc2	DnaJ heat shock protein family (Hsp40) member C2	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1915326	Dnajc9	DnaJ heat shock protein family (Hsp40) member C9	14		nucleosome assembly			ISO	Q8WXX5 	J:164563 	
+MGI:94912	Dnmt1	DNA methyltransferase (cytosine-5) 1	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:94912	Dnmt1	DNA methyltransferase (cytosine-5) 1	9		DNA methylation-dependent heterochromatin formation			IDA		J:113866 	
+MGI:94912	Dnmt1	DNA methyltransferase (cytosine-5) 1	9		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	P26358 	J:164563 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		DNA methylation-dependent heterochromatin formation	uses Mt1		IDA		J:104088 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		DNA methylation-dependent heterochromatin formation	uses Pou5f1		IGI	MGI:1261819 	J:128981 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		DNA methylation-dependent heterochromatin formation	uses Nanog		IGI	MGI:1261819 	J:128981 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		regulation of gene expression by genomic imprinting			IDA		J:173141 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		regulation of gene expression by genomic imprinting			IMP	MGI:2182412 	J:75938 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		regulation of gene expression by genomic imprinting			IMP	MGI:3047552 	J:91108 	
+MGI:1261827	Dnmt3a	DNA methyltransferase 3A	12		regulation of gene expression by genomic imprinting			IMP	MGI:3047824 	J:91108 	
+MGI:1261819	Dnmt3b	DNA methyltransferase 3B	2		DNA methylation-dependent heterochromatin formation	uses Pou5f1		IGI	MGI:1261827 	J:128981 	
+MGI:1261819	Dnmt3b	DNA methyltransferase 3B	2		DNA methylation-dependent heterochromatin formation	uses Nanog		IGI	MGI:1261827 	J:128981 	
+MGI:1261819	Dnmt3b	DNA methyltransferase 3B	2		negative regulation of gene expression, epigenetic			IMP		J:127808 	
+MGI:1261819	Dnmt3b	DNA methyltransferase 3B	2		regulation of gene expression by genomic imprinting			IMP	MGI:2182410 	J:75938 	
+MGI:1261819	Dnmt3b	DNA methyltransferase 3B	2		regulation of gene expression by genomic imprinting			IMP	MGI:2182414 	J:75938 	
+MGI:1859287	Dnmt3l	DNA (cytosine-5-)-methyltransferase 3-like	10		genomic imprinting			IMP	MGI:2447127 	J:112884 	
+MGI:1352748	Dpf1	double PHD fingers 1	7		chromatin remodeling			IC		J:320039 	
+MGI:109529	Dpf2	double PHD fingers 2	19		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109529	Dpf2	double PHD fingers 2	19		chromatin remodeling			IC		J:320039 	
+MGI:1917377	Dpf3	double PHD fingers 3	12		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1917377	Dpf3	double PHD fingers 3	12		chromatin remodeling			IC		J:320039 	
+MGI:1920958	Dppa3	developmental pluripotency-associated 3	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1920958	Dppa3	developmental pluripotency-associated 3	6		regulation of genetic imprinting			IBA	PTN001586615 	J:265628 	
+MGI:1920958	Dppa3	developmental pluripotency-associated 3	6		regulation of genetic imprinting			IMP		J:186710 J:189990 	
+MGI:1913560	Dpy30	dpy-30, histone methyltransferase complex regulatory subunit	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1100515	Dr1	down-regulator of transcription 1	5		chromatin remodeling			IBA	PTN000115754 	J:265628 	
+MGI:2656973	Dtx3l	deltex 3-like, E3 ubiquitin ligase	16		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1330299	Dyrk1a	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1a	16		negative regulation of DNA methylation-dependent heterochromatin formation			ISO	Q13627 	J:164563 	
+MGI:95286	Eed	embryonic ectoderm development	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:95286	Eed	embryonic ectoderm development	7		facultative heterochromatin formation			IDA		J:157630 J:157724 	
+MGI:95286	Eed	embryonic ectoderm development	7		regulation of gene expression by genomic imprinting			IMP	MGI:1856856 	J:82790 	
+MGI:1924933	Ehmt1	euchromatic histone methyltransferase 1	2		chromatin organization			ISO	Q9H9B1 	J:164563 	
+MGI:1924933	Ehmt1	euchromatic histone methyltransferase 1	2		facultative heterochromatin formation			IDA		J:159133 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:105125	Eif1	eukaryotic translation initiation factor 1	11		dosage compensation by inactivation of X chromosome			IMP		J:116443 	
+MGI:1924203	Emsy	EMSY, BRCA2-interacting transcriptional repressor	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919286	Eny2	ENY2 transcription and export complex 2 subunit	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1201683	Eomes	eomesodermin	9		chromatin remodeling			IMP		J:266522 	
+MGI:1276116	Ep300	E1A binding protein p300	15		transcription initiation-coupled chromatin remodeling			ISO	Q09472 	J:164563 	
+MGI:1276124	Ep400	E1A binding protein p400	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1278322	Epc1	enhancer of polycomb homolog 1	18		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1278322	Epc1	enhancer of polycomb homolog 1	18		negative regulation of gene expression, epigenetic			ISO	Q9H2F5 	J:66240 	
+MGI:1278322	Epc1	enhancer of polycomb homolog 1	18		regulation of chromatin organization			IC		J:320265 	
+MGI:1278321	Epc2	enhancer of polycomb homolog 2	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2143991	Epop	elongin BC and polycomb repressive complex 2 associated protein	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1100494	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	14		chromatin remodeling			IC		J:320057 	
+MGI:1355322	Exosc10	exosome component 10	4		dosage compensation by inactivation of X chromosome			IMP		J:116443 	
+MGI:109344	Eya1	EYA transcriptional coactivator and phosphatase 1	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109341	Eya2	EYA transcriptional coactivator and phosphatase 2	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109339	Eya3	EYA transcriptional coactivator and phosphatase 3	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1337104	Eya4	EYA transcriptional coactivator and phosphatase 4	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		chromatin remodeling			IDA		J:142192 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		facultative heterochromatin formation			IDA		J:157724 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		heterochromatin formation			IBA	PTN000768863 	J:265628 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		heterochromatin formation			IDA		J:142192 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		subtelomeric heterochromatin formation			IGI	P38827 	J:41121 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		chromatin remodeling			IEA	IPR045318 	J:72247 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		facultative heterochromatin formation			IDA		J:157630 J:157724 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		heterochromatin formation			IBA	PTN000768863 	J:265628 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		negative regulation of gene expression, epigenetic			ISO	Q15910 	J:164563 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		subtelomeric heterochromatin formation			ISO	Q15910 	J:164563 	
+MGI:1918114	Fam47c	family with sequence similarity 47, member C	X		transcription initiation-coupled chromatin remodeling			IBA	PTN001667555 	J:265628 	
+MGI:2686227	Fam47e	family with sequence similarity 47, member E	5		transcription initiation-coupled chromatin remodeling			IBA	PTN001667555 	J:265628 	
+MGI:1351626	Fam50a	family with sequence similarity 50, member A	X		chromatin organization			IBA	PTN000295841 	J:265628 	
+MGI:1351640	Fam50b	family with sequence similarity 50, member B	13		chromatin organization			IBA	PTN000295841 	J:265628 	
+MGI:1915925	Fam172a	family with sequence similarity 172, member A	13		small non-coding RNA-dependent heterochromatin formation			IBA	PTN001085504 	J:265628 	
+MGI:1925435	Flicr	Foxp3 regulating long intergenic noncoding RNA	X		chromatin organization			IMP		J:241346 	
+MGI:1347472	Foxa1	forkhead box A1	12		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1347472	Foxa1	forkhead box A1	12		chromatin remodeling			IDA		J:161021 	
+MGI:1347476	Foxa2	forkhead box A2	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1347477	Foxa3	forkhead box A3	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:95583	Fshr	follicle stimulating hormone receptor	17		sperm DNA condensation			IMP	MGI:2384087 	J:61957 J:86940 	
+MGI:1926128	Ftx	Ftx transcript, Xist regulator (non-protein coding)	X		chromatin organization			IMP		J:168715 	
+MGI:1926128	Ftx	Ftx transcript, Xist regulator (non-protein coding)	X		regulation of dosage compensation by inactivation of X chromosome			IMP		J:168715 J:212497 	
+MGI:95663	Gata3	GATA binding protein 3	2		chromatin remodeling			IDA		J:91286 	
+MGI:95663	Gata3	GATA binding protein 3	2		chromatin remodeling			IMP		J:91286 	
+MGI:1914460	Gatad1	GATA zinc finger domain containing 1	5		chromatin organization			IBA	PTN001000318 	J:265628 	
+MGI:1914460	Gatad1	GATA zinc finger domain containing 1	5		chromatin remodeling			ISO	Q8WUU5 	J:164563 	
+MGI:2384585	Gatad2a	GATA zinc finger domain containing 2A	8		chromatin remodeling			ISO	Q86YP4 	J:164563 	
+MGI:2443225	Gatad2b	GATA zinc finger domain containing 2B	3		chromatin remodeling			ISO	Q8WXI9 	J:164563 	
+MGI:2141180	Glmn	glomulin, FKBP associated protein	5		epigenetic regulation of gene expression			ISO	Q92990 	J:164563 	
+MGI:5012564	Gm20379	predicted gene, 20379	13		chromatin organization			IBA	PTN000557317 	J:265628 	
+MGI:95777	Gnas	GNAS (guanine nucleotide binding protein, alpha stimulating) complex locus	2		genomic imprinting			IMP	MGI:4459474 	J:160293 	
+MGI:1861674	Gnasas1	GNAS antisense RNA 1	2		genomic imprinting			IMP	MGI:4459475 	J:160293 	
+MGI:104887	Gpx1	glutathione peroxidase 1	9		epigenetic regulation of gene expression			ISO	P07203 	J:164563 	
+MGI:104767	Gpx4	glutathione peroxidase 4	10		chromatin organization			IDA		J:69361 	
+MGI:2141989	Grwd1	glutamate-rich WD repeat containing 1	7		nucleosome assembly			ISO	Q9BQ67 	J:164563 	
+MGI:2141989	Grwd1	glutamate-rich WD repeat containing 1	7		nucleosome disassembly			ISO	Q9BQ67 	J:164563 	
+MGI:2152453	Gsk3a	glycogen synthase kinase 3 alpha	7		regulation of gene expression by genomic imprinting			IMP		J:173141 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		regulation of gene expression by genomic imprinting			IMP		J:173141 	
+MGI:95893	H1f0	H1.0 linker histone	15		heterochromatin formation			ISO	P07305 	J:164563 	
+MGI:95893	H1f0	H1.0 linker histone	15		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:1931523	H1f1	H1.1 linker histone, cluster member	13		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:1931526	H1f2	H1.2 linker histone, cluster member	13		chromatin organization			IMP	MGI:2665852 	J:83954 	
+MGI:1931526	H1f2	H1.2 linker histone, cluster member	13		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:107502	H1f3	H1.3 linker histone, cluster member	13		chromatin organization			IMP	MGI:2666743 	J:83954 	
+MGI:107502	H1f3	H1.3 linker histone, cluster member	13		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:1931527	H1f4	H1.4 linker histone, cluster member	13		chromatin organization			IMP	MGI:2665857 	J:83954 	
+MGI:1931527	H1f4	H1.4 linker histone, cluster member	13		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:1861461	H1f5	H1.5 linker histone, cluster member	13		chromatin organization			ISO	P16401 	J:164563 	
+MGI:1861461	H1f5	H1.5 linker histone, cluster member	13		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:1888530	H1f6	H1.6 linker histone, cluster member	13		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:1917319	H1f7	H1.7 linker histone	15		sperm DNA condensation			IMP		J:96828 	
+MGI:2176207	H1f8	H1.8 linker histone	6		epigenetic regulation of gene expression			IMP		J:207809 	
+MGI:2176207	H1f8	H1.8 linker histone	6		nucleosome assembly			ISA	X13855 	J:74931 	
+MGI:2136691	H1f9	H1.9 linker histone	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2136691	H1f9	H1.9 linker histone	11		heterochromatin formation			ISO	P60008 	J:164563 	
+MGI:2136691	H1f9	H1.9 linker histone	11		nucleosome assembly			IEA	IPR005818 	J:72247 	
+MGI:2448285	H2ac1	H2A clustered histone 1	13		chromatin organization			IDA		J:210169 	
+MGI:2448458	H2ac25	H2A clustered histone 25	11		nucleosome disassembly			ISO	Q7L7L0 	J:164563 	
+MGI:1915481	H2al2a	H2A histone family member L2A	2		nucleosome assembly			IDA		J:119495 	
+MGI:1915481	H2al2a	H2A histone family member L2A	2		sperm DNA condensation			IDA		J:241000 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		chromatin organization			IDA		J:210169 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		nucleosome assembly			IDA		J:119495 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		nucleosome assembly			IMP		J:199360 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		nucleosome assembly			ISO	Q96A08 	J:164563 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		nucleosome disassembly			IMP		J:199360 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		sperm DNA condensation			IMP		J:199360 	
+MGI:2448377	H2bc3	H2B clustered histone 3	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:1915274	H2bc4	H2B clustered histone 4	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448383	H2bc7	H2B clustered histone 7	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448387	H2bc9	H2B clustered histone 9	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448399	H2bc12	H2B clustered histone 12	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448404	H2bc14	H2B clustered histone 14	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448413	H2bc18	H2B clustered histone 18	3		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448415	H2bc21	H2B clustered histone 21	3		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448409	H2bc22	H2B clustered histone 22	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:1925553	H2bc27	H2B clustered histone 27	11		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:1916632	H2bl1	H2B.L histone variant 1	13		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:1916639	H2bw2	H2B.W histone 2	X		nucleosome assembly			IBA	PTN000603808 	J:265628 	
+MGI:2448319	H3c2	H3 clustered histone 2	13		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2448320	H3c3	H3 clustered histone 3	13		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2448322	H3c4	H3 clustered histone 4	13		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2448326	H3c6	H3 clustered histone 6	13		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2448329	H3c7	H3 clustered histone 7	13		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2448351	H3c13	H3 clustered histone 13	3		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2448355	H3c14	H3 clustered histone 14	3		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2448357	H3c15	H3 clustered histone 15	3		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:1097686	H3f3a	H3.3 histone A	1		pericentric heterochromatin formation			IGI	MGI:1101768 	J:225909 	
+MGI:1097686	H3f3a	H3.3 histone A	1		subtelomeric heterochromatin formation			IGI	MGI:1101768 	J:225909 	
+MGI:1101768	H3f3b	H3.3 histone B	11		pericentric heterochromatin formation			IGI	MGI:1097686 	J:225909 	
+MGI:1101768	H3f3b	H3.3 histone B	11		subtelomeric heterochromatin formation			IGI	MGI:1097686 	J:225909 	
+MGI:3650546	H3f3c	H3 histone, family 3C	2		nucleosome assembly			ISO	Q71DI3 	J:164563 	
+MGI:2140113	H4c14	H4 clustered histone 14	3		nucleosome assembly			IBA	PTN000049975 	J:265628 	
+MGI:95891	H19	H19, imprinted maternally expressed transcript	7		regulation of genetic imprinting			IMP		J:42931 	
+MGI:1194498	Haspin	histone H3 associated protein kinase	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:96013	Hat1	histone aminotransferase 1	2		chromatin organization			IEA	IPR019467 IPR037113 	J:72247 	
+MGI:96013	Hat1	histone aminotransferase 1	2		nucleosome assembly			ISO	O14929 	J:164563 	
+MGI:96013	Hat1	histone aminotransferase 1	2		subtelomeric heterochromatin formation			IEA	IPR017380 	J:72247 	
+MGI:105942	Hcfc1	host cell factor C1	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:105942	Hcfc1	host cell factor C1	X		chromatin remodeling			IBA	PTN000582135 	J:265628 	
+MGI:105942	Hcfc1	host cell factor C1	X		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1915183	Hcfc2	host cell factor C2	10		chromatin remodeling			IBA	PTN000582135 	J:265628 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin organization			TAS		J:113927 	
+MGI:108086	Hdac1	histone deacetylase 1	4		chromatin remodeling			ISO	Q13547 	J:164563 	
+MGI:108086	Hdac1	histone deacetylase 1	4		DNA methylation-dependent heterochromatin formation			ISO	Q13547 	J:164563 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		chromatin organization			TAS		J:113927 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		chromatin remodeling			ISO	Q92769 	J:164563 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		heterochromatin organization			ISO	Q92769 	J:164563 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		chromatin organization			TAS		J:113927 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		chromatin organization			IEA	IPR017320 	J:72247 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		chromatin remodeling			ISO	P56524 	J:164563 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		epigenetic regulation of gene expression			ISO	P56524 	J:164563 	
+MGI:1333784	Hdac5	histone deacetylase 5	11		chromatin organization			TAS		J:113927 	
+MGI:1333784	Hdac5	histone deacetylase 5	11		epigenetic regulation of gene expression			ISO	Q9UQL6 	J:164563 	
+MGI:1333752	Hdac6	histone deacetylase 6	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1333752	Hdac6	histone deacetylase 6	X		epigenetic regulation of gene expression			ISO	Q9UBN7 	J:164563 	
+MGI:1891835	Hdac7	histone deacetylase 7	15		chromatin organization			TAS		J:113927 	
+MGI:1917565	Hdac8	histone deacetylase 8	X		chromatin organization			TAS		J:113927 	
+MGI:1931221	Hdac9	histone deacetylase 9	12		chromatin organization			TAS		J:113927 	
+MGI:2385252	Hdac11	histone deacetylase 11	6		chromatin organization			TAS		J:113927 	
+MGI:106209	Hells	helicase, lymphoid specific	19		DNA methylation-dependent heterochromatin formation			IBA	PTN002245661 	J:265628 	
+MGI:106209	Hells	helicase, lymphoid specific	19		DNA methylation-dependent heterochromatin formation			IMP		J:96925 	
+MGI:106209	Hells	helicase, lymphoid specific	19		heterochromatin formation			IMP	MGI:2178586 	J:93871 	
+MGI:106209	Hells	helicase, lymphoid specific	19		pericentric heterochromatin formation			IBA	PTN002245661 	J:265628 	
+MGI:106209	Hells	helicase, lymphoid specific	19		pericentric heterochromatin formation			IMP		J:89936 	
+MGI:99430	Hira	histone cell cycle regulator	16		chromatin organization			IBA	PTN000352669 	J:265628 	
+MGI:99430	Hira	histone cell cycle regulator	16		nucleosome assembly			ISO	P54198 	J:164563 	
+MGI:2685821	Hjurp	Holliday junction recognition protein	1		CENP-A containing chromatin assembly			IBA	PTN001041854 	J:265628 	
+MGI:2685821	Hjurp	Holliday junction recognition protein	1		CENP-A containing chromatin assembly			ISO	Q8NCD3 	J:164563 	
+MGI:1196437	Hltf	helicase-like transcription factor	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1914117	Hmg20a	high mobility group 20A	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1341190	Hmg20b	high mobility group 20B	10		chromatin organization			NAS		J:69281 	
+MGI:1341190	Hmg20b	high mobility group 20B	10		chromatin remodeling			TAS		J:55356 	
+MGI:101761	Hmga2	high mobility group AT-hook 2	10		heterochromatin formation			ISO	P52926 	J:164563 	
+MGI:96113	Hmgb1	high mobility group box 1	5		chromatin organization			IDA		J:139020 	
+MGI:96113	Hmgb1	high mobility group box 1	5		heterochromatin formation			ISO	P09429 	J:164563 	
+MGI:96120	Hmgn1	high mobility group nucleosomal binding domain 1	16		chromatin organization			IBA	PTN000557317 	J:265628 	
+MGI:96120	Hmgn1	high mobility group nucleosomal binding domain 1	16		chromatin organization			IMP	MGI:3590648 	J:100282 	
+MGI:96136	Hmgn2	high mobility group nucleosomal binding domain 2	4		chromatin organization			IBA	PTN000557317 	J:265628 	
+MGI:2138069	Hmgn3	high mobility group nucleosomal binding domain 3	9		chromatin organization			IBA	PTN000557317 	J:265628 	
+MGI:1355295	Hmgn5	high-mobility group nucleosome binding domain 5	X		chromatin organization			IMP	MGI:5588022 	J:212215 	
+MGI:98504	Hnf1a	HNF1 homeobox A	5		chromatin remodeling			IMP	MGI:2154359 	J:118400 	
+MGI:98504	Hnf1a	HNF1 homeobox A	5		chromatin remodeling			IMP		J:79507 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		dosage compensation by inactivation of X chromosome			IMP		J:164278 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		regulation of chromatin organization			IBA	PTN002644654 	J:265628 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		regulation of chromatin organization			ISO	Q00839 	J:164563 	
+MGI:3826586	Hotair	HOX transcript antisense RNA (non-protein coding)	15		heterochromatin formation			IMP		J:203783 	
+MGI:109369	Hp1bp3	heterochromatin protein 1, binding protein 3	4		heterochromatin organization			IBA	PTN002697315 	J:265628 	
+MGI:109369	Hp1bp3	heterochromatin protein 1, binding protein 3	4		heterochromatin organization			ISO	Q5SSJ5 	J:164563 	
+MGI:109369	Hp1bp3	heterochromatin protein 1, binding protein 3	4		nucleosome assembly			IEA	IPR005818 IPR005819 	J:72247 	
+MGI:2651552	Hymai	hydatidiform mole associated and imprinted transcript	10		chromatin organization			IMP		J:187821 	
+MGI:96428	Ifi203	interferon activated gene 203	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:96429	Ifi204	interferon activated gene 204	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:101847	Ifi205	interferon activated gene 205	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:3646410	Ifi206	interferon activated gene 206	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:2138302	Ifi207	interferon activated gene 207	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:2442822	Ifi208	interferon activated gene 208	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:2138243	Ifi209	interferon activated gene 209	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:3041120	Ifi211	interferon activated gene 211	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:3695276	Ifi213	interferon activated gene 213	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:3584522	Ifi214	interferon activated gene 214	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:1342540	Ikzf1	IKAROS family zinc finger 1	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1916510	Ing2	inhibitor of growth family, member 2	8		chromatin organization			IEA	IPR028639 	J:72247 	
+MGI:1916510	Ing2	inhibitor of growth family, member 2	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919027	Ing3	inhibitor of growth family, member 3	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919027	Ing3	inhibitor of growth family, member 3	6		regulation of chromatin organization			IC		J:320265 	
+MGI:107307	Ing4	inhibitor of growth family, member 4	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1922816	Ing5	inhibitor of growth family, member 5	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1915392	Ino80	INO80 complex subunit	2		chromatin remodeling			ISO	Q9ULG1 	J:164563 	
+MGI:1917270	Ino80b	INO80 complex subunit B	6		chromatin remodeling			ISO	Q9C086 	J:164563 	
+MGI:2443014	Ino80c	INO80 complex subunit C	18		chromatin remodeling			IBA	PTN001260679 	J:265628 	
+MGI:2443014	Ino80c	INO80 complex subunit C	18		chromatin remodeling			ISO	Q6PI98 	J:164563 	
+MGI:3027003	Ino80d	INO80 complex subunit D	1		chromatin remodeling			ISO	Q53TQ3 	J:164563 	
+MGI:2141881	Ino80e	INO80 complex subunit E	7		chromatin remodeling			ISO	Q8NBZ0 	J:164563 	
+MGI:1914983	Itgb3bp	integrin beta 3 binding protein (beta3-endonexin)	4		CENP-A containing chromatin assembly			IEA	IPR009601 	J:72247 	
+MGI:96629	Jak2	Janus kinase 2	19		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13		dosage compensation by inactivation of X chromosome			IMP	MGI:5888989 	J:240642 	
+MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13		facultative heterochromatin formation			IDA		J:157630 J:157724 J:159133 	
+MGI:1918614	Jmjd1c	jumonji domain containing 1C	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1858910	Jmjd6	jumonji domain containing 6	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2180008	Jpx	Jpx transcript, Xist activator (non-protein coding)	X		regulation of dosage compensation by inactivation of X chromosome			IMP	MGI:4887255 	J:167915 	
+MGI:2180008	Jpx	Jpx transcript, Xist activator (non-protein coding)	X		regulation of dosage compensation by inactivation of X chromosome			IMP		J:212497 	
+MGI:1923969	Kansl1	KAT8 regulatory NSL complex subunit 1	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1923969	Kansl1	KAT8 regulatory NSL complex subunit 1	11		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1916862	Kansl2	KAT8 regulatory NSL complex subunit 2	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1916862	Kansl2	KAT8 regulatory NSL complex subunit 2	15		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1918055	Kansl3	KAT8 regulatory NSL complex subunit 3	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1918055	Kansl3	KAT8 regulatory NSL complex subunit 3	1		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		chromatin remodeling			IBA	PTN000720593 	J:265628 	
+MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		chromatin remodeling			IBA	PTN000720593 	J:265628 	
+MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		chromatin remodeling			ISO	Q92831 	J:164563 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		regulation of chromatin organization			IC		J:320265 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		sperm DNA condensation			IMP		J:244731 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		nucleosome assembly			IEA	IPR005818 	J:72247 	
+MGI:1858746	Kat6b	K(lysine) acetyltransferase 6B	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1858746	Kat6b	K(lysine) acetyltransferase 6B	14		nucleosome assembly			IEA	IPR005818 	J:72247 	
+MGI:2182799	Kat7	K(lysine) acetyltransferase 7	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2182799	Kat7	K(lysine) acetyltransferase 7	11		transcription initiation-coupled chromatin remodeling			ISO	O95251 	J:164563 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of gene expression by genomic imprinting			IMP	MGI:2429679 	J:79882 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of gene expression by genomic imprinting			IMP		J:92776 	
+MGI:1926855	Kcnq1ot1	KCNQ1 overlapping transcript 1	7		gene silencing by RNA-directed DNA methylation			IDA		J:92776 	
+MGI:1926855	Kcnq1ot1	KCNQ1 overlapping transcript 1	7		gene silencing by RNA-directed DNA methylation	uses Kcnq1		IMP	MGI:4830272 	J:163857 	
+MGI:1926855	Kcnq1ot1	KCNQ1 overlapping transcript 1	7		regulation of gene expression by genomic imprinting			IDA		J:92776 	
+MGI:1926855	Kcnq1ot1	KCNQ1 overlapping transcript 1	7		regulation of gene expression by genomic imprinting			IMP	MGI:3773025 	J:163857 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		regulation of DNA methylation-dependent heterochromatin formation			ISO	O60341 	J:164563 	
+MGI:2145261	Kdm1b	lysine (K)-specific demethylase 1B	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2145261	Kdm1b	lysine (K)-specific demethylase 1B	13		regulation of gene expression by genomic imprinting			IMP	MGI:4359289 	J:152382 	
+MGI:1354736	Kdm2a	lysine (K)-specific demethylase 2A	19		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1354737	Kdm2b	lysine (K)-specific demethylase 2B	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1923356	Kdm3b	KDM3B lysine (K)-specific demethylase 3B	18		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		facultative heterochromatin formation			IDA		J:157630 	
+MGI:1922855	Kdm5b	lysine (K)-specific demethylase 5B	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1922855	Kdm5b	lysine (K)-specific demethylase 5B	1		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:99781	Kdm5c	lysine (K)-specific demethylase 5C	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:99781	Kdm5c	lysine (K)-specific demethylase 5C	X		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:99780	Kdm5d	lysine (K)-specific demethylase 5D	Y		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:99780	Kdm5d	lysine (K)-specific demethylase 5D	Y		chromatin remodeling			IBA	PTN000075014 	J:265628 	
+MGI:1095419	Kdm6a	lysine (K)-specific demethylase 6A	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1095419	Kdm6a	lysine (K)-specific demethylase 6A	X		chromatin remodeling			IMP		J:166998 	
+MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		chromatin remodeling			IMP		J:166998 	
+MGI:2443388	Kdm7a	lysine (K)-specific demethylase 7A	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1924285	Kdm8	lysine (K)-specific demethylase 8	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1342771	Klf1	Kruppel-like factor 1 (erythroid)	8		chromatin remodeling			IDA		J:93146 	
+MGI:1342772	Klf2	Kruppel-like factor 2 (lung)	8		epigenetic regulation of gene expression			IGI	MGI:3588194 	J:185718 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109565	Kmt2b	lysine (K)-specific methyltransferase 2B	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109565	Kmt2b	lysine (K)-specific methyltransferase 2B	7		DNA methylation-dependent heterochromatin formation	happens in oocyte		IMP	MGI:3056522 MGI:3623309 	J:166778 	
+MGI:2444959	Kmt2c	lysine (K)-specific methyltransferase 2C	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2682319	Kmt2d	lysine (K)-specific methyltransferase 2D	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2682319	Kmt2d	lysine (K)-specific methyltransferase 2D	15		heterochromatin formation			IMP		J:166778 	
+MGI:1924825	Kmt2e	lysine (K)-specific methyltransferase 2E	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1915206	Kmt5a	lysine methyltransferase 5A	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2676663	L3mbtl1	L3MBTL1 histone methyl-lysine binding protein	2		chromatin organization			ISO	Q9Y468 	J:164563 	
+MGI:2676663	L3mbtl1	L3MBTL1 histone methyl-lysine binding protein	2		epigenetic regulation of gene expression			NAS		J:152662 	
+MGI:2676663	L3mbtl1	L3MBTL1 histone methyl-lysine binding protein	2		heterochromatin formation			ISO	Q9Y468 	J:164563 	
+MGI:2443584	L3mbtl2	L3MBTL2 polycomb repressive complex 1 subunit	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2143628	L3mbtl3	L3MBTL3 histone methyl-lysine binding protein	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2143628	L3mbtl3	L3MBTL3 histone methyl-lysine binding protein	10		regulation of DNA methylation-dependent heterochromatin formation			ISO	Q96JM7 	J:164563 	
+MGI:2444889	L3mbtl4	L3MBTL4 histone methyl-lysine binding protein	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:99914	Lamc1	laminin, gamma 1	1		chromatin organization	happens in basal cell of epidermis		IMP	MGI:2683482 	J:239434 	
+MGI:96785	Lhx2	LIM homeobox protein 2	2		negative regulation of gene expression, epigenetic			IMP		J:237908 	
+MGI:2140902	Lin54	lin-54 DREAM MuvB core complex component	5		nucleosome organization			ISO	Q6MZP7 	J:164563 	
+MGI:96794	Lmna	lamin A	3		heterochromatin formation			IBA	PTN001145669 	J:265628 	
+MGI:96795	Lmnb1	lamin B1	18		heterochromatin formation			IBA	PTN001145669 	J:265628 	
+MGI:96796	Lmnb2	lamin B2	10		heterochromatin formation			IBA	PTN001145669 	J:265628 	
+MGI:1919250	Lmntd2	lamin tail domain containing 2	7		chromatin organization			IBA	PTN000461324 	J:265628 	
+MGI:2137913	Loxl2	lysyl oxidase-like 2	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2137913	Loxl2	lysyl oxidase-like 2	14		heterochromatin organization			ISO	Q9Y4K0 	J:164563 	
+MGI:2445214	Lrif1	ligand dependent nuclear receptor interacting factor 1	3		dosage compensation by inactivation of X chromosome			ISO	Q5T3J3 	J:164563 	
+MGI:1918985	Lrwd1	leucine-rich repeats and WD repeat domain containing 1	5		chromatin organization			IBA	PTN001556497 	J:265628 	
+MGI:1918985	Lrwd1	leucine-rich repeats and WD repeat domain containing 1	5		chromatin organization			ISO	Q9UFC0 	J:164563 	
+MGI:1919540	Lsm11	U7 snRNP-specific Sm-like protein LSM11	11		regulation of chromatin organization			ISO	P83369 	J:164563 	
+MGI:1315200	M1ap	meiosis 1 associated protein	6		chromatin organization			NAS		J:52798 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		dosage compensation			ISO	O75367 	J:89307 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		epigenetic regulation of gene expression			ISO	O75367 	J:164563 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		negative regulation of gene expression, epigenetic			ISO	O75367 	J:164563 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		nucleosome assembly			IEA	IPR021171 	J:72247 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		transcription initiation-coupled chromatin remodeling			ISO	O75367 	J:164563 	
+MGI:3037658	Macroh2a2	macroH2A.2 histone	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:3037658	Macroh2a2	macroH2A.2 histone	10		dosage compensation			ISO	Q9P0M6 	J:89037 	
+MGI:3037658	Macroh2a2	macroH2A.2 histone	10		negative regulation of gene expression, epigenetic			ISO	Q9P0M6 	J:164563 	
+MGI:3037658	Macroh2a2	macroH2A.2 histone	10		nucleosome assembly			IEA	IPR021171 	J:72247 	
+MGI:1333813	Mbd2	methyl-CpG binding domain protein 2	18		chromatin remodeling			ISO	Q9UBB5 	J:164563 	
+MGI:1333813	Mbd2	methyl-CpG binding domain protein 2	18		DNA methylation-dependent heterochromatin formation			ISO	Q9UBB5 	J:164563 	
+MGI:1333812	Mbd3	methyl-CpG binding domain protein 3	10		chromatin remodeling			ISO	O95983 	J:164563 	
+MGI:1333812	Mbd3	methyl-CpG binding domain protein 3	10		DNA methylation-dependent heterochromatin formation	uses Mt1		IDA		J:104088 	
+MGI:2143977	Mbtd1	mbt domain containing 1	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:105380	Mcm2	minichromosome maintenance complex component 2	6		nucleosome assembly			IDA		J:73594 	
+MGI:1930089	Mcm3ap	minichromosome maintenance complex component 3 associated protein	10		nucleosome organization			ISO	O60318 	J:164563 	
+MGI:1858420	Mcrs1	microspherule protein 1	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1858420	Mcrs1	microspherule protein 1	15		chromatin remodeling			ISO	Q96EZ8 	J:164563 	
+MGI:1858420	Mcrs1	microspherule protein 1	15		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1917338	Meaf6	MYST/Esa1-associated factor 6	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:95457	Mecom	MDS1 and EVI1 complex locus	3		heterochromatin organization			IMP		J:269562 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		epigenetic regulation of gene expression			IMP	MGI:2137311 	J:98000 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		epigenetic regulation of gene expression			IMP	MGI:2158354 	J:134828 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		heterochromatin formation			IMP	MGI:2137311 	J:96437 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		regulation of gene expression by genomic imprinting	uses Dlx5		IMP	MGI:2137311 	J:96437 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		regulation of gene expression by genomic imprinting			ISO	P51608 	J:73065 	
+MGI:1202886	Meg3	maternally expressed 3	12		genomic imprinting			IDA		J:192572 	
+MGI:1202886	Meg3	maternally expressed 3	12		genomic imprinting			IMP	MGI:4840060 	J:166176 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin remodeling	happens in myeloid cell		IGI	MGI:88393 	J:105708 	
+MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin remodeling	happens in fibroblast,uses Igfbp2		IMP	MGI:2158698 	J:105625 	
+MGI:1927165	Mettl3	methyltransferase like 3	14		dosage compensation by inactivation of X chromosome			ISO	Q86U44 	J:164563 	
+MGI:1924031	Mettl4	methyltransferase like 4	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1924031	Mettl4	methyltransferase like 4	17		regulation of chromatin organization			IDA		J:278437 	
+MGI:1921569	Mettl23	methyltransferase like 23	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2140270	Mexis	macrophage expressed LXRa(NR1H3)-dependent amplifier of Abca1 transcription lncRNA	4		chromatin organization			IMP	MGI:6403491 	J:264834 	
+MGI:3642848	Mhrt	myosin heavy chain associated RNA transcript	14		chromatin remodeling			IDA		J:213053 	
+MGI:1918398	Mier1	MEIR1 treanscription regulator	4		chromatin remodeling			ISO	Q8N108 	J:164563 	
+MGI:2676812	Mir127	microRNA 127	12		epigenetic regulation of gene expression			IDA		J:144511 	
+MGI:2676812	Mir127	microRNA 127	12		epigenetic regulation of gene expression	uses Rtl1		IMP	MGI:5789789 	J:224145 	
+MGI:2676821	Mir136	microRNA 136	12		epigenetic regulation of gene expression			IDA		J:144511 	
+MGI:3691603	Mir744	microRNA 744	11		transcription initiation-coupled chromatin remodeling			IDA		J:197739 	
+MGI:1913828	Mis18a	MIS18 kinetochore protein A	16		CENP-A containing chromatin assembly			IBA	PTN001046424 	J:265628 	
+MGI:1913828	Mis18a	MIS18 kinetochore protein A	16		CENP-A containing chromatin assembly			IMP	MGI:5441069 	J:188023 	
+MGI:106035	Mki67	antigen identified by monoclonal antibody Ki 67	7		regulation of chromatin organization			IMP		J:235309 	
+MGI:1927238	Mllt1	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 1	17		chromatin remodeling			IBA	PTN000574151 	J:265628 	
+MGI:1917372	Mllt3	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3	4		chromatin remodeling			IBA	PTN000574151 	J:265628 	
+MGI:1917372	Mllt3	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3	4		regulation of chromatin organization			ISO	P42568 	J:164563 	
+MGI:2684980	Mms22l	MMS22-like, DNA repair protein	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:3780953	Mndal	myeloid nuclear differentiation antigen like	1		epigenetic regulation of gene expression			ISO	Q16666 	J:164563 	
+MGI:1316740	Morc1	microrchidia 1	16		epigenetic regulation of gene expression			IMP	MGI:1857787 	J:225677 	
+MGI:1921772	Morc2a	microrchidia 2A	11		chromatin remodeling			ISO	Q9Y6X9 	J:164563 	
+MGI:1921772	Morc2a	microrchidia 2A	11		negative regulation of gene expression, epigenetic			ISO	Q9Y6X9 	J:164563 	
+MGI:1921772	Morc2a	microrchidia 2A	11		positive regulation of DNA methylation-dependent heterochromatin formation			IMP		J:268030 	
+MGI:1921772	Morc2a	microrchidia 2A	11		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q9Y6X9 	J:164563 	
+MGI:3045293	Morc2b	microrchidia 2B	17		chromatin remodeling			ISO	Q9Y6X9 	J:164563 	
+MGI:3045293	Morc2b	microrchidia 2B	17		negative regulation of gene expression, epigenetic			ISO	Q9Y6X9 	J:164563 	
+MGI:3045293	Morc2b	microrchidia 2B	17		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q9Y6X9 	J:164563 	
+MGI:1096551	Morf4l1	mortality factor 4 like 1	9		chromatin organization			IEA	IPR008676 	J:72247 	
+MGI:1096551	Morf4l1	mortality factor 4 like 1	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1096551	Morf4l1	mortality factor 4 like 1	9		chromatin remodeling			TAS		J:68893 	
+MGI:1927167	Morf4l2	mortality factor 4 like 2	X		chromatin organization			IEA	IPR008676 	J:72247 	
+MGI:1927167	Morf4l2	mortality factor 4 like 2	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:97052	Mos	Moloney sarcoma oncogene	4		chromatin organization	happens at the same time as female meiosis II		IMP		J:32974 	
+MGI:1922589	Mphosph8	M-phase phosphoprotein 8	14		negative regulation of gene expression, epigenetic			ISO	Q99549 	J:164563 	
+MGI:1922589	Mphosph8	M-phase phosphoprotein 8	14		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q99549 	J:164563 	
+MGI:1915297	Mpnd	MPN domain containing	17		chromatin remodeling			IBA	PTN000980845 	J:265628 	
+MGI:1920497	Mrgbp	MRG/MORF4L binding protein	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1921276	Msl1	male specific lethal 1	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1921276	Msl1	male specific lethal 1	11		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1925103	Msl2	MSL complex subunit 2	9		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1341851	Msl3	MSL complex subunit 3	X		chromatin organization			IEA	IPR008676 	J:72247 	
+MGI:1341851	Msl3	MSL complex subunit 3	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1341851	Msl3	MSL complex subunit 3	X		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:2150037	Mta1	metastasis associated 1	12		chromatin remodeling			ISO	Q13330 	J:164563 	
+MGI:2150037	Mta1	metastasis associated 1	12		epigenetic regulation of gene expression			ISO	Q13330 	J:164563 	
+MGI:1346340	Mta2	metastasis-associated gene family, member 2	19		chromatin remodeling			ISO	O94776 	J:164563 	
+MGI:1346340	Mta2	metastasis-associated gene family, member 2	19		chromatin remodeling			TAS		J:87046 	
+MGI:2151172	Mta3	metastasis associated 3	17		chromatin remodeling			ISO	Q9BTC8 	J:164563 	
+MGI:105050	Mtf2	metal response element binding transcription factor 2	5		chromatin organization			IBA	PTN000290238 	J:265628 	
+MGI:106639	Mthfr	methylenetetrahydrofolate reductase	4		heterochromatin organization			ISO	P42898 	J:164563 	
+MGI:97249	Myb	myeloblastosis oncogene	10		chromatin remodeling			ISO	P10242 	J:164563 	
+MGI:106181	Mybbp1a	MYB binding protein (P160) 1a	11		chromatin remodeling			IC		J:320057 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		chromatin remodeling			ISO	P01106 	J:164563 	
+MGI:106612	Myo1c	myosin IC	11		chromatin remodeling			IC		J:320057 	
+MGI:2444584	Mysm1	myb-like, SWIRM and MPN domains 1	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444584	Mysm1	myb-like, SWIRM and MPN domains 1	4		chromatin remodeling			IBA	PTN000980845 	J:265628 	
+MGI:2444584	Mysm1	myb-like, SWIRM and MPN domains 1	4		chromatin remodeling			ISO	Q5VVJ2 	J:164563 	
+MGI:1915018	N6amt1	N-6 adenine-specific DNA methyltransferase 1 (putative)	16		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1922013	Naa60	N(alpha)-acetyltransferase 60, NatF catalytic subunit	16		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1922013	Naa60	N(alpha)-acetyltransferase 60, NatF catalytic subunit	16		nucleosome assembly			ISO	Q9H7X0 	J:164563 	
+MGI:1855693	Nap1l1	nucleosome assembly protein 1-like 1	10		nucleosome assembly			IBA	PTN000221935 	J:265628 	
+MGI:106654	Nap1l2	nucleosome assembly protein 1-like 2	X		nucleosome assembly			IBA	PTN000221935 	J:265628 	
+MGI:1859565	Nap1l3	nucleosome assembly protein 1-like 3	X		nucleosome assembly			IBA	PTN000221935 	J:265628 	
+MGI:1316687	Nap1l4	nucleosome assembly protein 1-like 4	7		nucleosome assembly			IBA	PTN000221935 	J:265628 	
+MGI:1316687	Nap1l4	nucleosome assembly protein 1-like 4	7		nucleosome assembly			IDA		J:241000 	
+MGI:1316687	Nap1l4	nucleosome assembly protein 1-like 4	7		nucleosome assembly			ISO	Q99733 	J:164563 	
+MGI:1923555	Nap1l5	nucleosome assembly protein 1-like 5	6		nucleosome assembly			IEA	IPR002164 	J:72247 	
+MGI:1355328	Nasp	nuclear autoantigenic sperm protein (histone-binding)	4		CENP-A containing chromatin assembly			IBA	PTN000386890 	J:265628 	
+MGI:1355328	Nasp	nuclear autoantigenic sperm protein (histone-binding)	4		DNA replication-dependent chromatin assembly			IBA	PTN000386890 	J:265628 	
+MGI:1355328	Nasp	nuclear autoantigenic sperm protein (histone-binding)	4		DNA replication-dependent chromatin assembly			IDA		J:116244 J:116454 	
+MGI:1355328	Nasp	nuclear autoantigenic sperm protein (histone-binding)	4		nucleosome assembly			ISO	P49321 	J:164563 	
+MGI:1349717	Ncor1	nuclear receptor co-repressor 1	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:97290	Ndn	necdin, MAGE family member	7		genomic imprinting			IMP	MGI:2653045 	J:57890 	
+MGI:97290	Ndn	necdin, MAGE family member	7		genomic imprinting			IMP	MGI:2653048 	J:57890 	
+MGI:2442410	Nfrkb	nuclear factor related to kappa B binding protein	9		chromatin remodeling			ISO	Q6P4R8 	J:164563 	
+MGI:1931051	Noc2l	NOC2 like nucleolar associated transcriptional repressor	4		transcription initiation-coupled chromatin remodeling			ISO	Q9Y3T9 	J:164563 	
+MGI:106184	Npm1	nucleophosmin 1	11		chromatin remodeling			IBA	PTN001100765 	J:265628 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleosome assembly			ISO	P06748 	J:164563 	
+MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin remodeling			IBA	PTN001100765 	J:265628 	
+MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin remodeling			IMP	MGI:2182141 	J:83658 	
+MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin remodeling			ISO	Q86SE8 	J:164563 	
+MGI:894653	Npm3	nucleoplasmin 3	19		chromatin remodeling			IBA	PTN001100765 	J:265628 	
+MGI:95824	Nr3c1	nuclear receptor subfamily 3, group C, member 1	18		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:95824	Nr3c1	nuclear receptor subfamily 3, group C, member 1	18		chromatin remodeling			ISO	RGD:2741 	J:155856 	
+MGI:95824	Nr3c1	nuclear receptor subfamily 3, group C, member 1	18		transcription initiation-coupled chromatin remodeling			ISO	RGD:2741 	J:155856 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1276574	Nsd2	nuclear receptor binding SET domain protein 2	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2142581	Nsd3	nuclear receptor binding SET domain protein 3	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1934811	Nucks1	nuclear casein kinase and cyclin-dependent kinase substrate 1	1		chromatin organization	is a part of positive regulation of transcription by RNA polymerase II		IMP		J:211777 	
+MGI:1934811	Nucks1	nuclear casein kinase and cyclin-dependent kinase substrate 1	1		chromatin organization			IMP		J:226101 	
+MGI:1858232	Nudt5	nudix (nucleoside diphosphate linked moiety X)-type motif 5	2		chromatin remodeling			ISO	Q9UKK9 	J:164563 	
+MGI:1339639	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1339639	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	X		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:1917895	Oip5	Opa interacting protein 5	2		CENP-A containing chromatin assembly			IBA	PTN001046424 	J:265628 	
+MGI:1922908	Pabpc1l	poly(A) binding protein, cytoplasmic 1-like	2		chromatin remodeling	happens in oocyte		IDA		J:224534 	
+MGI:1922908	Pabpc1l	poly(A) binding protein, cytoplasmic 1-like	2		chromatin remodeling	happens in oocyte		IMP	MGI:5437740 	J:224534 	
+MGI:1922908	Pabpc1l	poly(A) binding protein, cytoplasmic 1-like	2		transcription initiation-coupled chromatin remodeling	happens in oocyte		IMP	MGI:5437740 	J:224534 	
+MGI:1338892	Padi2	peptidyl arginine deiminase, type II	4		transcription initiation-coupled chromatin remodeling			ISO	Q9Y2J8 	J:164563 	
+MGI:1338898	Padi4	peptidyl arginine deiminase, type IV	4		chromatin organization			IMP		J:205556 	
+MGI:1338898	Padi4	peptidyl arginine deiminase, type IV	4		chromatin remodeling			IMP		J:205556 	
+MGI:1338898	Padi4	peptidyl arginine deiminase, type IV	4		nucleosome assembly			IMP		J:205556 	
+MGI:1339975	Pak1	p21 (RAC1) activated kinase 1	7		chromatin remodeling			ISO	Q13153 	J:164563 	
+MGI:3712326	Parp10	poly (ADP-ribose) polymerase family, member 10	15		chromatin organization			ISO	Q53GL7 	J:164563 	
+MGI:97490	Pax6	paired box 6	2		chromatin remodeling			IMP		J:266522 	
+MGI:97491	Pax7	paired box 7	4		chromatin remodeling			IMP	MGI:1857831 	J:188254 	
+MGI:97491	Pax7	paired box 7	4		chromatin remodeling			IMP	MGI:3047633 	J:188254 	
+MGI:1923998	Pbrm1	polybromo 1	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1923998	Pbrm1	polybromo 1	14		chromatin remodeling			IC		J:320039 	
+MGI:1916837	Pcgf3	polycomb group ring finger 3	5		inactivation of X chromosome by genomic imprinting			IMP		J:243420 	
+MGI:1923505	Pcgf5	polycomb group ring finger 5	19		inactivation of X chromosome by genomic imprinting			IBA	PTN000088598 	J:265628 	
+MGI:1923505	Pcgf5	polycomb group ring finger 5	19		inactivation of X chromosome by genomic imprinting			IMP		J:243420 	
+MGI:98647	Phf1	PHD finger protein 1	17		chromatin organization			IBA	PTN000290238 	J:265628 	
+MGI:1338034	Phf2	PHD finger protein 2	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1338034	Phf2	PHD finger protein 2	13		negative regulation of ribosomal DNA heterochromatin formation			ISO	O75151 	J:164563 	
+MGI:1338034	Phf2	PHD finger protein 2	13		transcription initiation-coupled chromatin remodeling			IMP		J:306582 	
+MGI:2444341	Phf8	PHD finger protein 8	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444341	Phf8	PHD finger protein 8	X		negative regulation of ribosomal DNA heterochromatin formation			ISO	Q9UPP1 	J:164563 	
+MGI:1919307	Phf10	PHD finger protein 10	17		chromatin remodeling			IC		J:320039 	
+MGI:2446217	Phf13	PHD finger protein 13	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1921266	Phf19	PHD finger protein 19	2		chromatin organization			IBA	PTN000290238 	J:265628 	
+MGI:2444148	Phf20	PHD finger protein 20	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444148	Phf20	PHD finger protein 20	2		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:2384756	Phf21a	PHD finger protein 21A	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1916095	Pih1d1	PIH1 domain containing 1	7		chromatin remodeling			ISO	Q9NWS0 	J:164563 	
+MGI:1206581	Pik3ca	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	3		regulation of genetic imprinting			IDA		J:173141 	
+MGI:1928897	Piwil1	piwi-like RNA-mediated gene silencing 1	5		sperm DNA condensation			IMP		J:242565 	
+MGI:108022	Pkn1	protein kinase N1	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1933378	Pole3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4		chromatin remodeling			ISO	Q9NRF9 	J:164563 	
+MGI:1933378	Pole3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4		heterochromatin formation			IBA	PTN002253209 	J:265628 	
+MGI:1933378	Pole3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4		nucleosome assembly			ISO	Q9NRF9 	J:164563 	
+MGI:1917029	Pphln1	periphilin 1	15		negative regulation of gene expression, epigenetic			IBA	PTN001040035 	J:265628 	
+MGI:1917029	Pphln1	periphilin 1	15		negative regulation of gene expression, epigenetic			ISO	Q8NEY8 	J:164563 	
+MGI:1917029	Pphln1	periphilin 1	15		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q8NEY8 	J:164563 	
+MGI:1858214	Ppm1d	protein phosphatase 1D magnesium-dependent, delta isoform	11		heterochromatin formation			IDA		J:206531 	
+MGI:1858214	Ppm1d	protein phosphatase 1D magnesium-dependent, delta isoform	11		negative regulation of gene expression, epigenetic			IBA	PTN001014085 	J:265628 	
+MGI:1858214	Ppm1d	protein phosphatase 1D magnesium-dependent, delta isoform	11		negative regulation of gene expression, epigenetic			ISO	O15297 	J:164563 	
+MGI:1918029	Prdm5	PR domain containing 5	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2684938	Prdm6	PR domain containing 6	18		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2384854	Prdm9	PR domain containing 9	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:3588194	Prdm14	PR domain containing 14	1		epigenetic regulation of gene expression			IGI	MGI:1342772 	J:185718 	
+MGI:3588194	Prdm14	PR domain containing 14	1		inactivation of paternal X chromosome			IMP	MGI:3805889 	J:206154 	
+MGI:1917923	Prdm16	PR domain containing 16	4		heterochromatin organization			IMP		J:269562 	
+MGI:2145955	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1336173	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:97596	Prkcb	protein kinase C, beta	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:97765	Prm1	protamine 1	16		sperm DNA condensation			IEA	IPR000221 	J:72247 	
+MGI:1351645	Prmt5	protein arginine N-methyltransferase 5	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2384879	Prmt7	protein arginine N-methyltransferase 7	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2384879	Prmt7	protein arginine N-methyltransferase 7	8		regulation of gene expression by genomic imprinting			IDA		J:116093 	
+MGI:2143994	Psme4	proteasome (prosome, macropain) activator subunit 4	11		sperm DNA condensation			IBA	PTN001282312 	J:265628 	
+MGI:2143994	Psme4	proteasome (prosome, macropain) activator subunit 4	11		sperm DNA condensation			IMP		J:197675 	
+MGI:1915364	Pwwp3a	PWWP domain containing 3A, DNA repair factor	10		chromatin organization			IBA	PTN001263565 	J:265628 	
+MGI:1915364	Pwwp3a	PWWP domain containing 3A, DNA repair factor	10		chromatin organization			ISO	Q2TAK8 	J:164563 	
+MGI:108016	Rad21	RAD21 cohesin complex component	15		chromatin looping	happens in oocyte,happens in cellular_component		IMP		J:294078 	
+MGI:97848	Rag1	recombination activating 1	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:97849	Rag2	recombination activating gene 2	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:97874	Rb1	RB transcriptional corepressor 1	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:97874	Rb1	RB transcriptional corepressor 1	14		heterochromatin formation			ISO	P06400 	J:164563 	
+MGI:1194912	Rbbp4	retinoblastoma binding protein 4, chromatin remodeling factor	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1194912	Rbbp4	retinoblastoma binding protein 4, chromatin remodeling factor	4		chromatin remodeling			IBA	PTN000522733 	J:265628 	
+MGI:1194912	Rbbp4	retinoblastoma binding protein 4, chromatin remodeling factor	4		chromatin remodeling			ISO	Q09028 	J:164563 	
+MGI:1194912	Rbbp4	retinoblastoma binding protein 4, chromatin remodeling factor	4		chromatin remodeling			TAS		J:87046 	
+MGI:1194912	Rbbp4	retinoblastoma binding protein 4, chromatin remodeling factor	4		DNA replication-dependent chromatin assembly			ISO	Q09028 	J:164563 	
+MGI:1194912	Rbbp4	retinoblastoma binding protein 4, chromatin remodeling factor	4		nucleosome assembly			ISO	Q09028 	J:164563 	
+MGI:1918367	Rbbp5	retinoblastoma binding protein 5, histone lysine methyltransferase complex subunit	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1194910	Rbbp7	retinoblastoma binding protein 7, chromatin remodeling factor	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1194910	Rbbp7	retinoblastoma binding protein 7, chromatin remodeling factor	X		chromatin remodeling			IBA	PTN000522733 	J:265628 	
+MGI:1194910	Rbbp7	retinoblastoma binding protein 7, chromatin remodeling factor	X		chromatin remodeling			ISO	Q16576 	J:164563 	
+MGI:1194910	Rbbp7	retinoblastoma binding protein 7, chromatin remodeling factor	X		chromatin remodeling			TAS		J:87046 	
+MGI:103300	Rbl1	RB transcriptional corepressor like 1	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:105085	Rbl2	RB transcriptional corepressor like 2	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2443205	Rbm15	RNA binding motif protein 15	3		dosage compensation by inactivation of X chromosome			ISO	Q96T37 	J:164563 	
+MGI:1923598	Rbm15b	RNA binding motif protein 15B	9		dosage compensation by inactivation of X chromosome			ISO	Q8NDT2 	J:164563 	
+MGI:1918580	Rcbtb1	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 1	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444156	Rccd1	RCC1 domain containing 1	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:106340	Rcor1	REST corepressor 1	12		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		chromatin organization			IMP		J:272425 	
+MGI:2683486	Rere	arginine glutamic acid dipeptide (RE) repeats	4		chromatin remodeling			IPI	PR:O09106 	J:87046 	
+MGI:1914496	Resf1	retroelement silencing factor 1	6		positive regulation of DNA methylation-dependent heterochromatin formation			IBA	PTN002728027 	J:265628 	
+MGI:1914496	Resf1	retroelement silencing factor 1	6		positive regulation of DNA methylation-dependent heterochromatin formation			IMP		J:268030 	
+MGI:1098622	Rif1	replication timing regulatory factor 1	2		negative regulation of gene expression, epigenetic			IDA		J:213416 	
+MGI:1098622	Rif1	replication timing regulatory factor 1	2		subtelomeric heterochromatin formation			IMP		J:213416 	
+MGI:1101770	Ring1	ring finger protein 1	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919202	Riox1	ribosomal oxygenase 1	12		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919202	Riox1	ribosomal oxygenase 1	12		chromatin remodeling			TAS		J:90013 	
+MGI:1342291	Rlim	ring finger protein, LIM domain interacting	X		random inactivation of X chromosome			IBA	PTN002914536 	J:265628 	
+MGI:1342291	Rlim	ring finger protein, LIM domain interacting	X		random inactivation of X chromosome			IDA		J:156024 	
+MGI:1342291	Rlim	ring finger protein, LIM domain interacting	X		random inactivation of X chromosome			ISO	Q9NVW2 	J:164563 	
+MGI:1342291	Rlim	ring finger protein, LIM domain interacting	X		regulation of dosage compensation by inactivation of X chromosome			IBA	PTN002914536 	J:265628 	
+MGI:1342291	Rlim	ring finger protein, LIM domain interacting	X		regulation of dosage compensation by inactivation of X chromosome			IMP		J:212497 	
+MGI:1929069	Rnf8	ring finger protein 8	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1929069	Rnf8	ring finger protein 8	17		sperm DNA condensation			IDA		J:159114 	
+MGI:1929069	Rnf8	ring finger protein 8	17		sperm DNA condensation			IMP		J:242565 	
+MGI:1925927	Rnf20	ring finger protein 20	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2142048	Rnf40	ring finger protein 40	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1917488	Rnf168	ring finger protein 168	16		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1914251	Rrp8	ribosomal RNA processing 8	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1914251	Rrp8	ribosomal RNA processing 8	7		rDNA heterochromatin formation			IBA	PTN000980278 	J:265628 	
+MGI:1914251	Rrp8	ribosomal RNA processing 8	7		rDNA heterochromatin formation			ISO	O43159 	J:164563 	
+MGI:2444993	Rsbn1	rosbin, round spermatid basic protein 1	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2682305	Rsf1	remodeling and spacing factor 1	7		chromatin remodeling			ISO	Q96T23 	J:164563 	
+MGI:2682305	Rsf1	remodeling and spacing factor 1	7		nucleosome assembly			ISO	Q96T23 	J:164563 	
+MGI:1928760	Ruvbl1	RuvB-like protein 1	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1928760	Ruvbl1	RuvB-like protein 1	6		chromatin remodeling			IBA	PTN000120244 	J:265628 	
+MGI:1928760	Ruvbl1	RuvB-like protein 1	6		chromatin remodeling			ISO	Q9Y265 	J:164563 	
+MGI:1342299	Ruvbl2	RuvB-like protein 2	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1342299	Ruvbl2	RuvB-like protein 2	7		chromatin remodeling			IBA	PTN000120244 	J:265628 	
+MGI:1342299	Ruvbl2	RuvB-like protein 2	7		chromatin remodeling			ISO	Q9Y230 	J:164563 	
+MGI:2142433	Samd1	sterile alpha motif domain containing 1	8		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2142433	Samd1	sterile alpha motif domain containing 1	8		regulation of DNA methylation-dependent heterochromatin formation			ISO	Q6SPF0 	J:164563 	
+MGI:1858230	Sart3	squamous cell carcinoma antigen recognized by T cells 3	5		nucleosome assembly			ISO	Q15020 	J:164563 	
+MGI:105084	Satb1	special AT-rich sequence binding protein 1	17		chromatin organization			IDA		J:83186 	
+MGI:105084	Satb1	special AT-rich sequence binding protein 1	17		chromatin remodeling			IBA	PTN000387730 	J:265628 	
+MGI:105084	Satb1	special AT-rich sequence binding protein 1	17		chromatin remodeling			IMP	MGI:2386676 	J:177729 	
+MGI:2679336	Satb2	special AT-rich sequence binding protein 2	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2679336	Satb2	special AT-rich sequence binding protein 2	1		chromatin remodeling			IBA	PTN000387730 	J:265628 	
+MGI:2679336	Satb2	special AT-rich sequence binding protein 2	1		chromatin remodeling			IDA		J:135318 	
+MGI:1352762	Scmh1	sex comb on midleg homolog 1	4		chromatin remodeling	happens in spermatocyte		IMP	MGI:3706668 	J:119909 	
+MGI:1927947	Selenof	selenoprotein F	3		sperm DNA condensation			ISO	RGD:621291 	J:155856 	
+MGI:1860267	Set	SET nuclear oncogene	2		nucleosome assembly			IEA	IPR002164 	J:72247 	
+MGI:2446244	Setd1a	SET domain containing 1A	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2446244	Setd1a	SET domain containing 1A	7		regulation of chromatin organization			IDA		J:237693 	
+MGI:2446244	Setd1a	SET domain containing 1A	7		regulation of chromatin organization			ISO	O15047 	J:164563 	
+MGI:2446244	Setd1a	SET domain containing 1A	7		transcription initiation-coupled chromatin remodeling	happens in embryonic stem cell		NAS		J:185349 	
+MGI:2652820	Setd1b	SET domain containing 1B	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1918177	Setd2	SET domain containing 2	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1918177	Setd2	SET domain containing 2	9		nucleosome organization			ISO	Q9BYW2 	J:164563 	
+MGI:1920145	Setd5	SET domain containing 5	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1920145	Setd5	SET domain containing 5	6		regulation of chromatin organization			IMP		J:237500 J:271411 J:282587 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		heterochromatin organization			IBA	PTN001893769 	J:265628 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		heterochromatin organization			IMP		J:194231 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		heterochromatin organization			ISO	Q8WTS6 	J:194231 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		heterochromatin organization			IBA	PTN002339393 	J:265628 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		positive regulation of DNA methylation-dependent heterochromatin formation			IBA	PTN002339393 	J:265628 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		positive regulation of DNA methylation-dependent heterochromatin formation			IMP		J:188475 J:268030 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q15047 	J:164563 	
+MGI:2685139	Setdb2	SET domain, bifurcated 2	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2685139	Setdb2	SET domain, bifurcated 2	14		heterochromatin organization			IBA	PTN002339393 	J:265628 	
+MGI:2685139	Setdb2	SET domain, bifurcated 2	14		positive regulation of DNA methylation-dependent heterochromatin formation			IBA	PTN002339393 	J:265628 	
+MGI:1921979	Setmar	SET domain without mariner transposase fusion	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		chromatin remodeling			IC		J:320057 	
+MGI:1859609	Sfmbt1	Scm-like with four mbt domains 1	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1922815	Sgf29	SAGA complex associated factor 29	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1917581	Shprh	SNF2 histone linker PHD RING helicase	10		nucleosome assembly			IEA	IPR005818 	J:72247 	
+MGI:107157	Sin3a	transcriptional regulator, SIN3A (yeast)	9		positive regulation of heterochromatin formation			ISO	Q96ST3 	J:164563 	
+MGI:2135607	Sirt1	sirtuin 1	10		chromatin organization			ISO	Q96EB6 	J:164563 	
+MGI:2135607	Sirt1	sirtuin 1	10		heterochromatin formation			ISO	Q96EB6 	J:164563 	
+MGI:2135607	Sirt1	sirtuin 1	10		rDNA heterochromatin formation			ISO	Q96EB6 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1354161	Sirt6	sirtuin 6	10		negative regulation of gene expression, epigenetic			ISO	Q8N6T7 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		pericentric heterochromatin formation			ISO	Q8N6T7 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		subtelomeric heterochromatin formation			ISO	Q8N6T7 	J:164563 	
+MGI:2385849	Sirt7	sirtuin 7	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1935127	Smarca1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1935127	Smarca1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	X		chromatin remodeling			ISO	P28370 	J:164563 	
+MGI:99603	Smarca2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	19		chromatin organization			TAS		J:69532 	
+MGI:99603	Smarca2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	19		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:99603	Smarca2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	19		nucleosome assembly			TAS		J:66861 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin remodeling			IMP	MGI:3611933 	J:103896 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin remodeling			ISO	RGD:621728 	J:155856 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		chromatin remodeling			ISO	P51532 	J:164563 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		DNA methylation-dependent heterochromatin formation	uses Mt1		IDA		J:104088 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		nucleosome assembly			TAS		J:66861 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		nucleosome disassembly			ISO	RGD:621728 	J:155856 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		nucleosome disassembly			ISO	P51532 	J:164563 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		chromatin organization			IDA		J:76488 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		chromatin remodeling			IC		J:320057 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		chromatin remodeling			IDA		J:76488 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		chromatin remodeling			IGI	MGI:2151152 	J:71381 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		chromatin remodeling			ISO	O60264 	J:164563 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		heterochromatin formation			IDA		J:111312 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		nucleosome assembly			ISO	O60264 	J:164563 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		rDNA heterochromatin formation			IDA		J:100129 J:150926 	
+MGI:95453	Smarcad1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:95453	Smarcad1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	6		chromatin remodeling			ISO	Q9H4L7 	J:164563 	
+MGI:1328366	Smarcb1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1328366	Smarcb1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	10		chromatin remodeling			IC		J:320039 	
+MGI:1328366	Smarcb1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	10		chromatin remodeling			ISO	Q12824 	J:164563 	
+MGI:1328366	Smarcb1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	10		nucleosome disassembly			ISO	Q12824 	J:164563 	
+MGI:1203524	Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1203524	Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	9		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1203524	Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	9		chromatin remodeling			ISO	Q92922 	J:164563 	
+MGI:1203524	Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	9		nucleosome disassembly			ISO	Q92922 	J:164563 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin remodeling			IC		J:320039 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin remodeling			ISO	Q8TAQ2 	J:164563 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		nucleosome disassembly			ISO	Q8TAQ2 	J:164563 	
+MGI:1933623	Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1933623	Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	15		chromatin remodeling			IC		J:283189 J:320039 	
+MGI:1933623	Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	15		chromatin remodeling			ISO	Q96GM5 	J:164563 	
+MGI:1933623	Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	15		nucleosome disassembly			ISO	Q96GM5 	J:164563 	
+MGI:1933623	Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	15		transcription initiation-coupled chromatin remodeling			ISO	Q96GM5 	J:164563 	
+MGI:1933621	Smarcd2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1933621	Smarcd2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	11		chromatin remodeling			IC		J:320039 	
+MGI:1933621	Smarcd2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	11		chromatin remodeling			ISO	Q92925 	J:164563 	
+MGI:1933621	Smarcd2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	11		nucleosome disassembly			ISO	Q92925 	J:164563 	
+MGI:1914243	Smarcd3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1914243	Smarcd3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	5		chromatin remodeling			IC		J:320039 	
+MGI:1914243	Smarcd3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	5		chromatin remodeling			ISO	Q6STE5 	J:164563 	
+MGI:1914243	Smarcd3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	5		nucleosome disassembly			ISO	Q6STE5 	J:164563 	
+MGI:1927347	Smarce1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1927347	Smarce1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	11		chromatin remodeling			IC		J:320039 	
+MGI:1927347	Smarce1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	11		chromatin remodeling			ISO	Q969G3 	J:164563 	
+MGI:1927347	Smarce1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	11		nucleosome disassembly			ISO	Q969G3 	J:164563 	
+MGI:1921605	Smchd1	SMC hinge domain containing 1	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1921605	Smchd1	SMC hinge domain containing 1	17		dosage compensation by inactivation of X chromosome			IMP	MGI:3586547 	J:142334 J:204566 	
+MGI:1921605	Smchd1	SMC hinge domain containing 1	17		dosage compensation by inactivation of X chromosome			ISO	A6NHR9 	J:164563 	
+MGI:1921605	Smchd1	SMC hinge domain containing 1	17		inactivation of X chromosome by heterochromatin formation			IMP		J:204566 	
+MGI:104790	Smyd1	SET and MYND domain containing 1	6		chromatin remodeling			IPI	PR:O09106 	J:76212 	
+MGI:1915889	Smyd2	SET and MYND domain containing 2	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1916976	Smyd3	SET and MYND domain containing 3	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1916976	Smyd3	SET and MYND domain containing 3	1		nucleosome assembly			IMP		J:199171 	
+MGI:108048	Smyd5	SET and MYND domain containing 5	6		negative regulation of gene expression, epigenetic			IBA	PTN005302559 	J:265628 	
+MGI:108048	Smyd5	SET and MYND domain containing 5	6		negative regulation of gene expression, epigenetic			IMP		J:306582 	
+MGI:98330	Snai1	snail family zinc finger 1	2		heterochromatin organization			IMP		J:206163 	
+MGI:98371	Sox9	SRY (sex determining region Y)-box 9	11		chromatin remodeling			ISO	P48436 	J:164563 	
+MGI:98371	Sox9	SRY (sex determining region Y)-box 9	11		nucleosome assembly			ISO	P48436 	J:164563 	
+MGI:1861380	Sphk2	sphingosine kinase 2	7		transcription initiation-coupled chromatin remodeling			ISO	Q9NRA0 	J:164563 	
+MGI:98282	Spi1	spleen focus forming virus (SFFV) proviral integration oncogene	2		negative regulation of gene expression, epigenetic			ISO	P17947 	J:164563 	
+MGI:98282	Spi1	spleen focus forming virus (SFFV) proviral integration oncogene	2		transcription initiation-coupled chromatin remodeling			ISO	P17947 	J:164563 	
+MGI:109242	Spin1	spindlin 1	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2142062	Spty2d1	SPT2 chromatin protein domain containing 1	7		chromatin organization			IBA	PTN000505877 	J:265628 	
+MGI:2142062	Spty2d1	SPT2 chromatin protein domain containing 1	7		heterochromatin formation			ISO	Q68D10 	J:164563 	
+MGI:2142062	Spty2d1	SPT2 chromatin protein domain containing 1	7		nucleosome assembly			IBA	PTN000505877 	J:265628 	
+MGI:2142062	Spty2d1	SPT2 chromatin protein domain containing 1	7		nucleosome assembly			ISO	Q68D10 	J:164563 	
+MGI:107708	Ss18	SS18, nBAF chromatin remodeling complex subunit	18		chromatin remodeling			IC		J:283189 	
+MGI:2444061	Ss18l1	SS18, nBAF chromatin remodeling complex subunit like 1	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:107912	Ssrp1	structure specific recognition protein 1	2		nucleosome assembly			IC		J:320155 	
+MGI:107912	Ssrp1	structure specific recognition protein 1	2		nucleosome disassembly			ISO	Q08945 	J:164563 	
+MGI:107912	Ssrp1	structure specific recognition protein 1	2		regulation of chromatin organization			IBA	PTN008168559 	J:265628 	
+MGI:107912	Ssrp1	structure specific recognition protein 1	2		regulation of chromatin organization			ISO	Q08945 	J:164563 	
+MGI:1922717	Stpg4	sperm tail PG rich repeat containing 4	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919204	Suds3	suppressor of defective silencing 3 homolog (S. cerevisiae)	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:107416	Supt4a	SPT4A, DSIF elongation factor subunit	11		chromatin organization			IBA	PTN000306261 	J:265628 	
+MGI:1335090	Supt4b	SPT4B, DSIF elongation factor subunit	10		chromatin organization			IBA	PTN000306261 	J:265628 	
+MGI:107726	Supt6	SPT6, histone chaperone and transcription elongation factor	11		nucleosome organization			IBA	PTN000015765 	J:265628 	
+MGI:107726	Supt6	SPT6, histone chaperone and transcription elongation factor	11		transcription elongation-coupled chromatin remodeling			IMP		J:195534 	
+MGI:107726	Supt6	SPT6, histone chaperone and transcription elongation factor	11		transcription elongation-coupled chromatin remodeling			ISO	Q7KZ85 	J:164563 	
+MGI:1890948	Supt16	SPT16, facilitates chromatin remodeling subunit	14		chromatin organization			IBA	PTN000360139 	J:265628 	
+MGI:1890948	Supt16	SPT16, facilitates chromatin remodeling subunit	14		nucleosome assembly			IC		J:320155 	
+MGI:1890948	Supt16	SPT16, facilitates chromatin remodeling subunit	14		nucleosome disassembly			ISO	Q9Y5B9 	J:164563 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		heterochromatin formation			TAS		J:114014 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		rDNA heterochromatin formation			ISO	O43463 	J:164563 	
+MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		chromatin organization			ISO	Q9H5I1 	J:164563 	
+MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		chromatin remodeling			ISO	Q9H5I1 	J:164563 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		dosage compensation by inactivation of X chromosome			IMP		J:240642 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		facultative heterochromatin formation			IDA		J:157630 J:157724 	
+MGI:105931	Sycp1	synaptonemal complex protein 1	3		sperm DNA condensation	happens in spermatocyte		IGI	MGI:109542 	J:182264 	
+MGI:109542	Sycp3	synaptonemal complex protein 3	10		sperm DNA condensation	happens in spermatocyte		IGI	MGI:105931 	J:182264 	
+MGI:109542	Sycp3	synaptonemal complex protein 3	10		sperm DNA condensation			ISO	Q8IZU3 	J:164563 	
+MGI:2144471	Tada2a	transcriptional adaptor 2A	11		chromatin remodeling			IBA	PTN000271860 	J:265628 	
+MGI:3035274	Tada2b	transcriptional adaptor 2B	5		chromatin remodeling			IBA	PTN000271860 	J:265628 	
+MGI:98480	Tal1	T cell acute lymphocytic leukemia 1	4		positive regulation of chromatin organization			ISO	P17542 	J:164563 	
+MGI:1921694	Tasor	transcription activation suppressor	14		negative regulation of gene expression, epigenetic			IBA	PTN002701184 	J:265628 	
+MGI:1921694	Tasor	transcription activation suppressor	14		negative regulation of gene expression, epigenetic			ISO	Q9UK61 	J:164563 	
+MGI:1921694	Tasor	transcription activation suppressor	14		positive regulation of DNA methylation-dependent heterochromatin formation			IBA	PTN002701184 	J:265628 	
+MGI:1921694	Tasor	transcription activation suppressor	14		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q9UK61 	J:164563 	
+MGI:2441730	Tbl1xr1	transducin (beta)-like 1X-linked receptor 1	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:107404	Tbr1	T-box brain transcription factor 1	2		chromatin remodeling			IMP		J:266522 	
+MGI:108247	Tdg	thymine DNA glycosylase	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:108247	Tdg	thymine DNA glycosylase	10		epigenetic regulation of gene expression			IMP		J:174772 J:196259 	
+MGI:2444023	Tdrd3	tudor domain containing 3	14		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1098693	Tet1	tet methylcytosine dioxygenase 1	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1098693	Tet1	tet methylcytosine dioxygenase 1	10		negative regulation of DNA methylation-dependent heterochromatin formation			ISO	Q8NFU7 	J:164563 	
+MGI:1098693	Tet1	tet methylcytosine dioxygenase 1	10		regulation of genetic imprinting			IMP	MGI:4129024 	J:207929 	
+MGI:2443298	Tet2	tet methylcytosine dioxygenase 2	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2446229	Tet3	tet methylcytosine dioxygenase 3	6		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1934816	Tex15	testis expressed gene 15	8		DNA methylation-dependent heterochromatin formation			IMP		J:288732 	
+MGI:106032	Tfap2c	transcription factor AP-2, gamma	2		epigenetic regulation of gene expression			ISO	Q92754 	J:164563 	
+MGI:1916964	Tfpt	TCF3 (E2A) fusion partner	7		chromatin remodeling			ISO	P0C1Z6 	J:164563 	
+MGI:2441683	Tlk1	tousled-like kinase 1	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2441683	Tlk1	tousled-like kinase 1	2		regulation of chromatin organization			ISO	Q9UKI8 	J:164563 	
+MGI:1346023	Tlk2	tousled-like kinase 2 (Arabidopsis)	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1346023	Tlk2	tousled-like kinase 2 (Arabidopsis)	11		regulation of chromatin organization			ISO	Q86UE8 	J:164563 	
+MGI:98784	Tnp1	transition protein 1	1		chromatin remodeling			IBA	PTN000426028 	J:265628 	
+MGI:98784	Tnp1	transition protein 1	1		chromatin remodeling			ISO	P09430 	J:164563 	
+MGI:98784	Tnp1	transition protein 1	1		nucleosome disassembly			ISO	P09430 	J:164563 	
+MGI:98784	Tnp1	transition protein 1	1		sperm DNA condensation			IMP		J:89779 J:93181 J:107120 J:241000 	
+MGI:98785	Tnp2	transition protein 2	16		sperm DNA condensation			IMP		J:89779 J:93181 J:107120 J:241000 	
+MGI:1919999	Tonsl	tonsoku-like, DNA repair protein	15		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		chromatin remodeling			ISO	P11387 	J:164563 	
+MGI:2181659	Tox	thymocyte selection-associated high mobility group box	4		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1922066	Tpr	translocated promoter region, nuclear basket protein	1		positive regulation of heterochromatin formation			ISO	P12270 	J:164563 	
+MGI:97904	Trim27	tripartite motif-containing 27	13		negative regulation of gene expression, epigenetic			ISO	P14373 	J:66240 	
+MGI:109274	Trim28	tripartite motif-containing 28	7		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:109274	Trim28	tripartite motif-containing 28	7		positive regulation of DNA methylation-dependent heterochromatin formation			IMP		J:188475 	
+MGI:109274	Trim28	tripartite motif-containing 28	7		positive regulation of DNA methylation-dependent heterochromatin formation			ISO	Q13263 	J:164563 	
+MGI:109274	Trim28	tripartite motif-containing 28	7		regulation of genetic imprinting			IMP	MGI:1928907 	J:183833 	
+MGI:98834	Trp53	transformation related protein 53	11		transcription initiation-coupled chromatin remodeling			ISO	P04637 	J:164563 	
+MGI:1330810	Trp63	transformation related protein 63	16		chromatin remodeling			IMP	MGI:1934580 	J:177729 	
+MGI:2153272	Trrap	transformation/transcription domain-associated protein	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1336196	Tsix	X (inactive)-specific transcript, opposite strand	X		dosage compensation by inactivation of X chromosome			IGI	MGI:98974 	J:99399 	
+MGI:1336196	Tsix	X (inactive)-specific transcript, opposite strand	X		dosage compensation by inactivation of X chromosome			IMP	MGI:2679786 	J:99399 	
+MGI:1336196	Tsix	X (inactive)-specific transcript, opposite strand	X		inactivation of paternal X chromosome			IMP	MGI:2387816 	J:206154 	
+MGI:1336196	Tsix	X (inactive)-specific transcript, opposite strand	X		transcription initiation-coupled chromatin remodeling	uses Xist		IMP	MGI:2679786 	J:99399 	
+MGI:1298395	Tspyl1	testis-specific protein, Y-encoded-like 1	10		nucleosome assembly			IEA	IPR002164 	J:72247 	
+MGI:106244	Tspyl2	TSPY-like 2	X		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:106244	Tspyl2	TSPY-like 2	X		nucleosome assembly			IEA	IPR002164 	J:72247 	
+MGI:106393	Tspyl4	TSPY-like 4	10		nucleosome assembly			IEA	IPR002164 	J:72247 	
+MGI:2442458	Tspyl5	testis-specific protein, Y-encoded-like 5	15		nucleosome assembly			IEA	IPR002164 	J:72247 	
+MGI:2148775	Tssk6	testis-specific serine kinase 6	8		sperm DNA condensation			IMP		J:98891 	
+MGI:3651956	Ttc39aos1	Ttc39a opposite strand RNA 1	4		nucleosome organization			IDA		J:234649 	
+MGI:105044	Ttf1	transcription termination factor, RNA polymerase I	2		chromatin remodeling			IDA		J:38595 	
+MGI:1922675	Tti1	TELO2 interacting protein 1	2		chromatin remodeling			IBA	PTN000427994 	J:265628 	
+MGI:1891307	Ubn1	ubinuclein 1	16		chromatin organization			IBA	PTN001092954 	J:265628 	
+MGI:1891307	Ubn1	ubinuclein 1	16		nucleosome assembly			ISO	Q9NPG3 	J:164563 	
+MGI:2444236	Ubn2	ubinuclein 2	6		chromatin organization			IBA	PTN001092954 	J:265628 	
+MGI:1861099	Ubr2	ubiquitin protein ligase E3 component n-recognin 2	17		heterochromatin formation			IDA		J:157596 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		rDNA heterochromatin formation		PR:P25976-2	IMP		J:146000 	
+MGI:1914848	Uchl5	ubiquitin carboxyl-terminal esterase L5	1		chromatin remodeling			ISO	Q9Y5K5 	J:164563 	
+MGI:1338889	Uhrf1	ubiquitin-like, containing PHD and RING finger domains, 1	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:103185	Uimc1	ubiquitin interaction motif containing 1	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2152450	Usp3	ubiquitin specific peptidase 3	9		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1921362	Usp16	ubiquitin specific peptidase 16	16		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1353665	Usp21	ubiquitin specific peptidase 21	1		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2144157	Usp22	ubiquitin specific peptidase 22	11		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2685391	Usp49	ubiquitin specific peptidase 49	17		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1919230	Utp3	UTP3 small subunit processome component	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:894810	Uty	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	Y		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:894810	Uty	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	Y		heterochromatin formation			IMP		J:180125 	
+MGI:1202305	Vps72	vacuolar protein sorting 72	3		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1202305	Vps72	vacuolar protein sorting 72	3		chromatin remodeling			IEA	IPR008895 	J:72247 	
+MGI:1202305	Vps72	vacuolar protein sorting 72	3		transcription initiation-coupled chromatin remodeling			ISO	Q15906 	J:164563 	
+MGI:2387357	Wac	WW domain containing adaptor with coiled-coil	18		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:104709	Wbp2	WW domain binding protein 2	11		transcription initiation-coupled chromatin remodeling			ISO	Q969T9 	J:164563 	
+MGI:2443514	Wdhd1	WD repeat and HMG-box DNA binding protein 1	14		pericentric heterochromatin organization			IMP		J:182876 	
+MGI:2155884	Wdr5	WD repeat domain 5	2		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2155884	Wdr5	WD repeat domain 5	2		regulation of dosage compensation by inactivation of X chromosome			IDA		J:313850 	
+MGI:98974	Xist	inactive X specific transcripts	X		dosage compensation by inactivation of X chromosome			IDA		J:79872 J:240642 	
+MGI:98974	Xist	inactive X specific transcripts	X		dosage compensation by inactivation of X chromosome			IGI	MGI:1336196 	J:99399 	
+MGI:98974	Xist	inactive X specific transcripts	X		dosage compensation by inactivation of X chromosome			IMP	MGI:2445459 	J:212497 	
+MGI:98974	Xist	inactive X specific transcripts	X		dosage compensation by inactivation of X chromosome			IMP	MGI:2445460 	J:185555 	
+MGI:98974	Xist	inactive X specific transcripts	X		inactivation of X chromosome by genomic imprinting			IMP		J:200020 	
+MGI:2447762	Yeats2	YEATS domain containing 2	16		chromatin remodeling			IBA	PTN000574151 	J:265628 	
+MGI:1927224	Yeats4	YEATS domain containing 4	10		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:1927224	Yeats4	YEATS domain containing 4	10		chromatin remodeling			IBA	PTN000574151 	J:265628 	
+MGI:2443713	Ythdc1	YTH domain containing 1	5		dosage compensation by inactivation of X chromosome			ISO	Q96MU7 	J:164563 	
+MGI:99150	Yy1	YY1 transcription factor	12		chromatin remodeling			ISO	P25490 	J:164563 	
+MGI:2442326	Zbtb1	zinc finger and BTB domain containing 1	12		chromatin remodeling			ISO	Q9Y2K1 	J:164563 	
+MGI:1335091	Zbtb7a	zinc finger and BTB domain containing 7a	10		chromatin organization			IMP		J:272425 	
+MGI:1335091	Zbtb7a	zinc finger and BTB domain containing 7a	10		chromatin remodeling			ISO	O95365 	J:164563 	
+MGI:1921134	Zdbf2	zinc finger, DBF-type containing 2	1		genomic imprinting			IBA	PTN007697908 	J:265628 	
+MGI:1921134	Zdbf2	zinc finger, DBF-type containing 2	1		genomic imprinting			IMP	MGI:6161219 	J:261327 	
+MGI:99187	Zfp42	zinc finger protein 42	8		regulation of genetic imprinting			IMP	MGI:4125334 	J:169234 	
+MGI:99204	Zfp57	zinc finger protein 57	17		genomic imprinting			IMP	MGI:3826984 	J:302583 	
+MGI:99204	Zfp57	zinc finger protein 57	17		regulation of gene expression by genomic imprinting			IMP	MGI:3826984 	J:302583 	
+MGI:99204	Zfp57	zinc finger protein 57	17		regulation of gene expression by genomic imprinting			IMP		J:143283 	
+MGI:99204	Zfp57	zinc finger protein 57	17		regulation of gene expression by genomic imprinting			ISO	Q9NU63 	J:164563 	
+MGI:99204	Zfp57	zinc finger protein 57	17		regulation of genetic imprinting			IGI	Q8R2V3 	J:272242 	
+MGI:2682313	Zfp335	zinc finger protein 335	2		epigenetic regulation of gene expression			ISO	Q9H4Z2 	J:164563 	
+MGI:2143340	Zfp445	zinc finger protein 445	9		regulation of genetic imprinting			IDA		J:272242 	
+MGI:2143340	Zfp445	zinc finger protein 445	9		regulation of genetic imprinting			IGI	Q8C6P8 	J:272242 	
+MGI:2143340	Zfp445	zinc finger protein 445	9		regulation of genetic imprinting			ISO	P59923 	J:164563 	
+MGI:107690	Zfp462	zinc finger protein 462	4		chromatin organization			IMP		J:158807 	
+MGI:1919922	Zfp518a	zinc finger protein 518A	19		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2140750	Zfp518b	zinc finger protein 518B	5		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2444807	Zfp827	zinc finger protein 827	8		chromatin remodeling			ISO	Q17R98 	J:164563 	
+MGI:99213	Zfy2	zinc finger protein 2, Y-linked	Y		dosage compensation by inactivation of X chromosome			IDA		J:239332 	
+MGI:1890508	Zmpste24	zinc metallopeptidase, STE24	4		chromatin organization			IMP	MGI:2180033 	J:134546 	
+MGI:1913755	Zmynd11	zinc finger, MYND domain containing 11	13		chromatin organization			IEA	KW-0156 	J:60000 	
+MGI:2138982	Znfx1	zinc finger, NFX1-type containing 1	2		small non-coding RNA-dependent heterochromatin formation			IBA	PTN000094858 	J:265628 	
+MGI:1917353	Znhit1	zinc finger, HIT domain containing 1	5		chromatin remodeling			IEA	IPR039723 	J:72247 	
+

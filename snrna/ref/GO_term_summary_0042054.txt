@@ -1,0 +1,175 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:2183158	Ash1l	ASH1 like histone lysine methyltransferase	3		histone H3K36 methyltransferase activity			ISO	Q9NR48 	J:164563 	
+MGI:2183158	Ash1l	ASH1 like histone lysine methyltransferase	3		histone H3K4 methyltransferase activity			IBA	PTN008191467 	J:265628 	
+MGI:2183158	Ash1l	ASH1 like histone lysine methyltransferase	3		histone H3K4 methyltransferase activity			IDA		J:208213 	
+MGI:2183158	Ash1l	ASH1 like histone lysine methyltransferase	3		histone H3K9 methyltransferase activity			IDA		J:269562 	
+MGI:2183158	Ash1l	ASH1 like histone lysine methyltransferase	3		histone lysine N-methyltransferase activity			IEA	IPR006560 	J:72247 	
+MGI:1344416	Ash2l	ASH2 like histone lysine methyltransferase complex subunit	8	contributes_to	histone H3K4 methyltransferase activity			ISO	Q9UBL3 	J:164563 	
+MGI:1344416	Ash2l	ASH2 like histone lysine methyltransferase complex subunit	8	contributes_to	histone H3K4 methyltransferase activity	happens in embryonic stem cell,happens in chromatin		TAS		J:185349 	
+MGI:1913208	Carm1	coactivator-associated arginine methyltransferase 1	9		histone arginine N-methyltransferase activity			ISO	Q86X55 	J:164563 	
+MGI:1913208	Carm1	coactivator-associated arginine methyltransferase 1	9		histone H3R17 methyltransferase activity			IDA		J:172897 	
+MGI:1913208	Carm1	coactivator-associated arginine methyltransferase 1	9		histone methyltransferase activity			IDA		J:168193 	
+MGI:1913208	Carm1	coactivator-associated arginine methyltransferase 1	9		histone methyltransferase activity			ISO	Q86X55 	J:164563 	
+MGI:1921572	Cxxc1	CXXC finger 1 (PHD domain)	18	contributes_to	histone H3K4 methyltransferase activity			IBA	PTN005285390 	J:265628 	
+MGI:1921572	Cxxc1	CXXC finger 1 (PHD domain)	18	contributes_to	histone H3K4 methyltransferase activity			ISO	Q9P0U4 	J:164563 	
+MGI:2143886	Dot1l	DOT1-like, histone H3 methyltransferase (S. cerevisiae)	10		histone H3K79 methyltransferase activity			IBA	PTN000485246 	J:265628 	
+MGI:2143886	Dot1l	DOT1-like, histone H3 methyltransferase (S. cerevisiae)	10		histone lysine N-methyltransferase activity			ISO	Q8TEK3 	J:164563 	
+MGI:2143886	Dot1l	DOT1-like, histone H3 methyltransferase (S. cerevisiae)	10		histone methyltransferase activity			IDA		J:87894 	
+MGI:2143886	Dot1l	DOT1-like, histone H3 methyltransferase (S. cerevisiae)	10		histone methyltransferase activity			ISO	Q8TEK3 	J:98959 	
+MGI:95286	Eed	embryonic ectoderm development	7		histone methyltransferase activity			ISO	O75530 	J:73065 	
+MGI:1924933	Ehmt1	euchromatic histone methyltransferase 1	2		histone H3K27 methyltransferase activity			IDA		J:97244 	
+MGI:1924933	Ehmt1	euchromatic histone methyltransferase 1	2		histone H3K9 methyltransferase activity			IBA	PTN002505142 	J:265628 	
+MGI:1924933	Ehmt1	euchromatic histone methyltransferase 1	2		histone H3K9 methyltransferase activity			IDA		J:97244 	
+MGI:1924933	Ehmt1	euchromatic histone methyltransferase 1	2		histone H3K9 methyltransferase activity			IMP		J:143343 	
+MGI:1924933	Ehmt1	euchromatic histone methyltransferase 1	2		histone lysine N-methyltransferase activity			ISO	Q9H9B1 	J:164563 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone H3K27 methyltransferase activity			IDA		J:97244 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone H3K9 methyltransferase activity			EXP		J:231284 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone H3K9 methyltransferase activity			IBA	PTN002505142 	J:265628 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone H3K9 methyltransferase activity			IDA		J:97244 J:148615 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone H3K9 methyltransferase activity			IMP		J:143343 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone lysine N-methyltransferase activity			IDA		J:148615 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone lysine N-methyltransferase activity			IMP		J:184478 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17		histone lysine N-methyltransferase activity			ISO	Q96KQ7 	J:148615 J:164563 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		histone H3K27 methyltransferase activity			IBA	PTN000768863 	J:265628 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		histone H3K27 methyltransferase activity			IDA		J:148710 	
+MGI:1097695	Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	11		histone lysine N-methyltransferase activity			IEA	IPR021654 IPR032926 IPR044438 IPR045318 	J:72247 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		histone H3K27 methyltransferase activity			IBA	PTN000768863 	J:265628 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		histone H3K27 methyltransferase activity			ISO	Q15910 	J:164563 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		histone lysine N-methyltransferase activity			ISO	Q15910 	J:148615 J:164563 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		histone methyltransferase activity			IDA		J:84664 	
+MGI:107940	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	6		histone methyltransferase activity			ISO	Q15910 	J:73065 	
+MGI:95486	Fbl	fibrillarin	7		histone glutamine N-methyltransferase activity			IBA	PTN000036740 	J:265628 	
+MGI:95486	Fbl	fibrillarin	7		histone glutamine N-methyltransferase activity			ISO	P22087 	J:164563 	
+MGI:3034689	Fbll1	fibrillarin-like 1	11		histone glutamine N-methyltransferase activity			IBA	PTN000036740 	J:265628 	
+MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13	NOT|contributes_to	histone H3K27 methyltransferase activity			IDA		J:157630 	
+MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13	contributes_to	histone H3K27 methyltransferase activity			IDA		J:157724 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			IBA	PTN002911713 	J:265628 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			IDA		J:80575 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			ISO	Q03164 	J:164563 	
+MGI:109565	Kmt2b	lysine (K)-specific methyltransferase 2B	7		histone H3K4 methyltransferase activity			IBA	PTN002911713 	J:265628 	
+MGI:109565	Kmt2b	lysine (K)-specific methyltransferase 2B	7		histone H3K4 methyltransferase activity			ISO	Q9UMN6 	J:123598 	
+MGI:2444959	Kmt2c	lysine (K)-specific methyltransferase 2C	5		histone H3K4 methyltransferase activity			IBA	PTN002505160 	J:265628 	
+MGI:2444959	Kmt2c	lysine (K)-specific methyltransferase 2C	5		histone H3K4 methyltransferase activity			ISO	Q8NEZ4 	J:123598 	
+MGI:2444959	Kmt2c	lysine (K)-specific methyltransferase 2C	5		histone methyltransferase activity			ISO	Q8NEZ4 	J:164563 	
+MGI:2682319	Kmt2d	lysine (K)-specific methyltransferase 2D	15		histone H3K4 methyltransferase activity			IBA	PTN002505160 	J:265628 	
+MGI:1915206	Kmt5a	lysine methyltransferase 5A	5		histone H4K20 methyltransferase activity			IBA	PTN002920257 	J:265628 	
+MGI:1915206	Kmt5a	lysine methyltransferase 5A	5		histone H4K20 methyltransferase activity			ISO	Q9NQR1 	J:164563 	
+MGI:1915206	Kmt5a	lysine methyltransferase 5A	5		histone lysine N-methyltransferase activity			ISO	Q9NQR1 	J:164563 	
+MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		histone H4K20 methyltransferase activity			IBA	PTN000312154 	J:265628 	
+MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		histone H4K20 methyltransferase activity			IDA		J:90491 J:211428 	
+MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		histone H4K20 methyltransferase activity			ISO	Q4FZB7 	J:164563 	
+MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		histone lysine N-methyltransferase activity			ISO	Q4FZB7 	J:164563 	
+MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		histone H4K20 methyltransferase activity			IBA	PTN000312154 	J:265628 	
+MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		histone H4K20 methyltransferase activity			IDA		J:90491 	
+MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		histone H4K20 methyltransferase activity			ISO	Q86Y97 	J:164563 	
+MGI:95457	Mecom	MDS1 and EVI1 complex locus	3		histone H3K9 methyltransferase activity			IDA		J:269562 	
+MGI:1921569	Mettl23	methyltransferase like 23	11		histone H3R17 methyltransferase activity			IDA		J:254851 	
+MGI:1915018	N6amt1	N-6 adenine-specific DNA methyltransferase 1 (putative)	16		histone lysine N-methyltransferase activity			ISO	Q9Y5N5 	J:164563 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		histone H3K36 methyltransferase activity			IBA	PTN002739645 	J:265628 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		histone H3K36 methyltransferase activity			IDA		J:83923 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		histone H3K36 methyltransferase activity			ISO	Q96L73 	J:164563 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		histone H4K20 methyltransferase activity			IDA		J:83923 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		histone lysine N-methyltransferase activity			IEA	IPR006560 	J:72247 	
+MGI:1276545	Nsd1	nuclear receptor-binding SET-domain protein 1	13		histone methyltransferase activity			IDA		J:83923 	
+MGI:1276574	Nsd2	nuclear receptor binding SET domain protein 2	5		histone H3K36 methyltransferase activity			IBA	PTN002739645 	J:265628 	
+MGI:1276574	Nsd2	nuclear receptor binding SET domain protein 2	5		histone H3K36 methyltransferase activity			ISO	O96028 	J:164563 	
+MGI:1276574	Nsd2	nuclear receptor binding SET domain protein 2	5		histone lysine N-methyltransferase activity			IDA		J:150360 	
+MGI:2142581	Nsd3	nuclear receptor binding SET domain protein 3	8		histone H3K27 methyltransferase activity			IDA		J:108985 	
+MGI:2142581	Nsd3	nuclear receptor binding SET domain protein 3	8		histone H3K36 methyltransferase activity			IBA	PTN002739645 	J:265628 	
+MGI:2142581	Nsd3	nuclear receptor binding SET domain protein 3	8		histone H3K4 methyltransferase activity			IDA		J:108985 	
+MGI:2142581	Nsd3	nuclear receptor binding SET domain protein 3	8		histone lysine N-methyltransferase activity			ISO	Q9BZ95 	J:164563 	
+MGI:1913867	Ntmt1	N-terminal Xaa-Pro-Lys N-methyltransferase 1	2		histone methyltransferase activity			ISO	Q9BV86 	J:164563 	
+MGI:2684938	Prdm6	PR domain containing 6	18		histone methyltransferase activity			IEA	IPR044416 	J:72247 	
+MGI:1924880	Prdm8	PR domain containing 8	5		histone H3K9 methyltransferase activity			IDA		J:152723 	
+MGI:1924880	Prdm8	PR domain containing 8	5		histone methyltransferase activity			IDA		J:152723 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K36 methyltransferase activity			IBA	PTN000421245 	J:265628 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K36 methyltransferase activity			IMP		J:233373 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K36 methyltransferase activity			ISO	Q9NQV7 	J:164563 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K4 methyltransferase activity			EXP		J:102875 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K4 methyltransferase activity			IBA	PTN000421245 	J:265628 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K4 methyltransferase activity			IDA		J:102875 J:215270 J:277873 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K4 methyltransferase activity			IMP		J:102875 J:233373 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K4 methyltransferase activity			ISO	Q9NQV7 	J:164563 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone H3K4 methyltransferase activity			ISO	Q9NQW5 	J:164563 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone lysine N-methyltransferase activity			ISO	Q9NQV7 	J:164563 	
+MGI:2384854	Prdm9	PR domain containing 9	17		histone methyltransferase activity			IEA	IPR044417 	J:72247 	
+MGI:2448528	Prdm13	PR domain containing 13	4		histone methyltransferase activity			IDA		J:206882 	
+MGI:1917923	Prdm16	PR domain containing 16	4		histone H3K9 methyltransferase activity			IDA		J:269562 	
+MGI:107846	Prmt1	protein arginine N-methyltransferase 1	7		histone arginine N-methyltransferase activity			ISO	Q63009 	J:73065 	
+MGI:107846	Prmt1	protein arginine N-methyltransferase 1	7		histone H4R3 methyltransferase activity			ISO	Q99873 	J:164563 	
+MGI:107846	Prmt1	protein arginine N-methyltransferase 1	7		histone methyltransferase activity			IDA		J:108985 	
+MGI:107846	Prmt1	protein arginine N-methyltransferase 1	7		histone methyltransferase activity			ISO	Q99873 	J:164563 	
+MGI:1316652	Prmt2	protein arginine N-methyltransferase 2	10		histone arginine N-methyltransferase activity			IDA		J:190282 	
+MGI:1316652	Prmt2	protein arginine N-methyltransferase 2	10		histone methyltransferase activity			ISO	P55345 	J:164563 	
+MGI:1351645	Prmt5	protein arginine N-methyltransferase 5	14		histone arginine N-methyltransferase activity			IBA	PTN000077429 	J:265628 	
+MGI:1351645	Prmt5	protein arginine N-methyltransferase 5	14		histone H4R3 methyltransferase activity			ISO	O14744 	J:164563 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		histone arginine N-methyltransferase activity			IDA		J:224604 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		histone arginine N-methyltransferase activity			ISO	Q96LA8 	J:164563 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		histone H2AR3 methyltransferase activity			ISO	Q96LA8 	J:164563 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		histone H3R2 methyltransferase activity			ISO	Q96LA8 	J:164563 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		histone H4R3 methyltransferase activity			ISO	Q96LA8 	J:164563 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		histone methyltransferase activity			ISO	Q96LA8 	J:164563 	
+MGI:2384879	Prmt7	protein arginine N-methyltransferase 7	8		histone arginine N-methyltransferase activity			ISO	Q9NVM4 	J:164563 	
+MGI:2384879	Prmt7	protein arginine N-methyltransferase 7	8		histone H4R3 methyltransferase activity			IDA		J:116093 	
+MGI:3043083	Prmt8	protein arginine N-methyltransferase 8	6		histone arginine N-methyltransferase activity			ISO	Q9NR22 	J:164563 	
+MGI:1918367	Rbbp5	retinoblastoma binding protein 5, histone lysine methyltransferase complex subunit	1	contributes_to	histone H3K4 methyltransferase activity			ISO	Q15291 	J:164563 	
+MGI:1933199	Setbp1	SET binding protein 1	18		histone H3K4 methyltransferase activity			IBA	PTN008191467 	J:265628 	
+MGI:2446244	Setd1a	SET domain containing 1A	7		histone H3K4 methyltransferase activity			IBA	PTN002505229 	J:265628 	
+MGI:2446244	Setd1a	SET domain containing 1A	7		histone H3K4 methyltransferase activity			ISO	O15047 	J:164563 	
+MGI:2446244	Setd1a	SET domain containing 1A	7	contributes_to	histone H3K4 methyltransferase activity	is a part of regulation of erythrocyte differentiation		NAS		J:237693 	
+MGI:2446244	Setd1a	SET domain containing 1A	7	contributes_to	histone H3K4 methyltransferase activity	happens in embryonic stem cell,happens in chromatin		TAS		J:185349 	
+MGI:2446244	Setd1a	SET domain containing 1A	7		histone lysine N-methyltransferase activity			IEA	IPR037841 	J:72247 	
+MGI:2652820	Setd1b	SET domain containing 1B	5		histone H3K4 methyltransferase activity			IBA	PTN002505229 	J:265628 	
+MGI:2652820	Setd1b	SET domain containing 1B	5	contributes_to	histone H3K4 methyltransferase activity			ISO	Q9UPS6 	J:164563 	
+MGI:2652820	Setd1b	SET domain containing 1B	5		histone lysine N-methyltransferase activity			IEA	IPR037842 	J:72247 	
+MGI:1918177	Setd2	SET domain containing 2	9		histone H3K36 methyltransferase activity			IBA	PTN001112922 	J:265628 	
+MGI:1918177	Setd2	SET domain containing 2	9		histone H3K36 methyltransferase activity			IMP		J:243534 	
+MGI:1918177	Setd2	SET domain containing 2	9		histone H3K36 methyltransferase activity			ISO	Q9BYW2 	J:164563 	
+MGI:1918177	Setd2	SET domain containing 2	9		histone lysine N-methyltransferase activity			ISO	Q9BYW2 	J:164563 	
+MGI:1289184	Setd3	SET domain containing 3	12		histone H3K36 methyltransferase activity			IBA	PTN000998435 	J:265628 	
+MGI:1289184	Setd3	SET domain containing 3	12		histone H3K36 methyltransferase activity			IDA		J:177741 	
+MGI:1289184	Setd3	SET domain containing 3	12		histone H3K4 methyltransferase activity			IBA	PTN000998435 	J:265628 	
+MGI:1289184	Setd3	SET domain containing 3	12		histone H3K4 methyltransferase activity			IDA		J:177741 	
+MGI:2136890	Setd4	SET domain containing 4	16		histone H3K4 methyltransferase activity			IDA		J:304151 	
+MGI:2136890	Setd4	SET domain containing 4	16		histone H4K20 methyltransferase activity			ISO	Q9NVD3 	J:164563 	
+MGI:1920145	Setd5	SET domain containing 5	6		histone H3K36 methyltransferase activity			IMP		J:282587 	
+MGI:1920145	Setd5	SET domain containing 5	6		histone H3K9 methyltransferase activity			IDA		J:269562 	
+MGI:1920145	Setd5	SET domain containing 5	6	NOT	histone lysine N-methyltransferase activity			IDA		J:271411 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		histone lysine N-methyltransferase activity			IBA	PTN001893769 	J:265628 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		histone lysine N-methyltransferase activity			ISO	Q8WTS6 	J:164563 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		histone H3K9 methyltransferase activity			IBA	PTN002339393 	J:265628 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		histone H3K9 methyltransferase activity			IDA		J:114022 J:269562 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		histone H3K9 methyltransferase activity			ISO	Q15047 	J:164563 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		histone lysine N-methyltransferase activity			IDA		J:114022 	
+MGI:1934229	Setdb1	SET domain, bifurcated 1	3		histone lysine N-methyltransferase activity			ISO	Q15047 	J:164563 	
+MGI:2685139	Setdb2	SET domain, bifurcated 2	14		histone H3K9 methyltransferase activity			IBA	PTN002339393 	J:265628 	
+MGI:2685139	Setdb2	SET domain, bifurcated 2	14		histone H3K9 methyltransferase activity			ISO	Q96T68 	J:164563 	
+MGI:2685139	Setdb2	SET domain, bifurcated 2	14		histone lysine N-methyltransferase activity			IEA	IPR007728 	J:72247 	
+MGI:1921979	Setmar	SET domain without mariner transposase fusion	6		histone H3K36 methyltransferase activity			ISO	Q53H47 	J:164563 	
+MGI:1921979	Setmar	SET domain without mariner transposase fusion	6		histone H3K4 methyltransferase activity			ISO	Q53H47 	J:164563 	
+MGI:1921979	Setmar	SET domain without mariner transposase fusion	6		histone lysine N-methyltransferase activity			IEA	IPR007728 	J:72247 	
+MGI:1921979	Setmar	SET domain without mariner transposase fusion	6		histone methyltransferase activity			IBA	PTN001874919 	J:265628 	
+MGI:104790	Smyd1	SET and MYND domain containing 1	6		histone lysine N-methyltransferase activity			IBA	PTN002486656 	J:265628 	
+MGI:1915889	Smyd2	SET and MYND domain containing 2	1		histone H3K36 methyltransferase activity			IDA		J:169899 	
+MGI:1915889	Smyd2	SET and MYND domain containing 2	1		histone lysine N-methyltransferase activity			IBA	PTN002486656 	J:265628 	
+MGI:1916976	Smyd3	SET and MYND domain containing 3	1		histone lysine N-methyltransferase activity			IBA	PTN002486656 	J:265628 	
+MGI:1916976	Smyd3	SET and MYND domain containing 3	1		histone lysine N-methyltransferase activity			IDA		J:169899 	
+MGI:1916976	Smyd3	SET and MYND domain containing 3	1		histone lysine N-methyltransferase activity			ISO	Q9H7B4 	J:164563 	
+MGI:108048	Smyd5	SET and MYND domain containing 5	6		histone H4K20 methyltransferase activity			IBA	PTN005302559 	J:265628 	
+MGI:108048	Smyd5	SET and MYND domain containing 5	6		histone H4K20 methyltransferase activity			IMP		J:306882 J:306582 	
+MGI:108048	Smyd5	SET and MYND domain containing 5	6		histone lysine N-methyltransferase activity			IEA	IPR044422 	J:72247 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		histone H3K9 methyltransferase activity			IBA	PTN000526939 	J:265628 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		histone H3K9 methyltransferase activity			IDA		J:127714 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		histone H3K9 methyltransferase activity			ISO	O43463 	J:164563 J:194231 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		histone lysine N-methyltransferase activity			IDA		J:75203 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		histone lysine N-methyltransferase activity			IGI	MGI:1890396 	J:196057 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		histone lysine N-methyltransferase activity			ISO	O43463 	J:164563 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		histone methyltransferase activity			ISO	O43463 	J:164563 	
+MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone H3K9 methyltransferase activity			IBA	PTN000526939 	J:265628 	
+MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone H3K9 methyltransferase activity			ISO	Q9H5I1 	J:164563 	
+MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone lysine N-methyltransferase activity			IDA		J:75203 	
+MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone lysine N-methyltransferase activity			IGI	MGI:1099440 	J:196057 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		histone methyltransferase activity			ISO	Q15022 	J:73065 	
+MGI:2155884	Wdr5	WD repeat domain 5	2	contributes_to	histone H3K4 methyltransferase activity			ISO	P61964 	J:164563 	
+MGI:1924555	Wdr82	WD repeat domain containing 82	9	contributes_to	histone H3K4 methyltransferase activity			ISO	Q6UXN9 	J:164563 	
+

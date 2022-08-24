@@ -1,0 +1,85 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:109349	Atf2	activating transcription factor 2	2		histone H2B acetyltransferase activity			ISO	P15336 	J:164563 	
+MGI:109349	Atf2	activating transcription factor 2	2		histone H4 acetyltransferase activity			ISO	P15336 	J:164563 	
+MGI:109337	Brca2	breast cancer 2, early onset	5		histone H3 acetyltransferase activity			ISO	P51587 	J:164563 	
+MGI:109337	Brca2	breast cancer 2, early onset	5		histone H4 acetyltransferase activity			ISO	P51587 	J:164563 	
+MGI:1339956	Cdyl	chromodomain protein, Y chromosome-like	13		histone acetyltransferase activity			IEA	2.3.1.48 	J:72245 	
+MGI:99698	Clock	circadian locomotor output cycles kaput	5		histone acetyltransferase activity			IMP		J:148217 	
+MGI:99698	Clock	circadian locomotor output cycles kaput	5		histone acetyltransferase activity			ISO	O15516 	J:164563 	
+MGI:1098280	Crebbp	CREB binding protein	16		histone acetyltransferase activity			IBA	PTN000351795 	J:265628 	
+MGI:1098280	Crebbp	CREB binding protein	16		histone acetyltransferase activity			IDA		J:75146 J:80589 J:132209 	
+MGI:1098280	Crebbp	CREB binding protein	16		histone acetyltransferase activity			ISO	RGD:2401 	J:155856 	
+MGI:1098280	Crebbp	CREB binding protein	16		histone acetyltransferase activity			ISO	Q92793 	J:164563 	
+MGI:1276116	Ep300	E1A binding protein p300	15		histone acetyltransferase activity			IBA	PTN000351795 	J:265628 	
+MGI:1276116	Ep300	E1A binding protein p300	15		histone acetyltransferase activity			IDA		J:243518 	
+MGI:1276116	Ep300	E1A binding protein p300	15		histone acetyltransferase activity			ISO	RGD:620036 	J:155856 	
+MGI:1276116	Ep300	E1A binding protein p300	15		histone acetyltransferase activity			ISO	Q09472 	J:164563 	
+MGI:1276116	Ep300	E1A binding protein p300	15		histone acetyltransferase activity			ISS	Q09472 	J:156068 	
+MGI:1276116	Ep300	E1A binding protein p300	15		histone H3 acetyltransferase activity			ISO	Q09472 	J:164563 	
+MGI:1276116	Ep300	E1A binding protein p300	15		histone H4 acetyltransferase activity			ISO	Q09472 	J:164563 	
+MGI:2385191	Gtf2b	general transcription factor IIB	3		histone acetyltransferase activity			IEA	2.3.1.48 	J:72245 	
+MGI:2138937	Gtf3c4	general transcription factor IIIC, polypeptide 4	2		histone acetyltransferase activity			IEA	2.3.1.48 	J:72245 	
+MGI:2138937	Gtf3c4	general transcription factor IIIC, polypeptide 4	2		histone acetyltransferase activity			IEA	IPR044230 	J:72247 	
+MGI:96013	Hat1	histone aminotransferase 1	2		histone acetyltransferase activity			IEA	2.3.1.48 	J:72245 	
+MGI:96013	Hat1	histone aminotransferase 1	2		histone acetyltransferase activity			IEA	IPR017380 	J:72247 	
+MGI:96013	Hat1	histone aminotransferase 1	2		histone H4 acetyltransferase activity			IBA	PTN000248102 	J:265628 	
+MGI:96013	Hat1	histone aminotransferase 1	2		histone H4 acetyltransferase activity			ISO	O14929 	J:164563 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone acetyltransferase activity			IDA		J:57302 J:247860 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone acetyltransferase activity			ISO	Q92830 	J:164563 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3 acetyltransferase activity			IBA	PTN000720593 	J:265628 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3 acetyltransferase activity			IDA		J:121357 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3 acetyltransferase activity			ISO	Q92830 	J:164563 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H4K12 acetyltransferase activity			IDA		J:121357 	
+MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		histone acetyltransferase activity			IDA		J:57302 J:99401 	
+MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		histone acetyltransferase activity			ISO	Q92831 	J:164563 	
+MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		histone H3 acetyltransferase activity			IBA	PTN000720593 	J:265628 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		histone acetyltransferase activity			IBA	PTN004172615 	J:265628 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		histone acetyltransferase activity			IMP		J:304368 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		histone acetyltransferase activity			ISO	Q92993 	J:164563 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		histone H2A acetyltransferase activity			ISO	Q92993 	J:164563 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		histone H2AK5 acetyltransferase activity			ISO	Q92993 	J:164563 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		histone H4K16 acetyltransferase activity			ISO	Q92993 	J:164563 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone acetyltransferase activity			IBA	PTN004172615 	J:265628 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone acetyltransferase activity			ISO	Q92794 	J:164563 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone H3 acetyltransferase activity			ISO	Q92794 	J:164563 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone H4 acetyltransferase activity			ISO	Q92794 	J:164563 	
+MGI:1858746	Kat6b	K(lysine) acetyltransferase 6B	14		histone acetyltransferase activity			IBA	PTN004172615 	J:265628 	
+MGI:1858746	Kat6b	K(lysine) acetyltransferase 6B	14		histone acetyltransferase activity			IDA		J:62161 	
+MGI:1858746	Kat6b	K(lysine) acetyltransferase 6B	14		histone acetyltransferase activity			ISO	Q8WYB5 	J:164563 	
+MGI:2182799	Kat7	K(lysine) acetyltransferase 7	11		histone acetyltransferase activity			IBA	PTN004172615 	J:265628 	
+MGI:2182799	Kat7	K(lysine) acetyltransferase 7	11		histone acetyltransferase activity			IDA		J:284983 	
+MGI:2182799	Kat7	K(lysine) acetyltransferase 7	11		histone acetyltransferase activity			IMP		J:170405 	
+MGI:2182799	Kat7	K(lysine) acetyltransferase 7	11		histone acetyltransferase activity			ISO	O95251 	J:164563 	
+MGI:2182799	Kat7	K(lysine) acetyltransferase 7	11		histone H3K4 acetyltransferase activity			ISO	O95251 	J:164563 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone acetyltransferase activity			IEA	2.3.1.48 	J:72245 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone acetyltransferase activity			IEA	IPR002717 IPR037906 	J:72247 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone H3 acetyltransferase activity			ISO	Q9H7Z6 	J:164563 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone H4 acetyltransferase activity			ISO	Q9H7Z6 	J:164563 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone H4K16 acetyltransferase activity			IBA	PTN000742436 	J:265628 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone H4K16 acetyltransferase activity			IMP		J:297798 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone H4K16 acetyltransferase activity			ISO	Q9H7Z6 	J:164563 	
+MGI:1915023	Kat8	K(lysine) acetyltransferase 8	7		histone H4K5 acetyltransferase activity			ISO	Q9H7Z6 	J:164563 	
+MGI:1917264	Kat14	lysine acetyltransferase 14	2		histone acetyltransferase activity			ISO	Q9H8E8 	J:145720 	
+MGI:1930089	Mcm3ap	minichromosome maintenance complex component 3 associated protein	10		histone acetyltransferase activity			ISO	O60318 	J:164563 	
+MGI:1930089	Mcm3ap	minichromosome maintenance complex component 3 associated protein	10		histone H3 acetyltransferase activity			ISO	O60318 	J:164563 	
+MGI:1344385	Med24	mediator complex subunit 24	11		histone acetyltransferase activity			ISO	RGD:1564565 	J:155856 	
+MGI:2385142	Mettl8	methyltransferase like 8	2		histone acetyltransferase activity			IDA		J:99401 	
+MGI:1341851	Msl3	MSL complex subunit 3	X		histone H4K16 acetyltransferase activity			ISO	Q8N5Y2 	J:164563 	
+MGI:1918249	Naa40	N(alpha)-acetyltransferase 40, NatD catalytic subunit	19		histone H2A acetyltransferase activity			IBA	PTN000464144 	J:265628 	
+MGI:1918249	Naa40	N(alpha)-acetyltransferase 40, NatD catalytic subunit	19		histone H2A acetyltransferase activity			ISO	Q86UY6 	J:164563 	
+MGI:1918249	Naa40	N(alpha)-acetyltransferase 40, NatD catalytic subunit	19		histone H4 acetyltransferase activity			IBA	PTN000464144 	J:265628 	
+MGI:1918249	Naa40	N(alpha)-acetyltransferase 40, NatD catalytic subunit	19		histone H4 acetyltransferase activity			ISO	Q86UY6 	J:164563 	
+MGI:1919367	Naa50	N(alpha)-acetyltransferase 50, NatE catalytic subunit	16		histone H4 acetyltransferase activity			ISO	Q9GZZ1 	J:164563 	
+MGI:1922013	Naa60	N(alpha)-acetyltransferase 60, NatF catalytic subunit	16		histone acetyltransferase activity			IBA	PTN000380943 	J:265628 	
+MGI:1922013	Naa60	N(alpha)-acetyltransferase 60, NatF catalytic subunit	16		histone H4 acetyltransferase activity			ISO	Q9H7X0 	J:164563 	
+MGI:2136449	Nat8f3	N-acetyltransferase 8 (GCN5-related) family member 3	6		histone H4 acetyltransferase activity			IDA		J:227616 	
+MGI:3782661	Nat8f7	N-acetyltransferase 8 (GCN5-related) family member 7	6		histone H4 acetyltransferase activity			IDA		J:227616 	
+MGI:1276523	Ncoa1	nuclear receptor coactivator 1	12		histone acetyltransferase activity			IEA	2.3.1.48 	J:72245 	
+MGI:1276535	Ncoa3	nuclear receptor coactivator 3	2		histone acetyltransferase activity			ISO	Q9Y6Q9 	J:164563 	
+MGI:1932139	Oga	O-GlcNAcase	19		histone acetyltransferase activity			ISO	RGD:621077 	J:155856 	
+MGI:2144471	Tada2a	transcriptional adaptor 2A	11	contributes_to	histone acetyltransferase activity			ISO	O75478 	J:164563 	
+MGI:1336878	Taf1	TATA-box binding protein associated factor 1	X		histone acetyltransferase activity			IDA		J:149201 	
+MGI:1888697	Taf9	TATA-box binding protein associated factor 9	13	contributes_to	histone acetyltransferase activity			ISO	Q16594 	J:164563 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7	contributes_to	histone acetyltransferase activity			ISO	Q12962 	J:164563 	
+MGI:2144157	Usp22	ubiquitin specific peptidase 22	11	contributes_to	histone H4 acetyltransferase activity			ISO	Q9UPT9 	J:164563 	
+

@@ -1,0 +1,72 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1099442	Atxn3	ataxin 3	12	contributes_to	histone deacetylase activity			ISO	RGD:621567 	J:155856 	
+MGI:108086	Hdac1	histone deacetylase 1	4		histone deacetylase activity			IBA	PTN002239566 	J:265628 	
+MGI:108086	Hdac1	histone deacetylase 1	4		histone deacetylase activity			IDA		J:113866 J:176119 J:319948 	
+MGI:108086	Hdac1	histone deacetylase 1	4		histone deacetylase activity			ISO	RGD:1309799 	J:155856 	
+MGI:108086	Hdac1	histone deacetylase 1	4		histone deacetylase activity			ISO	Q13547 	J:164563 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		histone deacetylase activity			IBA	PTN002239566 	J:265628 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		histone deacetylase activity			IDA		J:140120 J:319948 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		histone deacetylase activity			ISO	Q92769 	J:164563 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		histone deacetylase activity			TAS		J:113927 	
+MGI:1097691	Hdac2	histone deacetylase 2	10		histone H4K16 deacetylase activity			IMP		J:219173 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		histone deacetylase activity			IBA	PTN002239566 	J:265628 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		histone deacetylase activity			IDA		J:319948 	
+MGI:1343091	Hdac3	histone deacetylase 3	18	contributes_to	histone deacetylase activity			ISO	RGD:619977 	J:155856 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		histone deacetylase activity			ISO	O15379 	J:164563 	
+MGI:1343091	Hdac3	histone deacetylase 3	18		histone deacetylase activity			TAS		J:113927 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		histone deacetylase activity			IBA	PTN002472081 	J:265628 	
+MGI:3036234	Hdac4	histone deacetylase 4	1		histone deacetylase activity			ISO	P56524 	J:73065 	
+MGI:1333784	Hdac5	histone deacetylase 5	11		histone deacetylase activity			IBA	PTN002472081 	J:265628 	
+MGI:1333784	Hdac5	histone deacetylase 5	11		histone deacetylase activity			ISO	Q9UQL6 	J:164563 	
+MGI:1333784	Hdac5	histone deacetylase 5	11		histone deacetylase activity			TAS		J:113927 	
+MGI:1333752	Hdac6	histone deacetylase 6	X		histone deacetylase activity			IBA	PTN002472081 	J:265628 	
+MGI:1333752	Hdac6	histone deacetylase 6	X		histone deacetylase activity			IDA		J:52197 J:72860 	
+MGI:1333752	Hdac6	histone deacetylase 6	X		histone deacetylase activity			IMP		J:215334 	
+MGI:1333752	Hdac6	histone deacetylase 6	X		histone deacetylase activity			ISO	Q9UBN7 	J:73065 	
+MGI:1891835	Hdac7	histone deacetylase 7	15		histone deacetylase activity			IBA	PTN002472081 	J:265628 	
+MGI:1891835	Hdac7	histone deacetylase 7	15		histone deacetylase activity			TAS		J:113927 	
+MGI:1917565	Hdac8	histone deacetylase 8	X		histone deacetylase activity			IBA	PTN002239566 	J:265628 	
+MGI:1917565	Hdac8	histone deacetylase 8	X		histone deacetylase activity			ISO	Q9BY41 	J:164563 	
+MGI:1917565	Hdac8	histone deacetylase 8	X		histone deacetylase activity			TAS		J:113927 	
+MGI:1931221	Hdac9	histone deacetylase 9	12	NOT	histone deacetylase activity			TAS		J:70040 	
+MGI:1931221	Hdac9	histone deacetylase 9	12		histone deacetylase activity			TAS		J:113927 	
+MGI:1931221	Hdac9	histone deacetylase 9	12		histone H4K16 deacetylase activity			ISO	Q9UKV0 	J:164563 	
+MGI:2158340	Hdac10	histone deacetylase 10	15		histone deacetylase activity			ISO	AF407272 	J:73643 	
+MGI:2158340	Hdac10	histone deacetylase 10	15		histone deacetylase activity			ISO	Q969S8 	J:164563 	
+MGI:2385252	Hdac11	histone deacetylase 11	6		histone deacetylase activity			IBA	PTN001636236 	J:265628 	
+MGI:2385252	Hdac11	histone deacetylase 11	6		histone deacetylase activity			ISO	Q96DB2 	J:164563 	
+MGI:2385252	Hdac11	histone deacetylase 11	6		histone deacetylase activity			TAS		J:113927 	
+MGI:1918398	Mier1	MEIR1 treanscription regulator	4	contributes_to	histone deacetylase activity			ISO	Q8N108 	J:164563 	
+MGI:1917677	Mier2	MIER family member 2	10	contributes_to	histone deacetylase activity			ISO	Q8N344 	J:164563 	
+MGI:1346340	Mta2	metastasis-associated gene family, member 2	19		histone deacetylase activity			IDA		J:56739 	
+MGI:2135607	Sirt1	sirtuin 1	10		histone deacetylase activity			ISO	Q96EB6 	J:164563 	
+MGI:2135607	Sirt1	sirtuin 1	10		NAD-dependent histone deacetylase activity			IBA	PTN000119154 	J:265628 	
+MGI:2135607	Sirt1	sirtuin 1	10		NAD-dependent histone deacetylase activity			IDA		J:65145 	
+MGI:2135607	Sirt1	sirtuin 1	10		NAD-dependent histone deacetylase activity			ISO	RGD:1308542 	J:155856 	
+MGI:2135607	Sirt1	sirtuin 1	10		NAD-dependent histone deacetylase activity			ISO	Q96EB6 	J:129427 J:164563 	
+MGI:2135607	Sirt1	sirtuin 1	10		NAD-dependent histone H3K9 deacetylase activity			IDA		J:168151 	
+MGI:1927664	Sirt2	sirtuin 2	7		histone deacetylase activity			IMP		J:209463 	
+MGI:1927664	Sirt2	sirtuin 2	7		histone deacetylase activity			ISO	Q8IXJ6 	J:164563 	
+MGI:1927664	Sirt2	sirtuin 2	7		NAD-dependent histone deacetylase activity			IBA	PTN000119154 	J:265628 	
+MGI:1927664	Sirt2	sirtuin 2	7		NAD-dependent histone deacetylase activity			ISO	Q8IXJ6 	J:164563 	
+MGI:1927664	Sirt2	sirtuin 2	7		NAD-dependent histone H4K16 deacetylase activity			ISO	Q8IXJ6 	J:164563 	
+MGI:1927665	Sirt3	sirtuin 3	7		NAD-dependent histone deacetylase activity			IBA	PTN000119154 	J:265628 	
+MGI:1927665	Sirt3	sirtuin 3	7	NOT	NAD-dependent histone H3K14 deacetylase activity		PR:Q8R104-2	IDA		J:65632 	
+MGI:1927665	Sirt3	sirtuin 3	7		NAD-dependent histone H3K14 deacetylase activity		PR:Q8R104-1	IDA		J:163964 	
+MGI:1354161	Sirt6	sirtuin 6	10		histone deacetylase activity			IBA	PTN000119157 	J:265628 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K18 deacetylase activity			IDA		J:322389 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K18 deacetylase activity			ISO	Q8N6T7 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K56 deacetylase activity	is a part of negative regulation of transcription elongation by RNA polymerase II,is a part of positive regulation of protein localization to chromatin,happens in chromatin,directly_positively_regulates chromatin binding		IDA		J:278647 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K56 deacetylase activity			IDA		J:167155 J:250994 J:322365 J:322389 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K56 deacetylase activity			ISO	Q8N6T7 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K9 deacetylase activity			IBA	PTN000872287 	J:265628 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K9 deacetylase activity	is a part of negative regulation of transcription elongation by RNA polymerase II,is a part of positive regulation of protein localization to chromatin,happens in chromatin,directly_positively_regulates chromatin binding		IDA		J:278647 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K9 deacetylase activity			IDA		J:322389 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K9 deacetylase activity			IMP		J:167155 J:167957 J:250994 J:322375 J:278647 J:322365 	
+MGI:1354161	Sirt6	sirtuin 6	10		NAD-dependent histone H3K9 deacetylase activity			ISO	Q8N6T7 	J:164563 	
+MGI:2385849	Sirt7	sirtuin 7	11		histone deacetylase activity			IBA	PTN000119157 	J:265628 	
+MGI:2385849	Sirt7	sirtuin 7	11		NAD-dependent histone H3K18 deacetylase activity			IBA	PTN000872273 	J:265628 	
+MGI:2385849	Sirt7	sirtuin 7	11		NAD-dependent histone H3K18 deacetylase activity			IMP		J:281207 J:234105 	
+MGI:2385849	Sirt7	sirtuin 7	11		NAD-dependent histone H3K18 deacetylase activity			ISO	Q9NRC8 	J:164563 	
+MGI:1919204	Suds3	suppressor of defective silencing 3 homolog (S. cerevisiae)	5	contributes_to	histone deacetylase activity			ISO	Q9H7L9 	J:164563 	
+
