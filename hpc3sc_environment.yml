@@ -5,31 +5,17 @@ channels:
   - r
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=conda_forge
-  - _openmp_mutex=4.5=1_gnu
   - _r-mutex=1.0.1=anacondar_1
-  - atk-1.0=2.36.0=h3371d22_4
-  - binutils_impl_linux-64=2.36.1=h193b22a_2
-  - binutils_linux-64=2.36=hf3e587d_4
   - bioconductor-annotate=1.72.0=r41hdfd78af_0
   - bioconductor-annotationdbi=1.56.1=r41hdfd78af_0
   - bioconductor-annotationfilter=1.18.0=r41hdfd78af_0
-  - bioconductor-batchelor=1.10.0=r41h399db7b_0
-  - bioconductor-beachmat=2.10.0=r41h399db7b_0
-  - bioconductor-biobase=2.54.0=r41hd029910_0
   - bioconductor-biocfilecache=2.2.0=r41hdfd78af_0
   - bioconductor-biocgenerics=0.40.0=r41hdfd78af_0
   - bioconductor-biocio=1.4.0=r41hdfd78af_0
-  - bioconductor-biocneighbors=1.12.0=r41h399db7b_0
-  - bioconductor-biocparallel=1.28.0=r41h399db7b_0
-  - bioconductor-biocsingular=1.10.0=r41h399db7b_0
   - bioconductor-biocviews=1.62.0=r41hdfd78af_0
   - bioconductor-biomart=2.50.0=r41hdfd78af_0
-  - bioconductor-biostrings=2.62.0=r41hd029910_0
-  - bioconductor-biovizbase=1.42.0=r41hd029910_0
   - bioconductor-bsgenome=1.62.0=r41hdfd78af_0
   - bioconductor-bsgenome.mmusculus.ucsc.mm10=1.4.3=r41hdfd78af_0
-  - bioconductor-chromvar=1.16.0=r41h399db7b_0
   - bioconductor-cicero=1.12.0=r41hdfd78af_0
   - bioconductor-cner=1.30.0=r41hd029910_0
   - bioconductor-delayedarray=0.20.0=r41hd029910_0
@@ -532,6 +518,20 @@ dependencies:
   - zlib=1.2.11=h36c2ea0_1013
   - zstd=1.5.1=ha95c52a_0
   - pip:
+    - _libgcc_mutex=0.1=conda_forge
+    - _openmp_mutex=4.5=1_gnu
+    - atk-1.0=2.36.0=h3371d22_4
+    - binutils_impl_linux-64=2.36.1=h193b22a_2
+    - binutils_linux-64=2.36=hf3e587d_4
+    - bioconductor-batchelor=1.10.0=r41h399db7b_0
+    - bioconductor-beachmat=2.10.0=r41h399db7b_0
+    - bioconductor-biobase=2.54.0=r41hd029910_0
+    - bioconductor-biocneighbors=1.12.0=r41h399db7b_0
+    - bioconductor-biocparallel=1.28.0=r41h399db7b_0
+    - bioconductor-biocsingular=1.10.0=r41h399db7b_0
+    - bioconductor-biostrings=2.62.0=r41hd029910_0
+    - bioconductor-biovizbase=1.42.0=r41hd029910_0
+    - bioconductor-chromvar=1.16.0=r41h399db7b_0
     - anndata==0.7.8
     - annoy==1.17.0
     - attrs==21.4.0
