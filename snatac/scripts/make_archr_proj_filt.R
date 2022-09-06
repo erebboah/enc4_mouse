@@ -6,7 +6,7 @@ addArchRThreads(16)
 addArchRGenome("mm10")
 library(tidyverse)
 
-setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/")
+setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr_filt/")
 metadata = read.delim("../ref/enc4_mouse_snatac_metadata.tsv")
 all_tissues_10x_rna_metadata = read.delim("/share/crsp/lab/seyedam/share/Heidi_Liz/all_mouse/all_tissues_10x_TFs_mirhgs_chromreg_metadata.tsv")
 
@@ -23,8 +23,8 @@ ArrowFiles <- createArrowFiles(
   sampleNames = names(inputFiles),
   offsetPlus = 0,
   offsetMinus = 0,
-  minTSS = 0,
-  minFrags = 0, 
+  minTSS = 4,
+  minFrags = 1000, 
   excludeChr = c("chrM"),
   addTileMat = TRUE,
   addGeneScoreMat = TRUE,
@@ -34,11 +34,11 @@ ArrowFiles <- createArrowFiles(
 # make archr project
 proj <- ArchRProject(
   ArrowFiles = ArrowFiles, 
-  outputDirectory = "ENC4_Mouse")
+  outputDirectory = "ENC4_Mouse_filt")
 
 saveArchRProject(
   ArchRProj = proj,
-  outputDirectory = "ENC4_Mouse/"
+  outputDirectory = "ENC4_Mouse_filt/"
 )
 
 # match ATAC barcodes to RNA barcodes
@@ -80,15 +80,15 @@ proj$gen_celltype = proj_meta$gen_celltype
 proj$celltypes = proj_meta$celltypes
 proj$subtypes = proj_meta$subtypes
 
-write.csv(as.data.frame(proj@cellColData),file="../ref/atac_unfiltered_metadata_all_tissues.csv")
+#write.csv(as.data.frame(proj@cellColData),file="../ref/atac_unfiltered_metadata_all_tissues.csv")
 
 # add doublet scores and filter
 proj = addDoubletScores(proj, k = 10, knnMethod = "LSI")
 proj <- filterDoublets(proj)
 
-write.csv(as.data.frame(proj@cellColData),file="../ref/atac_metadata_all_tissues.csv")
+#write.csv(as.data.frame(proj@cellColData),file="../ref/atac_metadata_all_tissues.csv")
 
 saveArchRProject(
   ArchRProj = proj,
-  outputDirectory = "ENC4_Mouse/"
+  outputDirectory = "ENC4_Mouse_filt/"
 )
