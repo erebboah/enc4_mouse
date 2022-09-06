@@ -55,9 +55,9 @@ brain_sub = RowMergeSparseMatrices(counts[[1]], c(counts[[2]], counts[[3]], coun
                                                   counts[[6]], counts[[7]], counts[[8]], counts[[9]], counts[[10]],
                                                   counts[[11]], counts[[12]]))
 
-writeMM(brain_sub,file="brain_atlas_metadata_1000_per_subtype_250734.mtx")
-write.table(rownames(brain_sub),file=paste0("brain_atlas_metadata_1000_per_subtype_250734_genes.tsv"),
+writeMM(brain_sub,file="brain_atlas_1000_per_subtype_250734.mtx")
+write.table(rownames(brain_sub),file=paste0("brain_atlas_1000_per_subtype_250734_genes.tsv"),
             sep="\t",quote=F,row.names=F,col.names = F)
-write.table(colnames(brain_sub),file=paste0("brain_atlas_metadata_1000_per_subtype_250734_barcodes.tsv"),
+write.table(colnames(brain_sub),file=paste0("brain_atlas_1000_per_subtype_250734_barcodes.tsv"),
             sep="\t",quote=F,row.names=F,col.names = F)
 

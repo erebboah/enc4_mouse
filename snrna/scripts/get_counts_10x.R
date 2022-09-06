@@ -8,7 +8,8 @@ setwd("../../snrna/")
 metadata = read.delim("ref/enc4_mouse_snrna_metadata.tsv")
 metadata = metadata[metadata$technology == "10x",]
 
-gene_id_to_name = read.csv("ref/gene_id_to_name.csv")
+gene_id_to_name = read.delim("ref/geneInfo.tab",header=F,col.names=c("gene_id","gene_name","gene_type"))
+gene_id_to_name = gene_id_to_name[-1,]
 
 gene_id_to_name = gene_id_to_name[gene_id_to_name$gene_type %in% c("protein_coding",
                                                                       "miRNA",
@@ -33,6 +34,8 @@ gene_id_to_name = gene_id_to_name[gene_id_to_name$gene_type %in% c("protein_codi
                                                                       "transcribed_unitary_pseudogene",
                                                                       "translated_unprocessed_pseudogene"),]
 
+
+write.csv(gene_id_to_name,file="ref/gene_id_to_name.csv")
 
 # Read in data and filter
 ## 1. gene with biotype specified above 

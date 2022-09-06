@@ -6,7 +6,7 @@
 #SBATCH --cpus-per-task=16         ## number of cores the job needs
 #SBATCH --output=data-%J.out ## output log file
 #SBATCH --error=data-%J.err ## error log file
-#SBATCH --mem=128G
+#SBATCH --mem=256G
 
 source /data/homezvol2/erebboah/miniconda3/bin/activate hpc3sc
 

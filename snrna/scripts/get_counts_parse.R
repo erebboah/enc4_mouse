@@ -8,7 +8,8 @@ setwd("../../snrna/")
 metadata = read.delim("ref/enc4_mouse_snrna_metadata.tsv")
 metadata = metadata[metadata$technology == "Parse",]
 
-gene_id_to_name = read.csv("ref/gene_id_to_name.csv")
+gene_id_to_name = read.delim("ref/geneInfo.tab",header=F,col.names=c("gene_id","gene_name","gene_type"))
+gene_id_to_name = gene_id_to_name[-1,]
 
 gene_id_to_name = gene_id_to_name[gene_id_to_name$gene_type %in% c("protein_coding",
                                                                       "miRNA",
@@ -48,7 +49,7 @@ get_counts = function(file){
     features = read.delim(paste0(path,'features.tsv'),header = F) 
     rownames(counts) = features$V2 
     colnames(counts) = paste0(barcodes$barcode,".",metadata$library_accession) # append library accession to cell barcode
-    counts = counts[,colSums(counts) > 500] # > 500 UMI
+    counts = counts[,colSums(counts) > 0] # > 0 UMI
     counts = counts[rownames(counts) %in% gene_id_to_name$gene_name,]
     out = counts    
     } else {
@@ -59,7 +60,7 @@ get_counts = function(file){
     features = read.delim(paste0(path,'features.tsv'),header = F) 
     rownames(counts) = features$V2 
     colnames(counts) = paste0(barcodes$barcode,".",metadata$library_accession) # append library accession to cell barcode
-    counts = counts[,colSums(counts) > 500] # > 500 UMI
+    counts = counts[,colSums(counts) > 0] # > 0 UMI
     counts = counts[rownames(counts) %in% gene_id_to_name$gene_name,]
     out = counts
     }
@@ -83,3 +84,10 @@ for (i in 1:length(batches)){
         write.table(colnames(counts),file=paste0("scrublet/",batches[i],"_barcodes.tsv"),quote=F,row.names=F,col.names=F,sep="\t")
         write.table(rownames(counts),file=paste0("scrublet/",batches[i],"_genes.tsv"),quote=F,row.names=F,col.names=F,sep="\t")
 }
+
+gene_id_to_name_save = gene_id_to_name[gene_id_to_name$gene_name %in% rownames(counts),]
+gene_id_to_name_save = gene_id_to_name_save[match(rownames(counts), gene_id_to_name_save$gene_name),]
+write.csv(gene_id_to_name_save,file="ref/gene_id_to_name.csv")
+
+
+

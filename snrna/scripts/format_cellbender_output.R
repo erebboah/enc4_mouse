@@ -16,7 +16,7 @@ for (i in 1:length(batches)){
     bcs = read.delim(paste0("counts_10x/",files,"/barcodes.tsv"),header=F)
     colnames(counts) = bcs$V1
     
-    counts = counts[,colSums(counts) > 500] # > 500 UMI
+    counts = counts[,colSums(counts) > 0] # > 0 UMI
 
     writeMM(counts,file=paste0("scrublet/",batches[i],"_matrix.mtx"))
     write.table(colnames(counts),file=paste0("scrublet/",batches[i],"_barcodes.tsv"),quote=F,row.names=F,col.names=F,sep="\t")

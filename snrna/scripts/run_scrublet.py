@@ -7,7 +7,7 @@ import pandas as pd
 
 input_dir = '../scrublet/'
 
-batches = np.arange(1,57,1)
+batches = np.arange(41,57,1)
 batches = batches.astype(str)
  
 for batch in batches:

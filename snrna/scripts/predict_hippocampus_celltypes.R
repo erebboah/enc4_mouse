@@ -9,14 +9,14 @@ setwd("../../snrna/")
 
 # Predict cell types from references
 
-referencehippocampus = readRDS("ref/external_data/brain_atlas_subsampled_sct_pca.rds")
+ref = readRDS("ref/external_data/brain_atlas_subsampled_sct_pca.rds")
 combined.sct = readRDS("seurat/hippocampus_Parse_10x_integrated.rds")
 
 DefaultAssay(combined.sct) <- "SCT"
-DefaultAssay(referencehippocampus) <- "SCT"
+DefaultAssay(ref) <- "SCT"
 
 transfer_anchors <- FindTransferAnchors(
-    reference = referencehippocampus,
+    reference = ref,
     query = combined.sct,
     reference.assay = "SCT",
     normalization.method = "SCT",
@@ -27,7 +27,7 @@ transfer_anchors <- FindTransferAnchors(
 
 predictions <- TransferData(
     anchorset = transfer_anchors, 
-    refdata = referencehippocampus$subclass_label, 
+    refdata = ref$subclass_label, 
     weight.reduction = combined.sct[['pca']],
     dims = 1:50,
     verbose = F)

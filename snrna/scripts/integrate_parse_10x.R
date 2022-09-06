@@ -140,6 +140,11 @@ obj_10x <- subset(obj_10x,
                   doublet_scores < unique(obj_10x$upper_doublet_scores) & 
                   percent.mt < unique(obj_10x$upper_percent.mt)) 
 
+# also filter 10x for nuclei passing filters in snATAC
+atac_metadata = read.csv("../snatac/ref/atac_metadata_all_tissues.csv")
+
+obj_10x <- subset(obj_10x, subset = cellID %in% atac_metadata$cellID)
+
 obj_parse_standard <- subset(obj_parse_standard, 
                             subset = nCount_RNA > unique(obj_parse_standard$lower_nCount_RNA) & 
                             nCount_RNA < unique(obj_parse_standard$upper_nCount_RNA)  & 
@@ -199,9 +204,10 @@ combined.sct<- CellCycleScoring(combined.sct, s.features = m.s.genes, g2m.featur
 
 # SAVE
 saveRDS(combined.sct,file=paste0("seurat/",str_to_lower(tissue),"_Parse_10x_integrated.rds"))
+write.csv(combined.sct@meta.data,file=paste0("seurat/",str_to_lower(tissue),"_Parse_10x_integrated_metadata.csv"))
 
 ## Call cluster marker genes 
-DefaultAssay(combined.sct)= "integrated"
+DefaultAssay(combined.sct)= "RNA"
 Idents(combined.sct) = "seurat_clusters"
 markers <- FindAllMarkers(combined.sct, 
                              only.pos = TRUE, 
@@ -209,7 +215,7 @@ markers <- FindAllMarkers(combined.sct,
                              logfc.threshold = 0.25, 
                              verbose = T)
 
-write.table(markers,file=paste0("seurat/",str_to_lower(tissue),"_cluster_marker_genes_only.pos_min.pct0.25_logfc.threshold0.25.tsv"),
+write.table(markers,file=paste0("seurat/markers/",str_to_lower(tissue),"_cluster_marker_genes_only.pos_min.pct0.25_logfc.threshold0.25.tsv"),
             sep="\t",
             quote=F,
             row.names = F)
