@@ -8,7 +8,7 @@
 #SBATCH --error=data-%J.err ## error log file
 #SBATCH --mem=256G
 
-source /data/homezvol2/erebboah/miniconda3/bin/activate hpc3sc
+source ~/miniconda3/bin/activate hpc3sc
 
 mkdir ../counts_parse/
 cd ../counts_parse/

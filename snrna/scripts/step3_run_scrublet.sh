@@ -9,7 +9,7 @@
 #SBATCH --mem=128G
 #SBATCH --time 3-00:00
 
-source /data/homezvol2/erebboah/miniconda3/bin/activate hpc3sc
+source ~/miniconda3/bin/activate hpc3sc
 
 #Rscript format_cellbender_output.R
 python3 run_scrublet.py

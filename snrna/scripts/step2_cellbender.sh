@@ -10,7 +10,7 @@
 #SBATCH --mem=128G
 #SBATCH --time 14-00:00
 
-source /data/homezvol2/erebboah/miniconda3/bin/activate cellbender2
+source ~/miniconda3/bin/activate cellbender2
 
 file="../ref/10x_cellbender_settings.csv"
 
