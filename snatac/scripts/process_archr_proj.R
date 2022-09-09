@@ -9,23 +9,23 @@ library(tidyverse)
 setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/")
 
 proj = loadArchRProject(path = "ENC4_Mouse/")
+proj_meta = as.data.frame(proj@cellColData)
 
 metadata = read.delim("../ref/enc4_mouse_snatac_metadata.tsv")
 all_tissues_10x_rna_metadata = read.delim("/share/crsp/lab/seyedam/share/Heidi_Liz/all_mouse/all_tissues_10x_TFs_mirhgs_chromreg_metadata.tsv")
-
-proj_meta = as.data.frame(proj@cellColData)
 
 print("how many ATAC cells passed RNA filters?")
 table(proj_meta$cellID %in% all_tissues_10x_rna_metadata$cellID)
 
 # filter cells from ATAC that are not in RNA
-# also QC filter
-atac_cells_filt = proj$cellNames[proj_meta$cellID %in% all_tissues_10x_rna_metadata$cellID & proj_meta$TSSEnrichment > 4 & proj_meta$nFrags > 1000]
+# also QC filtere
+atac_cells_filt = proj$cellNames[proj_meta$cellID %in% all_tissues_10x_rna_metadata$cellID]
 
 proj = subsetArchRProject(
     ArchRProj = proj,
+    outputDirectory = "ENC4_Mouse/",
     cells = atac_cells_filt,
-    dropCells = TRUE, #  drop cells that are not in ArchRProject from corresponding Arrow Files 
+    dropCells = TRUE,
     force = TRUE)
 
 # archr processing
@@ -38,6 +38,23 @@ proj = addClusters(proj, maxClusters = 40,
 
 proj = addUMAP(proj, reducedDims = "IterativeLSI", force = T)
 
+# add metadata from RNA cell type annotation
+all_tissues_10x_rna_metadata = read.delim("/share/crsp/lab/seyedam/share/Heidi_Liz/all_mouse/all_tissues_10x_TFs_mirhgs_chromreg_metadata.tsv")
+proj_meta = as.data.frame(proj@cellColData)
+proj_meta = dplyr::left_join(proj_meta, all_tissues_10x_rna_metadata) # merge by cellID and library accession
+
+# add RNA metadata to ATAC
+proj$technology= proj_meta$technology
+proj$species= proj_meta$species
+proj$timepoint= proj_meta$timepoint
+proj$sex= proj_meta$sex
+proj$rep= proj_meta$rep
+proj$tissue = proj_meta$tissue
+proj$sample = proj_meta$sample
+proj$gen_celltype = proj_meta$gen_celltype
+proj$celltypes = proj_meta$celltypes
+proj$subtypes = proj_meta$subtypes
+
 p1 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "sample", embedding = "UMAP")
 p2 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "tissue", embedding = "UMAP")
 p3 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "timepoint", embedding = "UMAP")
@@ -45,8 +62,8 @@ p4 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "gen_cellt
 p5 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "celltypes", embedding = "UMAP")
 p6 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "subtypes", embedding = "UMAP")
 
-plotPDF(p1,p2,p3,p4,p5,p6 name = "Plot-UMAP-Sample-Clusters.pdf", 
-        ArchRProj = topic_proj, addDOC = FALSE, width = 5, height = 5)
+plotPDF(p1,p2,p3,p4,p5,p6, name = "Plot-UMAP-Sample-Clusters.pdf", 
+        ArchRProj = proj, addDOC = FALSE, width = 5, height = 5)
 
 saveArchRProject(
   ArchRProj = proj,

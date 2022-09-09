@@ -8,7 +8,6 @@ library(tidyverse)
 
 setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/")
 metadata = read.delim("../ref/enc4_mouse_snatac_metadata.tsv")
-all_tissues_10x_rna_metadata = read.delim("/share/crsp/lab/seyedam/share/Heidi_Liz/all_mouse/all_tissues_10x_TFs_mirhgs_chromreg_metadata.tsv")
 
 # read in fragment files from ENCODE portal
 inputFiles = paste0("../fragments/",metadata$file_accession,
@@ -23,8 +22,8 @@ ArrowFiles <- createArrowFiles(
   sampleNames = names(inputFiles),
   offsetPlus = 0,
   offsetMinus = 0,
-  minTSS = 0,
-  minFrags = 0, 
+  minTSS = 4,
+  minFrags = 1000, 
   excludeChr = c("chrM"),
   addTileMat = TRUE,
   addGeneScoreMat = TRUE,
@@ -58,27 +57,13 @@ proj_meta$atac_bc = toupper(spgs::reverseComplement(proj_meta$atac_bc))
 
 proj_meta = dplyr::left_join(proj_meta, bcs) # merge by atac_bc
 proj_meta$cellID = paste0(proj_meta$rna_bc,".",proj_meta$library_accession) # re-create RNA cell IDs
-proj_meta = dplyr::left_join(proj_meta, all_tissues_10x_rna_metadata) # merge by cellID and library accession
 
 print("checking that new metadata is ordered correctly:")
 table(proj_meta$cellNames == proj$cellNames)
-
-# add RNA metadata to ATAC
-proj$rna_bc = proj_meta$rna_bc
 proj$original_cellNames = proj_meta$cellNames
 proj$original_atac_bc= do.call("rbind", strsplit(proj$original_cellNames, "#"))[,2]
 proj$atac_bc = proj_meta$atac_bc
 proj$cellID = proj_meta$cellID
-proj$technology= proj_meta$technology
-proj$species= proj_meta$species
-proj$timepoint= proj_meta$timepoint
-proj$sex= proj_meta$sex
-proj$rep= proj_meta$rep
-proj$tissue = proj_meta$tissue
-proj$sample = proj_meta$sample
-proj$gen_celltype = proj_meta$gen_celltype
-proj$celltypes = proj_meta$celltypes
-proj$subtypes = proj_meta$subtypes
 
 write.csv(as.data.frame(proj@cellColData),file="../ref/atac_unfiltered_metadata_all_tissues.csv")
 

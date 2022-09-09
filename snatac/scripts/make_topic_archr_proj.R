@@ -36,9 +36,9 @@ topic_proj <- ArchRProject(
 )
 
 # add metadata
-setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr_filt/")
+setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/")
 
-proj = loadArchRProject(path = "ENC4_Mouse_heart_filt/")
+proj = loadArchRProject(path = "ENC4_Mouse_heart/")
 
 celltype_meta = getCellColData(proj)
 celltype_meta$cellNames = rownames(celltype_meta)
@@ -53,7 +53,6 @@ celltype_meta = celltype_meta[,
                                "gen_celltype",
                                "celltypes",
                                "subtypes",
-                                "Clusters",
                                "rna_bc",
                                "cellID",
                                "cellNames")]
@@ -81,7 +80,6 @@ topic_proj$sample = meta$sample
 topic_proj$gen_celltype = meta$gen_celltype
 topic_proj$celltypes = meta$celltypes
 topic_proj$subtypes = meta$subtypes
-topic_proj$orig_archr_clusters = meta$Clusters
 
 setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/topics/")
 

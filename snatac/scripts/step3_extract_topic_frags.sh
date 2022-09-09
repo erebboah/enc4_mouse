@@ -6,7 +6,7 @@
 #SBATCH --cpus-per-task=8         ## number of cores the job needs
 #SBATCH --output=archr_topics-%J.out ## output log file
 #SBATCH --error=archr_topics-%J.err ## error log file
-#SBATCH --mem=256G
+#SBATCH --mem=64G
 
 source ~/miniconda3/bin/activate hpc3sc
 
