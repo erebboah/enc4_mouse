@@ -9,8 +9,19 @@ setwd("../../snrna/")
 
 # Predict cell types from references
 
-ref = readRDS("ref/external_data/brain_atlas_subsampled_sct_pca.rds")
-combined.sct = readRDS("seurat/hippocampus_Parse_10x_integrated.rds")
+combined.sct = readRDS("seurat/gastrocnemius_Parse_10x_integrated.rds")
+
+p10 = readRDS("ref/external_data/p10.rds")
+p21 = readRDS("ref/external_data/p21.rds")
+mo5 = readRDS("ref/external_data/5mo.rds")
+
+ref = merge(p10, y = c(p21,mo5), add.cell.ids = c("PND10", "PND21", "PNM05"), project = "TA")
+ref$celltypes = Idents(ref)
+ref[["percent.mt"]] = PercentageFeatureSet(ref, pattern = "^mt-")
+ref <- SCTransform(ref,  method = "glmGamPoi", 
+                   vars.to.regress = c("percent.mt","nFeature_RNA"), verbose = F)
+ref<- RunPCA(ref, verbose = T, npcs = 50)
+
 
 DefaultAssay(combined.sct) <- "SCT"
 DefaultAssay(ref) <- "SCT"
@@ -27,7 +38,7 @@ transfer_anchors <- FindTransferAnchors(
 
 predictions <- TransferData(
     anchorset = transfer_anchors, 
-    refdata = ref$subclass_label, 
+    refdata = ref$celltypes, 
     weight.reduction = combined.sct[['pca']],
     dims = 1:50,
     verbose = F)
@@ -36,8 +47,8 @@ combined.sct <- AddMetaData(
     object = combined.sct,
     metadata = predictions)
     
-combined.sct$atlas_predictions = combined.sct$predicted.id
+combined.sct$predictions = combined.sct$predicted.id
 
-saveRDS(combined.sct,file="seurat/hippocampus_Parse_10x_integrated.rds")
+saveRDS(combined.sct,file="seurat/gastroc_Parse_10x_integrated.rds")
 
 sessionInfo()

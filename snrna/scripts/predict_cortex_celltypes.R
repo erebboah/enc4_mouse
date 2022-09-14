@@ -38,11 +38,6 @@ combined.sct <- AddMetaData(
     
 combined.sct$atlas_predictions = combined.sct$predicted.id
 
-# Add cell cycle scores 
-load("ref/mouse_cellcycle_genes.rda")
-DefaultAssay(combined.sct) = "SCT"
-combined.sct<- CellCycleScoring(combined.sct, s.features = m.s.genes, g2m.features = m.g2m.genes)
-
 saveRDS(combined.sct,file="seurat/cortex_Parse_10x_integrated.rds")
 
 sessionInfo()
