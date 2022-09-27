@@ -1,0 +1,27 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1919321	2010315B03Rik	RIKEN cDNA 2010315B03 gene	9		DNA-binding transcription factor activity			IBA	PTN002811104 	J:265628 	
+MGI:1919378	2610008E11Rik	RIKEN cDNA 2610008E11 gene	10		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN004701291 	J:265628 	
+MGI:1919378	2610008E11Rik	RIKEN cDNA 2610008E11 gene	10		DNA-binding transcription repressor activity, RNA polymerase II-specific			IBA	PTN001226166 	J:265628 	
+MGI:1922662	2610021A01Rik	RIKEN cDNA 2610021A01 gene	7		DNA-binding transcription activator activity, RNA polymerase II-specific			IBA	PTN004700594 	J:265628 	
+MGI:1919389	2610044O15Rik8	RIKEN cDNA 2610044O15 gene	8		DNA-binding transcription repressor activity, RNA polymerase II-specific			IBA	PTN004702374 	J:265628 	
+MGI:1917194	2810021J22Rik	RIKEN cDNA 2810021J22 gene	11		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN004701291 	J:265628 	
+MGI:1925270	4930522L14Rik	RIKEN cDNA 4930522L14 gene	5		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN007798770 	J:265628 	
+MGI:1924450	5430403G16Rik	RIKEN cDNA 5430403G16 gene	5		DNA-binding transcription factor activity			ISO	P35789 	J:164563 	
+MGI:1924450	5430403G16Rik	RIKEN cDNA 5430403G16 gene	5		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN007798770 	J:265628 	
+MGI:1917882	5730507C01Rik	RIKEN cDNA 5730507C01 gene	12		DNA-binding transcription repressor activity, RNA polymerase II-specific			IBA	PTN004702374 	J:265628 	
+MGI:1926171	9130019O22Rik	RIKEN cDNA 9130019O22 gene	7		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN007798770 	J:265628 	
+MGI:3583896	A430033K04Rik	RIKEN cDNA A430033K04 gene	5		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN004701291 	J:265628 	
+MGI:3583896	A430033K04Rik	RIKEN cDNA A430033K04 gene	5		DNA-binding transcription repressor activity, RNA polymerase II-specific			IBA	PTN001226166 	J:265628 	
+MGI:3037746	A530032D15Rik	RIKEN cDNA A530032D15Rik gene	1		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN002923949 	J:265628 	
+MGI:2443131	A630001G21Rik	RIKEN cDNA A630001G21 gene	1		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN002923949 	J:265628 	
+MGI:2444323	A630089N07Rik	RIKEN cDNA A630089N07 gene	16		DNA-binding transcription factor activity, RNA polymerase II-specific			IBA	PTN004701291 	J:265628 	
+MGI:2444323	A630089N07Rik	RIKEN cDNA A630089N07 gene	16		DNA-binding transcription repressor activity, RNA polymerase II-specific			IBA	PTN001226166 	J:265628 	
+MGI:2137706	Actn1	actinin, alpha 1	12		nuclear receptor coactivator activity			ISO	P12814 	J:164563 	
+MGI:109192	Actn2	actinin alpha 2	13		nuclear receptor coactivator activity			IDA		J:91335 	
+MGI:1890773	Actn4	actinin alpha 4	7		nuclear receptor coactivator activity			ISO	O43707 	J:164563 	
+MGI:1890773	Actn4	actinin alpha 4	7		transcription coactivator activity			ISO	O43707 	J:164563 	
+MGI:1338758	Adnp	activity-dependent neuroprotective protein	2		DNA-binding transcription factor activity, RNA polymerase II-specific			IDA		J:119141 	
+MGI:1197012	Aebp1	AE binding protein 1	11		DNA-binding transcription repressor activity, RNA polymerase II-specific			IBA	PTN002609584 	J:265628 	
+MGI:1197012	Aebp1	AE binding protein 1	11		DNA-binding transcription repressor activity, RNA polymerase II-specific			ISO	Q8IUX7 	J:164563 	
+MGI:1338038	Aebp2	AE binding protein 2	6		transcription coregulator activity			IDA		J:55019 	
+
