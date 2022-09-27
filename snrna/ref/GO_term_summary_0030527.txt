@@ -1,0 +1,61 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1913653	Asf1a	anti-silencing function 1A histone chaperone	10		structural constituent of chromatin			IEA	IPR006818 	J:72247 	
+MGI:1914179	Asf1b	anti-silencing function 1B histone chaperone	8		structural constituent of chromatin			IEA	IPR006818 	J:72247 	
+MGI:88375	Cenpa	centromere protein A	5		structural constituent of chromatin			IEA	IPR000164 	J:72247 	
+MGI:95893	H1f0	H1.0 linker histone	15		structural constituent of chromatin			IEA	IPR005819 	J:72247 	
+MGI:1931523	H1f1	H1.1 linker histone, cluster member	13		structural constituent of chromatin			IEA	IPR005819 	J:72247 	
+MGI:1931526	H1f2	H1.2 linker histone, cluster member	13		structural constituent of chromatin			IMP	MGI:2665852 	J:83954 	
+MGI:107502	H1f3	H1.3 linker histone, cluster member	13		structural constituent of chromatin			IMP	MGI:2666743 	J:83954 	
+MGI:1931527	H1f4	H1.4 linker histone, cluster member	13		structural constituent of chromatin			IMP	MGI:2665857 	J:83954 	
+MGI:1861461	H1f5	H1.5 linker histone, cluster member	13		structural constituent of chromatin			IEA	IPR005819 	J:72247 	
+MGI:1888530	H1f6	H1.6 linker histone, cluster member	13		structural constituent of chromatin			IEA	IPR005819 	J:72247 	
+MGI:2176207	H1f8	H1.8 linker histone	6		structural constituent of chromatin			IDA		J:207809 	
+MGI:2448309	H2ac10	H2A clustered histone 10	13		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:2448295	H2ac12	H2A clustered histone 12	13		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:2448297	H2ac15	H2A clustered histone 15	13		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:2448316	H2ac20	H2A clustered histone 20	3		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:2448314	H2ac21	H2A clustered histone 21	3		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:2448458	H2ac25	H2A clustered histone 25	11		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3606192	H2aj	H2J.A histone	6		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3714114	H2al1a	H2A histone family member L1A	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3711280	H2al1c	H2A histone family member L1C	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3710419	H2al1d	H2A histone family member L1D	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3649874	H2al1f	H2A histone family member L1F	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3710577	H2al1g	H2A histone family member L1G	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3711282	H2al1h	H2A histone family member L1H	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:3710416	H2al1i	H2A histone family member L1I	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:1915481	H2al2a	H2A histone family member L2A	2		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:1914584	H2ap	H2A.P  histone	X		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:102688	H2ax	H2A.X variant histone	9		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:1888388	H2az1	H2A.Z variant histone 1	3		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:1924855	H2az2	H2A.Z histone variant 2	11		structural constituent of chromatin			IEA	IPR002119 	J:72247 	
+MGI:2448375	H2bc1	H2B clustered histone 1	13		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:2448377	H2bc3	H2B clustered histone 3	13		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:2448387	H2bc9	H2B clustered histone 9	13		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:2448399	H2bc12	H2B clustered histone 12	13		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:2448404	H2bc14	H2B clustered histone 14	13		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:2448415	H2bc21	H2B clustered histone 21	3		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:2448409	H2bc22	H2B clustered histone 22	13		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:1925553	H2bc27	H2B clustered histone 27	11		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:1916632	H2bl1	H2B.L histone variant 1	13		structural constituent of chromatin			IEA	IPR000558 	J:72247 	
+MGI:1097686	H3f3a	H3.3 histone A	1		structural constituent of chromatin			ISO	P84243 	J:164563 	
+MGI:1101768	H3f3b	H3.3 histone B	11		structural constituent of chromatin			ISO	P84243 	J:164563 	
+MGI:2448419	H4c1	H4 clustered histone 1	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448420	H4c2	H4 clustered histone 2	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448421	H4c3	H4 clustered histone 3	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448423	H4c4	H4 clustered histone 4	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448425	H4c6	H4 clustered histone 6	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448427	H4c8	H4 clustered histone 8	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448432	H4c9	H4 clustered histone 9	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448436	H4c11	H4 clustered histone 11	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448439	H4c12	H4 clustered histone 12	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2140113	H4c14	H4 clustered histone 14	3		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448443	H4c16	H4 histone 16	6		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:2448441	H4c17	H4 clustered histone 17	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:4843992	H4c18	H4 clustered histone 18	13		structural constituent of chromatin			ISO	P62805 	J:164563 	
+MGI:96160	Hmga1	high mobility group AT-hook 1	17		structural constituent of chromatin	uses UniProtKB:Q00724,happens in nucleus		TAS		J:222150 	
+MGI:109369	Hp1bp3	heterochromatin protein 1, binding protein 3	4		structural constituent of chromatin			IEA	IPR005819 	J:72247 	
+MGI:1919250	Lmntd2	lamin tail domain containing 2	7		structural constituent of chromatin			IBA	PTN000461324 	J:265628 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		structural constituent of chromatin			IEA	IPR002119 IPR021171 	J:72247 	
+MGI:3037658	Macroh2a2	macroH2A.2 histone	10		structural constituent of chromatin			IEA	IPR002119 IPR021171 	J:72247 	
+

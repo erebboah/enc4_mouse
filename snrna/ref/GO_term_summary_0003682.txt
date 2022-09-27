@@ -448,10 +448,10 @@ MGI:1922816	Ing5	inhibitor of growth family, member 5	1		chromatin binding	uses 
 MGI:1859980	Insm1	insulinoma-associated 1	2		chromatin DNA binding			ISO	Q01101 	J:164563 	
 MGI:1859179	Irf3	interferon regulatory factor 3	7		promoter-specific chromatin binding	is a part of cellular response to virus,happens in macrophage,uses Il23a		IDA		J:141299 	
 MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	uses Neurod4,uses SO:0000165		IDA		J:174563 	
-MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Pou4f2		IDA		J:134978 	
-MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Pou4f1		IDA		J:134978 	
-MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Isl2		IDA		J:134978 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in EMAPA:17168,uses Pou4f2		IDA		J:134978 	
 MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,uses Shh		IDA		J:134978 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,happens in retina,uses Pou4f1		IDA		J:134978 	
+MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding	happens in retina,happens in retina,uses Isl2		IDA		J:134978 	
 MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		chromatin binding			IDA		J:158135 	
 MGI:101791	Isl1	ISL1 transcription factor, LIM/homeodomain	13		promoter-specific chromatin binding			IDA		J:239195 	
 MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13		chromatin binding			IDA		J:157630 J:157724 	
@@ -592,7 +592,7 @@ MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding	uses Cdkn2
 MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding	uses Hoxa9		IDA		J:105708 	
 MGI:1316736	Men1	multiple endocrine neoplasia 1	19		chromatin binding			ISO	RGD:3078 	J:155856 	
 MGI:103220	Meox1	mesenchyme homeobox 1	11		chromatin binding			IDA		J:89068 	
-MGI:2140270	Mexis	macrophage expressed LXRa(NR1H3)-dependent amplifier of Abca1 transcription lncRNA	4		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Abca1		IMP	MGI:6403491 	J:264834 	
+MGI:2140270	Mexis	macrophage expressed LXRa(NR1H3)-dependent amplifier of Abca1 transcription lncRNA	4		chromatin DNA binding	happens in macrophage,uses Abca1		IMP	MGI:6403491 	J:264834 	
 MGI:3718461	Mir208b	microRNA 208b	14		chromatin binding			IDA		J:211907 	
 MGI:104554	Mitf	melanogenesis associated transcription factor	6		chromatin binding	uses Dct		IDA		J:96431 	
 MGI:1859353	Mkrn1	makorin, ring finger protein, 1	6		chromatin binding			IDA		J:93510 	
@@ -619,7 +619,7 @@ MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Maml3		IDA		J:205649
 MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Notch1		IDA		J:205649 	
 MGI:1860483	Msgn1	mesogenin 1	12		chromatin binding	uses Notch2		IDA		J:205649 	
 MGI:101816	Msh2	mutS homolog 2	17		chromatin binding			ISO	P43246 	J:164563 	
-MGI:1343961	Msh6	mutS homolog 6	17		chromatin binding	happens in lymphocyte,happens in EMAPA:18767		IDA		J:110906 	
+MGI:1343961	Msh6	mutS homolog 6	17		chromatin binding	happens in lymphocyte,happens in spleen		IDA		J:110906 	
 MGI:1921276	Msl1	male specific lethal 1	11		chromatin binding			IBA	PTN001092398 	J:265628 	
 MGI:2150037	Mta1	metastasis associated 1	12		chromatin binding			IEA	IPR001025 	J:72247 	
 MGI:1346340	Mta2	metastasis-associated gene family, member 2	19		chromatin binding			IEA	IPR001025 	J:72247 	
@@ -677,7 +677,7 @@ MGI:108056	Nfia	nuclear factor I/A	4		chromatin binding	happens in cerebellar gr
 MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	happens in diaphragm,uses Ankrd2		IDA		J:163557 	
 MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	happens in myoblast,uses Gsk3b		IDA		J:214867 	
 MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	happens in myoblast,uses Ankrd2		IDA		J:214867 	
-MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	uses Capn1,is a part of mammary gland involution,happens in mammary gland		IDA		J:204792 	
+MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	is a part of mammary gland involution,happens in mammary gland,uses Capn1		IDA		J:204792 	
 MGI:97312	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	3		chromatin binding	is a part of mammary gland involution,happens in mammary gland,uses Capn2		IDA		J:204792 	
 MGI:1913976	Nipbl	NIPBL cohesin loading factor	15		chromatin binding			IBA	PTN000496017 	J:265628 	
 MGI:1913976	Nipbl	NIPBL cohesin loading factor	15		chromatin binding	happens in embryonic stem cell,uses Pou5f1		IDA		J:164442 	
@@ -704,8 +704,8 @@ MGI:106184	Npm1	nucleophosmin 1	11		chromatin binding			IBA	PTN001100765 	J:2656
 MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin binding			IBA	PTN001100765 	J:265628 	
 MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		chromatin binding			IDA		J:202816 	
 MGI:894653	Npm3	nucleoplasmin 3	19		chromatin binding			IBA	PTN001100765 	J:265628 	
-MGI:1352463	Nr1h2	nuclear receptor subfamily 1, group H, member 2	7		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Mexis		IDA		J:264834 	
-MGI:1352462	Nr1h3	nuclear receptor subfamily 1, group H, member 3	2		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Abca1		IMP	MGI:2181380 	J:264834 	
+MGI:1352463	Nr1h2	nuclear receptor subfamily 1, group H, member 2	7		chromatin DNA binding	happens in macrophage,uses Mexis		IDA		J:264834 	
+MGI:1352462	Nr1h3	nuclear receptor subfamily 1, group H, member 3	2		chromatin DNA binding	happens in macrophage,uses Abca1		IMP	MGI:2181380 	J:264834 	
 MGI:95824	Nr3c1	nuclear receptor subfamily 3, group C, member 1	18		chromatin binding			ISO	RGD:2741 	J:155856 	
 MGI:1346833	Nr5a1	nuclear receptor subfamily 5, group A, member 1	2		chromatin binding	uses Mc2r		IDA		J:104056 	
 MGI:1346833	Nr5a1	nuclear receptor subfamily 5, group A, member 1	2		chromatin binding			IDA		J:222150 	
@@ -739,9 +739,9 @@ MGI:1341112	Parp2	poly (ADP-ribose) polymerase family, member 2	14		nucleosome b
 MGI:1891832	Patz1	POZ (BTB) and AT hook containing zinc finger 1	11		chromatin binding	uses Ce2		IDA		J:112614 	
 MGI:5543919	Paupar	Pax6 upstream antisense RNA	2		chromatin binding			IDA		J:206724 	
 MGI:97487	Pax3	paired box 3	1		chromatin binding			IDA		J:96431 	
-MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neuronal stem cell,uses Tle1		IDA		J:197144 	
-MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neuronal stem cell,uses Eomes		IDA		J:197144 	
-MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neuronal stem cell,uses Cyp17a1		IDA		J:197144 	
+MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neural stem cell,uses Tle1		IDA		J:197144 	
+MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neural stem cell,uses Eomes		IDA		J:197144 	
+MGI:97490	Pax6	paired box 6	2		chromatin binding	happens in neural stem cell,uses Cyp17a1		IDA		J:197144 	
 MGI:97490	Pax6	paired box 6	2		chromatin binding			IDA		J:145977 J:206724 	
 MGI:97490	Pax6	paired box 6	2		chromatin DNA binding	happens in neocortex,uses Eomes,uses Pax6		IDA		J:266522 	
 MGI:1923998	Pbrm1	polybromo 1	14		chromatin binding			IBA	PTN004488270 	J:265628 	
@@ -809,9 +809,9 @@ MGI:101898	Pou2f1	POU domain, class 2, transcription factor 1	1		chromatin bindi
 MGI:101898	Pou2f1	POU domain, class 2, transcription factor 1	1		chromatin binding			ISO	RGD:621689 	J:155856 	
 MGI:102525	Pou4f1	POU domain, class 4, transcription factor 1	14		chromatin binding			IGI	P70425 	J:233585 	
 MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	uses Ebf3		IDA		J:164295 	
-MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in EMAPA:17168,uses Pou4f2		IDA		J:134978 	
-MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in EMAPA:17168,uses Pou4f1		IDA		J:134978 	
-MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in EMAPA:17168,uses Isl2		IDA		J:134978 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in retina,uses Pou4f2		IDA		J:134978 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in retina,uses Pou4f1		IDA		J:134978 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in retina,uses Isl2		IDA		J:134978 	
 MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		chromatin binding	happens in retina,uses Shh		IDA		J:134978 	
 MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		promoter-specific chromatin binding			IDA		J:239195 J:239207 	
 MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		chromatin binding	uses Pou5f1		IDA		J:99361 	
@@ -921,9 +921,9 @@ MGI:99829	Runx2	runt related transcription factor 2	17		chromatin binding	uses B
 MGI:99829	Runx2	runt related transcription factor 2	17		chromatin binding			IDA		J:94631 	
 MGI:99829	Runx2	runt related transcription factor 2	17		chromatin DNA binding	is a part of response to L-ascorbic acid		IDA		J:178159 	
 MGI:1342299	Ruvbl2	RuvB-like protein 2	7		chromatin DNA binding			ISO	Q9Y230 	J:164563 	
-MGI:98214	Rxra	retinoid X receptor alpha	2		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Mexis		IDA		J:264834 	
+MGI:98214	Rxra	retinoid X receptor alpha	2		chromatin DNA binding	happens in macrophage,uses Mexis		IDA		J:264834 	
 MGI:98214	Rxra	retinoid X receptor alpha	2		chromatin DNA binding			IDA		J:130306 	
-MGI:98215	Rxrb	retinoid X receptor beta	17		chromatin DNA binding	happens in macrophage,happens in macrophage,uses Mexis		IDA		J:264834 	
+MGI:98215	Rxrb	retinoid X receptor beta	17		chromatin DNA binding	happens in macrophage,uses Mexis		IDA		J:264834 	
 MGI:2146974	Safb	scaffold attachment factor B	17		chromatin binding			IDA		J:175140 	
 MGI:1889585	Sall1	spalt like transcription factor 1	8		chromatin binding	uses Kif26b		IDA		J:160285 	
 MGI:2142433	Samd1	sterile alpha motif domain containing 1	8		chromatin binding			IBA	PTN002284114 	J:265628 	
@@ -997,9 +997,9 @@ MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator 
 MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		nucleosome binding			IEA	IPR015194 IPR036306 	J:72247 	
 MGI:95453	Smarcad1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	6		chromatin binding			IBA	PTN000743674 	J:265628 	
 MGI:1203524	Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	9		chromatin binding	uses Srebf1		IDA		J:117710 	
-MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neuronal stem cell,uses Tle1		IDA		J:197141 	
-MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neuronal stem cell,uses Eomes		IDA		J:197141 	
-MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neuronal stem cell,uses Cux1		IDA		J:197141 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neural stem cell,uses Tle1		IDA		J:197141 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	uses Eomes,happens in neural stem cell		IDA		J:197141 	
+MGI:1915344	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	10		chromatin binding	happens in neural stem cell,uses Cux1		IDA		J:197141 	
 MGI:1933623	Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	15		chromatin binding			ISO	RGD:1305406 	J:155856 	
 MGI:1914243	Smarcd3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	5		chromatin binding			ISO	RGD:1311869 	J:155856 	
 MGI:1344345	Smc1a	structural maintenance of chromosomes 1A	X		chromatin binding	happens in embryonic stem cell,uses Pou5f1		IDA		J:164442 	

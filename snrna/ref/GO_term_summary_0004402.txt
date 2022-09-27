@@ -29,6 +29,8 @@ MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone acetyltransferase a
 MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3 acetyltransferase activity			IBA	PTN000720593 	J:265628 	
 MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3 acetyltransferase activity			IDA		J:121357 	
 MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3 acetyltransferase activity			ISO	Q92830 	J:164563 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3K18 acetyltransferase activity			IDA		J:121357 	
+MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H3K9 acetyltransferase activity			IDA		J:121357 	
 MGI:1343101	Kat2a	K(lysine) acetyltransferase 2A	11		histone H4K12 acetyltransferase activity			IDA		J:121357 	
 MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		histone acetyltransferase activity			IDA		J:57302 J:99401 	
 MGI:1343094	Kat2b	K(lysine) acetyltransferase 2B	17		histone acetyltransferase activity			ISO	Q92831 	J:164563 	
@@ -42,6 +44,7 @@ MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		histone H4K16 acetyltransfera
 MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone acetyltransferase activity			IBA	PTN004172615 	J:265628 	
 MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone acetyltransferase activity			ISO	Q92794 	J:164563 	
 MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone H3 acetyltransferase activity			ISO	Q92794 	J:164563 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone H3K9 acetyltransferase activity			IMP	MGI:4418468 	J:188772 	
 MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		histone H4 acetyltransferase activity			ISO	Q92794 	J:164563 	
 MGI:1858746	Kat6b	K(lysine) acetyltransferase 6B	14		histone acetyltransferase activity			IBA	PTN004172615 	J:265628 	
 MGI:1858746	Kat6b	K(lysine) acetyltransferase 6B	14		histone acetyltransferase activity			IDA		J:62161 	
@@ -79,7 +82,4 @@ MGI:1276535	Ncoa3	nuclear receptor coactivator 3	2		histone acetyltransferase ac
 MGI:1932139	Oga	O-GlcNAcase	19		histone acetyltransferase activity			ISO	RGD:621077 	J:155856 	
 MGI:2144471	Tada2a	transcriptional adaptor 2A	11	contributes_to	histone acetyltransferase activity			ISO	O75478 	J:164563 	
 MGI:1336878	Taf1	TATA-box binding protein associated factor 1	X		histone acetyltransferase activity			IDA		J:149201 	
-MGI:1888697	Taf9	TATA-box binding protein associated factor 9	13	contributes_to	histone acetyltransferase activity			ISO	Q16594 	J:164563 	
-MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7	contributes_to	histone acetyltransferase activity			ISO	Q12962 	J:164563 	
-MGI:2144157	Usp22	ubiquitin specific peptidase 22	11	contributes_to	histone H4 acetyltransferase activity			ISO	Q9UPT9 	J:164563 	
 

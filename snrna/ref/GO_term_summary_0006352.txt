@@ -211,7 +211,7 @@ MGI:1888697	Taf9	TATA-box binding protein associated factor 9	13		RNA polymerase
 MGI:3039562	Taf9b	TATA-box binding protein associated factor 9B	X		DNA-templated transcription initiation			IEA	IPR003162 	J:72247 	
 MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		DNA-templated transcription initiation			ISO	Q12962 	J:164563 	
 MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		positive regulation of transcription initiation by RNA polymerase II			ISO	Q12962 	J:164563 	
-MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		RNA polymerase II preinitiation complex assembly	happens in embryo,happens in embryo		IMP	MGI:3606185 	J:245730 	
+MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		RNA polymerase II preinitiation complex assembly	happens in EMAPA:16039		IMP	MGI:3606185 	J:245730 	
 MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		RNA polymerase II preinitiation complex assembly			ISO	Q12962 	J:164563 	
 MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		transcription initiation at RNA polymerase II promoter			IBA	PTN000478466 	J:265628 	
 MGI:1346320	Taf10	TATA-box binding protein associated factor 10	7		transcription initiation at RNA polymerase II promoter			ISO	Q12962 	J:164563 	

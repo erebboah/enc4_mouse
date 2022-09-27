@@ -45,8 +45,11 @@ MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13	NOT|contributes_to	hi
 MGI:104813	Jarid2	jumonji, AT rich interactive domain 2	13	contributes_to	histone H3K27 methyltransferase activity			IDA		J:157724 	
 MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			IBA	PTN002911713 	J:265628 	
 MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			IDA		J:80575 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			IMP	MGI:3839794 	J:221335 	
+MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			IMP		J:109102 	
 MGI:96995	Kmt2a	lysine (K)-specific methyltransferase 2A	9		histone H3K4 methyltransferase activity			ISO	Q03164 	J:164563 	
 MGI:109565	Kmt2b	lysine (K)-specific methyltransferase 2B	7		histone H3K4 methyltransferase activity			IBA	PTN002911713 	J:265628 	
+MGI:109565	Kmt2b	lysine (K)-specific methyltransferase 2B	7		histone H3K4 methyltransferase activity			IMP	MGI:3056522 MGI:3623309 	J:166778 	
 MGI:109565	Kmt2b	lysine (K)-specific methyltransferase 2B	7		histone H3K4 methyltransferase activity			ISO	Q9UMN6 	J:123598 	
 MGI:2444959	Kmt2c	lysine (K)-specific methyltransferase 2C	5		histone H3K4 methyltransferase activity			IBA	PTN002505160 	J:265628 	
 MGI:2444959	Kmt2c	lysine (K)-specific methyltransferase 2C	5		histone H3K4 methyltransferase activity			ISO	Q8NEZ4 	J:123598 	
@@ -60,7 +63,7 @@ MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		histone H4K20 methyltransferas
 MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		histone H4K20 methyltransferase activity			ISO	Q4FZB7 	J:164563 	
 MGI:2444557	Kmt5b	lysine methyltransferase 5B	19		histone lysine N-methyltransferase activity			ISO	Q4FZB7 	J:164563 	
 MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		histone H4K20 methyltransferase activity			IBA	PTN000312154 	J:265628 	
-MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		histone H4K20 methyltransferase activity			IDA		J:90491 	
+MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		histone H4K20 methyltransferase activity			IDA		J:90491 J:223575 	
 MGI:2385262	Kmt5c	lysine methyltransferase 5C	7		histone H4K20 methyltransferase activity			ISO	Q86Y97 	J:164563 	
 MGI:95457	Mecom	MDS1 and EVI1 complex locus	3		histone H3K9 methyltransferase activity			IDA		J:269562 	
 MGI:1921569	Mettl23	methyltransferase like 23	11		histone H3R17 methyltransferase activity			IDA		J:254851 	
@@ -169,7 +172,4 @@ MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone H3K9 methyltransf
 MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone H3K9 methyltransferase activity			ISO	Q9H5I1 	J:164563 	
 MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone lysine N-methyltransferase activity			IDA		J:75203 	
 MGI:1890396	Suv39h2	suppressor of variegation 3-9 2	2		histone lysine N-methyltransferase activity			IGI	MGI:1099440 	J:196057 	
-MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		histone methyltransferase activity			ISO	Q15022 	J:73065 	
-MGI:2155884	Wdr5	WD repeat domain 5	2	contributes_to	histone H3K4 methyltransferase activity			ISO	P61964 	J:164563 	
-MGI:1924555	Wdr82	WD repeat domain containing 82	9	contributes_to	histone H3K4 methyltransferase activity			ISO	Q6UXN9 	J:164563 	
 

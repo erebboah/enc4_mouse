@@ -12,7 +12,8 @@ MGI:1858910	Jmjd6	jumonji domain containing 6	11		histone H3R3 demethylase activ
 MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		FAD-dependent H3K4me/H3K4me3 demethylase activity			IDA		J:211358 	
 MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		FAD-dependent H3K4me/H3K4me3 demethylase activity			ISO	O60341 	J:164563 	
 MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		histone demethylase activity			ISO	O60341 	J:164563 	
-MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		histone H3K4 demethylase activity			ISO	O60341 	J:164563 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		histone H3K4 demethylase activity			IMP		J:208295 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		histone H3K4 demethylase activity			ISO	O60341 	J:164563 J:208295 	
 MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		histone H3K9 demethylase activity			ISO	O60341 	J:164563 	
 MGI:2145261	Kdm1b	lysine (K)-specific demethylase 1B	13		FAD-dependent H3K4me/H3K4me3 demethylase activity			IDA		J:151192 J:152382 	
 MGI:2145261	Kdm1b	lysine (K)-specific demethylase 1B	13		FAD-dependent H3K4me/H3K4me3 demethylase activity			ISO	Q8NB78 	J:164563 	
@@ -23,9 +24,13 @@ MGI:1354736	Kdm2a	lysine (K)-specific demethylase 2A	19		histone H3K36 demethyla
 MGI:1354736	Kdm2a	lysine (K)-specific demethylase 2A	19		histone H3K36me/H3K36me2 demethylase activity			IEA	1.14.11.27 	J:72245 	
 MGI:1354737	Kdm2b	lysine (K)-specific demethylase 2B	5		histone demethylase activity			IBA	PTN000564171 	J:265628 	
 MGI:1354737	Kdm2b	lysine (K)-specific demethylase 2B	5		histone demethylase activity			TAS		J:171291 	
+MGI:1354737	Kdm2b	lysine (K)-specific demethylase 2B	5		histone H3K36 demethylase activity			IDA		J:186946 	
 MGI:1354737	Kdm2b	lysine (K)-specific demethylase 2B	5		histone H3K36 demethylase activity			ISO	Q8NHM5 	J:164563 	
 MGI:1354737	Kdm2b	lysine (K)-specific demethylase 2B	5		histone H3K36me/H3K36me2 demethylase activity			IEA	1.14.11.27 	J:72245 	
 MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		histone H3K9 demethylase activity			IBA	PTN000284569 	J:265628 	
+MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		histone H3K9 demethylase activity			IDA		J:142786 	
+MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		histone H3K9 demethylase activity	happens in spermatid		IMP	MGI:3764891 	J:127121 	
+MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		histone H3K9 demethylase activity			IMP		J:125698 J:142786 	
 MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		histone H3K9 demethylase activity			ISO	Q9Y4C1 	J:164563 	
 MGI:98847	Kdm3a	lysine (K)-specific demethylase 3A	6		histone H3K9me/H3K9me2 demethylase activity			ISO	Q9Y4C1 	J:164563 	
 MGI:1923356	Kdm3b	KDM3B lysine (K)-specific demethylase 3B	18		histone H3K9 demethylase activity			IBA	PTN000284569 	J:265628 	
@@ -36,13 +41,17 @@ MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		histone H3K36 demethylas
 MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		histone H3K36 demethylase activity			ISO	O75164 	J:164563 	
 MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		histone H3K36me2/H3K36me3 demethylase activity			IEA	1.14.11.69 	J:72245 	
 MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		histone H3K9 demethylase activity			IBA	PTN000075207 	J:265628 	
+MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		histone H3K9 demethylase activity			IDA		J:109728 	
 MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		histone H3K9 demethylase activity			ISO	O75164 	J:164563 	
 MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		histone H3K9me2/H3K9me3 demethylase activity			IEA	1.14.11.66 	J:72245 	
 MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone demethylase activity			IBA	PTN000075014 	J:265628 	
 MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone demethylase activity			IDA		J:148615 	
+MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K36 demethylase activity			IDA		J:109728 	
+MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K36 demethylase activity			IMP		J:109728 	
 MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K36 demethylase activity			ISO	O94953 	J:164563 	
 MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K9 demethylase activity			IBA	PTN000075207 	J:265628 	
 MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K9 demethylase activity			IDA		J:109728 	
+MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K9 demethylase activity			IMP		J:109728 	
 MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K9 demethylase activity			ISO	O94953 	J:164563 	
 MGI:2442355	Kdm4b	lysine (K)-specific demethylase 4B	17		histone H3K9me2/H3K9me3 demethylase activity			IEA	1.14.11.66 	J:72245 	
 MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone demethylase activity			IBA	PTN000075014 	J:265628 	
@@ -51,16 +60,21 @@ MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone demethylase acti
 MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone H3K36 demethylase activity			IBA	PTN000075207 	J:265628 	
 MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone H3K36 demethylase activity			ISO	Q9H3R0 	J:164563 	
 MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone H3K9 demethylase activity			IBA	PTN000075207 	J:265628 	
+MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone H3K9 demethylase activity			IDA		J:109728 	
+MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone H3K9 demethylase activity			IMP		J:125698 	
 MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone H3K9 demethylase activity			ISO	Q9H3R0 	J:164563 	
 MGI:1924054	Kdm4c	lysine (K)-specific demethylase 4C	4		histone H3K9me2/H3K9me3 demethylase activity			IEA	1.14.11.66 	J:72245 	
 MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone demethylase activity			IBA	PTN000075014 	J:265628 	
 MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone demethylase activity			IDA		J:148615 	
 MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone H3K9 demethylase activity			IBA	PTN000075207 	J:265628 	
+MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone H3K9 demethylase activity			IDA		J:109728 	
+MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone H3K9 demethylase activity			IMP	MGI:5051955 	J:173703 	
 MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone H3K9 demethylase activity			IMP		J:206795 	
 MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone H3K9 demethylase activity			ISO	Q6B0I6 	J:164563 	
 MGI:3606484	Kdm4d	lysine (K)-specific demethylase 4D	9		histone H3K9me2/H3K9me3 demethylase activity			IEA	1.14.11.66 	J:72245 	
 MGI:3644125	Kdm4dl	lysine (K)-specific demethylase 4D-like	9		histone demethylase activity			IDA		J:196057 	
 MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		histone demethylase activity			IBA	PTN000075014 	J:265628 	
+MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		histone H3K4 demethylase activity			IMP		J:134766 	
 MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		histone H3K4me/H3K4me2/H3K4me3 demethylase activity			IBA	PTN000075015 	J:265628 	
 MGI:2136980	Kdm5a	lysine (K)-specific demethylase 5A	6		histone H3K4me/H3K4me2/H3K4me3 demethylase activity			ISO	P29375 	J:164563 	
 MGI:1922855	Kdm5b	lysine (K)-specific demethylase 5B	1		histone demethylase activity			IBA	PTN000075014 	J:265628 	
@@ -79,6 +93,7 @@ MGI:1095419	Kdm6a	lysine (K)-specific demethylase 6A	X		histone H3K27me2/H3K27me
 MGI:1095419	Kdm6a	lysine (K)-specific demethylase 6A	X		histone H3K27me2/H3K27me3 demethylase activity			IDA		J:190157 	
 MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		histone H3K27me2/H3K27me3 demethylase activity			IBA	PTN000361193 	J:265628 	
 MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		histone H3K27me2/H3K27me3 demethylase activity			IDA		J:211228 	
+MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		histone H3K27me2/H3K27me3 demethylase activity			IMP		J:127720 J:139680 	
 MGI:2448492	Kdm6b	KDM1 lysine (K)-specific demethylase 6B	11		histone H3K27me2/H3K27me3 demethylase activity			ISO	O15054 	J:164563 	
 MGI:2443388	Kdm7a	lysine (K)-specific demethylase 7A	6		histone demethylase activity			IBA	PTN000564171 	J:265628 	
 MGI:2443388	Kdm7a	lysine (K)-specific demethylase 7A	6		histone H3K27me2/H3K27me3 demethylase activity			IMP		J:157904 	
@@ -97,19 +112,4 @@ MGI:1338034	Phf2	PHD finger protein 2	13		histone H4K20 demethylase activity			I
 MGI:2444341	Phf8	PHD finger protein 8	X		histone demethylase activity			IBA	PTN000564171 	J:265628 	
 MGI:2444341	Phf8	PHD finger protein 8	X		histone demethylase activity			ISO	Q9UPP1 	J:164563 	
 MGI:2444341	Phf8	PHD finger protein 8	X		histone H3K27me2/H3K27me3 demethylase activity			ISO	Q9UPP1 	J:164563 	
-MGI:2444341	Phf8	PHD finger protein 8	X		histone H3K36 demethylase activity			ISO	Q9UPP1 	J:164563 	
-MGI:2444341	Phf8	PHD finger protein 8	X		histone H3K36me/H3K36me2 demethylase activity			IEA	1.14.11.27 	J:72245 	
-MGI:2444341	Phf8	PHD finger protein 8	X		histone H3K9 demethylase activity			ISO	Q9UPP1 	J:164563 	
-MGI:2444341	Phf8	PHD finger protein 8	X		histone H3K9me/H3K9me2 demethylase activity			IEA	1.14.11.65 	J:72245 	
-MGI:2444341	Phf8	PHD finger protein 8	X		histone H4K20 demethylase activity			ISO	Q9UPP1 	J:164563 	
-MGI:1919202	Riox1	ribosomal oxygenase 1	12		histone H3K36 demethylase activity			IBA	PTN000318179 	J:265628 	
-MGI:1919202	Riox1	ribosomal oxygenase 1	12		histone H3K36 demethylase activity			IDA		J:156025 	
-MGI:1919202	Riox1	ribosomal oxygenase 1	12		histone H3K36me/H3K36me2 demethylase activity			IEA	1.14.11.27 	J:72245 	
-MGI:1919202	Riox1	ribosomal oxygenase 1	12		histone H3K4 demethylase activity			IBA	PTN000318179 	J:265628 	
-MGI:1919202	Riox1	ribosomal oxygenase 1	12		histone H3K4me/H3K4me2/H3K4me3 demethylase activity			IDA		J:156025 	
-MGI:1914264	Riox2	ribosomal oxygenase 2	16		histone H3K36 demethylase activity			IBA	PTN000318179 	J:265628 	
-MGI:1914264	Riox2	ribosomal oxygenase 2	16		histone H3K4 demethylase activity			IBA	PTN000318179 	J:265628 	
-MGI:2444993	Rsbn1	rosbin, round spermatid basic protein 1	3		histone H4K20 demethylase activity			IDA		J:320405 	
-MGI:894810	Uty	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	Y		histone H3K27me2/H3K27me3 demethylase activity			IBA	PTN000361193 	J:265628 	
-MGI:894810	Uty	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	Y		histone H3K36 demethylase activity			IMP		J:180125 	
 
