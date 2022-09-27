@@ -53,7 +53,14 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 5. Check prediction results in [HT_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HT_snRNA.ipynb) and make adjustments.
 6. Find marker genes for `gen_celltype`, `celltypes`, and `subtypes` and save in `snrna/seurat/markers`.
 
-#### Gastrocnemius: In progress
+#### Gastrocnemius
+1. Run integration R script with [integrate_gastroc.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/integrate_gastroc.sh). 
+2. Check integration results and clustering resolution in [GC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/GC_snRNA.ipynb).
+3. [predict_gastroc_celltypes.R](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snrna/scripts/predict_gastroc_celltypes.R) uses external dataset from TA muscle to predict celltypes:
+    - [PND10, PND21, PNM 05](https://www.synapse.org/#!Synapse:syn21676145/files/) and associated [paper](https://www.nature.com/articles/s41467-020-20063-w5)
+5. Check prediction results in [GC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/GC_snRNA.ipynb) and make adjustments.
+6. Find marker genes for `gen_celltype`, `celltypes`, and `subtypes` and save in `snrna/seurat/markers`.
+
 #### C2C12: In progress
 
 ## snATAC-seq
