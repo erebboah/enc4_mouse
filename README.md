@@ -60,6 +60,10 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 #### C2C12
 1. Add metadata from paper in [C2C12_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/C2C12_snRNA.ipynb).
 
+### Regulatory gene list
+1. Correlate miRNA expression to host gene expression: [miRNA_hostGene_correlation.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/miRNA_hostGene_correlation.ipynb)
+2. Download and concatenate GO terms:
+3. Make regulatory gene "display table": 
 
 ## snATAC-seq
 [step1_atac_archr.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/step1_atac_archr.sh) does the following:
