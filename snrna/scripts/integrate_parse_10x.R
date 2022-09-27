@@ -6,7 +6,7 @@ library(glmGamPoi)
 library(RColorBrewer)
 library(optparse)
 library(stringr)
-options(future.globals.maxSize = 16000 * 1024^2)
+options(future.globals.maxSize = 18000 * 1024^2)
 
 
 option_list = list(
@@ -18,148 +18,23 @@ tissue = opt$tissue
 
 
 setwd("../../snrna/")
-meta = read.delim("ref/enc4_mouse_snrna_metadata.tsv")
 
-# Functions
-# read in sparse matrix and assign row and column names
-get_counts = function(batch){
-    counts = readMM(paste0("scrublet/",batch,"_matrix.mtx"))
-    barcodes = read.delim(paste0("scrublet/",batch,"_barcodes_scrublet.tsv"),header = F, 
-                          col.names=c("cellID","doublet_scores","doublets"))
-    
-    features = read.delim(paste0("scrublet/",batch,"_genes.tsv"),header = F) 
-    rownames(counts) = features$V1 
-    colnames(counts) = barcodes$cellID
-    out = counts
-}
-
-# read in associated metadata
-get_metadata = function(batch){
-    barcodes = read.delim(paste0("scrublet/",batch,"_barcodes_scrublet.tsv"),header = F, 
-                          col.names=c("cellID","doublet_scores","doublets"))
-    barcodes$library_accession = do.call("rbind", strsplit(barcodes$cellID, "[.]"))[,2]
-    barcodes = left_join(barcodes,meta,by = "library_accession")
-    out = barcodes
-}
-
-# merge the counts across experimental "batches"
-# for example we sequenced 2 Parse "deep" libraries that should be combined into 1 counts matrix
-# the technical batch effects between the standard and deep Parse libraries (and the Parse and 10x libraries) requires CCA integration
-
-merge_counts = function(batches_list){
-    matrix_list = list()
-    for (i in 1:length(batches_list)){
-        batch = batches_list[i]
-        matrix_list[[i]] = get_counts(batch)
-    }
-    
-    if (length(batches_list) < 2){
-       matrix = matrix_list[[1]] 
-       out = matrix
-    } else {
-        matrix = matrix_list[[1]]
-        for (j in 2:length(batches_list)){
-            matrix = RowMergeSparseMatrices(matrix,matrix_list[[j]])
-        }
-        out = matrix
-    }
-}
-
-# merge the metadata across experimental "batches"
-merge_metadata = function(batches_list){
-    meta_list = list()
-    for (i in 1:length(batches_list)){
-        batch = batches_list[i]
-        meta_list[[i]] = get_metadata(batch)
-    }
-    
-    if (length(batches_list) < 2){
-       meta = meta_list[[1]] 
-       out = meta
-    } else {
-        meta = meta_list[[1]]
-        for (j in 2:length(batches_list)){
-            meta = rbind(meta,meta_list[[j]])
-        }
-        out = meta
-    }
-}
-
-# make seurat object
-seurat_obj = function(counts,metadata){
-    obj = CreateSeuratObject(counts = counts, min.cells = 0, min.features = 0)
-    obj@meta.data = cbind(obj@meta.data,metadata)
-    obj[["percent.mt"]] = PercentageFeatureSet(obj, pattern = "^mt-")
-    obj[["percent.ribo"]] <- PercentageFeatureSet(obj, pattern = "^Rp[sl][[:digit:]]|^Rplp[[:digit:]]|^Rpsa")
-    out = obj
-}
-
-# Read in data
-#Use functions defined above to create 3 Seurat objects: Parse standard, Parse deep, and 10x. Also make sure to get associated metadata, which includes the QC filter information.
-
-meta = meta[meta$tissue == str_to_title(tissue),]
-
-# get the experimental batches for 10x, Parse standard, and Parse deep
-tenx_batches = unique(meta$experiment_batch[meta$technology == "10x"])
-
-parse_standard_batches = unique(meta$experiment_batch[meta$technology == "Parse" & 
-                                              meta$depth1 == "shallow"])
-
-parse_deep_batches = unique(meta$experiment_batch[meta$technology == "Parse" & 
-                                                  meta$depth1 == "deep"])
-
-
-tenx_counts = merge_counts(tenx_batches)
-tenx_meta = merge_metadata(tenx_batches)
-
-parse_standard_counts = merge_counts(parse_standard_batches)
-parse_standard_meta = merge_metadata(parse_standard_batches)
-
-parse_deep_counts = merge_counts(parse_deep_batches)
-parse_deep_meta = merge_metadata(parse_deep_batches)
-
-# Make Seurat objects
-
-obj_10x = seurat_obj(tenx_counts, 
-                     tenx_meta)
-
-obj_parse_standard = seurat_obj(parse_standard_counts, 
-                                parse_standard_meta)
-
-obj_parse_deep = seurat_obj(parse_deep_counts, 
-                            parse_deep_meta)
-
-
-# Filter
-#Use QC information in metadata to filter by # UMIs and # genes detected per nucleus as well as doublet scores and percent mitochondrial gene expression. 
-
-obj_10x <- subset(obj_10x, 
-                  subset = nCount_RNA > unique(obj_10x$lower_nCount_RNA) & 
-                  nCount_RNA < unique(obj_10x$upper_nCount_RNA)  & 
-                  nFeature_RNA > unique(obj_10x$lower_nFeature_RNA) & 
-                  doublet_scores < unique(obj_10x$upper_doublet_scores) & 
-                  percent.mt < unique(obj_10x$upper_percent.mt)) 
 
 # also filter 10x for nuclei passing filters in snATAC
 atac_metadata = read.csv("../snatac/ref/atac_metadata_all_tissues.csv")
 
+tissue = tolower(tissue)
+path = paste0("seurat/",str_to_lower(tissue),"_Parse_10x_integrated.rds")
+combined.sct = readRDS(path)
+
+obj_parse = subset(combined.sct, subset = technology == "Parse")
+obj_parse_standard = subset(obj_parse, subset = depth1  == "shallow")
+obj_parse_deep = subset(obj_parse, subset = depth1  == "deep")
+
+obj_10x = subset(combined.sct, subset = technology == "10x")
+
 obj_10x <- subset(obj_10x, subset = cellID %in% atac_metadata$cellID)
 
-obj_parse_standard <- subset(obj_parse_standard, 
-                            subset = nCount_RNA > unique(obj_parse_standard$lower_nCount_RNA) & 
-                            nCount_RNA < unique(obj_parse_standard$upper_nCount_RNA)  & 
-                            nFeature_RNA > unique(obj_parse_standard$lower_nFeature_RNA) & 
-                            doublet_scores < unique(obj_parse_standard$upper_doublet_scores) & 
-                            percent.mt < unique(obj_parse_standard$upper_percent.mt))
-
-obj_parse_deep <- subset(obj_parse_deep, 
-                         subset = nCount_RNA > unique(obj_parse_deep$lower_nCount_RNA) & 
-                         nCount_RNA < unique(obj_parse_deep$upper_nCount_RNA)  & 
-                         nFeature_RNA > unique(obj_parse_deep$lower_nFeature_RNA) & 
-                         doublet_scores < unique(obj_parse_deep$upper_doublet_scores) & 
-                         percent.mt < unique(obj_parse_deep$upper_percent.mt))
-
-             
 
 # SCT + CCA normalization and integration 
 #Use pretty standard Seurat pipeline to perform SCT normalization and integration. Create list of the 3 Seurat objects, use additional package to make SCT go faster, and save pre-integrated data in `seurat` folder. Use Parse standard Seurat object as reference dataset because it contains all timepoints, while 10x data only contains 2 timepoints.
