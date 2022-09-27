@@ -61,7 +61,9 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 5. Check prediction results in [GC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/GC_snRNA.ipynb) and make adjustments.
 6. Find marker genes for `gen_celltype`, `celltypes`, and `subtypes` and save in `snrna/seurat/markers`.
 
-#### C2C12: In progress
+#### C2C12
+1. Add metadata from paper in [C2C12_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/C2C12_snRNA.ipynb).
+
 
 ## snATAC-seq
 [step1_atac_archr.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/step1_atac_archr.sh) does the following:
