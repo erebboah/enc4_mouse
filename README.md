@@ -62,7 +62,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 
 ### Regulatory gene list
 1. Correlate miRNA expression to host gene expression: [miRNA_hostGene_correlation.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/miRNA_hostGene_correlation.ipynb)
-2. Download and concatenate GO terms:
+2. Download and concatenate GO terms: [Histone_regulators.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/Histone_regulators.ipynb)
 3. Make regulatory gene "display table": 
 
 ## snATAC-seq
