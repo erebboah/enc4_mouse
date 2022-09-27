@@ -11,6 +11,13 @@ setwd("../../snrna/")
 
 combined.sct = readRDS("seurat/gastrocnemius_Parse_10x_integrated.rds")
 
+# Adjusted UMAP function to increase cluster separation
+DefaultAssay(combined.sct) <- "integrated"
+combined.sct <- RunUMAP(combined.sct, reduction = "pca", spread = 2, dims = 1:30,verbose = F)
+combined.sct <- FindNeighbors(combined.sct, reduction = "pca", dims = 1:30,verbose = F)
+combined.sct <- FindClusters(combined.sct,resolution=2,verbose = F)
+
+
 p10 = readRDS("ref/external_data/p10.rds")
 p21 = readRDS("ref/external_data/p21.rds")
 mo5 = readRDS("ref/external_data/5mo.rds")
@@ -49,6 +56,6 @@ combined.sct <- AddMetaData(
     
 combined.sct$predictions = combined.sct$predicted.id
 
-saveRDS(combined.sct,file="seurat/gastroc_Parse_10x_integrated.rds")
+saveRDS(combined.sct,file="seurat/gastrocnemius_Parse_10x_integrated.rds")
 
 sessionInfo()

@@ -49,7 +49,7 @@ get_counts = function(file){
     features = read.delim(paste0(path,'features.tsv'),header = F) 
     rownames(counts) = features$V2 
     colnames(counts) = paste0(barcodes$barcode,".",metadata$library_accession) # append library accession to cell barcode
-    counts = counts[,colSums(counts) > 0] # > 0 UMI
+    counts = counts[,colSums(counts) > 500] # > 500 UMI
     counts = counts[rownames(counts) %in% gene_id_to_name$gene_name,]
     out = counts    
     } else {
@@ -60,7 +60,7 @@ get_counts = function(file){
     features = read.delim(paste0(path,'features.tsv'),header = F) 
     rownames(counts) = features$V2 
     colnames(counts) = paste0(barcodes$barcode,".",metadata$library_accession) # append library accession to cell barcode
-    counts = counts[,colSums(counts) > 0] # > 0 UMI
+    counts = counts[,colSums(counts) > 500] # > 500 UMI
     counts = counts[rownames(counts) %in% gene_id_to_name$gene_name,]
     out = counts
     }
