@@ -63,7 +63,8 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 ### Regulatory gene list
 1. Correlate miRNA expression to host gene expression: [miRNA_hostGene_correlation.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/miRNA_hostGene_correlation.ipynb)
 2. Download and concatenate GO terms: [Histone_regulators.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/Histone_regulators.ipynb)
-3. Make final regulatory gene "display table": 
+3. Make final regulatory gene "display table": [Regulatory_genes.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/Regulatory_genes.ipynb)
+4. Subset data on regulatory genes and merge across tissues: [snRNA_regulatory_subset.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/snRNA_regulatory_subset.ipynb)
 
 ## snATAC-seq
 [step1_atac_archr.sh](https://github.com/erebboah/ENC4_Mouse_SingleCell/blob/master/snatac/scripts/step1_atac_archr.sh) does the following:
