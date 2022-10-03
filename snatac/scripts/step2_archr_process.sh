@@ -10,4 +10,4 @@
 
 source ~/miniconda3/bin/activate hpc3sc
 
-Rscript make_archr_proj.R
+Rscript process_archr_proj.R
