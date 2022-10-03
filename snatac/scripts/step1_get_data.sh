@@ -8,17 +8,17 @@
 #SBATCH --error=atacdata-%J.err ## error log file
 #SBATCH --mem=128G
 
-#mkdir ../fragments/
+mkdir ../fragments/
 cd ../fragments/
 
-#xargs -L 1 curl -O -J -L < ../ref/encode_10x_fragment_files.txt
+xargs -L 1 curl -O -J -L < ../ref/encode_10x_fragment_files.txt
 
-#for f in *.tar.gz
-#do
-#	mkdir "${f%.tar.gz}"
-#	tar xf "$f" -C "${f%.tar.gz}"
-#	rm "$f"
-#done
+for f in *.tar.gz
+do
+	mkdir "${f%.tar.gz}"
+	tar xf "$f" -C "${f%.tar.gz}"
+	rm "$f"
+done
 
 cd ../scripts/
 source ~/miniconda3/bin/activate hpc3sc

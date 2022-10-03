@@ -6,7 +6,7 @@ addArchRThreads(16)
 addArchRGenome("mm10")
 library(tidyverse)
 
-setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/")
+setwd("../archr/")
 metadata = read.delim("../ref/enc4_mouse_snatac_metadata.tsv")
 
 # read in fragment files from ENCODE portal

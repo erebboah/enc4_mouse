@@ -6,13 +6,13 @@ addArchRThreads(16)
 addArchRGenome("mm10")
 library(tidyverse)
 
-setwd("/share/crsp/lab/seyedam/share/enc4_mouse/snatac/archr/")
+setwd("../archr/")
 
 proj = loadArchRProject(path = "ENC4_Mouse/")
 proj_meta = as.data.frame(proj@cellColData)
 
 metadata = read.delim("../ref/enc4_mouse_snatac_metadata.tsv")
-all_tissues_10x_rna_metadata = read.delim("/share/crsp/lab/seyedam/share/Heidi_Liz/all_mouse/all_tissues_10x_TFs_mirhgs_chromreg_metadata.tsv")
+all_tissues_10x_rna_metadata = read.csv("../../snrna/seurat/all_tissues_Parse_10x_TFs_mirhgs_chromreg_metadata.csv")
 
 print("how many ATAC cells passed RNA filters?")
 table(proj_meta$cellID %in% all_tissues_10x_rna_metadata$cellID)
@@ -39,7 +39,6 @@ proj = addClusters(proj, maxClusters = 40,
 proj = addUMAP(proj, reducedDims = "IterativeLSI", force = T)
 
 # add metadata from RNA cell type annotation
-all_tissues_10x_rna_metadata = read.delim("/share/crsp/lab/seyedam/share/Heidi_Liz/all_mouse/all_tissues_10x_TFs_mirhgs_chromreg_metadata.tsv")
 proj_meta = as.data.frame(proj@cellColData)
 proj_meta = dplyr::left_join(proj_meta, all_tissues_10x_rna_metadata) # merge by cellID and library accession
 
