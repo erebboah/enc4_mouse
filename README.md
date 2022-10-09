@@ -79,28 +79,28 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 ## Figure captions
 Text captions for figures included in figures tarball. Not all tissues have the same figures in `figures/snrna/annotation`.
 
-#### `figures/snatac/`
+### figures/snatac/
 - Plot-UMAP-Sample-Clusters.pdf: 4 snATAC UMAPs grouped by metadata: sample ID, tissue, timepoint (age of donor), and annotated celltypes.
-#### `figures/snrna/annotation`
+### figures/snrna/annotation
 - `UMAP_final_celltypes.pdf`: snRNA UMAP grouped by final annotated celltypes.
-- **UMAP_final_gen_celltype.pdf**: snRNA UMAP grouped by final annotated general celltype.
-- UMAP_final_subtypes.pdf: snRNA UMAP grouped by final annotated general subtypes.
-- UMAP_maximum_predictions.pdf: snRNA UMAP grouped by the maximum predicted celltype in each cluster.
-- UMAP_predictions.pdf: snRNA UMAP grouped by predicted celltypes, if using an external reference.
-- celltypes_marker_dotplot.pdf: Dot plot of cells grouped by annotated celltype showing average expression and percent of cells expressing selected marker genes.
-- cluster_marker_dotplot.pdf: Dot plot of cells grouped by cluster showing average expression and percent of cells expressing selected marker genes.
-- marker_featureplots.pdf: snRNA UMAP "feature plots" of selected marker genes.
-- subtypes_marker_dotplot.pdf: Dot plot of cells grouped by annotated subtypes showing average expression and percent of cells expressing selected marker genes.
-- timepoint_celltypes_proportions.pdf: Proportion of celltypes across postnatal development.
-#### `figures/snrna/clustering`
-- Parse_10x_experiment_distribution.pdf: snRNA UMAPs grouped by cluster and split by experiment (Parse standard/deep, 10x) to check integration results, also cluster-level experiment proportion barplot.
-- UMAP_Parse_10x.pdf: snRNA UMAP grouped by technology and cluster.
-- UMAP_cluster_sample_barplot.pdf: snRNA UMAP grouped by cluster and cluster-level sample proportion barplot.
-- age_sex_barplot.pdf: snRNA UMAP grouped by developmental timepoint and sex alongside cluster-level timepoint and sex proportion barplots. 
-#### `figures/snrna/qc`
-- experiment_kneeplots.pdf: Knee plots showing total # UMIs of ranked cells and red dashed line at 500 UMIs, grouped by snRNA experiment (label is counts matrix file accession). 
-- experiment_violinplots.pdf: Violin plots of # genes, # UMIs, percent mitochondrial, and percent ribosomal gene expression, grouped by sample and split by experiment (Parse standard/deep, 10x).
-- qc_featureplot.png: snRNA UMAP "feature plots" of # genes, # UMIs, percent mitochondrial and percent ribosomal gene expression, doublet score, and cell cycle G2M score.
+- `UMAP_final_gen_celltype.pdf`: snRNA UMAP grouped by final annotated general celltype.
+- `UMAP_final_subtypes.pdf`: snRNA UMAP grouped by final annotated general subtypes.
+- `UMAP_maximum_predictions.pdf`: snRNA UMAP grouped by the maximum predicted celltype in each cluster.
+- `UMAP_predictions.pdf`: snRNA UMAP grouped by predicted celltypes, if using an external reference.
+- `celltypes_marker_dotplot.pdf`: Dot plot of cells grouped by annotated celltype showing average expression and percent of cells expressing selected marker genes.
+- `cluster_marker_dotplot.pdf`: Dot plot of cells grouped by cluster showing average expression and percent of cells expressing selected marker genes.
+- `marker_featureplots.pdf`: snRNA UMAP "feature plots" of selected marker genes.
+- `subtypes_marker_dotplot.pdf`: Dot plot of cells grouped by annotated subtypes showing average expression and percent of cells expressing selected marker genes.
+- `timepoint_celltypes_proportions.pdf`: Proportion of celltypes across postnatal development.
+### figures/snrna/clustering
+- `Parse_10x_experiment_distribution.pdf`: snRNA UMAPs grouped by cluster and split by experiment (Parse standard/deep, 10x) to check integration results, also cluster-level experiment proportion barplot.
+- `UMAP_Parse_10x.pdf`: snRNA UMAP grouped by technology and cluster.
+- `UMAP_cluster_sample_barplot.pdf`: snRNA UMAP grouped by cluster and cluster-level sample proportion barplot.
+- `age_sex_barplot.pdf`: snRNA UMAP grouped by developmental timepoint and sex alongside cluster-level timepoint and sex proportion barplots. 
+### figures/snrna/qc
+- `experiment_kneeplots.pdf`: Knee plots showing total # UMIs of ranked cells and red dashed line at 500 UMIs, grouped by snRNA experiment (label is counts matrix file accession). 
+- `experiment_violinplots.pdf`: Violin plots of # genes, # UMIs, percent mitochondrial, and percent ribosomal gene expression, grouped by sample and split by experiment (Parse standard/deep, 10x).
+- `qc_featureplot.png`: snRNA UMAP "feature plots" of # genes, # UMIs, percent mitochondrial and percent ribosomal gene expression, doublet score, and cell cycle G2M score.
 
 ## Auxiliary data
 Auxiliary data tarball includes processed Seurat snRNA objects and Seurat object metadata as a csv file, Seurat cluster marker genes, and snATAC ArchR project folders (arrow files, rds files, and plots).
