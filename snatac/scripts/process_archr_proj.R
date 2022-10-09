@@ -12,7 +12,7 @@ proj = loadArchRProject(path = "ENC4_Mouse/")
 proj_meta = as.data.frame(proj@cellColData)
 
 metadata = read.delim("../ref/enc4_mouse_snatac_metadata.tsv")
-all_tissues_10x_rna_metadata = read.csv("../../snrna/seurat/all_tissues_Parse_10x_TFs_mirhgs_chromreg_metadata.csv")
+all_tissues_10x_rna_metadata = read.csv("../../snrna/seurat/all_tissues_Parse_10x_TFs_mirhgs_chromreg_metadata.csv",row.names = "X")
 
 print("how many ATAC cells passed RNA filters?")
 table(proj_meta$cellID %in% all_tissues_10x_rna_metadata$cellID)
@@ -40,7 +40,10 @@ proj = addUMAP(proj, reducedDims = "IterativeLSI", force = T)
 
 # add metadata from RNA cell type annotation
 proj_meta = as.data.frame(proj@cellColData)
-proj_meta = dplyr::left_join(proj_meta, all_tissues_10x_rna_metadata) # merge by cellID and library accession
+proj_meta = as.data.frame(proj_meta[,c("cellID")])
+colnames(proj_meta) = "cellID"
+proj_meta = dplyr::left_join(proj_meta, all_tissues_10x_rna_metadata, "cellID") # merge by cellID
+table(proj_meta$cellID == proj$cellID) # sanity check
 
 # add RNA metadata to ATAC
 proj$technology= proj_meta$technology

@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --job-name=archrprok  ## Name of the job
-#SBATCH -A SEYEDAM_LAB            ## account to charge 
+#SBATCH --job-name=archrproj  ## Name of the job
+#SBATCH -A cosmos2022            ## account to charge 
 #SBATCH -p standard               ## partition/queue name
 #SBATCH --nodes=1                 ## (-N) number of nodes to use
 #SBATCH --cpus-per-task=8         ## number of cores the job needs
