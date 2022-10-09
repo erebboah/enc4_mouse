@@ -80,7 +80,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 Text captions for figures included in figures tarball. Not all tissues have the same figures in `figures/snrna/annotation`.
 
 ### figures/snatac/
-- Plot-UMAP-Sample-Clusters.pdf: 4 snATAC UMAPs grouped by metadata: sample ID, tissue, timepoint (age of donor), and annotated celltypes.
+- `Plot-UMAP-Sample-Clusters.pdf`: 4 snATAC UMAPs grouped by metadata: sample ID, tissue, timepoint, and annotated general celltype, celltypes, and subtypes.
 ### figures/snrna/annotation
 - `UMAP_final_celltypes.pdf`: snRNA UMAP grouped by final annotated celltypes.
 - `UMAP_final_gen_celltype.pdf`: snRNA UMAP grouped by final annotated general celltype.
