@@ -490,7 +490,7 @@ collect_figures("heart","EAID_000087","ENC4_Mouse_Heart")
 collect_figures("gastrocnemius","EAID_000088","ENC4_Mouse_Gastrocnemius")
 
 # Collect auxiliary data into tar zipped folder
-Including Seurat object, Seurat object metadata as a csv file, cluster-level markers genes tsv file, and ArchR project folder.
+# Including Seurat object, Seurat object metadata as a csv file, cluster-level markers genes tsv file, and ArchR project folder.
 collect_data("adrenal","EAID_000084","ENC4_Mouse_Adrenal")
 collect_data("cortex","EAID_000085","ENC4_Mouse_Cortex")
 collect_data("hippocampus","EAID_000086","ENC4_Mouse_Hippocampus")
