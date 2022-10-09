@@ -71,6 +71,33 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 ## snATAC-seq
 1. [step1_atac_archr.sh](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/step1_get_data.sh) downloads the 10x multiome fragment [files](https://github.com/erebboah/enc4_mouse/blob/master/snatac/ref/encode_10x_fragment_files.txt) from the ENCODE portal using the batch download script `xargs -L 1 curl -O -J -L < files.txt` from this [cart](https://www.encodeproject.org/carts/enc4_mouse_snatac/) for the 5 tissues. The tar folders are unzipped in the `fragments` folder with the ENCODE "ENCFF" filename ID as the folder name. There are 40 folders. **Unzipping the data requires 93G of space.**. Calls [make_archr_proj.R](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/make_archr_proj.R) which makes ArchR Arrow files, initializes ArchR Project and filters nuclei (minTSS = 4, minFrags = 1000, filterDoublets). 
 2. [step2_archr_process.sh](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/step2_archr_process.sh) calls [process_archr_proj.R](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/process_archr_proj.R) to also filter snATAC nuclei for those that are also in the corresponding [10x snRNA metadata](https://github.com/erebboah/enc4_mouse/blob/master/snrna/seurat/all_tissues_10x_TFs_mirhgs_chromreg_metadata.csv) (passed RNA filters). Also includes standard ArchR processing such as iterative LSI, clustering, and UMAPs. **All snATAC data is multiome, so cell type annotations are simply transferred from the snRNA annotation to the ArchR object.**
+3. [step3_tissue_analysis.sh](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/step3_tissue_analysis.sh) calls [archr_tissue_objects.R](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/archr_tissue_objects.R) to split 10x mouse ArchR object into 5 separate tissue objects followed by standard ArchR processing.
+
+## Submission files
+[Code for submission files](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/Submission_files.ipynb).  
+
+## Figure captions
+Text captions for figures included in figures tarball.
+- figures/snatac/Plot-UMAP-Sample-Clusters.pdf: 4 snATAC UMAPs grouped by metadata: sample ID, tissue, timepoint (age of donor), and annotated celltypes.
+- figures/snrna/annotation/celltype_marker_dotplot.pdf: Dot plot of cells grouped by annotated celltype showing average expression and percent of cells expressing selected marker genes.
+- figures/snrna/annotation/UMAP_final_celltypes.pdf: snRNA UMAP grouped by final annotated celltypes.
+- figures/snrna/annotation/UMAP_maximum_predictions.pdf: snRNA UMAP grouped by the maximum predicted celltype in each cluster.
+- figures/snrna/annotation/UMAP_predictions.pdf: snRNA UMAP grouped by predicted celltypes, if using an external reference.
+- figures/snrna/clustering/age_sex_barplot.pdf: snRNA UMAP grouped by age and sex of donors alongside cluster-level age and sex proportion barplots. 
+- figures/snrna/clustering/sample_distribution.pdf: snRNA UMAPs grouped by cluster and split by donor to check integration results for tissues with more than 1 donor, also cluster-level donor proportion barplot.
+- figures/snrna/clustering/UMAP_cluster_sample_barplot.pdf: snRNA UMAP grouped by cluster and cluster-level donor barplot again.
+- figures/snrna/clustering/UMAP_samples_clusters.pdf: snRNA UMAPs grouped by donor and cluster.
+- figures/snrna/qc/experiment_kneeplots.pdf: Knee plots showing total # UMIs of ranked cells and red dashed line at 500 UMIs, grouped by snRNA experiment (label is counts matrix file accession). 
+- figures/snrna/qc/experiment_violinplots.pdf: Violin plots of # genes, # UMIs, percent mitochondrial, and percent ribosomal gene expression, grouped by donor.
+- figures/snrna/qc/qc_featureplot.png: snRNA UMAP "feature plots" of # genes, # UMIs, percent mitochondrial and percent ribosomal gene expression, doublet score, and cell cycle G2M score.
+
+## Auxiliary data
+Auxiliary data tarball includes processed Seurat snRNA objects and Seurat object metadata as a csv file, Seurat cluster marker genes, and snATAC ArchR project folders (arrow files, rds files, and plots).
+- Adrenal gland: ? GB
+- Left cortex: ? GB
+- Hippocampus: ? GB
+- Heart: ? GB
+- Gastrocnemius: ? GB
 
 ## Directory structure
 <img src="https://github.com/erebboah/enc4_mouse/blob/master/directory_struct.png" width="355" height="590">
