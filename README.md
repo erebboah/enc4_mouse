@@ -28,25 +28,25 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 
 [integrate_parse_10x.R](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/integrate_parse_10x.R) merges counts across technologies and makes 3 Seurat objects for Parse standard, Parse deep, and 10x. Nuclei are filtered (see [detailed metadata](https://github.com/erebboah/enc4_mouse/blob/master/snrna/ref/enc4_mouse_snrna_metadata.tsv) for filter cutoffs). CCA integrates the 3 objects. The `combined.sct` object is processed with PCA, UMAP, SNN graph construction, and high-resolution clustering. Marker genes are called from Seurat clusters and saved in the `seurat` folder.
 
-#### Hippocampus
+#### [Hippocampus](https://www.synapse.org/#!Synapse:syn39422435)
 1. Run integration R script with [integrate_hippocampus.sh](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/integrate_hippocampus.sh).
 2. Check integration results and clustering resolution in [HC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HC_snRNA.ipynb).
 3. [predict_hippocampus_celltypes.R](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/predict_hippocampus_celltypes.R) uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex [subsetted](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/subsample_brain_data.R) by 1,000 nuclei in each annotated subtype to predict celltypes.
 4. Check prediction results in [HC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HC_snRNA.ipynb) and make adjustments.
 
-#### Cortex
+#### [Cortex](https://www.synapse.org/#!Synapse:syn39422426)
 1. Run integration R script with [integrate_cortex.sh](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/integrate_cortex.sh). 
 2. Check integration results and clustering resolution in [CX_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/CX_snRNA.ipynb).
 3. [predict_cortex_celltypes.R](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/predict_cortex_celltypes.R) uses an [external 10x dataset](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) from mouse hippcampus and cortex [subsetted](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/subsample_brain_data.R) by 1,000 nuclei in each annotated subtype to predict celltypes.
 4. Check prediction results in [CX_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/CX_snRNA.ipynb) and make adjustments.
 
-#### Adrenal
+#### [Adrenal](https://www.synapse.org/#!Synapse:syn39422421)
 1. Run integration R script with [integrate_adrenal.sh](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/integrate_adrenal.sh). 
 2. Check integration results and clustering resolution in [ADR_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/ADR_snRNA.ipynb).
 3. Manually annotate `gen_celltype`, `celltypes`, and `subtypes` in [ADR_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/ADR_snRNA.ipynb).
 4. Find marker genes for all 3 levels of celltype annotations and save in `snrna/seurat/markers`.
 
-#### Heart
+#### [Heart](https://www.synapse.org/#!Synapse:syn39422439)
 1. Run integration R script with [integrate_heart.sh](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/integrate_heart.sh). 
 2. Check integration results and clustering resolution in [HT_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HT_snRNA.ipynb).
 3. [predict_heart_celltypes.R](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/predict_heart_celltypes.R) uses 2 external datasets to predict celltypes:
@@ -54,7 +54,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
     - [Human heart cell atlas](https://www.heartcellatlas.org/) converted to mouse.
 5. Check prediction results in [HT_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/HT_snRNA.ipynb) and make adjustments.
 
-#### Gastrocnemius
+#### [Gastrocnemius](https://www.synapse.org/#!Synapse:syn39422445)
 1. Run integration R script with [integrate_gastroc.sh](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/integrate_gastroc.sh). 
 2. Check integration results and clustering resolution in [GC_snRNA.ipynb](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/GC_snRNA.ipynb).
 3. [predict_gastroc_celltypes.R](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/predict_gastroc_celltypes.R) uses external dataset from TA muscle to predict celltypes:
