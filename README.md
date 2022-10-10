@@ -75,8 +75,7 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 3. [step3_tissue_analysis.sh](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/step3_tissue_analysis.sh) calls [archr_tissue_objects.R](https://github.com/erebboah/enc4_mouse/blob/master/snatac/scripts/archr_tissue_objects.R) to split 10x mouse ArchR object into 5 separate tissue objects followed by standard ArchR processing.
 
 ## Submission files
-[Code for submission files](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/Submission_files.R).  
-Files are currently hosted on Synapse:
+[Code for submission files](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/Submission_files.R). Files are currently hosted on Synapse:
 - [Hippocampus](https://www.synapse.org/#!Synapse:syn39422435)
 - [Cortex](https://www.synapse.org/#!Synapse:syn39422426)
 - [Adrenal](https://www.synapse.org/#!Synapse:syn39422421)
