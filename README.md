@@ -104,7 +104,7 @@ Text captions for figures included in figures tarball. Not all tissues have the 
 - `qc_featureplot.png`: snRNA UMAP "feature plots" of # genes, # UMIs, percent mitochondrial and percent ribosomal gene expression, doublet score, and cell cycle G2M score.
 
 ## Auxiliary data
-Auxiliary data tarball includes processed Seurat snRNA objects and Seurat object metadata as a csv file, Seurat cluster marker genes, and snATAC ArchR project folders (arrow files, rds files, and plots).
+Auxiliary data tarball includes processed Seurat snRNA objects before and after integration and Seurat object metadata as a csv file, Seurat cluster marker genes, and snATAC ArchR project folders (arrow files, rds files, and plots).
 - Adrenal gland: ? GB
 - Left cortex: ? GB
 - Hippocampus: ? GB
