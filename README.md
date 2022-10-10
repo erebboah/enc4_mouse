@@ -114,7 +114,7 @@ Auxiliary data tarball includes processed Seurat snRNA objects before and after 
 - Left cortex: 24GB
 - Hippocampus: 19GB
 - Heart: 22GB
-- Gastrocnemius: ? GB
+- Gastrocnemius: 17GB
 
 ## Directory structure
 <img src="https://github.com/erebboah/enc4_mouse/blob/master/directory_struct.png" width="355" height="590">
