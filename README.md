@@ -105,7 +105,7 @@ Text captions for figures included in figures tarball. Not all tissues have the 
 
 ## Auxiliary data
 Auxiliary data tarball includes processed Seurat snRNA objects before and after integration and Seurat object metadata as a csv file, Seurat cluster marker genes, and snATAC ArchR project folders (arrow files, rds files, and plots).
-- Adrenal gland: ? GB
+- Adrenal gland: 20GB
 - Left cortex: ? GB
 - Hippocampus: ? GB
 - Heart: ? GB
