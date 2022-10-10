@@ -76,6 +76,12 @@ Each tissue is integrated across technologies and annotated using Seurat. The fi
 
 ## Submission files
 [Code for submission files](https://github.com/erebboah/enc4_mouse/blob/master/snrna/scripts/Submission_files.R).  
+Files are currently hosted on Synapse:
+- [Hippocampus](https://www.synapse.org/#!Synapse:syn39422435)
+- [Cortex](https://www.synapse.org/#!Synapse:syn39422426)
+- [Adrenal](https://www.synapse.org/#!Synapse:syn39422421)
+- [Heart](https://www.synapse.org/#!Synapse:syn39422439)
+- [Gastrocnemius](https://www.synapse.org/#!Synapse:syn39422445)
 
 ## Figure captions
 Text captions for figures included in figures tarball. Not all tissues have the same figures in `figures/snrna/annotation`.
@@ -103,7 +109,7 @@ Text captions for figures included in figures tarball. Not all tissues have the 
 - `experiment_violinplots.pdf`: Violin plots of # genes, # UMIs, percent mitochondrial, and percent ribosomal gene expression, grouped by sample and split by experiment (Parse standard/deep, 10x).
 - `qc_featureplot.png`: snRNA UMAP "feature plots" of # genes, # UMIs, percent mitochondrial and percent ribosomal gene expression, doublet score, and cell cycle G2M score.
 
-## Auxiliary data
+## Auxiliary data - available upon request
 Auxiliary data tarball includes processed Seurat snRNA objects before and after integration and Seurat object metadata as a csv file, Seurat cluster marker genes, and snATAC ArchR project folders (arrow files, rds files, and plots).
 - Adrenal gland: 20GB
 - Left cortex: 24GB
