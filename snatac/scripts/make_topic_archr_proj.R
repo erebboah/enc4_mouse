@@ -118,7 +118,8 @@ markersPeaks <- getMarkerFeatures(
 
 # motif enrichment in differentially accessible peaks
 topic_proj <- addMotifAnnotations(ArchRProj = topic_proj, 
-                                  motifSet = "cisbp", 
+                                  motifSet = "vierstra",
+				  collection="archetype", 
                                   name = "Motif")
 
 enrichMotifs <- peakAnnoEnrichment(
@@ -131,4 +132,4 @@ enrichMotifs <- peakAnnoEnrichment(
 # plot preliminary results
 heatmapEM <- plotEnrichHeatmap(enrichMotifs, n = 20, transpose = TRUE)
 plotPDF(heatmapEM, name = "Motifs-Enriched-Marker-Heatmap", 
-        width = 8, height = 6, ArchRProj = topic_proj, addDOC = FALSE)
+        width = 8, height =16, ArchRProj = topic_proj, addDOC = FALSE)
