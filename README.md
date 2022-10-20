@@ -111,7 +111,7 @@ Text captions for figures included in figures tarball. Not all tissues have the 
 - `experiment_violinplots.pdf`: Violin plots of # genes, # UMIs, percent mitochondrial, and percent ribosomal gene expression, grouped by sample and split by experiment (Parse standard/deep, 10x).
 - `qc_featureplot.png`: snRNA UMAP "feature plots" of # genes, # UMIs, percent mitochondrial and percent ribosomal gene expression, doublet score, and cell cycle G2M score.
 
-## Auxiliary data - available on Synapse or in progress
+## Auxiliary data - available on Synapse
 Auxiliary data tarball includes processed Seurat snRNA objects before and after integration and Seurat object metadata as a csv file, Seurat cluster marker genes, and snATAC ArchR project folders (arrow files, rds files, and plots).
 - [Adrenal gland](https://www.synapse.org/#!Synapse:syn39422421): 20GB
 - [Left cortex](https://www.synapse.org/#!Synapse:syn39422426): 24GB
